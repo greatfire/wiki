@@ -1,3 +1,5 @@
+<img src="logos.png" />
+
 ## 免翻墙镜像
 * 自由微博：https://s3.amazonaws.com/freeweibo/index.html
 * 中国数字时代：https://s3.amazonaws.com/cdtimes/index.html
