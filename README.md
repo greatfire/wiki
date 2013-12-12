@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+China's hot messaging app WeChat may be good news for censors <a href="http://www.reuters.com/article/2013/12/11/us-china-censorship-tencent-idUSBRE9BA16M20131211">www.reuters.com/article/2013/12/11/us-china-censorship-tencent-idUSBRE9BA16M20131211</a> by @PaulCarsten and @AdamRoseReuters (2013年12月12日 15:36)
+ ---
 自由微博免翻墙镜像合集 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> 镜像自动更新，并同步Twitter内容。 (2013年12月12日 09:28)
  ---
 This has bad idea written all over it: China Foreign Press Crackdown Prompts Calls For Visa Retaliation <a href="http://www.huffingtonpost.com/2013/12/10/china-press-crackdown-visa-reciprocity_n_4420253.html?utm_hp_ref=tw">www.huffingtonpost.com/2013/12/10/china-press-crackdown-visa-reciprocity_n_4420253.html</a> @mlcalderone (2013年12月12日 02:34)
@@ -46,6 +48,4 @@ WeChat "pernicious threat" to Tibetan cybersecurity <a href="http://www.foreignp
 We use "Collateral Freedom" to fight online censorship in China. Read about the concept here: <a href="https://openitp.org/pdfs/CollateralFreedom.pdf">openitp.org/pdfs/CollateralFreedom.pdf</a> via @OpenITP (2013年12月10日 13:01)
  ---
 Want to unblock your website in China? We unblocked Reuters Chinese a month ago and it is still unblocked! <a href="https://s3.amazonaws.com/cn.reuters/index.html">s3.amazonaws.com/cn.reuters/index.html</a> (2013年12月10日 09:02)
- ---
-Dear @nytchinese - we can help you recoup that USD 3 million. Ping us! <a href="http://www-nc.nytimes.com/2013/12/08/public-editor/the-thorny-challenge-of-covering-china.html?=smid=tw-share&_r=6&">www-nc.nytimes.com/2013/12/08/public-editor/the-thorny-challenge-of-covering-china.html</a> (2013年12月10日 05:03)
  ---
