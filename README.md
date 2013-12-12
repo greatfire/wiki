@@ -1,11 +1,13 @@
+<img src="logos.png" />
+
 ## 免翻墙镜像
 * 自由微博：https://s3.amazonaws.com/freeweibo/index.html
 * 中国数字时代：https://s3.amazonaws.com/cdtimes/index.html
 * 路透中文网：https://s3.amazonaws.com/cn.reuters/index.html
 
 ## 订阅 email
-* <a href="https://greatfire.us7.list-manage.com/subscribe/post?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
-
+* <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
+		
 ## 新闻
 * 自由微博免翻墙镜像合集 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> 镜像自动更新，并同步Twitter内容。 (2013年12月12日 09:28)
 * This has bad idea written all over it: China Foreign Press Crackdown Prompts Calls For Visa Retaliation <a href="http://www.huffingtonpost.com/2013/12/10/china-press-crackdown-visa-reciprocity_n_4420253.html?utm_hp_ref=tw">www.huffingtonpost.com/2013/12/10/china-press-crackdown-visa-reciprocity_n_4420253.html</a> @mlcalderone (2013年12月12日 02:34)
