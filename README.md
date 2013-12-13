@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+Our HuffPo piece on what we think foreign media orgs in China ought to do <a href="http://www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html?1386875455">www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html</a> #censorship (2013年12月13日 16:13)
+ ---
 The website of Lantern is also blocked in China, according to <a href="https://zh.greatfire.org/It's">zh.greatfire.org/It's</a> not <a href="https://en.greatfire.org/https/www.getlantern.org">en.greatfire.org/https/www.getlantern.org</a> @getlantern @SCMP_News (2013年12月13日 12:49)
  ---
 南华早报新域名又被屏蔽 <a href="https://zh.greatfire.org/www.nanzao.com">zh.greatfire.org/www.nanzao.com</a> 目前南华早报貌似关闭了中文网站 (2013年12月13日 09:46)
@@ -49,6 +51,4 @@ State Media Deletes Editorials Espousing the Benefits of Air Pollution <a href="
 FireEye称中国黑客攻击欧盟电脑 <a href="http://www.solidot.org/story?sid=37573">www.solidot.org/story</a> (2013年12月11日 05:14)
  ---
 Who's afraid of free speech? The challenges to free expression in the digital age <a href="http://www.pen.org/event/2013/11/26/pen-presents-whos-afraid-free-speech">www.pen.org/event/2013/11/26/pen-presents-whos-afraid-free-speech</a> h/t @JamesFallows (2013年12月10日 21:47)
- ---
-RT @EmilyJBrill: "He didn’t pull his punches in China, because he didn’t see the point of being there if he couldn’t write..." EXACTLY http… (2013年12月10日 19:14)
  ---
