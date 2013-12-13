@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+Bad karma from Apple in China. Prioritising short term profit now will bring serious hardship later. <a href="http://www.google.com/hostednews/afp/article/ALeqM5gEy0TIiJpbgbwlGvZGfbMBL29OPg?docId=197961c2-4ad5-431d-9ecf-db0314390ece&hl=en">www.google.com/hostednews/afp/article/ALeqM5gEy0TIiJpbgbwlGvZGfbMBL29OPg</a> (2013年12月13日 21:52)
+ ---
 Protecting digital communications of journalists is press freedom fight of 21st Century <a href="https://pressfreedomfoundation.org/blog/2013/12/freedom-press-foundation-launches-campaign-support-encryption-tools-journalists?utm_content=bufferd9caa&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">pressfreedomfoundation.org/blog/2013/12/freedom-press-foundation-launches-campaign-support-encryption-tools-journalists</a> via @trevortimm (2013年12月13日 21:03)
  ---
 RT @wafarris: Sina Weibo Censors Searches About Mass Suicide Attempt in Beijing <a href="http://blog.feichangdao.com/2013/12/sina-weibo-censors-searches-about-mass.html">blog.feichangdao.com/2013/12/sina-weibo-censors-searches-about-mass.html</a> <a href="https://twitter.com/wafarris/status/411454523803070465/photo/1">twitter.com/wafarris/status/411454523803070465/photo/1</a> (2013年12月13日 19:19)
@@ -49,6 +51,4 @@ Lantern 后备服务器已被中国大陆的长城防火墙封锁。请只添加
 My answer to What does it exactly mean to say that China is a communist country? <a href="http://www.quora.com/What-does-it-exactly-mean-to-say-that-China-is-a-communist-country/answer/Martin-Johnson-4?srid=hDfQ&share=1">www.quora.com/What-does-it-exactly-mean-to-say-that-China-is-a-communist-country/answer/Martin-Johnson-4</a> (2013年12月11日 12:48)
  ---
 Xbox Live among game services targeted by US and UK spy agencies  <a href="http://www.theguardian.com/world/2013/dec/09/nsa-spies-online-games-world-warcraft-second-life">www.theguardian.com/world/2013/dec/09/nsa-spies-online-games-world-warcraft-second-life</a> (2013年12月11日 10:48)
- ---
-RT @getlantern: Lantern后备服务器在中国遭到阻止 - 我们预料到了此问题，请耐心等待，我们将尽快解决这些问题。您只能添加信任的朋友以阻止审查人员进入，因此，请不要在网络上公布您的电子邮件地址，这非常重要。 (2013年12月11日 09:15)
  ---
