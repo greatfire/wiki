@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+Chinese dissident says police have quoted back messages he sent through WeChat. <a href="http://www.reuters.com/article/2013/12/11/us-china-censorship-tencent-idUSBRE9BA16M20131211?utm_content=buffer50bac&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.reuters.com/article/2013/12/11/us-china-censorship-tencent-idUSBRE9BA16M20131211</a> via @reuters (2013年12月14日 00:58)
+ ---
 Bad karma from Apple in China. Prioritising short term profit now will bring serious hardship later. <a href="http://www.google.com/hostednews/afp/article/ALeqM5gEy0TIiJpbgbwlGvZGfbMBL29OPg?docId=197961c2-4ad5-431d-9ecf-db0314390ece&hl=en">www.google.com/hostednews/afp/article/ALeqM5gEy0TIiJpbgbwlGvZGfbMBL29OPg</a> (2013年12月13日 21:52)
  ---
 Protecting digital communications of journalists is press freedom fight of 21st Century <a href="https://pressfreedomfoundation.org/blog/2013/12/freedom-press-foundation-launches-campaign-support-encryption-tools-journalists?utm_content=bufferd9caa&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">pressfreedomfoundation.org/blog/2013/12/freedom-press-foundation-launches-campaign-support-encryption-tools-journalists</a> via @trevortimm (2013年12月13日 21:03)
@@ -49,6 +51,4 @@ RT @GlobaLeaks: Released GlobaLeaks 2.30 with many major UI &amp; customization 
 Lantern 后备服务器已被中国大陆的长城防火墙封锁。请只添加您信任的联系人，剔除陌生人，来保持信任链。 大量邀请陌生人会导致服务器被封杀变得和自由门一样难用。  小范围，分散式传播才是王道。 <a href="http://get-lantern.tumblr.com/post/69653304417/lantern-news-lantern">get-lantern.tumblr.com/post/69653304417/lantern-news-lantern</a> (2013年12月11日 14:26)
  ---
 My answer to What does it exactly mean to say that China is a communist country? <a href="http://www.quora.com/What-does-it-exactly-mean-to-say-that-China-is-a-communist-country/answer/Martin-Johnson-4?srid=hDfQ&share=1">www.quora.com/What-does-it-exactly-mean-to-say-that-China-is-a-communist-country/answer/Martin-Johnson-4</a> (2013年12月11日 12:48)
- ---
-Xbox Live among game services targeted by US and UK spy agencies  <a href="http://www.theguardian.com/world/2013/dec/09/nsa-spies-online-games-world-warcraft-second-life">www.theguardian.com/world/2013/dec/09/nsa-spies-online-games-world-warcraft-second-life</a> (2013年12月11日 10:48)
  ---
