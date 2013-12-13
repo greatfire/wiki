@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+南华早报新域名又被屏蔽 <a href="https://zh.greatfire.org/www.nanzao.com">zh.greatfire.org/www.nanzao.com</a> 目前南华早报貌似关闭了中文网站 (2013年12月13日 09:46)
+ ---
 Apple blocks app developed by Chinese activists and Radio Netherlands Worldwide  <a href="http://www.rnw.nl/english/article/apple-blocks-app-developed-chinese-activists-and-radio-netherlands-worldwide">www.rnw.nl/english/article/apple-blocks-app-developed-chinese-activists-and-radio-netherlands-worldwide</a> (2013年12月13日 09:13)
  ---
 China's hot messaging app WeChat may be good news for censors <a href="http://www.reuters.com/article/2013/12/11/us-china-censorship-tencent-idUSBRE9BA16M20131211">www.reuters.com/article/2013/12/11/us-china-censorship-tencent-idUSBRE9BA16M20131211</a> by @PaulCarsten and @AdamRoseReuters (2013年12月12日 15:36)
@@ -46,6 +48,4 @@ Who's afraid of free speech? The challenges to free expression in the digital ag
 RT @EmilyJBrill: "He didn’t pull his punches in China, because he didn’t see the point of being there if he couldn’t write..." EXACTLY http… (2013年12月10日 19:14)
  ---
 WeChat "pernicious threat" to Tibetan cybersecurity <a href="http://www.foreignpolicy.com/articles/2013/12/04/hack_tibet_china_cyberwar#sthash.LTfHWMz7.wEY6e87u.dpbs">www.foreignpolicy.com/articles/2013/12/04/hack_tibet_china_cyberwar</a> via @JRKaiman (2013年12月10日 17:38)
- ---
-We use "Collateral Freedom" to fight online censorship in China. Read about the concept here: <a href="https://openitp.org/pdfs/CollateralFreedom.pdf">openitp.org/pdfs/CollateralFreedom.pdf</a> via @OpenITP (2013年12月10日 13:01)
  ---
