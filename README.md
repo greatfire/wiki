@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+RT @YaxueCao: 《时代》驻京记者HannahBeech在昨天国会外国记者圆桌会议结束时，讲了她在上海报道萨斯时的一件事：国保约她谈话，批评她的报道，教训她。临走时国保一改口气，问她，“你说我女儿出门安全吗？” //所以，国保们，在你执行帮凶任务时，一刻也别忘记，你也… (2013年12月14日 06:41)
+ ---
 Chinese authorities would rather control than expel all foreign media. <a href="https://pressfreedomfoundation.org/blog/2013/12/how-us-news-organziations-should-respond-censorship-china">pressfreedomfoundation.org/blog/2013/12/how-us-news-organziations-should-respond-censorship-china</a> via @FreedomofPress (2013年12月14日 01:26)
  ---
 Chinese dissident says police have quoted back messages he sent through WeChat. <a href="http://www.reuters.com/article/2013/12/11/us-china-censorship-tencent-idUSBRE9BA16M20131211?utm_content=buffer50bac&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.reuters.com/article/2013/12/11/us-china-censorship-tencent-idUSBRE9BA16M20131211</a> via @reuters (2013年12月14日 00:58)
@@ -49,6 +51,4 @@ Accusing foreign media in China of self-censorship is insulting <a href="http://
 .@TIME that's a really interesting choice of photo for this story. I can't see in 140 characters but is your tongue in your cheek? (2013年12月11日 18:20)
  ---
 RT @GlobaLeaks: Released GlobaLeaks 2.30 with many major UI &amp; customization improvements . We’re working hard!  <a href="https://github.com/globaleaks/GlobaLeaks/wiki/Changelog">github.com/globaleaks/GlobaLeaks/wiki/Changelog</a> (2013年12月11日 16:53)
- ---
-Lantern 后备服务器已被中国大陆的长城防火墙封锁。请只添加您信任的联系人，剔除陌生人，来保持信任链。 大量邀请陌生人会导致服务器被封杀变得和自由门一样难用。  小范围，分散式传播才是王道。 <a href="http://get-lantern.tumblr.com/post/69653304417/lantern-news-lantern">get-lantern.tumblr.com/post/69653304417/lantern-news-lantern</a> (2013年12月11日 14:26)
  ---
