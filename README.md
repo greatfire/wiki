@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+RT @AndrewJacobsNYT: Lawyer for Chinese transparency activist Xu Zhiyong says he has been formally indicted; faces a 5-year sentence. (2013年12月13日 17:12)
+ ---
 RT @mlcalderone: Amid calls for US visa retaliation, (<a href="http://www.huffingtonpost.com/2013/12/10/china-press-crackdown-visa-reciprocity_n_4420253.html">www.huffingtonpost.com/2013/12/10/china-press-crackdown-visa-reciprocity_n_4420253.html</a>), @GreatFireChina argues approach is counterproductive: http:/… (2013年12月13日 16:58)
  ---
 Our HuffPo piece on what we think foreign media orgs in China ought to do <a href="http://www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html?1386875455">www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html</a> #censorship (2013年12月13日 16:13)
@@ -49,6 +51,4 @@ RT @getlantern: Lantern后备服务器在中国遭到阻止 - 我们预料到了
 RT @wenyunchao: 中国一千多个 #Lantern 用户在线，带宽总和是零，也就是说GFW不仅是墙掉了部分提供接入连接的机器，还有能力检测到蓝灯的数据特征，全部拦截，一个字节都没放过。看来得等官方公布解决方案了。 <a href="https://twitter.com/wenyunchao/status/410275047069061120/photo/1">twitter.com/wenyunchao/status/410275047069061120/photo/1</a> (2013年12月11日 09:00)
  ---
 State Media Deletes Editorials Espousing the Benefits of Air Pollution <a href="http://blog.feichangdao.com/2013/12/state-media-deletes-editorials.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feichangdao%2FHHPU+%28Fei+Chang+Dao%29">blog.feichangdao.com/2013/12/state-media-deletes-editorials.html</a> (2013年12月11日 05:41)
- ---
-FireEye称中国黑客攻击欧盟电脑 <a href="http://www.solidot.org/story?sid=37573">www.solidot.org/story</a> (2013年12月11日 05:14)
  ---
