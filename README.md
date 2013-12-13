@@ -1,7 +1,10 @@
 <img src="logos.png" />
 
 ## 免翻墙镜像
-* 自由微博：https://s3.amazonaws.com/freeweibo/index.html
+本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
+* 自由微博：
+ * https://s3.amazonaws.com/freeweibo/index.html
+ * https://fw1.azurewebsites.net
 * 中国数字时代：https://s3.amazonaws.com/cdtimes/index.html
 * 路透中文网：https://s3.amazonaws.com/cn.reuters/index.html
 
