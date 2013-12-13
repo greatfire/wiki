@@ -22,7 +22,7 @@ The website of Lantern is also blocked in China, according to <a href="https://z
  ---
 南华早报新域名又被屏蔽 <a href="https://zh.greatfire.org/www.nanzao.com">zh.greatfire.org/www.nanzao.com</a> 目前南华早报貌似关闭了中文网站 (2013年12月13日 09:46)
  ---
-Apple blocks app developed by Chinese activists and Radio Netherlands Worldwide  <a href="http://www.rnw.nl/english/article/apple-blocks-app-developed-chinese-activists-and-radio-netherlands-worldwide">www.rnw.nl/english/article/apple-blocks-app-developed-chinese-activists-and-radio-netherlands-worldwide</a> (2013年12月13日 09:13)
+Apple blocks app developed by Chinese activists and Radio Netherlands Worldwide  <a href="http://www.rnw.nl/english/article/apple-blocks-app-developed-chinese-activists-and-radio-netherlands-worldwide-0">www.rnw.nl/english/article/apple-blocks-app-developed-chinese-activists-and-radio-netherlands-worldwide-0</a> (2013年12月13日 09:13)
  ---
 China's hot messaging app WeChat may be good news for censors <a href="http://www.reuters.com/article/2013/12/11/us-china-censorship-tencent-idUSBRE9BA16M20131211">www.reuters.com/article/2013/12/11/us-china-censorship-tencent-idUSBRE9BA16M20131211</a> by @PaulCarsten and @AdamRoseReuters (2013年12月12日 15:36)
  ---
