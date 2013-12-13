@@ -48,7 +48,7 @@ RT @GlobaLeaks: Released GlobaLeaks 2.30 with many major UI &amp; customization 
  ---
 Lantern 后备服务器已被中国大陆的长城防火墙封锁。请只添加您信任的联系人，剔除陌生人，来保持信任链。 大量邀请陌生人会导致服务器被封杀变得和自由门一样难用。  小范围，分散式传播才是王道。 <a href="http://get-lantern.tumblr.com/post/69653304417/lantern-news-lantern">get-lantern.tumblr.com/post/69653304417/lantern-news-lantern</a> (2013年12月11日 14:26)
  ---
-My answer to What does it exactly mean to say that China is a communist country? <a href="http://qr.ae/GbqBZ">qr.ae/GbqBZ</a> (2013年12月11日 12:48)
+My answer to What does it exactly mean to say that China is a communist country? <a href="http://www.quora.com/What-does-it-exactly-mean-to-say-that-China-is-a-communist-country/answer/Martin-Johnson-4?srid=hDfQ&share=1">www.quora.com/What-does-it-exactly-mean-to-say-that-China-is-a-communist-country/answer/Martin-Johnson-4</a> (2013年12月11日 12:48)
  ---
 Xbox Live among game services targeted by US and UK spy agencies  <a href="http://www.theguardian.com/world/2013/dec/09/nsa-spies-online-games-world-warcraft-second-life">www.theguardian.com/world/2013/dec/09/nsa-spies-online-games-world-warcraft-second-life</a> (2013年12月11日 10:48)
  ---
