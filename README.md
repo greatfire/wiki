@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+Protecting digital communications of journalists is press freedom fight of 21st Century <a href="https://pressfreedomfoundation.org/blog/2013/12/freedom-press-foundation-launches-campaign-support-encryption-tools-journalists?utm_content=bufferd9caa&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">pressfreedomfoundation.org/blog/2013/12/freedom-press-foundation-launches-campaign-support-encryption-tools-journalists</a> via @trevortimm (2013年12月13日 21:03)
+ ---
 RT @wafarris: Sina Weibo Censors Searches About Mass Suicide Attempt in Beijing <a href="http://blog.feichangdao.com/2013/12/sina-weibo-censors-searches-about-mass.html">blog.feichangdao.com/2013/12/sina-weibo-censors-searches-about-mass.html</a> <a href="https://twitter.com/wafarris/status/411454523803070465/photo/1">twitter.com/wafarris/status/411454523803070465/photo/1</a> (2013年12月13日 19:19)
  ---
 RT @AndrewJacobsNYT: Lawyer for Chinese transparency activist Xu Zhiyong says he has been formally indicted; faces a 5-year sentence. (2013年12月13日 17:12)
@@ -49,6 +51,4 @@ My answer to What does it exactly mean to say that China is a communist country?
 Xbox Live among game services targeted by US and UK spy agencies  <a href="http://www.theguardian.com/world/2013/dec/09/nsa-spies-online-games-world-warcraft-second-life">www.theguardian.com/world/2013/dec/09/nsa-spies-online-games-world-warcraft-second-life</a> (2013年12月11日 10:48)
  ---
 RT @getlantern: Lantern后备服务器在中国遭到阻止 - 我们预料到了此问题，请耐心等待，我们将尽快解决这些问题。您只能添加信任的朋友以阻止审查人员进入，因此，请不要在网络上公布您的电子邮件地址，这非常重要。 (2013年12月11日 09:15)
- ---
-RT @wenyunchao: 中国一千多个 #Lantern 用户在线，带宽总和是零，也就是说GFW不仅是墙掉了部分提供接入连接的机器，还有能力检测到蓝灯的数据特征，全部拦截，一个字节都没放过。看来得等官方公布解决方案了。 <a href="https://twitter.com/wenyunchao/status/410275047069061120/photo/1">twitter.com/wenyunchao/status/410275047069061120/photo/1</a> (2013年12月11日 09:00)
  ---
