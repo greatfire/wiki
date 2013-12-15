@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+RT @LetaHong: Another one bites the dust RT @shanghaiist: Apple removes anti-censorship FreeWeibo app by request of China <a href="http://t.co/Tp8Ef">t.co/Tp8Ef</a>… (2013年12月16日 06:18)
+ ---
 苹果应中国政府要求删除“自由微博”软件 <a href="http://www.solidot.org/story?sid=37624">www.solidot.org/story</a> 作为回应，我们将将免翻墙访问的镜像放到了Github上 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> 请GFW接盘。 (2013年12月14日 16:11)
  ---
 RT @YaxueCao: 《时代》驻京记者HannahBeech在昨天国会外国记者圆桌会议结束时，讲了她在上海报道萨斯时的一件事：国保约她谈话，批评她的报道，教训她。临走时国保一改口气，问她，“你说我女儿出门安全吗？” //所以，国保们，在你执行帮凶任务时，一刻也别忘记，你也… (2013年12月14日 06:41)
@@ -49,6 +51,4 @@ This has bad idea written all over it: China Foreign Press Crackdown Prompts Cal
 @gwbstr it's a photo of everyone's favourite non-journalist <a href="http://beijingcream.com/2012/11/stephen-mcdonnell-gives-andrea-yu-a-lesson-in-journalism/">beijingcream.com/2012/11/stephen-mcdonnell-gives-andrea-yu-a-lesson-in-journalism/</a> (2013年12月11日 22:34)
  ---
 Accusing foreign media in China of self-censorship is insulting <a href="http://world.time.com/2013/12/11/foreign-correspondents-in-china-do-not-censor-themselves-to-get-visas/">world.time.com/2013/12/11/foreign-correspondents-in-china-do-not-censor-themselves-to-get-visas/</a> via @TIMEWorld w/pic of not-so-seasoned China journo (2013年12月11日 18:22)
- ---
-.@TIME that's a really interesting choice of photo for this story. I can't see in 140 characters but is your tongue in your cheek? (2013年12月11日 18:20)
  ---
