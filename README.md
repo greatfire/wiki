@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+RT @jessradio: Feline censors have blunt but effective ways of controlling information. <a href="https://twitter.com/jessradio/status/412487164476157952/photo/1">twitter.com/jessradio/status/412487164476157952/photo/1</a> (2013年12月17日 00:58)
+ ---
 RT @klustout: Black spot China RT @nxthompson Mapping freedom of the press: <a href="http://en.rsf.org/press-freedom-index-2013,1054.html">en.rsf.org/press-freedom-index-2013,1054.html</a> ) <a href="https://twitter.com/nxthompson/status/412395023208968192/photo/1">twitter.com/nxthompson/status/412395023208968192/photo/1</a> (2013年12月16日 21:03)
  ---
 RT @niubi: Dear President of China – NYTimes <a href="http://www-nc.nytimes.com/2013/12/15/opinion/sunday/friedman-dear-president-of-china.html?=emc=edit_tnt_20131214&tntemail0=y&_r=6&pagewanted=all&utm_source=The+Sinocism+China+Newsletter&utm_campaign=ca38b1394c-Sinocism12_15_13&utm_medium=email&utm_term=0_171f237867-ca38b1394c-1820733&">www-nc.nytimes.com/2013/12/15/opinion/sunday/friedman-dear-president-of-china.html</a> did tom friedman make it harder for nyt china journalists to get visas … (2013年12月16日 16:58)
@@ -49,6 +51,4 @@ The website of Lantern is also blocked in China, according to <a href="https://z
 南华早报新域名又被屏蔽 <a href="https://zh.greatfire.org/www.nanzao.com">zh.greatfire.org/www.nanzao.com</a> 目前南华早报貌似关闭了中文网站 (2013年12月13日 09:46)
  ---
 Apple blocks app developed by Chinese activists and Radio Netherlands Worldwide  <a href="http://www.rnw.nl/english/article/apple-blocks-app-developed-chinese-activists-and-radio-netherlands-worldwide-0">www.rnw.nl/english/article/apple-blocks-app-developed-chinese-activists-and-radio-netherlands-worldwide-0</a> (2013年12月13日 09:13)
- ---
-China's hot messaging app WeChat may be good news for censors <a href="http://www.reuters.com/article/2013/12/11/us-china-censorship-tencent-idUSBRE9BA16M20131211">www.reuters.com/article/2013/12/11/us-china-censorship-tencent-idUSBRE9BA16M20131211</a> by @PaulCarsten and @AdamRoseReuters (2013年12月12日 15:36)
  ---
