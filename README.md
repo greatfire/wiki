@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+RT @AngelaBaoBeiBei: Xu Zhiyong is prosecuted in Beijing. Sad, he was pursuing education equality in China. Photo via Si Weijiang's Weibo h… (2013年12月16日 15:45)
+ ---
 RT @jasonqng: Infograph showing Weibo censorship being linked to offline events in Bo Xilai scandal <a href="https://citizenlab.org/bo_xilai/">citizenlab.org/bo_xilai/</a> data from @Grea… (2013年12月16日 13:01)
  ---
 RT @OpenTechFund: Freedom of Speech Can and Will Defeat Censorship in China | Charlie Smith via @AdamLynn1 <a href="http://www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html?utm_source=dlvr.it&utm_medium=twitter">www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html</a> (2013年12月16日 09:01)
@@ -49,6 +51,4 @@ China's hot messaging app WeChat may be good news for censors <a href="http://ww
 自由微博免翻墙镜像合集 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> 镜像自动更新，并同步Twitter内容。 (2013年12月12日 09:28)
  ---
 This has bad idea written all over it: China Foreign Press Crackdown Prompts Calls For Visa Retaliation <a href="http://www.huffingtonpost.com/2013/12/10/china-press-crackdown-visa-reciprocity_n_4420253.html?utm_hp_ref=tw">www.huffingtonpost.com/2013/12/10/china-press-crackdown-visa-reciprocity_n_4420253.html</a> @mlcalderone (2013年12月12日 02:34)
- ---
-@gwbstr quite funny if intentional (2013年12月11日 22:43)
  ---
