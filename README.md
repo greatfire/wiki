@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+RT @niubi: Dear President of China – NYTimes <a href="http://www-nc.nytimes.com/2013/12/15/opinion/sunday/friedman-dear-president-of-china.html?=emc=edit_tnt_20131214&tntemail0=y&_r=6&pagewanted=all&utm_source=The+Sinocism+China+Newsletter&utm_campaign=ca38b1394c-Sinocism12_15_13&utm_medium=email&utm_term=0_171f237867-ca38b1394c-1820733&">www-nc.nytimes.com/2013/12/15/opinion/sunday/friedman-dear-president-of-china.html</a> did tom friedman make it harder for nyt china journalists to get visas … (2013年12月16日 16:58)
+ ---
 RT @AngelaBaoBeiBei: Xu Zhiyong is prosecuted in Beijing. Sad, he was pursuing education equality in China. Photo via Si Weijiang's Weibo h… (2013年12月16日 15:45)
  ---
 RT @jasonqng: Infograph showing Weibo censorship being linked to offline events in Bo Xilai scandal <a href="https://citizenlab.org/bo_xilai/">citizenlab.org/bo_xilai/</a> data from @Grea… (2013年12月16日 13:01)
@@ -49,6 +51,4 @@ Apple blocks app developed by Chinese activists and Radio Netherlands Worldwide 
 China's hot messaging app WeChat may be good news for censors <a href="http://www.reuters.com/article/2013/12/11/us-china-censorship-tencent-idUSBRE9BA16M20131211">www.reuters.com/article/2013/12/11/us-china-censorship-tencent-idUSBRE9BA16M20131211</a> by @PaulCarsten and @AdamRoseReuters (2013年12月12日 15:36)
  ---
 自由微博免翻墙镜像合集 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> 镜像自动更新，并同步Twitter内容。 (2013年12月12日 09:28)
- ---
-This has bad idea written all over it: China Foreign Press Crackdown Prompts Calls For Visa Retaliation <a href="http://www.huffingtonpost.com/2013/12/10/china-press-crackdown-visa-reciprocity_n_4420253.html?utm_hp_ref=tw">www.huffingtonpost.com/2013/12/10/china-press-crackdown-visa-reciprocity_n_4420253.html</a> @mlcalderone (2013年12月12日 02:34)
  ---
