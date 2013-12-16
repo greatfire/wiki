@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+RT @jasonqng: Infograph showing Weibo censorship being linked to offline events in Bo Xilai scandal <a href="https://citizenlab.org/bo_xilai/">citizenlab.org/bo_xilai/</a> data from @Grea… (2013年12月16日 13:01)
+ ---
 RT @OpenTechFund: Freedom of Speech Can and Will Defeat Censorship in China | Charlie Smith via @AdamLynn1 <a href="http://www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html?utm_source=dlvr.it&utm_medium=twitter">www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html</a> (2013年12月16日 09:01)
  ---
 RT @LetaHong: Another one bites the dust RT @shanghaiist: Apple removes anti-censorship FreeWeibo app by request of China <a href="http://t.co/Tp8Ef">t.co/Tp8Ef</a>… (2013年12月16日 06:18)
@@ -49,6 +51,4 @@ China's hot messaging app WeChat may be good news for censors <a href="http://ww
 This has bad idea written all over it: China Foreign Press Crackdown Prompts Calls For Visa Retaliation <a href="http://www.huffingtonpost.com/2013/12/10/china-press-crackdown-visa-reciprocity_n_4420253.html?utm_hp_ref=tw">www.huffingtonpost.com/2013/12/10/china-press-crackdown-visa-reciprocity_n_4420253.html</a> @mlcalderone (2013年12月12日 02:34)
  ---
 @gwbstr quite funny if intentional (2013年12月11日 22:43)
- ---
-@gwbstr it's a photo of everyone's favourite non-journalist <a href="http://beijingcream.com/2012/11/stephen-mcdonnell-gives-andrea-yu-a-lesson-in-journalism/">beijingcream.com/2012/11/stephen-mcdonnell-gives-andrea-yu-a-lesson-in-journalism/</a> (2013年12月11日 22:34)
  ---
