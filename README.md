@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+Dear foreign media: we can unblock your website in China using collateral freedom. You can fight back and now is the time to do it. (2013年12月17日 19:03)
+ ---
 Our unblockable old school Yahoo-like directory for the unblockable mirror sites that we have created to date: <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> (2013年12月17日 16:58)
  ---
 RT @jordanpouille: Mon visa chinois expire dans 10 jours et j'attends toujours ma nouvelle carte de presse, préalable au renouvellement du … (2013年12月17日 15:55)
@@ -49,6 +51,4 @@ Chinese dissident says police have quoted back messages he sent through WeChat. 
 Bad karma from Apple in China. Prioritising short term profit now will bring serious hardship later. <a href="http://www.google.com/hostednews/afp/article/ALeqM5gEy0TIiJpbgbwlGvZGfbMBL29OPg?docId=197961c2-4ad5-431d-9ecf-db0314390ece&hl=en">www.google.com/hostednews/afp/article/ALeqM5gEy0TIiJpbgbwlGvZGfbMBL29OPg</a> (2013年12月13日 21:52)
  ---
 Protecting digital communications of journalists is press freedom fight of 21st Century <a href="https://pressfreedomfoundation.org/blog/2013/12/freedom-press-foundation-launches-campaign-support-encryption-tools-journalists?utm_content=bufferd9caa&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">pressfreedomfoundation.org/blog/2013/12/freedom-press-foundation-launches-campaign-support-encryption-tools-journalists</a> via @trevortimm (2013年12月13日 21:03)
- ---
-RT @wafarris: Sina Weibo Censors Searches About Mass Suicide Attempt in Beijing <a href="http://blog.feichangdao.com/2013/12/sina-weibo-censors-searches-about-mass.html">blog.feichangdao.com/2013/12/sina-weibo-censors-searches-about-mass.html</a> <a href="https://twitter.com/wafarris/status/411454523803070465/photo/1">twitter.com/wafarris/status/411454523803070465/photo/1</a> (2013年12月13日 19:19)
  ---
