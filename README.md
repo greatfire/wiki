@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+RT @withoutdoing: Did you know? Baidu has an online dictionary of officials who have "fallen under the horse" <a href="http://fenlei.baike.com/%E4%B8%AD%E5%9B%BD%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98/">fenlei.baike.com/中国落马官员/</a> Even h… (2013年12月18日 01:01)
+ ---
 NYT &amp; Bloomberg waiting for Chinese decision on journo visas but they could act now to guarantee freedom of speech <a href="http://www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html?utm_content=buffer735f9&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html</a> (2013年12月17日 21:58)
  ---
 Dear foreign media: we can unblock your website in China using collateral freedom. You can fight back and now is the time to do it. (2013年12月17日 19:03)
@@ -49,6 +51,4 @@ RT @YaxueCao: 《时代》驻京记者HannahBeech在昨天国会外国记者圆�
 Chinese authorities would rather control than expel all foreign media. <a href="https://pressfreedomfoundation.org/blog/2013/12/how-us-news-organziations-should-respond-censorship-china">pressfreedomfoundation.org/blog/2013/12/how-us-news-organziations-should-respond-censorship-china</a> via @FreedomofPress (2013年12月14日 01:26)
  ---
 Chinese dissident says police have quoted back messages he sent through WeChat. <a href="http://www.reuters.com/article/2013/12/11/us-china-censorship-tencent-idUSBRE9BA16M20131211?utm_content=buffer50bac&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.reuters.com/article/2013/12/11/us-china-censorship-tencent-idUSBRE9BA16M20131211</a> via @reuters (2013年12月14日 00:58)
- ---
-Bad karma from Apple in China. Prioritising short term profit now will bring serious hardship later. <a href="http://www.google.com/hostednews/afp/article/ALeqM5gEy0TIiJpbgbwlGvZGfbMBL29OPg?docId=197961c2-4ad5-431d-9ecf-db0314390ece&hl=en">www.google.com/hostednews/afp/article/ALeqM5gEy0TIiJpbgbwlGvZGfbMBL29OPg</a> (2013年12月13日 21:52)
  ---
