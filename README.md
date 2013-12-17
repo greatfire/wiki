@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+Global Times oped: "Western media will be challenged by China's wisdom and determination." <a href="http://www.globaltimes.cn/content/832527.shtml#.Uq_8vWRdUU6">www.globaltimes.cn/content/832527.shtml</a> (2013年12月17日 15:33)
+ ---
 RT @jessradio: Feline censors have blunt but effective ways of controlling information. <a href="https://twitter.com/jessradio/status/412487164476157952/photo/1">twitter.com/jessradio/status/412487164476157952/photo/1</a> (2013年12月17日 00:58)
  ---
 RT @klustout: Black spot China RT @nxthompson Mapping freedom of the press: <a href="http://en.rsf.org/press-freedom-index-2013,1054.html">en.rsf.org/press-freedom-index-2013,1054.html</a> ) <a href="https://twitter.com/nxthompson/status/412395023208968192/photo/1">twitter.com/nxthompson/status/412395023208968192/photo/1</a> (2013年12月16日 21:03)
@@ -49,6 +51,4 @@ Our HuffPo piece on what we think foreign media orgs in China ought to do <a hre
 The website of Lantern is also blocked in China, according to <a href="https://zh.greatfire.org/It's">zh.greatfire.org/It's</a> not <a href="https://en.greatfire.org/https/www.getlantern.org">en.greatfire.org/https/www.getlantern.org</a> @getlantern @SCMP_News (2013年12月13日 12:49)
  ---
 南华早报新域名又被屏蔽 <a href="https://zh.greatfire.org/www.nanzao.com">zh.greatfire.org/www.nanzao.com</a> 目前南华早报貌似关闭了中文网站 (2013年12月13日 09:46)
- ---
-Apple blocks app developed by Chinese activists and Radio Netherlands Worldwide  <a href="http://www.rnw.nl/english/article/apple-blocks-app-developed-chinese-activists-and-radio-netherlands-worldwide-0">www.rnw.nl/english/article/apple-blocks-app-developed-chinese-activists-and-radio-netherlands-worldwide-0</a> (2013年12月13日 09:13)
  ---
