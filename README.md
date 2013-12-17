@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+Our unblockable old school Yahoo-like directory for the unblockable mirror sites that we have created to date: <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> (2013年12月17日 16:58)
+ ---
 RT @jordanpouille: Mon visa chinois expire dans 10 jours et j'attends toujours ma nouvelle carte de presse, préalable au renouvellement du … (2013年12月17日 15:55)
  ---
 RT @meghara: All I want for Christmas is my visa renewal #China (2013年12月17日 15:55)
@@ -49,6 +51,4 @@ Bad karma from Apple in China. Prioritising short term profit now will bring ser
 Protecting digital communications of journalists is press freedom fight of 21st Century <a href="https://pressfreedomfoundation.org/blog/2013/12/freedom-press-foundation-launches-campaign-support-encryption-tools-journalists?utm_content=bufferd9caa&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">pressfreedomfoundation.org/blog/2013/12/freedom-press-foundation-launches-campaign-support-encryption-tools-journalists</a> via @trevortimm (2013年12月13日 21:03)
  ---
 RT @wafarris: Sina Weibo Censors Searches About Mass Suicide Attempt in Beijing <a href="http://blog.feichangdao.com/2013/12/sina-weibo-censors-searches-about-mass.html">blog.feichangdao.com/2013/12/sina-weibo-censors-searches-about-mass.html</a> <a href="https://twitter.com/wafarris/status/411454523803070465/photo/1">twitter.com/wafarris/status/411454523803070465/photo/1</a> (2013年12月13日 19:19)
- ---
-RT @AndrewJacobsNYT: Lawyer for Chinese transparency activist Xu Zhiyong says he has been formally indicted; faces a 5-year sentence. (2013年12月13日 17:12)
  ---
