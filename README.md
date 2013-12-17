@@ -12,6 +12,14 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+RT @jordanpouille: Mon visa chinois expire dans 10 jours et j'attends toujours ma nouvelle carte de presse, préalable au renouvellement du … (2013年12月17日 15:55)
+ ---
+RT @meghara: All I want for Christmas is my visa renewal #China (2013年12月17日 15:55)
+ ---
+RT @AndrewJacobsNYT: 5 Days Till Visa Expiry: Do u think hauling all my stuff to gates of Foreign Ministry and holding a tag sale will get … (2013年12月17日 15:55)
+ ---
+RT @comradewong: @beijingscribe Some Beijing journalists have gotten visas, but so far none for the NY Times. (2013年12月17日 15:55)
+ ---
 Global Times oped: "Western media will be challenged by China's wisdom and determination." <a href="http://www.globaltimes.cn/content/832527.shtml#.Uq_8vWRdUU6">www.globaltimes.cn/content/832527.shtml</a> (2013年12月17日 15:33)
  ---
 RT @jessradio: Feline censors have blunt but effective ways of controlling information. <a href="https://twitter.com/jessradio/status/412487164476157952/photo/1">twitter.com/jessradio/status/412487164476157952/photo/1</a> (2013年12月17日 00:58)
@@ -43,12 +51,4 @@ Protecting digital communications of journalists is press freedom fight of 21st 
 RT @wafarris: Sina Weibo Censors Searches About Mass Suicide Attempt in Beijing <a href="http://blog.feichangdao.com/2013/12/sina-weibo-censors-searches-about-mass.html">blog.feichangdao.com/2013/12/sina-weibo-censors-searches-about-mass.html</a> <a href="https://twitter.com/wafarris/status/411454523803070465/photo/1">twitter.com/wafarris/status/411454523803070465/photo/1</a> (2013年12月13日 19:19)
  ---
 RT @AndrewJacobsNYT: Lawyer for Chinese transparency activist Xu Zhiyong says he has been formally indicted; faces a 5-year sentence. (2013年12月13日 17:12)
- ---
-RT @mlcalderone: Amid calls for US visa retaliation, (<a href="http://www.huffingtonpost.com/2013/12/10/china-press-crackdown-visa-reciprocity_n_4420253.html">www.huffingtonpost.com/2013/12/10/china-press-crackdown-visa-reciprocity_n_4420253.html</a>), @GreatFireChina argues approach is counterproductive: http:/… (2013年12月13日 16:58)
- ---
-Our HuffPo piece on what we think foreign media orgs in China ought to do <a href="http://www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html?1386875455">www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html</a> #censorship (2013年12月13日 16:13)
- ---
-The website of Lantern is also blocked in China, according to <a href="https://zh.greatfire.org/It's">zh.greatfire.org/It's</a> not <a href="https://en.greatfire.org/https/www.getlantern.org">en.greatfire.org/https/www.getlantern.org</a> @getlantern @SCMP_News (2013年12月13日 12:49)
- ---
-南华早报新域名又被屏蔽 <a href="https://zh.greatfire.org/www.nanzao.com">zh.greatfire.org/www.nanzao.com</a> 目前南华早报貌似关闭了中文网站 (2013年12月13日 09:46)
  ---
