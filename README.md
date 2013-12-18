@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+中国法院判决动画片制作方要为儿童模仿暴力场景承担责任 <a href="http://www.solidot.org/story?sid=37681">www.solidot.org/story</a> (2013年12月19日 00:59)
+ ---
 Activist formally charged over a street protest for media freedom in China <a href="http://www.scmp.com/news/china-insider/article/1383881/guangzhou-rights-activist-liu-yuandong-charged-over-press-freedom">www.scmp.com/news/china-insider/article/1383881/guangzhou-rights-activist-liu-yuandong-charged-over-press-freedom</a> (2013年12月18日 05:20)
  ---
 RT @withoutdoing: Did you know? Baidu has an online dictionary of officials who have "fallen under the horse" <a href="http://fenlei.baike.com/%E4%B8%AD%E5%9B%BD%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98/">fenlei.baike.com/中国落马官员/</a> Even h… (2013年12月18日 01:01)
@@ -49,6 +51,4 @@ RT @LetaHong: Another one bites the dust RT @shanghaiist: Apple removes anti-cen
 苹果应中国政府要求删除“自由微博”软件 <a href="http://www.solidot.org/story?sid=37624">www.solidot.org/story</a> 作为回应，我们将将免翻墙访问的镜像放到了Github上 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> 请GFW接盘。 (2013年12月14日 16:11)
  ---
 RT @YaxueCao: 《时代》驻京记者HannahBeech在昨天国会外国记者圆桌会议结束时，讲了她在上海报道萨斯时的一件事：国保约她谈话，批评她的报道，教训她。临走时国保一改口气，问她，“你说我女儿出门安全吗？” //所以，国保们，在你执行帮凶任务时，一刻也别忘记，你也… (2013年12月14日 06:41)
- ---
-Chinese authorities would rather control than expel all foreign media. <a href="https://pressfreedomfoundation.org/blog/2013/12/how-us-news-organziations-should-respond-censorship-china">pressfreedomfoundation.org/blog/2013/12/how-us-news-organziations-should-respond-censorship-china</a> via @FreedomofPress (2013年12月14日 01:26)
  ---
