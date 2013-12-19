@@ -12,6 +12,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+Harvard Bomb Hoax Perpetrator Caught Despite Tor Use <a href="http://yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use</a> (2013年12月19日 13:40)
+ ---
+How a MacBook Camera Can Spy Without Lighting Up <a href="http://yro.slashdot.org/story/13/12/18/2221227/how-a-macbook-camera-can-spy-without-lighting-up?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/2221227/how-a-macbook-camera-can-spy-without-lighting-up</a> (2013年12月19日 13:38)
+ ---
 Also from Feb, Ching Cheong, patriot, on his 1000 days of incarceration and democracy and freedom in China. <a href="http://www.scmp.com/magazines/post-magazine/article/1150018/betrayed?utm_content=bufferde4bd&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.scmp.com/magazines/post-magazine/article/1150018/betrayed</a> (2013年12月19日 13:01)
  ---
 From Feb but still amazing. Interview w/ Huang Qi -  he documents protests happening in China. <a href="http://www.nybooks.com/blogs/nyrblog/2013/feb/09/blogging-slow-revolution-interview-huang-qi/?utm_content=buffer1f157&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.nybooks.com/blogs/nyrblog/2013/feb/09/blogging-slow-revolution-interview-huang-qi/</a> via @iandenisjohnson (2013年12月19日 09:02)
@@ -47,8 +51,4 @@ RT @niubi: Dear President of China – NYTimes <a href="http://www-nc.nytimes.co
 RT @AngelaBaoBeiBei: Xu Zhiyong is prosecuted in Beijing. Sad, he was pursuing education equality in China. Photo via Si Weijiang's Weibo h… (2013年12月16日 15:45)
  ---
 RT @jasonqng: Infograph showing Weibo censorship being linked to offline events in Bo Xilai scandal <a href="https://citizenlab.org/bo_xilai/">citizenlab.org/bo_xilai/</a> data from @Grea… (2013年12月16日 13:01)
- ---
-RT @OpenTechFund: Freedom of Speech Can and Will Defeat Censorship in China | Charlie Smith via @AdamLynn1 <a href="http://www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html?utm_source=dlvr.it&utm_medium=twitter">www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html</a> (2013年12月16日 09:01)
- ---
-RT @LetaHong: Another one bites the dust RT @shanghaiist: Apple removes anti-censorship FreeWeibo app by request of China <a href="http://t.co/Tp8Ef">t.co/Tp8Ef</a>… (2013年12月16日 06:18)
  ---
