@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+Also from Feb, Ching Cheong, patriot, on his 1000 days of incarceration and democracy and freedom in China. <a href="http://www.scmp.com/magazines/post-magazine/article/1150018/betrayed?utm_content=bufferde4bd&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.scmp.com/magazines/post-magazine/article/1150018/betrayed</a> (2013年12月19日 13:01)
+ ---
 From Feb but still amazing. Interview w/ Huang Qi -  he documents protests happening in China. <a href="http://www.nybooks.com/blogs/nyrblog/2013/feb/09/blogging-slow-revolution-interview-huang-qi/?utm_content=buffer1f157&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.nybooks.com/blogs/nyrblog/2013/feb/09/blogging-slow-revolution-interview-huang-qi/</a> via @iandenisjohnson (2013年12月19日 09:02)
  ---
 中国法院判决动画片制作方要为儿童模仿暴力场景承担责任 <a href="http://www.solidot.org/story?sid=37681">www.solidot.org/story</a> (2013年12月19日 00:59)
@@ -49,6 +51,4 @@ RT @jasonqng: Infograph showing Weibo censorship being linked to offline events 
 RT @OpenTechFund: Freedom of Speech Can and Will Defeat Censorship in China | Charlie Smith via @AdamLynn1 <a href="http://www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html?utm_source=dlvr.it&utm_medium=twitter">www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html</a> (2013年12月16日 09:01)
  ---
 RT @LetaHong: Another one bites the dust RT @shanghaiist: Apple removes anti-censorship FreeWeibo app by request of China <a href="http://t.co/Tp8Ef">t.co/Tp8Ef</a>… (2013年12月16日 06:18)
- ---
-苹果应中国政府要求删除“自由微博”软件 <a href="http://www.solidot.org/story?sid=37624">www.solidot.org/story</a> 作为回应，我们将将免翻墙访问的镜像放到了Github上 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> 请GFW接盘。 (2013年12月14日 16:11)
  ---
