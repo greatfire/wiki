@@ -11,11 +11,13 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+中国记者需要通过政治考试才能保留记者证 <a href="http://www.solidot.org/story?sid=37704">www.solidot.org/story</a> (2013年12月20日 01:09)
+ ---
 RT @jcbeam: Spotted in the @nytimes Beijing bureau <a href="https://twitter.com/jcbeam/status/413567070115471360/photo/1">twitter.com/jcbeam/status/413567070115471360/photo/1</a> (2013年12月19日 19:03)
  ---
 Now a wait for visas RT @franklangfitt: All Bloomberg reporters in China have new press cards and some NYTimes reporters have theirs. (2013年12月19日 17:00)
  ---
-Harvard Bomb Hoax Perpetrator Caught Despite Tor Use <a href="http://beta.slashdot.org/story/195745">beta.slashdot.org/story/195745</a> (2013年12月19日 13:40)
+Harvard Bomb Hoax Perpetrator Caught Despite Tor Use <a href="http://yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use</a> (2013年12月19日 13:40)
  ---
 How a MacBook Camera Can Spy Without Lighting Up <a href="http://yro.slashdot.org/story/13/12/18/2221227/how-a-macbook-camera-can-spy-without-lighting-up?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/2221227/how-a-macbook-camera-can-spy-without-lighting-up</a> (2013年12月19日 13:38)
  ---
@@ -48,6 +50,4 @@ Global Times oped: "Western media will be challenged by China's wisdom and deter
 RT @jessradio: Feline censors have blunt but effective ways of controlling information. <a href="https://twitter.com/jessradio/status/412487164476157952/photo/1">twitter.com/jessradio/status/412487164476157952/photo/1</a> (2013年12月17日 00:58)
  ---
 RT @klustout: Black spot China RT @nxthompson Mapping freedom of the press: <a href="http://en.rsf.org/press-freedom-index-2013,1054.html">en.rsf.org/press-freedom-index-2013,1054.html</a> ) <a href="https://twitter.com/nxthompson/status/412395023208968192/photo/1">twitter.com/nxthompson/status/412395023208968192/photo/1</a> (2013年12月16日 21:03)
- ---
-RT @niubi: Dear President of China – NYTimes <a href="http://www-nc.nytimes.com/2013/12/15/opinion/sunday/friedman-dear-president-of-china.html?=emc=edit_tnt_20131214&tntemail0=y&_r=6&pagewanted=all&utm_source=The+Sinocism+China+Newsletter&utm_campaign=ca38b1394c-Sinocism12_15_13&utm_medium=email&utm_term=0_171f237867-ca38b1394c-1820733&">www-nc.nytimes.com/2013/12/15/opinion/sunday/friedman-dear-president-of-china.html</a> did tom friedman make it harder for nyt china journalists to get visas … (2013年12月16日 16:58)
  ---
