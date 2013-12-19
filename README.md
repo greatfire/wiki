@@ -11,7 +11,9 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
-Harvard Bomb Hoax Perpetrator Caught Despite Tor Use <a href="http://beta.slashdot.org/story/195745">beta.slashdot.org/story/195745</a> (2013年12月19日 13:40)
+Now a wait for visas RT @franklangfitt: All Bloomberg reporters in China have new press cards and some NYTimes reporters have theirs. (2013年12月19日 17:00)
+ ---
+Harvard Bomb Hoax Perpetrator Caught Despite Tor Use <a href="http://yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use</a> (2013年12月19日 13:40)
  ---
 How a MacBook Camera Can Spy Without Lighting Up <a href="http://yro.slashdot.org/story/13/12/18/2221227/how-a-macbook-camera-can-spy-without-lighting-up?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/2221227/how-a-macbook-camera-can-spy-without-lighting-up</a> (2013年12月19日 13:38)
  ---
@@ -48,6 +50,4 @@ RT @klustout: Black spot China RT @nxthompson Mapping freedom of the press: <a h
 RT @niubi: Dear President of China – NYTimes <a href="http://www-nc.nytimes.com/2013/12/15/opinion/sunday/friedman-dear-president-of-china.html?=emc=edit_tnt_20131214&tntemail0=y&_r=6&pagewanted=all&utm_source=The+Sinocism+China+Newsletter&utm_campaign=ca38b1394c-Sinocism12_15_13&utm_medium=email&utm_term=0_171f237867-ca38b1394c-1820733&">www-nc.nytimes.com/2013/12/15/opinion/sunday/friedman-dear-president-of-china.html</a> did tom friedman make it harder for nyt china journalists to get visas … (2013年12月16日 16:58)
  ---
 RT @AngelaBaoBeiBei: Xu Zhiyong is prosecuted in Beijing. Sad, he was pursuing education equality in China. Photo via Si Weijiang's Weibo h… (2013年12月16日 15:45)
- ---
-RT @jasonqng: Infograph showing Weibo censorship being linked to offline events in Bo Xilai scandal <a href="https://citizenlab.org/bo_xilai/">citizenlab.org/bo_xilai/</a> data from @Grea… (2013年12月16日 13:01)
  ---
