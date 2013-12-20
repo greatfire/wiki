@@ -22,13 +22,13 @@ Now a wait for visas RT @franklangfitt: All Bloomberg reporters in China have ne
  ---
 Harvard Bomb Hoax Perpetrator Caught Despite Tor Use <a href="http://yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use</a> (2013年12月19日 13:40)
  ---
-How a MacBook Camera Can Spy Without Lighting Up <a href="http://beta.slashdot.org/story/195779">beta.slashdot.org/story/195779</a> (2013年12月19日 13:38)
+How a MacBook Camera Can Spy Without Lighting Up <a href="http://yro.slashdot.org/story/13/12/18/2221227/how-a-macbook-camera-can-spy-without-lighting-up?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/2221227/how-a-macbook-camera-can-spy-without-lighting-up</a> (2013年12月19日 13:38)
  ---
 Also from Feb, Ching Cheong, patriot, on his 1000 days of incarceration and democracy and freedom in China. <a href="http://www.scmp.com/magazines/post-magazine/article/1150018/betrayed?utm_content=bufferde4bd&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.scmp.com/magazines/post-magazine/article/1150018/betrayed</a> (2013年12月19日 13:01)
  ---
 From Feb but still amazing. Interview w/ Huang Qi -  he documents protests happening in China. <a href="http://www.nybooks.com/blogs/nyrblog/2013/feb/09/blogging-slow-revolution-interview-huang-qi/?utm_content=buffer1f157&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.nybooks.com/blogs/nyrblog/2013/feb/09/blogging-slow-revolution-interview-huang-qi/</a> via @iandenisjohnson (2013年12月19日 09:02)
  ---
-中国法院判决动画片制作方要为儿童模仿暴力场景承担责任 <a href="http://www.solidot.org/story?sid=37681">www.solidot.org/story</a> (2013年中国法院判决动画片制作方要为儿童模仿暴力场景承担责任 <a href="http://www.solidot.org/story?sid=37681">www.solidot.org/story</a> (2013年12月19日 00:59)
+中国法院判决动画片制作方要为儿童模仿暴力场景承担责任 <a href="http://www.solidot.org/story?sid=37681">www.solidot.org/story</a> (2013年12月19日 00:59)
  ---
 Activist formally charged over a street protest for media freedom in China <a href="http://www.scmp.com/news/china-insider/article/1383881/guangzhou-rights-activist-liu-yuandong-charged-over-press-freedom">www.scmp.com/news/china-insider/article/1383881/guangzhou-rights-activist-liu-yuandong-charged-over-press-freedom</a> (2013年12月18日 05:20)
  ---
