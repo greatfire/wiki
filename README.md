@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+RT @WSJAsia: China's central bank is now on Weibo, and its messages are moving markets. <a href="http://blogs.wsj.com/chinarealtime/2013/12/20/making-moves-on-weibo-the-peoples-bank-of-china/?mod=e2tw">blogs.wsj.com/chinarealtime/2013/12/20/making-moves-on-weibo-the-peoples-bank-of-china/</a> (2013年12月20日 17:52)
+ ---
 中国记者需要通过政治考试才能保留记者证 <a href="http://www.solidot.org/story?sid=37704">www.solidot.org/story</a> (2013年12月20日 01:09)
  ---
 RT @jcbeam: Spotted in the @nytimes Beijing bureau <a href="https://twitter.com/jcbeam/status/413567070115471360/photo/1">twitter.com/jcbeam/status/413567070115471360/photo/1</a> (2013年12月19日 19:03)
@@ -49,6 +51,4 @@ RT @comradewong: @beijingscribe Some Beijing journalists have gotten visas, but 
 Global Times oped: "Western media will be challenged by China's wisdom and determination." <a href="http://www.globaltimes.cn/content/832527.shtml#.Uq_8vWRdUU6">www.globaltimes.cn/content/832527.shtml</a> (2013年12月17日 15:33)
  ---
 RT @jessradio: Feline censors have blunt but effective ways of controlling information. <a href="https://twitter.com/jessradio/status/412487164476157952/photo/1">twitter.com/jessradio/status/412487164476157952/photo/1</a> (2013年12月17日 00:58)
- ---
-RT @klustout: Black spot China RT @nxthompson Mapping freedom of the press: <a href="http://en.rsf.org/press-freedom-index-2013,1054.html">en.rsf.org/press-freedom-index-2013,1054.html</a> ) <a href="https://twitter.com/nxthompson/status/412395023208968192/photo/1">twitter.com/nxthompson/status/412395023208968192/photo/1</a> (2013年12月16日 21:03)
  ---
