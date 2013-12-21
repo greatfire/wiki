@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+Reuters: RSA Weakened Encryption For $10M From NSA <a href="http://yro.slashdot.org/story/13/12/21/0041228/reuters-rsa-weakened-encryption-for-10m-from-nsa?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/21/0041228/reuters-rsa-weakened-encryption-for-10m-from-nsa</a> (2013年12月22日 00:58)
+ ---
 RT @WSJAsia: China's central bank is now on Weibo, and its messages are moving markets. <a href="http://blogs.wsj.com/chinarealtime/2013/12/20/making-moves-on-weibo-the-peoples-bank-of-china/?mod=e2tw">blogs.wsj.com/chinarealtime/2013/12/20/making-moves-on-weibo-the-peoples-bank-of-china/</a> (2013年12月20日 17:52)
  ---
 中国记者需要通过政治考试才能保留记者证 <a href="http://www.solidot.org/story?sid=37704">www.solidot.org/story</a> (2013年12月20日 01:09)
@@ -49,6 +51,4 @@ RT @AndrewJacobsNYT: 5 Days Till Visa Expiry: Do u think hauling all my stuff to
 RT @comradewong: @beijingscribe Some Beijing journalists have gotten visas, but so far none for the NY Times. (2013年12月17日 15:55)
  ---
 Global Times oped: "Western media will be challenged by China's wisdom and determination." <a href="http://www.globaltimes.cn/content/832527.shtml#.Uq_8vWRdUU6">www.globaltimes.cn/content/832527.shtml</a> (2013年12月17日 15:33)
- ---
-RT @jessradio: Feline censors have blunt but effective ways of controlling information. <a href="https://twitter.com/jessradio/status/412487164476157952/photo/1">twitter.com/jessradio/status/412487164476157952/photo/1</a> (2013年12月17日 00:58)
  ---
