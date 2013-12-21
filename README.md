@@ -12,12 +12,11 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
-Reuters: RSA Weakened Encryption For $10M From NSA <a href="http://beta.slashdot.org/story/195887">beta.slashdot.org/story/195887</a> (2013年12月22日 00:58)
+Reuters: RSA Weakened Encryption For $10M From NSA <a href="http://yro.slashdot.org/story/13/12/21/0041228/reuters-rsa-weakened-encryption-for-10m-from-nsa?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/21/0041228/reuters-rsa-weakened-encryption-for-10m-from-nsa</a> (2013年12月22日 00:58)
  ---
 RT @WSJAsia: China's central bank is now on Weibo, and its messages are moving markets. <a href="http://blogs.wsj.com/chinarealtime/2013/12/20/making-moves-on-weibo-the-peoples-bank-of-china/?mod=e2tw">blogs.wsj.com/chinarealtime/2013/12/20/making-moves-on-weibo-the-peoples-bank-of-china/</a> (2013年12月20日 17:52)
  ---
 中国记者需要通过政治考试才能保留记者证 <a href="http://www.solidot.org/story?sid=37704">www.solidot.org/story</a> (2013年12月20日 01:09)
- --中国记者需要通过政治考试才能保留记者证 <a href="http://www.solidot.org/story?sid=37704">www.solidot.org/story</a> (2013年12月20日 01:09)
  ---
 RT @jcbeam: Spotted in the @nytimes Beijing bureau <a href="https://twitter.com/jcbeam/status/413567070115471360/photo/1">twitter.com/jcbeam/status/413567070115471360/photo/1</a> (2013年12月19日 19:03)
  ---
