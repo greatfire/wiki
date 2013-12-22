@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+警惕iOS 7越狱工具 <a href="http://www.williamlong.info/archives/3701.html">www.williamlong.info/archives/3701.html</a> (2013年12月23日 02:24)
+ ---
 RT @echopupu: 问:中国最霸气的法律是哪一条？ <a href="https://twitter.com/echopupu/status/414770736717246464/photo/1">twitter.com/echopupu/status/414770736717246464/photo/1</a> (2013年12月23日 01:28)
  ---
 自由微博T恤 <a href="https://freeweibo.spreadshirt.com/">freeweibo.spreadshirt.com/</a> (2013年12月22日 14:20)
@@ -32,9 +34,9 @@ RT @jcbeam: Spotted in the @nytimes Beijing bureau <a href="https://twitter.com/
  ---
 Now a wait for visas RT @franklangfitt: All Bloomberg reporters in China have new press cards and some NYTimes reporters have theirs. (2013年12月19日 17:00)
  ---
-Harvard Bomb Hoax Perpetrator Caught Despite Tor Use <a href="http://yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use</a> (2013年12月19日 13:40)
+Harvard Bomb Hoax Perpetrator Caught Despite Tor Use <a href="http://beta.slashdot.org/story/195745">beta.slashdot.org/story/195745</a> (2013年12月19日 13:40)
  ---
-How a MacBook Camera Can Spy Without Lighting Up <a href="http://yro.slashdot.org/story/13/12/18/2221227/how-a-macbook-camera-can-spy-without-lighting-up?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/2221227/how-a-macbook-camera-can-spy-without-lighting-up</a> (2013年12月19日 13:38)
+How a MacBook Camera Can Spy Without Lighting Up <a href="http://beta.slashdot.org/story/195779">beta.slashdot.org/story/195779</a> (2013年12月19日 13:38)
  ---
 Also from Feb, Ching Cheong, patriot, on his 1000 days of incarceration and democracy and freedom in China. <a href="http://www.scmp.com/magazines/post-magazine/article/1150018/betrayed?utm_content=bufferde4bd&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.scmp.com/magazines/post-magazine/article/1150018/betrayed</a> (2013年12月19日 13:01)
  ---
@@ -49,6 +51,4 @@ RT @withoutdoing: Did you know? Baidu has an online dictionary of officials who 
 NYT &amp; Bloomberg waiting for Chinese decision on journo visas but they could act now to guarantee freedom of speech <a href="http://www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html?utm_content=buffer735f9&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html</a> (2013年12月17日 21:58)
  ---
 Dear foreign media: we can unblock your website in China using collateral freedom. You can fight back and now is the time to do it. (2013年12月17日 19:03)
- ---
-Our unblockable old school Yahoo-like directory for the unblockable mirror sites that we have created to date: <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> (2013年12月17日 16:58)
  ---
