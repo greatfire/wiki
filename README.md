@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+New jailbreak for iOS installs malicious Chinese software for users with Chinese system language (2013年12月23日 07:16)
+ ---
 RT @tifan: #Blog 扯掉太极助手的马甲: Abstract: 本文通过常用的社会工程学手段试图还原太极助手这一 iOS 7 Jailbreak bundle 的中国产 AppStore 后面的支持者。
 
 $ whois t... <a href="http://t.co/tVXEB">t.co/tVXEB</a>… (2013年12月23日 07:09)
@@ -51,6 +53,4 @@ From Feb but still amazing. Interview w/ Huang Qi -  he documents protests happe
 Activist formally charged over a street protest for media freedom in China <a href="http://www.scmp.com/news/china-insider/article/1383881/guangzhou-rights-activist-liu-yuandong-charged-over-press-freedom">www.scmp.com/news/china-insider/article/1383881/guangzhou-rights-activist-liu-yuandong-charged-over-press-freedom</a> (2013年12月18日 05:20)
  ---
 RT @withoutdoing: Did you know? Baidu has an online dictionary of officials who have "fallen under the horse" <a href="http://fenlei.baike.com/%E4%B8%AD%E5%9B%BD%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98/">fenlei.baike.com/中国落马官员/</a> Even h… (2013年12月18日 01:01)
- ---
-NYT &amp; Bloomberg waiting for Chinese decision on journo visas but they could act now to guarantee freedom of speech <a href="http://www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html?utm_content=buffer735f9&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.huffingtonpost.com/charlie-smith/china-freedom-of-speech_b_4434266.html</a> (2013年12月17日 21:58)
  ---
