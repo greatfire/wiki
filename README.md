@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+RT @echopupu: 问:中国最霸气的法律是哪一条？ <a href="https://twitter.com/echopupu/status/414770736717246464/photo/1">twitter.com/echopupu/status/414770736717246464/photo/1</a> (2013年12月23日 01:28)
+ ---
 自由微博T恤 <a href="https://freeweibo.spreadshirt.com/">freeweibo.spreadshirt.com/</a> (2013年12月22日 14:20)
  ---
 The New Face of Chinese Propaganda <a href="http://www-nc.nytimes.com/2013/12/21/opinion/sunday/murong-the-new-face-of-chinese-propaganda.html?=smid=tw-share&_r=6&">www-nc.nytimes.com/2013/12/21/opinion/sunday/murong-the-new-face-of-chinese-propaganda.html</a> (2013年12月22日 12:01)
@@ -49,6 +51,4 @@ NYT &amp; Bloomberg waiting for Chinese decision on journo visas but they could 
 Dear foreign media: we can unblock your website in China using collateral freedom. You can fight back and now is the time to do it. (2013年12月17日 19:03)
  ---
 Our unblockable old school Yahoo-like directory for the unblockable mirror sites that we have created to date: <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> (2013年12月17日 16:58)
- ---
-RT @jordanpouille: Mon visa chinois expire dans 10 jours et j'attends toujours ma nouvelle carte de presse, préalable au renouvellement du … (2013年12月17日 15:55)
  ---
