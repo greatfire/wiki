@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+自由微博T恤 <a href="https://freeweibo.spreadshirt.com/">freeweibo.spreadshirt.com/</a> (2013年12月22日 14:20)
+ ---
 The New Face of Chinese Propaganda <a href="http://www-nc.nytimes.com/2013/12/21/opinion/sunday/murong-the-new-face-of-chinese-propaganda.html?=smid=tw-share&_r=6&">www-nc.nytimes.com/2013/12/21/opinion/sunday/murong-the-new-face-of-chinese-propaganda.html</a> (2013年12月22日 12:01)
  ---
 华尔街日报新域名再次被屏蔽 <a href="https://zh.greatfire.org/c.wsj.com">zh.greatfire.org/c.wsj.com</a> (2013年12月22日 11:32)
@@ -49,6 +51,4 @@ Dear foreign media: we can unblock your website in China using collateral freedo
 Our unblockable old school Yahoo-like directory for the unblockable mirror sites that we have created to date: <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> (2013年12月17日 16:58)
  ---
 RT @jordanpouille: Mon visa chinois expire dans 10 jours et j'attends toujours ma nouvelle carte de presse, préalable au renouvellement du … (2013年12月17日 15:55)
- ---
-RT @meghara: All I want for Christmas is my visa renewal #China (2013年12月17日 15:55)
  ---
