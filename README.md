@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+华尔街日报新域名再次被屏蔽 <a href="https://zh.greatfire.org/c.wsj.com">zh.greatfire.org/c.wsj.com</a> (2013年12月22日 11:32)
+ ---
 我们把镜像建立在了Github上已经有一星期了 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a>  GFW仍然不敢屏蔽Github。 亚马逊，微软域名也没有被屏蔽。 (2013年12月22日 10:27)
  ---
 Reuters: RSA Weakened Encryption For $10M From NSA <a href="http://yro.slashdot.org/story/13/12/21/0041228/reuters-rsa-weakened-encryption-for-10m-from-nsa?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/21/0041228/reuters-rsa-weakened-encryption-for-10m-from-nsa</a> (2013年12月22日 00:58)
@@ -26,7 +28,7 @@ Now a wait for visas RT @franklangfitt: All Bloomberg reporters in China have ne
  ---
 Harvard Bomb Hoax Perpetrator Caught Despite Tor Use <a href="http://yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use</a> (2013年12月19日 13:40)
  ---
-How a MacBook Camera Can Spy Without Lighting Up <a href="http://beta.slashdot.org/story/195779">beta.slashdot.org/story/195779</a> (2013年12月19日 13:38)
+How a MacBook Camera Can Spy Without Lighting Up <a href="http://yro.slashdot.org/story/13/12/18/2221227/how-a-macbook-camera-can-spy-without-lighting-up?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/2221227/how-a-macbook-camera-can-spy-without-lighting-up</a> (2013年12月19日 13:38)
  ---
 Also from Feb, Ching Cheong, patriot, on his 1000 days of incarceration and democracy and freedom in China. <a href="http://www.scmp.com/magazines/post-magazine/article/1150018/betrayed?utm_content=bufferde4bd&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.scmp.com/magazines/post-magazine/article/1150018/betrayed</a> (2013年12月19日 13:01)
  ---
@@ -49,6 +51,4 @@ RT @jordanpouille: Mon visa chinois expire dans 10 jours et j'attends toujours m
 RT @meghara: All I want for Christmas is my visa renewal #China (2013年12月17日 15:55)
  ---
 RT @AndrewJacobsNYT: 5 Days Till Visa Expiry: Do u think hauling all my stuff to gates of Foreign Ministry and holding a tag sale will get … (2013年12月17日 15:55)
- ---
-RT @comradewong: @beijingscribe Some Beijing journalists have gotten visas, but so far none for the NY Times. (2013年12月17日 15:55)
  ---
