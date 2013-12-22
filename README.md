@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+The New Face of Chinese Propaganda <a href="http://www-nc.nytimes.com/2013/12/21/opinion/sunday/murong-the-new-face-of-chinese-propaganda.html?=smid=tw-share&_r=6&">www-nc.nytimes.com/2013/12/21/opinion/sunday/murong-the-new-face-of-chinese-propaganda.html</a> (2013年12月22日 12:01)
+ ---
 华尔街日报新域名再次被屏蔽 <a href="https://zh.greatfire.org/c.wsj.com">zh.greatfire.org/c.wsj.com</a> (2013年12月22日 11:32)
  ---
 我们把镜像建立在了Github上已经有一星期了 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a>  GFW仍然不敢屏蔽Github。 亚马逊，微软域名也没有被屏蔽。 (2013年12月22日 10:27)
@@ -49,6 +51,4 @@ Our unblockable old school Yahoo-like directory for the unblockable mirror sites
 RT @jordanpouille: Mon visa chinois expire dans 10 jours et j'attends toujours ma nouvelle carte de presse, préalable au renouvellement du … (2013年12月17日 15:55)
  ---
 RT @meghara: All I want for Christmas is my visa renewal #China (2013年12月17日 15:55)
- ---
-RT @AndrewJacobsNYT: 5 Days Till Visa Expiry: Do u think hauling all my stuff to gates of Foreign Ministry and holding a tag sale will get … (2013年12月17日 15:55)
  ---
