@@ -40,9 +40,9 @@ RT @jcbeam: Spotted in the @nytimes Beijing bureau <a href="https://twitter.com/
  ---
 Now a wait for visas RT @franklangfitt: All Bloomberg reporters in China have new press cards and some NYTimes reporters have theirs. (2013年12月19日 17:00)
  ---
-Harvard Bomb Hoax Perpetrator Caught Despite Tor Use <a href="http://yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use</a> (2013年12月19日 13:40)
+Harvard Bomb Hoax Perpetrator Caught Despite Tor Use <a href="http://beta.slashdot.org/story/195745">beta.slashdot.org/story/195745</a> (2013年12月19日 13:40)
  ---
-How a MacBook Camera Can Spy Without Lighting Up <a href="http://beta.slashdot.org/story/195779">beta.slashdot.org/story/195779</a> (2013年12月19日 13:38)
+How a MacBook Camera Can Spy Without Lighting Up <a href="http://yro.slashdot.org/story/13/12/18/2221227/how-a-macbook-camera-can-spy-without-lighting-up?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/2221227/how-a-macbook-camera-can-spy-without-lighting-up</a> (2013年12月19日 13:38)
  ---
 Also from Feb, Ching Cheong, patriot, on his 1000 days of incarceration and democracy and freedom in China. <a href="http://www.scmp.com/magazines/post-magazine/article/1150018/betrayed?utm_content=bufferde4bd&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.scmp.com/magazines/post-magazine/article/1150018/betrayed</a> (2013年12月19日 13:01)
  ---
