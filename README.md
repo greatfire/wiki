@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+中国新标语 - 纽约时报中文网 国际纵览 <a href="http://cn.nytimes.com/opinion/20131224/c24murong/">cn.nytimes.com/opinion/20131224/c24murong/</a> via @nytchinese (2013年12月24日 11:01)
+ ---
 RT @nytchinese: 【英美监听覆盖60余国】斯诺登爆料的机密文件显示，美国和英国近年来监听了60多个国家上千个目标，包括以色列前总理办公室、欧盟高级官员、联合国等救援项目负责人、跨国能源公司高管和北京的“多个实体”。<a href="http://cn.nytimes.com/world/20131224/c24spy/">cn.nytimes.com/world/20131224/c24spy/</a> (2013年12月24日 10:23)
  ---
 N.S.A. Spied on Allies, Aid Groups and Businesses <a href="http://www-nc.nytimes.com/2013/12/21/world/nsa-dragnet-included-allies-aid-groups-and-business-elite.html?=smid=tw-share&_r=6&">www-nc.nytimes.com/2013/12/21/world/nsa-dragnet-included-allies-aid-groups-and-business-elite.html</a> (2013年12月24日 10:16)
@@ -51,6 +53,4 @@ How a MacBook Camera Can Spy Without Lighting Up <a href="http://yro.slashdot.or
 Also from Feb, Ching Cheong, patriot, on his 1000 days of incarceration and democracy and freedom in China. <a href="http://www.scmp.com/magazines/post-magazine/article/1150018/betrayed?utm_content=bufferde4bd&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.scmp.com/magazines/post-magazine/article/1150018/betrayed</a> (2013年12月19日 13:01)
  ---
 From Feb but still amazing. Interview w/ Huang Qi -  he documents protests happening in China. <a href="http://www.nybooks.com/blogs/nyrblog/2013/feb/09/blogging-slow-revolution-interview-huang-qi/?utm_content=buffer1f157&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.nybooks.com/blogs/nyrblog/2013/feb/09/blogging-slow-revolution-interview-huang-qi/</a> via @iandenisjohnson (2013年12月19日 09:02)
- ---
-中国法院判决动画片制作方要为儿童模仿暴力场景承担责任 <a href="http://www.solidot.org/story?sid=37681">www.solidot.org/story</a> (2013年12月19日 00:59)
  ---
