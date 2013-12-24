@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+谌洪果：今天早上我已经向学校提交了辞职申请。现在此发布《辞职公开声明》。 <a href="https://freeweibo.com/weibo/@%E8%B0%8C%E6%B4%AA%E6%9E%9C">freeweibo.com/weibo/@谌洪果</a> @FreeWeibo (2013年12月24日 13:27)
+ ---
 中国新标语 - 纽约时报中文网 国际纵览 <a href="http://cn.nytimes.com/opinion/20131224/c24murong/">cn.nytimes.com/opinion/20131224/c24murong/</a> via @nytchinese (2013年12月24日 11:01)
  ---
 RT @nytchinese: 【英美监听覆盖60余国】斯诺登爆料的机密文件显示，美国和英国近年来监听了60多个国家上千个目标，包括以色列前总理办公室、欧盟高级官员、联合国等救援项目负责人、跨国能源公司高管和北京的“多个实体”。<a href="http://cn.nytimes.com/world/20131224/c24spy/">cn.nytimes.com/world/20131224/c24spy/</a> (2013年12月24日 10:23)
@@ -36,7 +38,7 @@ The New Face of Chinese Propaganda <a href="http://www-nc.nytimes.com/2013/12/21
  ---
 我们把镜像建立在了Github上已经有一星期了 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a>  GFW仍然不敢屏蔽Github。 亚马逊，微软域名也没有被屏蔽。 (2013年12月22日 10:27)
  ---
-Reuters: RSA Weakened Encryption For $10M From NSA <a href="http://beta.slashdot.org/story/195887">beta.slashdot.org/story/195887</a> (2013年12月22日 00:58)
+Reuters: RSA Weakened Encryption For $10M From NSA <a href="http://yro.slashdot.org/story/13/12/21/0041228/reuters-rsa-weakened-encryption-for-10m-from-nsa?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/21/0041228/reuters-rsa-weakened-encryption-for-10m-from-nsa</a> (2013年12月22日 00:58)
  ---
 RT @WSJAsia: China's central bank is now on Weibo, and its messages are moving markets. <a href="http://blogs.wsj.com/chinarealtime/2013/12/20/making-moves-on-weibo-the-peoples-bank-of-china/?mod=e2tw">blogs.wsj.com/chinarealtime/2013/12/20/making-moves-on-weibo-the-peoples-bank-of-china/</a> (2013年12月20日 17:52)
  ---
@@ -51,6 +53,4 @@ Harvard Bomb Hoax Perpetrator Caught Despite Tor Use <a href="http://yro.slashdo
 How a MacBook Camera Can Spy Without Lighting Up <a href="http://yro.slashdot.org/story/13/12/18/2221227/how-a-macbook-camera-can-spy-without-lighting-up?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/2221227/how-a-macbook-camera-can-spy-without-lighting-up</a> (2013年12月19日 13:38)
  ---
 Also from Feb, Ching Cheong, patriot, on his 1000 days of incarceration and democracy and freedom in China. <a href="http://www.scmp.com/magazines/post-magazine/article/1150018/betrayed?utm_content=bufferde4bd&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.scmp.com/magazines/post-magazine/article/1150018/betrayed</a> (2013年12月19日 13:01)
- ---
-From Feb but still amazing. Interview w/ Huang Qi -  he documents protests happening in China. <a href="http://www.nybooks.com/blogs/nyrblog/2013/feb/09/blogging-slow-revolution-interview-huang-qi/?utm_content=buffer1f157&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.nybooks.com/blogs/nyrblog/2013/feb/09/blogging-slow-revolution-interview-huang-qi/</a> via @iandenisjohnson (2013年12月19日 09:02)
  ---
