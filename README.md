@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+作家-天佑：毛泽东1973年与基辛格会面说可以送给美国一千万中国妇女，//还真有。 <a href="http://history.state.gov/historicaldocuments/frus1969-76v18/d12">history.state.gov/historicaldocuments/frus1969-76v18/d12</a> 看前后文不是开玩笑 (2013年12月25日 16:32)
+ ---
 谌洪果：今天早上我已经向学校提交了辞职申请。现在此发布《辞职公开声明》。 <a href="https://freeweibo.com/weibo/@%E8%B0%8C%E6%B4%AA%E6%9E%9C">freeweibo.com/weibo/@谌洪果</a> @FreeWeibo (2013年12月24日 13:27)
  ---
 中国新标语 - 纽约时报中文网 国际纵览 <a href="http://cn.nytimes.com/opinion/20131224/c24murong/">cn.nytimes.com/opinion/20131224/c24murong/</a> via @nytchinese (2013年12月24日 11:01)
@@ -51,6 +53,4 @@ Now a wait for visas RT @franklangfitt: All Bloomberg reporters in China have ne
 Harvard Bomb Hoax Perpetrator Caught Despite Tor Use <a href="http://yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use</a> (2013年12月19日 13:40)
  ---
 How a MacBook Camera Can Spy Without Lighting Up <a href="http://yro.slashdot.org/story/13/12/18/2221227/how-a-macbook-camera-can-spy-without-lighting-up?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/2221227/how-a-macbook-camera-can-spy-without-lighting-up</a> (2013年12月19日 13:38)
- ---
-Also from Feb, Ching Cheong, patriot, on his 1000 days of incarceration and democracy and freedom in China. <a href="http://www.scmp.com/magazines/post-magazine/article/1150018/betrayed?utm_content=bufferde4bd&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">www.scmp.com/magazines/post-magazine/article/1150018/betrayed</a> (2013年12月19日 13:01)
  ---
