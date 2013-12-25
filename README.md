@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+RT @williamlong: evad3rs发布声明称，其与太极的书面和口头协议均已经取消，他们对于软件开发者和越狱社区造成的伤害实在太深，即使移除了盗版软件也无法再与其合作，evad3rs还表示没有给予太极助手任何源代码，也没有接收任何团体的款项。 http://t.co… (2013年12月26日 02:31)
+ ---
 作家-天佑：毛泽东1973年与基辛格会面说可以送给美国一千万中国妇女，//还真有。 <a href="http://history.state.gov/historicaldocuments/frus1969-76v18/d12">history.state.gov/historicaldocuments/frus1969-76v18/d12</a> 看前后文不是开玩笑 (2013年12月25日 16:32)
  ---
 谌洪果：今天早上我已经向学校提交了辞职申请。现在此发布《辞职公开声明》。 <a href="https://freeweibo.com/weibo/@%E8%B0%8C%E6%B4%AA%E6%9E%9C">freeweibo.com/weibo/@谌洪果</a> @FreeWeibo (2013年12月24日 13:27)
@@ -51,6 +53,4 @@ RT @jcbeam: Spotted in the @nytimes Beijing bureau <a href="https://twitter.com/
 Now a wait for visas RT @franklangfitt: All Bloomberg reporters in China have new press cards and some NYTimes reporters have theirs. (2013年12月19日 17:00)
  ---
 Harvard Bomb Hoax Perpetrator Caught Despite Tor Use <a href="http://yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use</a> (2013年12月19日 13:40)
- ---
-How a MacBook Camera Can Spy Without Lighting Up <a href="http://beta.slashdot.org/story/195779">beta.slashdot.org/story/195779</a> (2013年12月19日 13:38)
  ---
