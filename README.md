@@ -12,6 +12,9 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+RT @SummerAgony: V3.0 Complete GFW Rulebook for @Wikipedia plus websites, IPs, IMDB, and AppStore <a href="https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheet%2Fccc%3Fkey%3D0AsztBERe_FUwdDVBSk8waThMeHlvS2d6dF9GMWl6dkE%26usp%3Dsharing%26pref%3D2&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheet%2Fccc%3Fkey%3D0AsztBERe_FUwdDVBSk8waThMeHlvS2d6dF9GMWl6dkE%26usp%3Dsharing%26pref%3D2">accounts.google.com/ServiceLogin</a>
+@citizenlab @berkm… (2013年12月27日 02:45)
+ ---
 Tear Down This Firewall: Challenging Internet Censorship in China - <a href="http://foreignpolicyblogs.com/2013/12/23/tear-down-this-firewall-challenging-internet-censorship-in-china/">foreignpolicyblogs.com/2013/12/23/tear-down-this-firewall-challenging-internet-censorship-in-china/</a> (2013年12月26日 17:32)
  ---
 E-Books That Read You <a href="http://news.slashdot.org/story/13/12/25/1810220/e-books-that-read-you?utm_source=rss1.0mainlinkanon&utm_medium=feed">news.slashdot.org/story/13/12/25/1810220/e-books-that-read-you</a> (2013年12月26日 08:41)
@@ -51,6 +54,4 @@ Reuters: RSA Weakened Encryption For $10M From NSA <a href="http://yro.slashdot.
 RT @WSJAsia: China's central bank is now on Weibo, and its messages are moving markets. <a href="http://blogs.wsj.com/chinarealtime/2013/12/20/making-moves-on-weibo-the-peoples-bank-of-china/?mod=e2tw">blogs.wsj.com/chinarealtime/2013/12/20/making-moves-on-weibo-the-peoples-bank-of-china/</a> (2013年12月20日 17:52)
  ---
 中国记者需要通过政治考试才能保留记者证 <a href="http://www.solidot.org/story?sid=37704">www.solidot.org/story</a> (2013年12月20日 01:09)
- ---
-RT @jcbeam: Spotted in the @nytimes Beijing bureau <a href="https://twitter.com/jcbeam/status/413567070115471360/photo/1">twitter.com/jcbeam/status/413567070115471360/photo/1</a> (2013年12月19日 19:03)
  ---
