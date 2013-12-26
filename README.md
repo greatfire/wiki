@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+E-Books That Read You <a href="http://news.slashdot.org/story/13/12/25/1810220/e-books-that-read-you?utm_source=rss1.0mainlinkanon&utm_medium=feed">news.slashdot.org/story/13/12/25/1810220/e-books-that-read-you</a> (2013年12月26日 08:41)
+ ---
 RT @williamlong: evad3rs发布声明称，其与太极的书面和口头协议均已经取消，他们对于软件开发者和越狱社区造成的伤害实在太深，即使移除了盗版软件也无法再与其合作，evad3rs还表示没有给予太极助手任何源代码，也没有接收任何团体的款项。 http://t.co… (2013年12月26日 02:31)
  ---
 作家-天佑：毛泽东1973年与基辛格会面说可以送给美国一千万中国妇女，//还真有。 <a href="http://history.state.gov/historicaldocuments/frus1969-76v18/d12">history.state.gov/historicaldocuments/frus1969-76v18/d12</a> 看前后文不是开玩笑 (2013年12月25日 16:32)
@@ -51,6 +53,4 @@ RT @WSJAsia: China's central bank is now on Weibo, and its messages are moving m
 RT @jcbeam: Spotted in the @nytimes Beijing bureau <a href="https://twitter.com/jcbeam/status/413567070115471360/photo/1">twitter.com/jcbeam/status/413567070115471360/photo/1</a> (2013年12月19日 19:03)
  ---
 Now a wait for visas RT @franklangfitt: All Bloomberg reporters in China have new press cards and some NYTimes reporters have theirs. (2013年12月19日 17:00)
- ---
-Harvard Bomb Hoax Perpetrator Caught Despite Tor Use <a href="http://yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/18/047246/harvard-bomb-hoax-perpetrator-caught-despite-tor-use</a> (2013年12月19日 13:40)
  ---
