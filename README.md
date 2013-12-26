@@ -14,7 +14,7 @@
 ## 新闻
 Tear Down This Firewall: Challenging Internet Censorship in China - <a href="http://foreignpolicyblogs.com/2013/12/23/tear-down-this-firewall-challenging-internet-censorship-in-china/">foreignpolicyblogs.com/2013/12/23/tear-down-this-firewall-challenging-internet-censorship-in-china/</a> (2013年12月26日 17:32)
  ---
-E-Books That Read You <a href="http://news.slashdot.org/story/13/12/25/1810220/e-books-that-read-you?utm_source=rss1.0mainlinkanon&utm_medium=feed">news.slashdot.org/story/13/12/25/1810220/e-books-that-read-you</a> (2013年12月26日 08:41)
+E-Books That Read You <a href="http://beta.slashdot.org/story/196055">beta.slashdot.org/story/196055</a> (2013年12月26日 08:41)
  ---
 RT @williamlong: evad3rs发布声明称，其与太极的书面和口头协议均已经取消，他们对于软件开发者和越狱社区造成的伤害实在太深，即使移除了盗版软件也无法再与其合作，evad3rs还表示没有给予太极助手任何源代码，也没有接收任何团体的款项。 http://t.co… (2013年12月26日 02:31)
  ---
@@ -46,7 +46,7 @@ The New Face of Chinese Propaganda <a href="http://www-nc.nytimes.com/2013/12/21
  ---
 我们把镜像建立在了Github上已经有一星期了 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a>  GFW仍然不敢屏蔽Github。 亚马逊，微软域名也没有被屏蔽。 (2013年12月22日 10:27)
  ---
-Reuters: RSA Weakened Encryption For $10M From NSA <a href="http://beta.slashdot.org/story/195887">beta.slashdot.org/story/195887</a> (2013年12月22日 00:58)
+Reuters: RSA Weakened Encryption For $10M From NSA <a href="http://yro.slashdot.org/story/13/12/21/0041228/reuters-rsa-weakened-encryption-for-10m-from-nsa?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/21/0041228/reuters-rsa-weakened-encryption-for-10m-from-nsa</a> (2013年12月22日 00:58)
  ---
 RT @WSJAsia: China's central bank is now on Weibo, and its messages are moving markets. <a href="http://blogs.wsj.com/chinarealtime/2013/12/20/making-moves-on-weibo-the-peoples-bank-of-china/?mod=e2tw">blogs.wsj.com/chinarealtime/2013/12/20/making-moves-on-weibo-the-peoples-bank-of-china/</a> (2013年12月20日 17:52)
  ---
