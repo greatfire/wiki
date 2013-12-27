@@ -53,5 +53,5 @@ The New Face of Chinese Propaganda <a href="http://www-nc.nytimes.com/2013/12/21
  ---
 我们把镜像建立在了Github上已经有一星期了 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a>  GFW仍然不敢屏蔽Github。 亚马逊，微软域名也没有被屏蔽。 (2013年12月22日 10:27)
  ---
-Reuters: RSA Weakened Encryption For $10M From NSA <a href="http://yro.slashdot.org/story/13/12/21/0041228/reuters-rsa-weakened-encryption-for-10m-from-nsa?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/21/0041228/reuters-rsa-weakened-encryption-for-10m-from-nsa</a> (2013年12月22日 00:58)
+Reuters: RSA Weakened Encryption For $10M From NSA <a href="http://beta.slashdot.org/story/195887">beta.slashdot.org/story/195887</a> (2013年12月22日 00:58)
  ---
