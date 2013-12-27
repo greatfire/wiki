@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+Battlefield 4 Banned In China <a href="http://games.slashdot.org/story/13/12/27/1355253/battlefield-4-banned-in-china?utm_source=rss1.0mainlinkanon&utm_medium=feed">games.slashdot.org/story/13/12/27/1355253/battlefield-4-banned-in-china</a> (2013年12月28日 05:05)
+ ---
 文化部封杀《战地4》 <a href="http://www.solidot.org/story?sid=37798">www.solidot.org/story</a> (2013年12月28日 02:32)
  ---
 RT @SnHine: 文化部发布通知称《战地4》是一款违法游戏，含有危害国家安全的内容，是一种文化侵略。所有有关《战地4》相关提供下载、攻略、补丁、新闻等要求在24小时内删除。 (2013年12月27日 11:45)
@@ -52,6 +54,4 @@ The New Face of Chinese Propaganda <a href="http://www-nc.nytimes.com/2013/12/21
 华尔街日报新域名再次被屏蔽 <a href="https://zh.greatfire.org/c.wsj.com">zh.greatfire.org/c.wsj.com</a> (2013年12月22日 11:32)
  ---
 我们把镜像建立在了Github上已经有一星期了 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a>  GFW仍然不敢屏蔽Github。 亚马逊，微软域名也没有被屏蔽。 (2013年12月22日 10:27)
- ---
-Reuters: RSA Weakened Encryption For $10M From NSA <a href="http://yro.slashdot.org/story/13/12/21/0041228/reuters-rsa-weakened-encryption-for-10m-from-nsa?utm_source=rss1.0mainlinkanon&utm_medium=feed">yro.slashdot.org/story/13/12/21/0041228/reuters-rsa-weakened-encryption-for-10m-from-nsa</a> (2013年12月22日 00:58)
  ---
