@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+RT @phuslu: GoAgent (<a href="https://twitter.com/phuslu/status/54089629288251392">twitter.com/phuslu/status/54089629288251392</a>)发布以来，已经过去了 2 年又8 个月了。经历了18大和g.cn撤离两次 peak (<a href="http://www.google.com/trends/explore">www.google.com/trends/explore</a>) 期间一直激励我的是这边文章开头名言(http://t.c… (2013年12月29日 02:26)
+ ---
 Battlefield 4 Banned In China <a href="http://games.slashdot.org/story/13/12/27/1355253/battlefield-4-banned-in-china?utm_source=rss1.0mainlinkanon&utm_medium=feed">games.slashdot.org/story/13/12/27/1355253/battlefield-4-banned-in-china</a> (2013年12月28日 05:05)
  ---
 文化部封杀《战地4》 <a href="http://www.solidot.org/story?sid=37798">www.solidot.org/story</a> (2013年12月28日 02:32)
@@ -52,6 +54,4 @@ RT @echopupu: 问:中国最霸气的法律是哪一条？ <a href="https://twitt
 The New Face of Chinese Propaganda <a href="http://www-nc.nytimes.com/2013/12/21/opinion/sunday/murong-the-new-face-of-chinese-propaganda.html?=smid=tw-share&_r=6&">www-nc.nytimes.com/2013/12/21/opinion/sunday/murong-the-new-face-of-chinese-propaganda.html</a> (2013年12月22日 12:01)
  ---
 华尔街日报新域名再次被屏蔽 <a href="https://zh.greatfire.org/c.wsj.com">zh.greatfire.org/c.wsj.com</a> (2013年12月22日 11:32)
- ---
-我们把镜像建立在了Github上已经有一星期了 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a>  GFW仍然不敢屏蔽Github。 亚马逊，微软域名也没有被屏蔽。 (2013年12月22日 10:27)
  ---
