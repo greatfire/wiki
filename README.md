@@ -12,7 +12,7 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
-Battlefield 4 Banned In China <a href="http://beta.slashdot.org/story/196121">beta.slashdot.org/story/196121</a> (2013年12月28日 05:05)
+Battlefield 4 Banned In China <a href="http://games.slashdot.org/story/13/12/27/1355253/battlefield-4-banned-in-china?utm_source=rss1.0mainlinkanon&utm_medium=feed">games.slashdot.org/story/13/12/27/1355253/battlefield-4-banned-in-china</a> (2013年12月28日 05:05)
  ---
 文化部封杀《战地4》 <a href="http://www.solidot.org/story?sid=37798">www.solidot.org/story</a> (2013年12月28日 02:32)
  ---
