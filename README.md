@@ -23,7 +23,7 @@ RT @SummerAgony: V3.0 Complete GFW Rulebook for @Wikipedia plus websites, IPs, I
  ---
 Tear Down This Firewall: Challenging Internet Censorship in China - <a href="http://foreignpolicyblogs.com/2013/12/23/tear-down-this-firewall-challenging-internet-censorship-in-china/">foreignpolicyblogs.com/2013/12/23/tear-down-this-firewall-challenging-internet-censorship-in-china/</a> (2013年12月26日 17:32)
  ---
-E-Books That Read You <a href="http://beta.slashdot.org/story/196055">beta.slashdot.org/story/196055</a> (2013年12月26日 08:41)
+E-Books That Read You <a href="http://news.slashdot.org/story/13/12/25/1810220/e-books-that-read-you?utm_source=rss1.0mainlinkanon&utm_medium=feed">news.slashdot.org/story/13/12/25/1810220/e-books-that-read-you</a> (2013年12月26日 08:41)
  ---
 RT @williamlong: evad3rs发布声明称，其与太极的书面和口头协议均已经取消，他们对于软件开发者和越狱社区造成的伤害实在太深，即使移除了盗版软件也无法再与其合作，evad3rs还表示没有给予太极助手任何源代码，也没有接收任何团体的款项。 http://t.co… (2013年12月26日 02:31)
  ---
