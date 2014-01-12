@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+.@KenRoth from @hrw shames Chinese govt on @StephenAtHome Colbert w/ Liu Xiaobo and Mandela mentions <a href="http://www.colbertnation.com/the-colbert-report-videos/431862/january-06-2014/ken-roth">www.colbertnation.com/the-colbert-report-videos/431862/january-06-2014/ken-roth</a> (2014年01月12日 20:51)
+ ---
 GFW devices are custom made and built to run efficient string matching <a href="http://blockedonweibo.tumblr.com/post/72871268045/comments-and-takeaways-from-xia-chus-complete-gfw">blockedonweibo.tumblr.com/post/72871268045/comments-and-takeaways-from-xia-chus-complete-gfw</a> via @SummerAgony and @jasonqng (2014年01月12日 20:33)
  ---
 RT @comradewong: Wash Post story about China visa issues for NYT says no word on visas for Philip Pan &amp; Chris Buckley. <a href="http://t.co/tgCkhStv">t.co/tgCkhStv</a>… (2014年01月10日 00:55)
@@ -49,6 +51,4 @@ Very unusual for China to block media in English nowadays. Besides Guardian, onl
 快讯：卫报全站被封锁 <a href="https://zh.greatfire.org/www.theguardian.com">zh.greatfire.org/www.theguardian.com</a> 大家知道原因么？ (2014年01月08日 11:57)
  ---
 Breaking News: The Guardian blocked in China first time in recent history <a href="https://en.greatfire.org/www.theguardian.com">en.greatfire.org/www.theguardian.com</a>  (Via Jon @JRKaiman ) (2014年01月08日 11:54)
- ---
-A basic guide to when and how to deploy HTTPS by @erikpub <a href="http://erik.io/blog/2013/06/08/a-basic-guide-to-when-and-how-to-deploy-https/?utm_content=bufferd5ae1&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">erik.io/blog/2013/06/08/a-basic-guide-to-when-and-how-to-deploy-https/</a> (2014年01月07日 19:03)
  ---
