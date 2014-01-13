@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+RT @horwitzjosh: Can’t access Youku in Taiwan, getting frustrated - those proverbial tables, they’ve proverbially turned... (2014年01月13日 16:36)
+ ---
 .@KenRoth from @hrw shames Chinese govt on @StephenAtHome Colbert w/ Liu Xiaobo and Mandela mentions <a href="http://www.colbertnation.com/the-colbert-report-videos/431862/january-06-2014/ken-roth">www.colbertnation.com/the-colbert-report-videos/431862/january-06-2014/ken-roth</a> (2014年01月12日 20:51)
  ---
 GFW devices are custom made and built to run efficient string matching <a href="http://blockedonweibo.tumblr.com/post/72871268045/comments-and-takeaways-from-xia-chus-complete-gfw">blockedonweibo.tumblr.com/post/72871268045/comments-and-takeaways-from-xia-chus-complete-gfw</a> via @SummerAgony and @jasonqng (2014年01月12日 20:33)
@@ -49,6 +51,4 @@ RT @JRKaiman: China blocks the Guardian, censorship-tracking website says <a hre
 Very unusual for China to block media in English nowadays. Besides Guardian, only known examples are NYT and bloomberg on Xi's wealth. (2014年01月08日 12:02)
  ---
 快讯：卫报全站被封锁 <a href="https://zh.greatfire.org/www.theguardian.com">zh.greatfire.org/www.theguardian.com</a> 大家知道原因么？ (2014年01月08日 11:57)
- ---
-Breaking News: The Guardian blocked in China first time in recent history <a href="https://en.greatfire.org/www.theguardian.com">en.greatfire.org/www.theguardian.com</a>  (Via Jon @JRKaiman ) (2014年01月08日 11:54)
  ---
