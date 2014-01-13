@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+Is Pakistan making moves to implement China-like Great Firewall? <a href="http://www.aljazeera.com/indepth/opinion/2014/01/big-brother-curtailing-net-freedom-south-asia-20141544556701717.html?fb_action_ids=10152154036802095&fb_action_types=og.likes&fb_source=other_multiline&action_object_map=[560998733970264]&action_type_map=["og.likes"]&action_ref_map=[]&utm_content=bufferdced6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.aljazeera.com/indepth/opinion/2014/01/big-brother-curtailing-net-freedom-south-asia-20141544556701717.html</a> via @nighatdad (2014年01月13日 21:58)
+ ---
 In China, journos complain that more of their stories are being censored than in the past <a href="http://www.washingtonpost.com/world/chinese-journalists-face-tighter-censorship-marxist-re-training/2014/01/10/6cd43f62-6893-11e3-8b5b-a77187b716a3_story.html?utm_content=buffer0a711&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.washingtonpost.com/world/chinese-journalists-face-tighter-censorship-marxist-re-training/2014/01/10/6cd43f62-6893-11e3-8b5b-a77187b716a3_story.html</a> (2014年01月13日 16:58)
  ---
 RT @horwitzjosh: Can’t access Youku in Taiwan, getting frustrated - those proverbial tables, they’ve proverbially turned... (2014年01月13日 16:36)
@@ -49,6 +51,4 @@ RT @arusbridger: Guardian website in China currently blocked <a href="http://www
 卫报被屏蔽的新闻上了卫报中国版首页 <a href="http://www.theguardian.com/world/china">www.theguardian.com/world/china</a> 其他媒体包括华尔街等被屏蔽的时候都不敢作声。 (2014年01月08日 12:10)
  ---
 RT @JRKaiman: China blocks the Guardian, censorship-tracking website says <a href="http://www.theguardian.com/world/2014/jan/08/china-blocks-guardian-website?CMP=twt_gu">www.theguardian.com/world/2014/jan/08/china-blocks-guardian-website</a> (h/t @penguinchina @ericfish85 @GreatFireC… (2014年01月08日 12:03)
- ---
-Very unusual for China to block media in English nowadays. Besides Guardian, only known examples are NYT and bloomberg on Xi's wealth. (2014年01月08日 12:02)
  ---
