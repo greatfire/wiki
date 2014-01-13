@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+RT @pjmooney: Q&amp;A: Is China getting tougher on foreign journalists? Bob Dietz and Paul Mooney <a href="http://www.globalpost.com/dispatch/news/regions/asia-pacific/china/140110/china-foreign-media-q-%2526-a">www.globalpost.com/dispatch/news/regions/asia-pacific/china/140110/china-foreign-media-q-%26-a</a> (2014年01月14日 00:59)
+ ---
 RT @shorttelegrams: GoogleBlog: A new approach to China <a href="http://googleblog.blogspot.com/2010/01/new-approach-to-china.html">googleblog.blogspot.com/2010/01/new-approach-to-china.html</a> &lt;--4 yrs ago today, citing @Nartv and @USCC_GOV. #OldDays (2014年01月13日 22:11)
  ---
 Is Pakistan making moves to implement China-like Great Firewall? <a href="http://www.aljazeera.com/indepth/opinion/2014/01/big-brother-curtailing-net-freedom-south-asia-20141544556701717.html?fb_action_ids=10152154036802095&fb_action_types=og.likes&fb_source=other_multiline&action_object_map=[560998733970264]&action_type_map=["og.likes"]&action_ref_map=[]&utm_content=bufferdced6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.aljazeera.com/indepth/opinion/2014/01/big-brother-curtailing-net-freedom-south-asia-20141544556701717.html</a> via @nighatdad (2014年01月13日 21:58)
@@ -49,6 +51,4 @@ No rhyme nor reason RT @yifanxxx: FT Chinese publishes a Dalai Lama interview to
 @arusbridger Alan we can unblock the site and keep it unblocked - will also allow US military personnel to read. We did it for Reuters. (2014年01月08日 16:31)
  ---
 RT @arusbridger: Guardian website in China currently blocked <a href="http://www.theguardian.com/world/2014/jan/08/china-blocks-guardian-website">www.theguardian.com/world/2014/jan/08/china-blocks-guardian-website</a> (2014年01月08日 16:23)
- ---
-卫报被屏蔽的新闻上了卫报中国版首页 <a href="http://www.theguardian.com/world/china">www.theguardian.com/world/china</a> 其他媒体包括华尔街等被屏蔽的时候都不敢作声。 (2014年01月08日 12:10)
  ---
