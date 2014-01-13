@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+RT @ioerror: One year without Aaron. Impossible not to notice. Awful. (2014年01月14日 01:28)
+ ---
 RT @pjmooney: Q&amp;A: Is China getting tougher on foreign journalists? Bob Dietz and Paul Mooney <a href="http://www.globalpost.com/dispatch/news/regions/asia-pacific/china/140110/china-foreign-media-q-%2526-a">www.globalpost.com/dispatch/news/regions/asia-pacific/china/140110/china-foreign-media-q-%26-a</a> (2014年01月14日 00:59)
  ---
 RT @shorttelegrams: GoogleBlog: A new approach to China <a href="http://googleblog.blogspot.com/2010/01/new-approach-to-china.html">googleblog.blogspot.com/2010/01/new-approach-to-china.html</a> &lt;--4 yrs ago today, citing @Nartv and @USCC_GOV. #OldDays (2014年01月13日 22:11)
@@ -49,6 +51,4 @@ RT @KenRoth: The @Guardian is apparently so subversive that #China blocks it wit
 No rhyme nor reason RT @yifanxxx: FT Chinese publishes a Dalai Lama interview today, and The Guardian gets blocked. Why?! (2014年01月08日 17:56)
  ---
 @arusbridger Alan we can unblock the site and keep it unblocked - will also allow US military personnel to read. We did it for Reuters. (2014年01月08日 16:31)
- ---
-RT @arusbridger: Guardian website in China currently blocked <a href="http://www.theguardian.com/world/2014/jan/08/china-blocks-guardian-website">www.theguardian.com/world/2014/jan/08/china-blocks-guardian-website</a> (2014年01月08日 16:23)
  ---
