@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+RT @suilee: Ugh. No Cui Jian at this yr's Spring Gala cos "we can't change lyrics".  <a href="HTTP://http:////www-nc.nytimes.com/2014/01/15/spring-gala-performance-by-chinese-rock-icon-in-doubt/?=smid=tw-share&_r=6&">http////www-nc.nytimes.com/2014/01/15/spring-gala-performance-by-chinese-rock-icon-in-doubt/</a> (2014年01月16日 02:12)
+ ---
 “You will be detained if you demand baozi” <a href="http://www.telegraph.co.uk/news/worldnews/asia/china/10570286/Chinese-protesters-use-steamed-buns-to-voice-anger.html">www.telegraph.co.uk/news/worldnews/asia/china/10570286/Chinese-protesters-use-steamed-buns-to-voice-anger.html</a> via @tomphillipsin (2014年01月15日 15:57)
  ---
 RT @ioerror: One year without Aaron. Impossible not to notice. Awful. (2014年01月14日 01:28)
@@ -49,6 +51,4 @@ Breaking News: The Guardian unblocked in China. <a href="https://en.greatfire.or
 RT @KenRoth: The @Guardian is apparently so subversive that #China blocks it without even a sensitive China story to blame. #fear http://t.… (2014年01月09日 01:18)
  ---
 @ulywang @yifanxxx then they have unnecessarily killed off a lot of poultry (2014年01月08日 18:36)
- ---
-No rhyme nor reason RT @yifanxxx: FT Chinese publishes a Dalai Lama interview today, and The Guardian gets blocked. Why?! (2014年01月08日 17:56)
  ---
