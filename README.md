@@ -12,7 +12,7 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
-“You will be detained if you demand baozi" <a href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2Fworldnews%2Fasia%2Fchina%2F10570286%2FChinese-protesters-use-steamed-buns-to-voice-anger.html&region=follow_link&screen_name=tomphillipsin&tw_p=followbutton&variant=2.0">twitter.com/intent/follow</a> via @tomphillipsin (2014年01月15日 15:42)
+“You will be detained if you demand baozi” <a href="http://www.telegraph.co.uk/news/worldnews/asia/china/10570286/Chinese-protesters-use-steamed-buns-to-voice-anger.html">www.telegraph.co.uk/news/worldnews/asia/china/10570286/Chinese-protesters-use-steamed-buns-to-voice-anger.html</a> via @tomphillipsin (2014年01月15日 15:57)
  ---
 RT @ioerror: One year without Aaron. Impossible not to notice. Awful. (2014年01月14日 01:28)
  ---
