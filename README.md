@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+“You will be detained if you demand baozi" <a href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2Fworldnews%2Fasia%2Fchina%2F10570286%2FChinese-protesters-use-steamed-buns-to-voice-anger.html&region=follow_link&screen_name=tomphillipsin&tw_p=followbutton&variant=2.0">twitter.com/intent/follow</a> via @tomphillipsin (2014年01月15日 15:42)
+ ---
 RT @ioerror: One year without Aaron. Impossible not to notice. Awful. (2014年01月14日 01:28)
  ---
 RT @pjmooney: Q&amp;A: Is China getting tougher on foreign journalists? Bob Dietz and Paul Mooney <a href="http://www.globalpost.com/dispatch/news/regions/asia-pacific/china/140110/china-foreign-media-q-%2526-a">www.globalpost.com/dispatch/news/regions/asia-pacific/china/140110/china-foreign-media-q-%26-a</a> (2014年01月14日 00:59)
@@ -49,6 +51,4 @@ RT @KenRoth: The @Guardian is apparently so subversive that #China blocks it wit
 @ulywang @yifanxxx then they have unnecessarily killed off a lot of poultry (2014年01月08日 18:36)
  ---
 No rhyme nor reason RT @yifanxxx: FT Chinese publishes a Dalai Lama interview today, and The Guardian gets blocked. Why?! (2014年01月08日 17:56)
- ---
-@arusbridger Alan we can unblock the site and keep it unblocked - will also allow US military personnel to read. We did it for Reuters. (2014年01月08日 16:31)
  ---
