@@ -14,7 +14,7 @@
 ## 新闻
 "中移动：除夕刷微博免流量费"  微博大量被屏蔽。哪里敏感了？ <a href="https://freeweibo.com/weibo/%E4%B8%AD%E7%A7%BB%E5%8A%A8">freeweibo.com/weibo/中移动</a> (2014年01月16日 11:42)
  ---
-RT @suilee: Ugh. No Cui Jian at this yr's Spring Gala cos "we can't change lyrics".  <a href="HTTP://http:////www-nc.nytimes.com/2014/01/15/spring-gala-performance-by-chinese-rock-icon-in-doubt/?=smid=tw-share&_r=6&">http////www-nc.nytimes.com/2014/01/15/spring-gala-performance-by-chinese-rock-icon-in-doubt/</a> (2014年01月16日 02:12)
+RT @suilee: Ugh. No Cui Jian at this yr's Spring Gala cos "we can't change lyrics".  <a href="http://sinosphere.blogs.nytimes.com/2014/01/15/spring-gala-performance-by-chinese-rock-icon-in-doubt/?smid=tw-share">sinosphere.blogs.nytimes.com/2014/01/15/spring-gala-performance-by-chinese-rock-icon-in-doubt/</a> (2014年01月16日 02:12)
  ---
 “You will be detained if you demand baozi” <a href="http://www.telegraph.co.uk/news/worldnews/asia/china/10570286/Chinese-protesters-use-steamed-buns-to-voice-anger.html">www.telegraph.co.uk/news/worldnews/asia/china/10570286/Chinese-protesters-use-steamed-buns-to-voice-anger.html</a> via @tomphillipsin (2014年01月15日 15:57)
  ---
