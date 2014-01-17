@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+[微博VPN上线] 开业酬宾。 100元／年 <a href="https://s3.amazonaws.com/weibovpn/index.html">s3.amazonaws.com/weibovpn/index.html</a> 自由微博提供。 (2014年01月17日 09:34)
+ ---
 "中移动：除夕刷微博免流量费"  微博大量被屏蔽。哪里敏感了？ <a href="https://freeweibo.com/weibo/%E4%B8%AD%E7%A7%BB%E5%8A%A8">freeweibo.com/weibo/中移动</a> (2014年01月16日 11:42)
  ---
 RT @suilee: Ugh. No Cui Jian at this yr's Spring Gala cos "we can't change lyrics".  <a href="HTTP://http:////www-nc.nytimes.com/2014/01/15/spring-gala-performance-by-chinese-rock-icon-in-doubt/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&">http////www-nc.nytimes.com/2014/01/15/spring-gala-performance-by-chinese-rock-icon-in-doubt/</a> (2014年01月16日 02:12)
@@ -49,6 +51,4 @@ Guardian website unblocked in China after users reported access was denied <a hr
 Breaking News: The Guardian unblocked in China. <a href="https://en.greatfire.org/www.theguardian.com">en.greatfire.org/www.theguardian.com</a> (2014年01月09日 16:16)
  ---
 @OsloFF @guardian not certain this was reason site was blocked. Nobody knows real reason right now. Could be about a future story. (2014年01月09日 01:20)
- ---
-RT @KenRoth: The @Guardian is apparently so subversive that #China blocks it without even a sensitive China story to blame. #fear http://t.… (2014年01月09日 01:18)
  ---
