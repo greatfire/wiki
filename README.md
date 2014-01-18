@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+Official police weibo publishes pro-gay images <a href="https://freeweibo.com/weibo/3667716006103212">freeweibo.com/weibo/3667716006103212</a> (2014年01月18日 10:50)
+ ---
 [微博VPN上线] 开业酬宾。 100元／年 <a href="https://s3.amazonaws.com/weibovpn/index.html">s3.amazonaws.com/weibovpn/index.html</a> 自由微博提供。 (2014年01月17日 09:34)
  ---
 "中移动：除夕刷微博免流量费"  微博大量被屏蔽。哪里敏感了？ <a href="https://freeweibo.com/weibo/%E4%B8%AD%E7%A7%BB%E5%8A%A8">freeweibo.com/weibo/中移动</a> (2014年01月16日 11:42)
@@ -49,6 +51,4 @@ Guardian website unblocked in China after users reported access was denied <a hr
 卫报今天解封了 <a href="https://zh.greatfire.org/www.theguardian.com">zh.greatfire.org/www.theguardian.com</a> 一共封了两天。 (2014年01月09日 16:24)
  ---
 Breaking News: The Guardian unblocked in China. <a href="https://en.greatfire.org/www.theguardian.com">en.greatfire.org/www.theguardian.com</a> (2014年01月09日 16:16)
- ---
-@OsloFF @guardian not certain this was reason site was blocked. Nobody knows real reason right now. Could be about a future story. (2014年01月09日 01:20)
  ---
