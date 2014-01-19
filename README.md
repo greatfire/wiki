@@ -12,6 +12,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+关于COS国产移动系统，请阅读以往的“中国自主产权”的汉芯 <a href="https://zh.wikipedia.org/wiki/%E6%B1%89%E8%8A%AF">zh.wikipedia.org/wiki/汉芯</a> (2014年01月19日 14:03)
+ ---
 中国建造第二艘航母消息在微博被大量审查。 <a href="https://freeweibo.com/weibo/%E8%88%AA%E6%AF%8D">freeweibo.com/weibo/航母</a> (2014年01月19日 09:42)
  ---
 News about the construction of the 2nd aircraft carrier censored on weibo <a href="https://freeweibo.com/weibo/%E8%88%AA%E6%AF%8D">freeweibo.com/weibo/航母</a> (2014年01月19日 09:30)
@@ -49,6 +51,4 @@ Guardian website unblocked in China after users reported access was denied <a hr
 @KatrinaHamlin by the powers that be, of course! (2014年01月09日 18:48)
  ---
 @mgerrydoyle @eldestran it is completely unblocked. Every page accessible at moment for all users in China. Still blocked for US military (2014年01月09日 18:48)
- ---
-@altontw Alton the latest tests show the site is unblocked. The 53% is an indication of the number of tests that have been done in past 90d (2014年01月09日 18:46)
  ---
