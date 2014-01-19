@@ -12,6 +12,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
+中国建造第二艘航母消息在微博被大量审查。 <a href="https://freeweibo.com/weibo/%E8%88%AA%E6%AF%8D">freeweibo.com/weibo/航母</a> (2014年01月19日 09:42)
+ ---
+News about the construction of the 2nd aircraft carrier censored on weibo <a href="https://freeweibo.com/weibo/%E8%88%AA%E6%AF%8D">freeweibo.com/weibo/航母</a> (2014年01月19日 09:30)
+ ---
 Official police weibo publishes pro-gay images <a href="https://freeweibo.com/weibo/3667716006103212">freeweibo.com/weibo/3667716006103212</a> (2014年01月18日 10:50)
  ---
 [微博VPN上线] 开业酬宾。 100元／年 <a href="https://s3.amazonaws.com/weibovpn/index.html">s3.amazonaws.com/weibovpn/index.html</a> 自由微博提供。 (2014年01月17日 09:34)
@@ -47,8 +51,4 @@ Guardian website unblocked in China after users reported access was denied <a hr
 @mgerrydoyle @eldestran it is completely unblocked. Every page accessible at moment for all users in China. Still blocked for US military (2014年01月09日 18:48)
  ---
 @altontw Alton the latest tests show the site is unblocked. The 53% is an indication of the number of tests that have been done in past 90d (2014年01月09日 18:46)
- ---
-卫报今天解封了 <a href="https://zh.greatfire.org/www.theguardian.com">zh.greatfire.org/www.theguardian.com</a> 一共封了两天。 (2014年01月09日 16:24)
- ---
-Breaking News: The Guardian unblocked in China. <a href="https://en.greatfire.org/www.theguardian.com">en.greatfire.org/www.theguardian.com</a> (2014年01月09日 16:16)
  ---
