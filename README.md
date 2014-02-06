@@ -6,7 +6,7 @@
 * 中国数字时代：https://s3.amazonaws.com/cdtimes/index.html
 
 ## 订阅 email
-* <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
+* <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
 RT @carlbildt: This morning I finally managed to get hold of a VPN to break through the cyber barriers for Twitter here in Iran! That's wha… (2014年02月05日 22:41)
