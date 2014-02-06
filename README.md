@@ -9,6 +9,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @gadyepstein: @KaiserKuo My point is you're discounting too much the unmet desire for political engagement—a desire which of course is f… (2014年02月07日 00:23)
+ ---
+RT @niubi: @pmarca Freer dissemination of news disintermediates Marxist-Leninist propaganda apparatus. Party set on re-seizing commanding h… (2014年02月07日 00:20)
+ ---
 RT @carlbildt: This morning I finally managed to get hold of a VPN to break through the cyber barriers for Twitter here in Iran! That's wha… (2014年02月05日 22:41)
  ---
 王功权微博帐号被删除 <a href="https://s3.amazonaws.com/freeweibo/index.html?u=weibo/%40%E7%9B%8A%E8%A5%BF%E9%9B%8D%E4%BB%B2">s3.amazonaws.com/freeweibo/index.html</a> (2014年02月05日 10:55)
@@ -44,8 +48,4 @@ WeChat / Weixin is neither a censorship-free nor a surveillance-free platform <a
 @JJLukose we have a few blog posts on that subject <a href="https://en.greatfire.org/news/blog">en.greatfire.org/news/blog</a> (2014年01月30日 06:44)
  ---
 @jkbloodtreasure @niubi Would major media cos. choose unfettered online access to Chinese netizens but no journos on ground - or contrary? (2014年01月29日 15:37)
- ---
-@变态辣椒 被删号。 微博存档 <a href="https://freeweibo.com/weibo/%40%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92?latest">freeweibo.com/weibo/@变态辣椒</a> (2014年01月29日 11:39)
- ---
-法学院五学者：为什么我们认为他无罪  <a href="https://s3.amazonaws.com/cdtimes/index.html?u=chinese/2014/01/%E5%8F%82%E4%B8%8E%EF%BD%9C%E6%B3%95%E5%AD%A6%E9%99%A2%E4%BA%94%E5%AD%A6%E8%80%85%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%AE%A4%E4%B8%BA%E4%BB%96%E6%97%A0%E7%BD%AA/">s3.amazonaws.com/cdtimes/index.html</a> 墙内镜像 (2014年01月29日 11:09)
  ---
