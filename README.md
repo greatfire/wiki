@@ -2,53 +2,50 @@
 
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
-* 自由微博：
- * https://s3.amazonaws.com/freeweibo/index.html
- * https://ps5.azurewebsites.net
+* 自由微博：https://s3.amazonaws.com/freeweibo/index.html
 * 中国数字时代：https://s3.amazonaws.com/cdtimes/index.html
-* 路透中文网：https://s3.amazonaws.com/cn.reuters/index.html
 
 ## 订阅 email
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和大火邮件订阅</a>
 		
 ## 新闻
-关于COS国产移动系统，请阅读以往的“中国自主产权”的汉芯 <a href="https://zh.wikipedia.org/wiki/%E6%B1%89%E8%8A%AF">zh.wikipedia.org/wiki/汉芯</a> (2014年01月19日 14:03)
+RT @carlbildt: This morning I finally managed to get hold of a VPN to break through the cyber barriers for Twitter here in Iran! That's wha… (2014年02月05日 22:41)
  ---
-中国建造第二艘航母消息在微博被大量审查。 <a href="https://freeweibo.com/weibo/%E8%88%AA%E6%AF%8D">freeweibo.com/weibo/航母</a> (2014年01月19日 09:42)
+王功权微博帐号被删除 <a href="https://s3.amazonaws.com/freeweibo/index.html?u=weibo/%40%E7%9B%8A%E8%A5%BF%E9%9B%8D%E4%BB%B2">s3.amazonaws.com/freeweibo/index.html</a> (2014年02月05日 10:55)
  ---
-News about the construction of the 2nd aircraft carrier censored on weibo <a href="https://freeweibo.com/weibo/%E8%88%AA%E6%AF%8D">freeweibo.com/weibo/航母</a> (2014年01月19日 09:30)
+据悉，上月中国断网事件可能是GFW污染自由微博镜像的后台引起<a href="https://s3.amazonaws.com/freeweibo/index.html">s3.amazonaws.com/freeweibo/index.html</a>，因为后台地址自动更换，导致GFW的DNS污染系统过载。 现在GFW已经停止自动污染自由微博镜像后台了。 (2014年02月03日 11:10)
  ---
-Official police weibo publishes pro-gay images <a href="https://freeweibo.com/weibo/3667716006103212">freeweibo.com/weibo/3667716006103212</a> (2014年01月18日 10:50)
+[Trivia] U.S. National Park Service has been intentionally blocked in China for years. <a href="https://en.greatfire.org/nps.gov">en.greatfire.org/nps.gov</a> Why? (2014年02月03日 04:39)
  ---
-[微博VPN上线] 开业酬宾。 100元／年 <a href="https://s3.amazonaws.com/weibovpn/index.html">s3.amazonaws.com/weibovpn/index.html</a> 自由微博提供。 (2014年01月17日 09:34)
+RT @Herdict: Trouble building your own censored Internet? China can help.  Like the Ghostbusters of online freedom <a href="http://www.usnews.com/opinion/blogs/world-report/2014/01/30/china-is-exporting-internet-censorship-to-iran">www.usnews.com/opinion/blogs/world-report/2014/01/30/china-is-exporting-internet-censorship-to-iran</a> (2014年02月01日 01:25)
  ---
-"中移动：除夕刷微博免流量费"  微博大量被屏蔽。哪里敏感了？ <a href="https://freeweibo.com/weibo/%E4%B8%AD%E7%A7%BB%E5%8A%A8">freeweibo.com/weibo/中移动</a> (2014年01月16日 11:42)
+RT @eldestran: The Times said in a statement that Mr. Ramzy had relocated outside of China.... Uhhh Taiwan? <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F01%2F31%2Fworld%2Fasia%2Fwhite-house-urges-china-to-act-on-journalists-visas.html%3Fsmid%3Dtw-share%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年02月01日 01:21)
  ---
-RT @suilee: Ugh. No Cui Jian at this yr's Spring Gala cos "we can't change lyrics".  <a href="HTTP://http:////www-nc.nytimes.com/2014/01/15/spring-gala-performance-by-chinese-rock-icon-in-doubt/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&">http////www-nc.nytimes.com/2014/01/15/spring-gala-performance-by-chinese-rock-icon-in-doubt/</a> (2014年01月16日 02:12)
+"Chinese authorities have focused on instilling fear in some of the people who made Weibo special." <a href="http://www.foreignpolicy.com/articles/2014/01/30/whisper_together_death_of_weibo">www.foreignpolicy.com/articles/2014/01/30/whisper_together_death_of_weibo</a> (2014年02月01日 01:14)
  ---
-“You will be detained if you demand baozi” <a href="http://www.telegraph.co.uk/news/worldnews/asia/china/10570286/Chinese-protesters-use-steamed-buns-to-voice-anger.html">www.telegraph.co.uk/news/worldnews/asia/china/10570286/Chinese-protesters-use-steamed-buns-to-voice-anger.html</a> via @tomphillipsin (2014年01月15日 15:57)
+FreeWeibo nominated for Digital Activism Award <a href="http://www.rnw.org/story/freeweibo-nominated-digital-activism-award">www.rnw.org/story/freeweibo-nominated-digital-activism-award</a> (2014年01月31日 13:32)
  ---
-RT @ioerror: One year without Aaron. Impossible not to notice. Awful. (2014年01月14日 01:28)
+GFW没有DNS污染ICIJ。 GFW使用关键词封锁了13个媒体，却没有DNS污染原爆料者ICIJ。机密文件披露中国精英的海外资产  <a href="https://www.icij.org/sites/icij/files/content/icij-chinaleaks-mandarin.pdf">www.icij.org/sites/icij/files/content/icij-chinaleaks-mandarin.pdf</a> 难道是断网事故以后GFW慎用DNS污染了？ (2014年01月31日 12:19)
  ---
-RT @pjmooney: Q&amp;A: Is China getting tougher on foreign journalists? Bob Dietz and Paul Mooney <a href="http://www.globalpost.com/dispatch/news/regions/asia-pacific/china/140110/china-foreign-media-q-%2526-a">www.globalpost.com/dispatch/news/regions/asia-pacific/china/140110/china-foreign-media-q-%26-a</a> (2014年01月14日 00:59)
+RT @jamesrbuk: BTW: <a href="http://www.theguardian.com/us">www.theguardian.com/us</a> is still blocked in China – <a href="https://en.greatfire.org/www.theguardian.com">en.greatfire.org/www.theguardian.com</a> (2014年01月31日 02:50)
  ---
-RT @shorttelegrams: GoogleBlog: A new approach to China <a href="http://googleblog.blogspot.com/2010/01/new-approach-to-china.html">googleblog.blogspot.com/2010/01/new-approach-to-china.html</a> &lt;--4 yrs ago today, citing @Nartv and @USCC_GOV. #OldDays (2014年01月13日 22:11)
+@jayjamescarter @ScottIU @niubi @emilydparker @DavidBarboza2 again, unnecessary escalation and recipe for Cold War. (2014年01月31日 02:40)
  ---
-Is Pakistan making moves to implement China-like Great Firewall? <a href="http://www.aljazeera.com/indepth/opinion/2014/01/big-brother-curtailing-net-freedom-south-asia-20141544556701717.html?fb_action_ids=10152154036802095&fb_action_types=og.likes&fb_source=other_multiline&action_object_map=[560998733970264]&action_type_map=["og.likes"]&action_ref_map=[]&utm_content=bufferdced6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.aljazeera.com/indepth/opinion/2014/01/big-brother-curtailing-net-freedom-south-asia-20141544556701717.html</a> via @nighatdad (2014年01月13日 21:58)
+@ScottIU @niubi @emilydparker @DavidBarboza2 this really sends the wrong message Scott - it will just escalate then (2014年01月31日 02:34)
  ---
-In China, journos complain that more of their stories are being censored than in the past <a href="http://www.washingtonpost.com/world/chinese-journalists-face-tighter-censorship-marxist-re-training/2014/01/10/6cd43f62-6893-11e3-8b5b-a77187b716a3_story.html?utm_content=buffer0a711&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.washingtonpost.com/world/chinese-journalists-face-tighter-censorship-marxist-re-training/2014/01/10/6cd43f62-6893-11e3-8b5b-a77187b716a3_story.html</a> (2014年01月13日 16:58)
+@niubi @ScottIU @emilydparker @DavidBarboza2 no more whining! Unblock every blocked media site, all at the same time then gauge reaction (2014年01月31日 02:33)
  ---
-RT @horwitzjosh: Can’t access Youku in Taiwan, getting frustrated - those proverbial tables, they’ve proverbially turned... (2014年01月13日 16:36)
+White House urges China to unblock U.S. media websites <a href="http://www.whitehouse.gov/the-press-office/2014/01/30/statement-press-secretary-jay-carney-freedom-press-china">www.whitehouse.gov/the-press-office/2014/01/30/statement-press-secretary-jay-carney-freedom-press-china</a> (2014年01月31日 02:29)
  ---
-.@KenRoth from @hrw shames Chinese govt on @StephenAtHome Colbert w/ Liu Xiaobo and Mandela mentions <a href="http://www.colbertnation.com/the-colbert-report-videos/431862/january-06-2014/ken-roth">www.colbertnation.com/the-colbert-report-videos/431862/january-06-2014/ken-roth</a> (2014年01月12日 20:51)
+RT @remonwangxt: 墙内全面封杀，迫使我改变方式，今后时政漫画只在墙外发布。目前就用这个微博账号了：@辣椒他二舅  只有一个请求，希望大家关注即可，不必推转时点破身份，以免再次失踪。吐槽春晚，即将到来的日本访问感受，都会及时和大家分享，有在东京或京都的朋友，希望有… (2014年01月30日 13:40)
  ---
-GFW devices are custom made and built to run efficient string matching <a href="http://blockedonweibo.tumblr.com/post/72871268045/comments-and-takeaways-from-xia-chus-complete-gfw">blockedonweibo.tumblr.com/post/72871268045/comments-and-takeaways-from-xia-chus-complete-gfw</a> via @SummerAgony and @jasonqng (2014年01月12日 20:33)
+WeChat / Weixin is neither a censorship-free nor a surveillance-free platform <a href="http://blog.kawo.com/post/74900231885/wechat-were-not-as-alone-as-we-think">blog.kawo.com/post/74900231885/wechat-were-not-as-alone-as-we-think</a> via @KAWO (2014年01月30日 06:48)
  ---
-RT @comradewong: Wash Post story about China visa issues for NYT says no word on visas for Philip Pan &amp; Chris Buckley. <a href="http://t.co/tgCkhStv">t.co/tgCkhStv</a>… (2014年01月10日 00:55)
+@JJLukose we have a few blog posts on that subject <a href="https://en.greatfire.org/news/blog">en.greatfire.org/news/blog</a> (2014年01月30日 06:44)
  ---
-Guardian website unblocked in China after users reported access was denied <a href="http://www.theguardian.com/world/2014/jan/09/guardian-website-unblocked-china?CMP=twt_gu">www.theguardian.com/world/2014/jan/09/guardian-website-unblocked-china</a> via @taniabranigan (2014年01月09日 20:04)
+@jkbloodtreasure @niubi Would major media cos. choose unfettered online access to Chinese netizens but no journos on ground - or contrary? (2014年01月29日 15:37)
  ---
-@KatrinaHamlin by the powers that be, of course! (2014年01月09日 18:48)
+@变态辣椒 被删号。 微博存档 <a href="https://freeweibo.com/weibo/%40%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92?latest">freeweibo.com/weibo/@变态辣椒</a> (2014年01月29日 11:39)
  ---
-@mgerrydoyle @eldestran it is completely unblocked. Every page accessible at moment for all users in China. Still blocked for US military (2014年01月09日 18:48)
+法学院五学者：为什么我们认为他无罪  <a href="https://s3.amazonaws.com/cdtimes/index.html?u=chinese/2014/01/%E5%8F%82%E4%B8%8E%EF%BD%9C%E6%B3%95%E5%AD%A6%E9%99%A2%E4%BA%94%E5%AD%A6%E8%80%85%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%AE%A4%E4%B8%BA%E4%BB%96%E6%97%A0%E7%BD%AA/">s3.amazonaws.com/cdtimes/index.html</a> 墙内镜像 (2014年01月29日 11:09)
  ---
