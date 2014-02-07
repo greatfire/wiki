@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @RTKcn: 19+ RT @289474268: 翻墙后第一次接触到8964这类的信息，脑子里一片空白，看着百度显示的“根据相关法律法规和政策，部分搜索结果未予显示。”突然觉得自己像是一只蚂蚁，该抬头看看这个世界了 (2014年02月07日 11:47)
+ ---
 外媒网陷入中式困境 <a href="https://pao-pao.net/article/24">pao-pao.net/article/24</a> (2014年02月07日 11:38)
  ---
 RT @gadyepstein: @KaiserKuo My point is you're discounting too much the unmet desire for political engagement—a desire which of course is f… (2014年02月07日 00:23)
@@ -46,6 +48,4 @@ White House urges China to unblock U.S. media websites <a href="http://www.white
 RT @remonwangxt: 墙内全面封杀，迫使我改变方式，今后时政漫画只在墙外发布。目前就用这个微博账号了：@辣椒他二舅  只有一个请求，希望大家关注即可，不必推转时点破身份，以免再次失踪。吐槽春晚，即将到来的日本访问感受，都会及时和大家分享，有在东京或京都的朋友，希望有… (2014年01月30日 13:40)
  ---
 WeChat / Weixin is neither a censorship-free nor a surveillance-free platform <a href="http://blog.kawo.com/post/74900231885/wechat-were-not-as-alone-as-we-think">blog.kawo.com/post/74900231885/wechat-were-not-as-alone-as-we-think</a> via @KAWO (2014年01月30日 06:48)
- ---
-@JJLukose we have a few blog posts on that subject <a href="https://en.greatfire.org/news/blog">en.greatfire.org/news/blog</a> (2014年01月30日 06:44)
  ---
