@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+外媒网陷入中式困境 <a href="https://pao-pao.net/article/24">pao-pao.net/article/24</a> (2014年02月07日 11:38)
+ ---
 RT @gadyepstein: @KaiserKuo My point is you're discounting too much the unmet desire for political engagement—a desire which of course is f… (2014年02月07日 00:23)
  ---
 RT @niubi: @pmarca Freer dissemination of news disintermediates Marxist-Leninist propaganda apparatus. Party set on re-seizing commanding h… (2014年02月07日 00:20)
@@ -46,6 +48,4 @@ RT @remonwangxt: 墙内全面封杀，迫使我改变方式，今后时政漫画
 WeChat / Weixin is neither a censorship-free nor a surveillance-free platform <a href="http://blog.kawo.com/post/74900231885/wechat-were-not-as-alone-as-we-think">blog.kawo.com/post/74900231885/wechat-were-not-as-alone-as-we-think</a> via @KAWO (2014年01月30日 06:48)
  ---
 @JJLukose we have a few blog posts on that subject <a href="https://en.greatfire.org/news/blog">en.greatfire.org/news/blog</a> (2014年01月30日 06:44)
- ---
-@jkbloodtreasure @niubi Would major media cos. choose unfettered online access to Chinese netizens but no journos on ground - or contrary? (2014年01月29日 15:37)
  ---
