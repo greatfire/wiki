@@ -9,7 +9,7 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
-自由微博镜像网站URL更新<a href="https://s3.amazonaws.com/freeweibo./index.html">s3.amazonaws.com/freeweibo./index.html</a> 中国数字时代 <a href="https://s3.amazonaws.com/cdtimes./index.html">s3.amazonaws.com/cdtimes./index.html</a> (2014年02月08日 13:00)
+因为技术原因，旧镜像地址已经无法访问。请使用新地址。请大家帮忙转发。 自由微博 <a href="https://s3.amazonaws.com/freeweibo./index.html">s3.amazonaws.com/freeweibo./index.html</a>，中国数字时代 <a href="https://s3.amazonaws.com/cdtimes./index.html">s3.amazonaws.com/cdtimes./index.html</a> (2014年02月08日 15:02)
  ---
 Good read: 100s of active Internet users were detained/arrested following China crackdown on social media  <a href="http://www.jamestown.org/programs/chinabrief/single/?tx_ttnews[tt_news]=41934&tx_ttnews[backPid]=25&cHash=7346b007e095a59e5d950667471065bb#.UvUX8kJ_sU5">www.jamestown.org/programs/chinabrief/single/</a> (2014年02月08日 02:07)
  ---
