@@ -39,7 +39,7 @@ RT @eldestran: The Times said in a statement that Mr. Ramzy had relocated outsid
  ---
 FreeWeibo nominated for Digital Activism Award <a href="http://www.rnw.org/story/freeweibo-nominated-digital-activism-award">www.rnw.org/story/freeweibo-nominated-digital-activism-award</a> (2014年01月31日 13:32)
  ---
-GFW没有DNS污染ICIJ。 GFW使用关键词封锁了13个媒体，却没有DNS污染原爆料者ICIJ。机密文件披露中国精英的海外资产  <a href="https://t.co/W4MorePl47">t.co/W4MorePl47</a> 难道是断网事故以后GFW慎用DNS污染了？ (2014年01月31日 12:19)
+GFW没有DNS污染ICIJ。 GFW使用关键词封锁了13个媒体，却没有DNS污染原爆料者ICIJ。机密文件披露中国精英的海外资产  <a href="https://www.icij.org/sites/icij/files/content/icij-chinaleaks-mandarin.pdf">www.icij.org/sites/icij/files/content/icij-chinaleaks-mandarin.pdf</a> 难道是断网事故以后GFW慎用DNS污染了？ (2014年01月31日 12:19)
  ---
 RT @jamesrbuk: BTW: <a href="http://www.theguardian.com/us">www.theguardian.com/us</a> is still blocked in China – <a href="https://en.greatfire.org/www.theguardian.com">en.greatfire.org/www.theguardian.com</a> (2014年01月31日 02:50)
  ---
