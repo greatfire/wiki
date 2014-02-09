@@ -33,7 +33,7 @@ RT @carlbildt: This morning I finally managed to get hold of a VPN to break thro
  ---
 RT @Herdict: Trouble building your own censored Internet? China can help.  Like the Ghostbusters of online freedom <a href="http://www.usnews.com/opinion/blogs/world-report/2014/01/30/china-is-exporting-internet-censorship-to-iran">www.usnews.com/opinion/blogs/world-report/2014/01/30/china-is-exporting-internet-censorship-to-iran</a> (2014年02月01日 01:25)
  ---
-RT @eldestran: The Times said in a statement that Mr. Ramzy had relocated outside of China.... Uhhh Taiwan? <a href="http://www.nytimes.com/2014/01/31/world/asia/white-house-urges-china-to-act-on-journalists-visas.html?smid=tw-share">www.nytimes.com/2014/01/31/world/asia/white-house-urges-china-to-act-on-journalists-visas.html</a> (2014年02月01日 01:21)
+RT @eldestran: The Times said in a statement that Mr. Ramzy had relocated outside of China.... Uhhh Taiwan? <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F01%2F31%2Fworld%2Fasia%2Fwhite-house-urges-china-to-act-on-journalists-visas.html%3Fsmid%3Dtw-share%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年02月01日 01:21)
  ---
 "Chinese authorities have focused on instilling fear in some of the people who made Weibo special." <a href="http://www.foreignpolicy.com/articles/2014/01/30/whisper_together_death_of_weibo">www.foreignpolicy.com/articles/2014/01/30/whisper_together_death_of_weibo</a> (2014年02月01日 01:14)
  ---
