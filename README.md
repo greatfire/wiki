@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Another lie: Bing says they fixed bug in 2009 on censored image search in response to @NickKristof - search 法轮功 <a href="http://www.bing.com/blogs/site_blogs/b/search/archive/2009/11/21/committed-to-comprehensive-results.aspx?utm_content=bufferd372a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.bing.com/blogs/site_blogs/b/search/archive/2009/11/21/committed-to-comprehensive-results.aspx</a> (2014年02月13日 00:18)
+ ---
 .@satyanadella facing first major test as Microsoft CEO over global Bing censorship of China-related issues: <a href="http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/10632400/Microsoft-accused-of-censoring-Chinese-language-search.html?utm_content=buffer52c48&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/10632400/Microsoft-accused-of-censoring-Chinese-language-search.html</a> (2014年02月13日 00:02)
  ---
 The more things change... Bing promoting Chinese propaganda overseas first highlighted by @NickKristof in 2009 <a href="HTTP://http:////www-nc.nytimes.com/2009/11/20/boycott-microsoft-bing/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2009/11/20/boycott-microsoft-bing/</a> (2014年02月12日 23:38)
@@ -46,6 +48,4 @@ RT @janet_ddr: @GreatFireChina @iaskfq 看完文章了，微软确实没节操�
 RT @PhelimKine: Advocacy group alleges #Microsoft Bing implements global #censorship of searches which displease #China's govt http://t.co/… (2014年02月12日 02:53)
  ---
 Bing making sure customers worldwide protected from information that China deems to be negative: <a href="https://en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally">en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> (2014年02月11日 23:51)
- ---
-Bing practicing Chinese censorship globally - our latest research, just published: <a href="https://en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally">en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> (2014年02月11日 23:06)
  ---
