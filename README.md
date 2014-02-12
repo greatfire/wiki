@@ -9,6 +9,14 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+@28481k The desktop version is censored. <a href="https://twitter.com/GreatFireChina/status/433661448540020736/photo/1">twitter.com/GreatFireChina/status/433661448540020736/photo/1</a> (2014年02月13日 01:58)
+ ---
+Microsoft has not responded directly to wider allegations of censorship on all global versions of Bing: <a href="http://www.theverge.com/2014/2/12/5403862/microsoft-denies-censoring-worldwide-bing-results-in-chinese?utm_content=bufferaec7a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.theverge.com/2014/2/12/5403862/microsoft-denies-censoring-worldwide-bing-results-in-chinese</a> (2014年02月13日 01:57)
+ ---
+Click <a href="https://www.bing.com/search?q=%E8%87%AA%E7%94%B1%E9%97%A8&mkt=zh-CN">www.bing.com/search</a> to test for yourself whether Bing is censored in U.S (2014年02月13日 01:52)
+ ---
+Microsoft blames 'system error' but denies censoring Chinese search results <a href="http://www.theguardian.com/technology/2014/feb/12/microsoft-bing-censor-chinese-search-results-system-error#start-of-comments">www.theguardian.com/technology/2014/feb/12/microsoft-bing-censor-chinese-search-results-system-error</a> (2014年02月13日 01:50)
+ ---
 Another lie: Bing says they fixed bug in 2009 on censored image search in response to @NickKristof - search 法轮功 <a href="http://www.bing.com/blogs/site_blogs/b/search/archive/2009/11/21/committed-to-comprehensive-results.aspx?utm_content=bufferd372a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.bing.com/blogs/site_blogs/b/search/archive/2009/11/21/committed-to-comprehensive-results.aspx</a> (2014年02月13日 00:18)
  ---
 .@satyanadella facing first major test as Microsoft CEO over global Bing censorship of China-related issues: <a href="http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/10632400/Microsoft-accused-of-censoring-Chinese-language-search.html?utm_content=buffer52c48&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/10632400/Microsoft-accused-of-censoring-Chinese-language-search.html</a> (2014年02月13日 00:02)
@@ -40,12 +48,4 @@ RT @janet_ddr: @GreatFireChina @iaskfq 看完文章了，微软确实没节操�
 @j8feng @akid_  ”八九六四“确实没有。 但其他搜索词汇有比如自由微博，达赖喇嘛。 见我们的测试表格。<a href="https://zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally">zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> (2014年02月12日 13:56)
  ---
 @ivovic @juhasaarinen Our FreeWeibo website index is in Chinese. <a href="https://freeweibo.com/">freeweibo.com/</a> Google's results are all in Chinese too. (2014年02月12日 13:55)
- ---
-@juhasaarinen @ivovic No.Chinese site has a different logo. Even the Chinese site has servers in U.S, not China. <a href="https://en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally">en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> (2014年02月12日 13:51)
- ---
-［Bing在全球实行中国式审查］即使在美国使用Bing国际版进行搜索，搜索结果照样受中国政府命令进行审查。 <a href="https://zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally">zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> (2014年02月12日 12:17)
- ---
-RT @PhelimKine: Advocacy group alleges #Microsoft Bing implements global #censorship of searches which displease #China's govt http://t.co/… (2014年02月12日 02:53)
- ---
-Bing making sure customers worldwide protected from information that China deems to be negative: <a href="https://en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally">en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> (2014年02月11日 23:51)
  ---
