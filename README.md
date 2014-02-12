@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Bing’s Chinese search result ‘glitch’ still reeks of censorship <a href="http://qz.com/176380/bings-chinese-search-result-glitch-still-reeks-of-censorship/">qz.com/176380/bings-chinese-search-result-glitch-still-reeks-of-censorship/</a> (2014年02月13日 05:15)
+ ---
 Bing's govt-set censorship filters outside of China ominous extension of Great Firewall’s reach: <a href="http://qz.com/176048/is-microsofts-bing-spreading-the-chinese-governments-censorship-around-the-world/?utm_content=bufferfc2e4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">qz.com/176048/is-microsofts-bing-spreading-the-chinese-governments-censorship-around-the-world/</a> via @sinoceros (2014年02月13日 04:03)
  ---
 [Animation]Bing censoring Chinese language search results in US.  
@@ -48,6 +50,4 @@ LOL: Microsoft China won't respond to Bing claims b/c we "made too many points i
 @chadcat Try this finding <a href="https://www.bing.com/search?q=%E8%87%AA%E7%94%B1%E9%97%A8&mkt=zh-CN">www.bing.com/search</a> You have to include the mkt=zh-CN in this search term. Some other terms don't (2014年02月12日 17:46)
  ---
 @haroldthibault @Microsoft @bing they are censoring negative search results about China everywhere in the world, including France (2014年02月12日 17:45)
- ---
-Microsoft now claims "technical error" on Bing Chinese censorship. This is simply not true. Our response: <a href="https://en.greatfire.org/blog/2014/feb/no-error-here-microsoft-deploying-chinese-censorship-global-scale">en.greatfire.org/blog/2014/feb/no-error-here-microsoft-deploying-chinese-censorship-global-scale</a> (2014年02月12日 17:04)
  ---
