@@ -9,6 +9,12 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+@j8feng @akid_  ”八九六四“确实没有。 但其他搜索词汇有比如自由微博，达赖喇嘛。 见我们的测试表格。<a href="https://zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally">zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> (2014年02月12日 13:56)
+ ---
+@ivovic @juhasaarinen Our FreeWeibo website index is in Chinese. <a href="https://freeweibo.com/">freeweibo.com/</a> Google's results are all in Chinese too. (2014年02月12日 13:55)
+ ---
+@juhasaarinen @ivovic No.Chinese site has a different logo. Even the Chinese site has servers in U.S, not China. <a href="https://en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally">en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> (2014年02月12日 13:51)
+ ---
 ［Bing在全球实行中国式审查］即使在美国使用Bing国际版进行搜索，搜索结果照样受中国政府命令进行审查。 <a href="https://zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally">zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> (2014年02月12日 12:17)
  ---
 RT @PhelimKine: Advocacy group alleges #Microsoft Bing implements global #censorship of searches which displease #China's govt http://t.co/… (2014年02月12日 02:53)
@@ -42,10 +48,4 @@ RT @carlbildt: This morning I finally managed to get hold of a VPN to break thro
 [Trivia] U.S. National Park Service has been intentionally blocked in China for years. <a href="https://en.greatfire.org/nps.gov">en.greatfire.org/nps.gov</a> Why? (2014年02月03日 04:39)
  ---
 RT @Herdict: Trouble building your own censored Internet? China can help.  Like the Ghostbusters of online freedom <a href="http://www.usnews.com/opinion/blogs/world-report/2014/01/30/china-is-exporting-internet-censorship-to-iran">www.usnews.com/opinion/blogs/world-report/2014/01/30/china-is-exporting-internet-censorship-to-iran</a> (2014年02月01日 01:25)
- ---
-RT @eldestran: The Times said in a statement that Mr. Ramzy had relocated outside of China.... Uhhh Taiwan? <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F01%2F31%2Fworld%2Fasia%2Fwhite-house-urges-china-to-act-on-journalists-visas.html%3Fsmid%3Dtw-share%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年02月01日 01:21)
- ---
-"Chinese authorities have focused on instilling fear in some of the people who made Weibo special." <a href="http://www.foreignpolicy.com/articles/2014/01/30/whisper_together_death_of_weibo">www.foreignpolicy.com/articles/2014/01/30/whisper_together_death_of_weibo</a> (2014年02月01日 01:14)
- ---
-FreeWeibo nominated for Digital Activism Award <a href="http://www.rnw.org/story/freeweibo-nominated-digital-activism-award">www.rnw.org/story/freeweibo-nominated-digital-activism-award</a> (2014年01月31日 13:32)
  ---
