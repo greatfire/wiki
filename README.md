@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+@28481k Indeed. Maybe we should clarify all our tests are done using standard web version. We'll look into mobile too. Thank you! (2014年02月13日 02:03)
+ ---
 @28481k The desktop version is censored. <a href="https://twitter.com/GreatFireChina/status/433661448540020736/photo/1">twitter.com/GreatFireChina/status/433661448540020736/photo/1</a> (2014年02月13日 01:58)
  ---
 Microsoft has not responded directly to wider allegations of censorship on all global versions of Bing: <a href="http://www.theverge.com/2014/2/12/5403862/microsoft-denies-censoring-worldwide-bing-results-in-chinese?utm_content=bufferaec7a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.theverge.com/2014/2/12/5403862/microsoft-denies-censoring-worldwide-bing-results-in-chinese</a> (2014年02月13日 01:57)
@@ -46,6 +48,4 @@ Microsoft now claims "technical error" on Bing Chinese censorship. This is simpl
 RT @janet_ddr: @GreatFireChina @iaskfq 看完文章了，微软确实没节操。做法应该是：部分敏感词汇如果在外国经常有人搜索的话，就不会被屏蔽。但搜索量没那么大的则是部分或严重屏蔽。这样一来，其实很有欺骗性，会让大部分人不容易感知到自己的搜索被审查。 (2014年02月12日 14:05)
  ---
 @j8feng @akid_  ”八九六四“确实没有。 但其他搜索词汇有比如自由微博，达赖喇嘛。 见我们的测试表格。<a href="https://zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally">zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> (2014年02月12日 13:56)
- ---
-@ivovic @juhasaarinen Our FreeWeibo website index is in Chinese. <a href="https://freeweibo.com/">freeweibo.com/</a> Google's results are all in Chinese too. (2014年02月12日 13:55)
  ---
