@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @claydube: Quick Bing search for 1989 天安门 and got govt sites, plus a couple sites for massacre. Also "some results removed" at bottom. @… (2014年02月12日 19:05)
+ ---
 LOL: Microsoft China won't respond to Bing claims b/c we "made too many points in our original statement" <a href="http://www.reuters.com/article/2014/02/12/microsoft-bing-censorship-idUSL3N0LH21C20140212?utm_content=bufferd4247&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.reuters.com/article/2014/02/12/microsoft-bing-censorship-idUSL3N0LH21C20140212</a> (2014年02月12日 18:01)
  ---
 @chadcat Try this finding <a href="https://www.bing.com/search?q=%E8%87%AA%E7%94%B1%E9%97%A8&mkt=zh-CN">www.bing.com/search</a> You have to include the mkt=zh-CN in this search term. Some other terms don't (2014年02月12日 17:46)
@@ -46,6 +48,4 @@ RT @RTKcn: 19+ RT @289474268: 翻墙后第一次接触到8964这类的信息，�
 外媒网陷入中式困境 <a href="https://pao-pao.net/article/24">pao-pao.net/article/24</a> (2014年02月07日 11:38)
  ---
 RT @gadyepstein: @KaiserKuo My point is you're discounting too much the unmet desire for political engagement—a desire which of course is f… (2014年02月07日 00:23)
- ---
-RT @niubi: @pmarca Freer dissemination of news disintermediates Marxist-Leninist propaganda apparatus. Party set on re-seizing commanding h… (2014年02月07日 00:20)
  ---
