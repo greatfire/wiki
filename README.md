@@ -9,6 +9,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+@sophistifunk @klustout @aral so any Chinese-speaking citizen of any nation should be subjected to Chinese censorship? this is unlikely (2014年02月12日 19:17)
+ ---
+@CasparBowden @jamesrbuk  the servers are in the US, even for China Bing - and copying the right Dominic @dominicru (2014年02月12日 19:12)
+ ---
 RT @claydube: Quick Bing search for 1989 天安门 and got govt sites, plus a couple sites for massacre. Also "some results removed" at bottom. @… (2014年02月12日 19:05)
  ---
 LOL: Microsoft China won't respond to Bing claims b/c we "made too many points in our original statement" <a href="http://www.reuters.com/article/2014/02/12/microsoft-bing-censorship-idUSL3N0LH21C20140212?utm_content=bufferd4247&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.reuters.com/article/2014/02/12/microsoft-bing-censorship-idUSL3N0LH21C20140212</a> (2014年02月12日 18:01)
@@ -44,8 +48,4 @@ Apple censorship just getting worse: can't engrave "Dalai Lama" or "Tibet indepe
 Good read: 100s of active Internet users were detained/arrested following China crackdown on social media  <a href="http://www.jamestown.org/programs/chinabrief/single/?tx_ttnews[tt_news]=41934&tx_ttnews[backPid]=25&cHash=7346b007e095a59e5d950667471065bb#.UvUX8kJ_sU5">www.jamestown.org/programs/chinabrief/single/</a> (2014年02月08日 02:07)
  ---
 RT @RTKcn: 19+ RT @289474268: 翻墙后第一次接触到8964这类的信息，脑子里一片空白，看着百度显示的“根据相关法律法规和政策，部分搜索结果未予显示。”突然觉得自己像是一只蚂蚁，该抬头看看这个世界了 (2014年02月07日 11:47)
- ---
-外媒网陷入中式困境 <a href="https://pao-pao.net/article/24">pao-pao.net/article/24</a> (2014年02月07日 11:38)
- ---
-RT @gadyepstein: @KaiserKuo My point is you're discounting too much the unmet desire for political engagement—a desire which of course is f… (2014年02月07日 00:23)
  ---
