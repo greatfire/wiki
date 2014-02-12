@@ -9,6 +9,12 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @PhelimKine: Advocacy group alleges #Microsoft Bing implements global #censorship of searches which displease #China's govt http://t.co/… (2014年02月12日 02:53)
+ ---
+Bing making sure customers worldwide protected from information that China deems to be negative: <a href="https://en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally">en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> (2014年02月11日 23:51)
+ ---
+Bing practicing Chinese censorship globally - our latest research, just published: <a href="https://en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally">en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> (2014年02月11日 23:06)
+ ---
 Apple censorship just getting worse: can't engrave "Dalai Lama" or "Tibet independence" on a new iPad in China <a href="http://www.latimes.com/business/la-fi-apple-china-censors-20140207,0,2377786.story#axzz2suXLWIZQ">www.latimes.com/business/la-fi-apple-china-censors-20140207,0,2377786.story</a> (2014年02月10日 17:47)
  ---
 前面发了个中国数字时代链接是英文版的，中文版链接是这个 <a href="https://s3.amazonaws.com/cdtimes./index.html?u=chinese">s3.amazonaws.com/cdtimes./index.html</a> (2014年02月08日 17:47)
@@ -42,10 +48,4 @@ RT @eldestran: The Times said in a statement that Mr. Ramzy had relocated outsid
 FreeWeibo nominated for Digital Activism Award <a href="http://www.rnw.org/story/freeweibo-nominated-digital-activism-award">www.rnw.org/story/freeweibo-nominated-digital-activism-award</a> (2014年01月31日 13:32)
  ---
 GFW没有DNS污染ICIJ。 GFW使用关键词封锁了13个媒体，却没有DNS污染原爆料者ICIJ。机密文件披露中国精英的海外资产  <a href="https://www.icij.org/sites/icij/files/content/icij-chinaleaks-mandarin.pdf">www.icij.org/sites/icij/files/content/icij-chinaleaks-mandarin.pdf</a> 难道是断网事故以后GFW慎用DNS污染了？ (2014年01月31日 12:19)
- ---
-RT @jamesrbuk: BTW: <a href="http://www.theguardian.com/us">www.theguardian.com/us</a> is still blocked in China – <a href="https://en.greatfire.org/www.theguardian.com">en.greatfire.org/www.theguardian.com</a> (2014年01月31日 02:50)
- ---
-@jayjamescarter @ScottIU @niubi @emilydparker @DavidBarboza2 again, unnecessary escalation and recipe for Cold War. (2014年01月31日 02:40)
- ---
-@ScottIU @niubi @emilydparker @DavidBarboza2 this really sends the wrong message Scott - it will just escalate then (2014年01月31日 02:34)
  ---
