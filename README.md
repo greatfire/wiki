@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Microsoft now claims "technical error" on Bing Chinese censorship. This is simply not true. Our response: <a href="https://en.greatfire.org/blog/2014/feb/no-error-here-microsoft-deploying-chinese-censorship-global-scale">en.greatfire.org/blog/2014/feb/no-error-here-microsoft-deploying-chinese-censorship-global-scale</a> (2014年02月12日 17:04)
+ ---
 RT @janet_ddr: @GreatFireChina @iaskfq 看完文章了，微软确实没节操。做法应该是：部分敏感词汇如果在外国经常有人搜索的话，就不会被屏蔽。但搜索量没那么大的则是部分或严重屏蔽。这样一来，其实很有欺骗性，会让大部分人不容易感知到自己的搜索被审查。 (2014年02月12日 14:05)
  ---
 @j8feng @akid_  ”八九六四“确实没有。 但其他搜索词汇有比如自由微博，达赖喇嘛。 见我们的测试表格。<a href="https://zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally">zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> (2014年02月12日 13:56)
@@ -46,6 +48,4 @@ RT @carlbildt: This morning I finally managed to get hold of a VPN to break thro
 王功权微博帐号被删除 <a href="https://s3.amazonaws.com/freeweibo/index.html?u=weibo/%40%E7%9B%8A%E8%A5%BF%E9%9B%8D%E4%BB%B2">s3.amazonaws.com/freeweibo/index.html</a> (2014年02月05日 10:55)
  ---
 据悉，上月中国断网事件可能是GFW污染自由微博镜像的后台引起<a href="https://s3.amazonaws.com/freeweibo/index.html">s3.amazonaws.com/freeweibo/index.html</a>，因为后台地址自动更换，导致GFW的DNS污染系统过载。 现在GFW已经停止自动污染自由微博镜像后台了。 (2014年02月03日 11:10)
- ---
-[Trivia] U.S. National Park Service has been intentionally blocked in China for years. <a href="https://en.greatfire.org/nps.gov">en.greatfire.org/nps.gov</a> Why? (2014年02月03日 04:39)
  ---
