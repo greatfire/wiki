@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+@sophistifunk @klustout @aral gain: market access, concessions, etc. China could demand - but how can Microsoft justify agreeing to this? (2014年02月12日 20:09)
+ ---
 What's amazing is anybody anywhere can test Bing for Chinese censorship and see Microsoft's denial of complicity is a flat out lie. (2014年02月12日 19:57)
  ---
 @sophistifunk @klustout @aral so any Chinese-speaking citizen of any nation should be subjected to Chinese censorship? this is unlikely (2014年02月12日 19:17)
@@ -46,6 +48,4 @@ Apple censorship just getting worse: can't engrave "Dalai Lama" or "Tibet indepe
 前面发了个中国数字时代链接是英文版的，中文版链接是这个 <a href="https://s3.amazonaws.com/cdtimes./index.html?u=chinese">s3.amazonaws.com/cdtimes./index.html</a> (2014年02月08日 17:47)
  ---
 因为技术原因，旧镜像地址已经无法访问。请使用新地址。请大家帮忙转发。 自由微博 <a href="https://s3.amazonaws.com/freeweibo./index.html">s3.amazonaws.com/freeweibo./index.html</a>，中国数字时代 <a href="https://s3.amazonaws.com/cdtimes./index.html">s3.amazonaws.com/cdtimes./index.html</a> (2014年02月08日 15:02)
- ---
-Good read: 100s of active Internet users were detained/arrested following China crackdown on social media  <a href="http://www.jamestown.org/programs/chinabrief/single/?tx_ttnews[tt_news]=41934&tx_ttnews[backPid]=25&cHash=7346b007e095a59e5d950667471065bb#.UvUX8kJ_sU5">www.jamestown.org/programs/chinabrief/single/</a> (2014年02月08日 02:07)
  ---
