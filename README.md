@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+The more things change... Bing promoting Chinese propaganda overseas first highlighted by @NickKristof in 2009 <a href="HTTP://http:////www-nc.nytimes.com/2009/11/20/boycott-microsoft-bing/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2009/11/20/boycott-microsoft-bing/</a> (2014年02月12日 23:38)
+ ---
 Next Media fills in the blanks: their animation featuring Microsoft, 拍马屁, and China:  <a href="http://www.youtube.com/watch?v=ENM0vxlvGYQ">www.youtube.com/watch</a> (2014年02月12日 21:58)
  ---
 @sophistifunk @klustout @aral gain: market access, concessions, etc. China could demand - but how can Microsoft justify agreeing to this? (2014年02月12日 20:09)
@@ -46,6 +48,4 @@ Bing making sure customers worldwide protected from information that China deems
 Bing practicing Chinese censorship globally - our latest research, just published: <a href="https://en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally">en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> (2014年02月11日 23:06)
  ---
 Apple censorship just getting worse: can't engrave "Dalai Lama" or "Tibet independence" on a new iPad in China <a href="http://www.latimes.com/business/la-fi-apple-china-censors-20140207,0,2377786.story#axzz2suXLWIZQ">www.latimes.com/business/la-fi-apple-china-censors-20140207,0,2377786.story</a> (2014年02月10日 17:47)
- ---
-前面发了个中国数字时代链接是英文版的，中文版链接是这个 <a href="https://s3.amazonaws.com/cdtimes./index.html?u=chinese">s3.amazonaws.com/cdtimes./index.html</a> (2014年02月08日 17:47)
  ---
