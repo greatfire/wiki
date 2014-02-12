@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @gadyepstein: Internet censorship: Bing's Chinese enigma <a href="http://www.economist.com/blogs/analects/2014/02/internet-censorship">www.economist.com/blogs/analects/2014/02/internet-censorship</a> Analects blog post (2014年02月13日 06:01)
+ ---
 Bing’s Chinese search result ‘glitch’ still reeks of censorship <a href="http://qz.com/176380/bings-chinese-search-result-glitch-still-reeks-of-censorship/">qz.com/176380/bings-chinese-search-result-glitch-still-reeks-of-censorship/</a> (2014年02月13日 05:15)
  ---
 Bing's govt-set censorship filters outside of China ominous extension of Great Firewall’s reach: <a href="http://qz.com/176048/is-microsofts-bing-spreading-the-chinese-governments-censorship-around-the-world/?utm_content=bufferfc2e4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">qz.com/176048/is-microsofts-bing-spreading-the-chinese-governments-censorship-around-the-world/</a> via @sinoceros (2014年02月13日 04:03)
@@ -48,6 +50,4 @@ RT @claydube: Quick Bing search for 1989 天安门 and got govt sites, plus a co
 LOL: Microsoft China won't respond to Bing claims b/c we "made too many points in our original statement" <a href="http://www.reuters.com/article/2014/02/12/microsoft-bing-censorship-idUSL3N0LH21C20140212?utm_content=bufferd4247&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.reuters.com/article/2014/02/12/microsoft-bing-censorship-idUSL3N0LH21C20140212</a> (2014年02月12日 18:01)
  ---
 @chadcat Try this finding <a href="https://www.bing.com/search?q=%E8%87%AA%E7%94%B1%E9%97%A8&mkt=zh-CN">www.bing.com/search</a> You have to include the mkt=zh-CN in this search term. Some other terms don't (2014年02月12日 17:46)
- ---
-@haroldthibault @Microsoft @bing they are censoring negative search results about China everywhere in the world, including France (2014年02月12日 17:45)
  ---
