@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @klustout: Is @Microsoft's Bing censoring Chinese search terms globally? My report for @CNNi: <a href="http://edition.cnn.com/video/data/2.0/video/world/2014/02/12/china-bing-accused-censoring-results-lu-stout.cnn.html">edition.cnn.com/video/data/2.0/video/world/2014/02/12/china-bing-accused-censoring-results-lu-stout.cnn.html</a> #nscnn (2014年02月13日 15:58)
+ ---
 [上海社科院报告：北京污染严重 已接近不适合居住程度] 连环球时报的转载都被审查了。原文如下。 <a href="https://twitter.com/GreatFireChina/status/433812200348602368/photo/1">twitter.com/GreatFireChina/status/433812200348602368/photo/1</a> (2014年02月13日 11:57)
  ---
 RT @walkinal0ne: 有bing,真是药不能停 RT @shizhao: Bing在全球实行中国式审查 <a href="https://zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally#.Uvwd7liC47k.twitter">zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> from @GreatFireChina (2014年02月13日 11:31)
@@ -48,6 +50,4 @@ Next Media fills in the blanks: their animation featuring Microsoft, 拍马屁, 
 What's amazing is anybody anywhere can test Bing for Chinese censorship and see Microsoft's denial of complicity is a flat out lie. (2014年02月12日 19:57)
  ---
 @sophistifunk @klustout @aral so any Chinese-speaking citizen of any nation should be subjected to Chinese censorship? this is unlikely (2014年02月12日 19:17)
- ---
-@CasparBowden @jamesrbuk  the servers are in the US, even for China Bing - and copying the right Dominic @dominicru (2014年02月12日 19:12)
  ---
