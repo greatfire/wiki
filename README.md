@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @walkinal0ne: 有bing,真是药不能停 RT @shizhao: Bing在全球实行中国式审查 <a href="https://zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally#.Uvwd7liC47k.twitter">zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> from @GreatFireChina (2014年02月13日 11:31)
+ ---
 RT @jasonqng: "freeweibo" currently unsearchable on Weibo <a href="https://en.greatfire.org/s.weibo.com/weibo/freeweibo">en.greatfire.org/s.weibo.com/weibo/freeweibo</a> Prob unrelated to Bing report; it's sensitive as is  @Gre… (2014年02月13日 11:27)
  ---
 RT @gadyepstein: Internet censorship: Bing's Chinese enigma <a href="http://www.economist.com/blogs/analects/2014/02/internet-censorship">www.economist.com/blogs/analects/2014/02/internet-censorship</a> Analects blog post (2014年02月13日 06:01)
@@ -48,6 +50,4 @@ What's amazing is anybody anywhere can test Bing for Chinese censorship and see 
 @CasparBowden @jamesrbuk  the servers are in the US, even for China Bing - and copying the right Dominic @dominicru (2014年02月12日 19:12)
  ---
 RT @claydube: Quick Bing search for 1989 天安门 and got govt sites, plus a couple sites for massacre. Also "some results removed" at bottom. @… (2014年02月12日 19:05)
- ---
-LOL: Microsoft China won't respond to Bing claims b/c we "made too many points in our original statement" <a href="http://www.reuters.com/article/2014/02/12/microsoft-bing-censorship-idUSL3N0LH21C20140212?utm_content=bufferd4247&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.reuters.com/article/2014/02/12/microsoft-bing-censorship-idUSL3N0LH21C20140212</a> (2014年02月12日 18:01)
  ---
