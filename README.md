@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Journo and blogger arrests, crackdown on cyber-dissidents, reinforced censorship and restrictions on foreign media. <a href="http://rsf.org/index2014/en-asia.php">rsf.org/index2014/en-asia.php</a> (2014年02月13日 22:36)
+ ---
 via @NickKristof: "Microsoft simply unit of China's Propaganda Department". Our new Bing update: <a href="https://en.greatfire.org/blog/2014/feb/setting-bings-broken-record-straight">en.greatfire.org/blog/2014/feb/setting-bings-broken-record-straight</a> (2014年02月13日 19:56)
  ---
 AFP reporting that Bing search results for Liu Xiaobo are also being manipulated <a href="http://www.google.com/hostednews/afp/article/ALeqM5gF_plMA7VNTn0o1iJf_xv3zRKp3w?docId=effb47e0-840a-4a3f-a98c-a4667751d78f&hl=en">www.google.com/hostednews/afp/article/ALeqM5gF_plMA7VNTn0o1iJf_xv3zRKp3w</a> (2014年02月13日 16:48)
@@ -48,6 +50,4 @@ Another lie: Bing says they fixed bug in 2009 on censored image search in respon
 The more things change... Bing promoting Chinese propaganda overseas first highlighted by @NickKristof in 2009 <a href="HTTP://http:////www-nc.nytimes.com/2009/11/20/boycott-microsoft-bing/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2009/11/20/boycott-microsoft-bing/</a> (2014年02月12日 23:38)
  ---
 Next Media fills in the blanks: their animation featuring Microsoft, 拍马屁, and China:  <a href="http://www.youtube.com/watch?v=ENM0vxlvGYQ">www.youtube.com/watch</a> (2014年02月12日 21:58)
- ---
-@sophistifunk @klustout @aral gain: market access, concessions, etc. China could demand - but how can Microsoft justify agreeing to this? (2014年02月12日 20:09)
  ---
