@@ -23,7 +23,7 @@ RT @walkinal0ne: 有bing,真是药不能停 RT @shizhao: Bing在全球实行中�
  ---
 RT @jasonqng: "freeweibo" currently unsearchable on Weibo <a href="https://en.greatfire.org/s.weibo.com/weibo/freeweibo">en.greatfire.org/s.weibo.com/weibo/freeweibo</a> Prob unrelated to Bing report; it's sensitive as is  @Gre… (2014年02月13日 11:27)
  ---
-RT @gadyepstein: Internet censorship: Bing's Chinese enigma <a href="http://t.co/rXsNRjdE5f">t.co/rXsNRjdE5f</a> Analects blog post (2014年02月13日 06:01)
+RT @gadyepstein: Internet censorship: Bing's Chinese enigma <a href="http://www.economist.com/blogs/analects/2014/02/internet-censorship">www.economist.com/blogs/analects/2014/02/internet-censorship</a> Analects blog post (2014年02月13日 06:01)
  ---
 Bing’s Chinese search result ‘glitch’ still reeks of censorship <a href="http://qz.com/176380/bings-chinese-search-result-glitch-still-reeks-of-censorship/">qz.com/176380/bings-chinese-search-result-glitch-still-reeks-of-censorship/</a> (2014年02月13日 05:15)
  ---
