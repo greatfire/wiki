@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+via @NickKristof: "Microsoft simply unit of China's Propaganda Department". Our new Bing update: <a href="https://en.greatfire.org/blog/2014/feb/setting-bings-broken-record-straight">en.greatfire.org/blog/2014/feb/setting-bings-broken-record-straight</a> (2014年02月13日 19:56)
+ ---
 AFP reporting that Bing search results for Liu Xiaobo are also being manipulated <a href="http://www.google.com/hostednews/afp/article/ALeqM5gF_plMA7VNTn0o1iJf_xv3zRKp3w?docId=effb47e0-840a-4a3f-a98c-a4667751d78f&hl=en">www.google.com/hostednews/afp/article/ALeqM5gF_plMA7VNTn0o1iJf_xv3zRKp3w</a> (2014年02月13日 16:48)
  ---
 RT @klustout: Is @Microsoft's Bing censoring Chinese search terms globally? My report for @CNNi: <a href="http://edition.cnn.com/video/data/2.0/video/world/2014/02/12/china-bing-accused-censoring-results-lu-stout.cnn.html">edition.cnn.com/video/data/2.0/video/world/2014/02/12/china-bing-accused-censoring-results-lu-stout.cnn.html</a> #nscnn (2014年02月13日 15:58)
@@ -48,6 +50,4 @@ The more things change... Bing promoting Chinese propaganda overseas first highl
 Next Media fills in the blanks: their animation featuring Microsoft, 拍马屁, and China:  <a href="http://www.youtube.com/watch?v=ENM0vxlvGYQ">www.youtube.com/watch</a> (2014年02月12日 21:58)
  ---
 @sophistifunk @klustout @aral gain: market access, concessions, etc. China could demand - but how can Microsoft justify agreeing to this? (2014年02月12日 20:09)
- ---
-What's amazing is anybody anywhere can test Bing for Chinese censorship and see Microsoft's denial of complicity is a flat out lie. (2014年02月12日 19:57)
  ---
