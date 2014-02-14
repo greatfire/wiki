@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+We invite dialogue w/ big tech on China. Bing had chance to comment on this but they refused. <a href="http://blogs.wsj.com/chinarealtime/2014/02/14/reputation-matters-unpacking-the-microsoft-china-censorship-scandal/">blogs.wsj.com/chinarealtime/2014/02/14/reputation-matters-unpacking-the-microsoft-china-censorship-scandal/</a> via @jasonqng (2014年02月14日 17:11)
+ ---
 泡泡网被全站屏蔽，但其也使用了镜像网站方式保证访问。 墙内镜像 <a href="https://s3.amazonaws.com/pao-pao/index.html">s3.amazonaws.com/pao-pao/index.html</a> (2014年02月14日 13:14)
  ---
 ［看看国内媒体谁牛］环球时报发表的“北京不适合人类居住”都被新浪审查了<a href="https://freeweibo.com/weibo/%E4%B8%8D%E9%80%82%E5%90%88%E4%BA%BA%E7%B1%BB%E5%B1%85%E4%BD%8F%E7%A8%8B%E5%BA%A6">freeweibo.com/weibo/不适合人类居住程度</a>  目前唯一没被删除的网页新闻是财经网。<a href="http://politics.caijing.com.cn/2014-02-12/113904052.html">politics.caijing.com.cn/2014-02-12/113904052.html</a> (2014年02月14日 08:23)
@@ -48,6 +50,4 @@ Click <a href="https://www.bing.com/search?q=%E8%87%AA%E7%94%B1%E9%97%A8&mkt=zh-
 Microsoft blames 'system error' but denies censoring Chinese search results <a href="http://www.theguardian.com/technology/2014/feb/12/microsoft-bing-censor-chinese-search-results-system-error#start-of-comments">www.theguardian.com/technology/2014/feb/12/microsoft-bing-censor-chinese-search-results-system-error</a> (2014年02月13日 01:50)
  ---
 Another lie: Bing says they fixed bug in 2009 on censored image search in response to @NickKristof - search 法轮功 <a href="http://www.bing.com/blogs/site_blogs/b/search/archive/2009/11/21/committed-to-comprehensive-results.aspx?utm_content=bufferd372a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.bing.com/blogs/site_blogs/b/search/archive/2009/11/21/committed-to-comprehensive-results.aspx</a> (2014年02月13日 00:18)
- ---
-.@satyanadella facing first major test as Microsoft CEO over global Bing censorship of China-related issues: <a href="http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/10632400/Microsoft-accused-of-censoring-Chinese-language-search.html?utm_content=buffer52c48&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/10632400/Microsoft-accused-of-censoring-Chinese-language-search.html</a> (2014年02月13日 00:02)
  ---
