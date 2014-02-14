@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+泡泡网被全站屏蔽，但其也使用了镜像网站方式保证访问。 墙内镜像 <a href="https://s3.amazonaws.com/pao-pao/index.html">s3.amazonaws.com/pao-pao/index.html</a> (2014年02月14日 13:14)
+ ---
 ［看看国内媒体谁牛］环球时报发表的“北京不适合人类居住”都被新浪审查了<a href="https://freeweibo.com/weibo/%E4%B8%8D%E9%80%82%E5%90%88%E4%BA%BA%E7%B1%BB%E5%B1%85%E4%BD%8F%E7%A8%8B%E5%BA%A6">freeweibo.com/weibo/不适合人类居住程度</a>  目前唯一没被删除的网页新闻是财经网。<a href="http://politics.caijing.com.cn/2014-02-12/113904052.html">politics.caijing.com.cn/2014-02-12/113904052.html</a> (2014年02月14日 08:23)
  ---
 Journo and blogger arrests, crackdown on cyber-dissidents, reinforced censorship and restrictions on foreign media. <a href="http://rsf.org/index2014/en-asia.php">rsf.org/index2014/en-asia.php</a> (2014年02月13日 22:36)
@@ -48,6 +50,4 @@ Microsoft blames 'system error' but denies censoring Chinese search results <a h
 Another lie: Bing says they fixed bug in 2009 on censored image search in response to @NickKristof - search 法轮功 <a href="http://www.bing.com/blogs/site_blogs/b/search/archive/2009/11/21/committed-to-comprehensive-results.aspx?utm_content=bufferd372a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.bing.com/blogs/site_blogs/b/search/archive/2009/11/21/committed-to-comprehensive-results.aspx</a> (2014年02月13日 00:18)
  ---
 .@satyanadella facing first major test as Microsoft CEO over global Bing censorship of China-related issues: <a href="http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/10632400/Microsoft-accused-of-censoring-Chinese-language-search.html?utm_content=buffer52c48&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/10632400/Microsoft-accused-of-censoring-Chinese-language-search.html</a> (2014年02月13日 00:02)
- ---
-The more things change... Bing promoting Chinese propaganda overseas first highlighted by @NickKristof in 2009 <a href="HTTP://http:////www-nc.nytimes.com/2009/11/20/boycott-microsoft-bing/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2009/11/20/boycott-microsoft-bing/</a> (2014年02月12日 23:38)
  ---
