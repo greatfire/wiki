@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Where is Microsoft Bing's transparency report? great piece from @rmack <a href="http://www.theguardian.com/commentisfree/2014/feb/14/micorsoft-bing-china-censorship-transparency?CMP=twt_gu">www.theguardian.com/commentisfree/2014/feb/14/micorsoft-bing-china-censorship-transparency</a> via @guardian (2014年02月15日 00:22)
+ ---
 @GreatFire can you contact me? charlie.smith@greatfire.org (2014年02月14日 18:07)
  ---
 We invite dialogue w/ big tech on China. Bing had chance to comment on this but they refused. <a href="http://blogs.wsj.com/chinarealtime/2014/02/14/reputation-matters-unpacking-the-microsoft-china-censorship-scandal/">blogs.wsj.com/chinarealtime/2014/02/14/reputation-matters-unpacking-the-microsoft-china-censorship-scandal/</a> via @jasonqng (2014年02月14日 17:11)
@@ -48,6 +50,4 @@ Bing's govt-set censorship filters outside of China ominous extension of Great F
 Microsoft has not responded directly to wider allegations of censorship on all global versions of Bing: <a href="http://www.theverge.com/2014/2/12/5403862/microsoft-denies-censoring-worldwide-bing-results-in-chinese?utm_content=bufferaec7a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.theverge.com/2014/2/12/5403862/microsoft-denies-censoring-worldwide-bing-results-in-chinese</a> (2014年02月13日 01:57)
  ---
 Click <a href="https://www.bing.com/search?q=%E8%87%AA%E7%94%B1%E9%97%A8&mkt=zh-CN">www.bing.com/search</a> to test for yourself whether Bing is censored in U.S (2014年02月13日 01:52)
- ---
-Microsoft blames 'system error' but denies censoring Chinese search results <a href="http://www.theguardian.com/technology/2014/feb/12/microsoft-bing-censor-chinese-search-results-system-error#start-of-comments">www.theguardian.com/technology/2014/feb/12/microsoft-bing-censor-chinese-search-results-system-error</a> (2014年02月13日 01:50)
  ---
