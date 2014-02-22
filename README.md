@@ -9,45 +9,45 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
-RT @paopaonet: 微软必应：将中国审查全球化：微软的搜索引擎“必应”本周引发全球关注，并非因为什么技术创新，而是因为在涉嫌对全球中文用户进行“中国式”审查。网络自由组织推测，必应的程式可能本身亲中国官媒、排境外中文媒体<a href="https://s3.amazonaws.com/pao-pao/node/32.html">s3.amazonaws.com/pao-pao/node/32.html</a> … (2014年02月15日 08:24)
+央视截图被删除 ”痛苦不堪的表情“  <a href="https://freeweibo.com/weibo/%E7%97%9B%E8%8B%A6%E4%B8%8D%E5%A0%AA">freeweibo.com/weibo/痛苦不堪</a> <a href="https://twitter.com/GreatFireChina/status/437301125759246336/photo/1">twitter.com/GreatFireChina/status/437301125759246336/photo/1</a> (2014年02月23日 03:01)
  ---
-RT @nytchinese: RT @nytchinese: 纽约时报T杂志中文版iPad客户端正式上线！可阅读完整图文，还可选择中英文双语。所以说“生活”是份礼物(That's why we call "T"oday the present)。<a href="https://t.co/SP">t.co/SP</a>… (2014年02月15日 07:49)
+李承鹏V：胡锡进，出来道歉。 <a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E6%89%BF%E9%B9%8F">freeweibo.com/weibo/@李承鹏</a> (2014年02月22日 09:16)
  ---
-Where is Microsoft Bing's transparency report? great piece from @rmack <a href="http://www.theguardian.com/commentisfree/2014/feb/14/micorsoft-bing-china-censorship-transparency?CMP=twt_gu">www.theguardian.com/commentisfree/2014/feb/14/micorsoft-bing-china-censorship-transparency</a> via @guardian (2014年02月15日 00:22)
+RT @ChinaFile: #China urges #Obama to cancel meeting w/ #DalaiLama (at #WhiteHouse today, Fri 2/21)—@suilee @robertarampton @reuters http:/… (2014年02月21日 23:31)
  ---
-@GreatFire can you contact me? charlie.smith@greatfire.org (2014年02月14日 18:07)
+Joey · Conssuf 的故事。 <a href="https://freeweibo.com/weibo/3680359662884480">freeweibo.com/weibo/3680359662884480</a> (2014年02月21日 13:35)
  ---
-We invite dialogue w/ big tech on China. Bing had chance to comment on this but they refused. <a href="http://blogs.wsj.com/chinarealtime/2014/02/14/reputation-matters-unpacking-the-microsoft-china-censorship-scandal/">blogs.wsj.com/chinarealtime/2014/02/14/reputation-matters-unpacking-the-microsoft-china-censorship-scandal/</a> via @jasonqng (2014年02月14日 17:11)
+RT @PhelimKine: Why is #China's govt victimizing #LiuXia? <a href="http://www.telegraph.co.uk/news/worldnews/asia/china/10650516/Wife-of-Chinas-jailed-Nobel-Laureate-Liu-Xiaobo-hospitalised.html">www.telegraph.co.uk/news/worldnews/asia/china/10650516/Wife-of-Chinas-jailed-Nobel-Laureate-Liu-Xiaobo-hospitalised.html</a> Fear of her Nobel Laureate husband, #LiuXiaobo @hrw http:/… (2014年02月21日 03:46)
  ---
-泡泡网被全站屏蔽，但其也使用了镜像网站方式保证访问。 墙内镜像 <a href="https://s3.amazonaws.com/pao-pao/index.html">s3.amazonaws.com/pao-pao/index.html</a> (2014年02月14日 13:14)
+RT @WeiboDataCenter: 莫名戳了笑点RT@sanzomaldini: 新浪的是“越过世界，走向长城”？
+RT @WeiboDataCenter: 第一条推…..被Twitter设置的默认介绍萌哭了：越过长城，走向世界！世界，我来了！#新人求fo http://… (2014年02月21日 01:29)
  ---
-［看看国内媒体谁牛］环球时报发表的“北京不适合人类居住”都被新浪审查了<a href="https://freeweibo.com/weibo/%E4%B8%8D%E9%80%82%E5%90%88%E4%BA%BA%E7%B1%BB%E5%B1%85%E4%BD%8F%E7%A8%8B%E5%BA%A6">freeweibo.com/weibo/不适合人类居住程度</a>  目前唯一没被删除的网页新闻是财经网。<a href="http://politics.caijing.com.cn/2014-02-12/113904052.html">politics.caijing.com.cn/2014-02-12/113904052.html</a> (2014年02月14日 08:23)
+@crucially @imrockybean @Livid @fastly By IP addresses. Seems all IP addresses of fastly are blocked. (2014年02月20日 13:48)
  ---
-Journo and blogger arrests, crackdown on cyber-dissidents, reinforced censorship and restrictions on foreign media. <a href="http://rsf.org/index2014/en-asia.php">rsf.org/index2014/en-asia.php</a> (2014年02月13日 22:36)
+RT @RTKcn: 21+ RT @liu_xiaoyuan: 公告：由北京锋锐律师所代理的北大原教授夏业良起诉北京大学违反劳动法，侵犯劳动者（夏教授）合法权益案，北京某法院已经正式立案！ (2014年02月20日 10:46)
  ---
-via @NickKristof: "Microsoft simply unit of China's Propaganda Department". Our new Bing update: <a href="https://en.greatfire.org/blog/2014/feb/setting-bings-broken-record-straight">en.greatfire.org/blog/2014/feb/setting-bings-broken-record-straight</a> (2014年02月13日 19:56)
+RT @ChineseWSJ: 【《纸牌屋》打破中国监管屏障】- 美剧《纸牌屋》受到网络观众热捧，上周五开播的最新一季包含大量有关中国的剧情，比如中国的网络间谍活动和中日在东中国海的紧张局势。<a href="http://cn.wsj.com/gb/20140219/bch094726.asp">cn.wsj.com/gb/20140219/bch094726.asp</a> <a href="http://t.co/hjl1cic1">t.co/hjl1cic1</a>… (2014年02月20日 09:39)
  ---
-AFP reporting that Bing search results for Liu Xiaobo are also being manipulated <a href="http://www.google.com/hostednews/afp/article/ALeqM5gF_plMA7VNTn0o1iJf_xv3zRKp3w?docId=effb47e0-840a-4a3f-a98c-a4667751d78f&hl=en">www.google.com/hostednews/afp/article/ALeqM5gF_plMA7VNTn0o1iJf_xv3zRKp3w</a> (2014年02月13日 16:48)
+Large CDN fastly blocked in China. <a href="https://en.greatfire.org/https/www.fastly.com">en.greatfire.org/https/www.fastly.com</a> Attempts to degrade Github performance in China? <a href="https://en.greatfire.org/blog/2013/jan/china-github-and-man-middle">en.greatfire.org/blog/2013/jan/china-github-and-man-middle</a> (2014年02月20日 09:32)
  ---
-RT @klustout: Is @Microsoft's Bing censoring Chinese search terms globally? My report for @CNNi: <a href="http://edition.cnn.com/video/data/2.0/video/world/2014/02/12/china-bing-accused-censoring-results-lu-stout.cnn.html">edition.cnn.com/video/data/2.0/video/world/2014/02/12/china-bing-accused-censoring-results-lu-stout.cnn.html</a> #nscnn (2014年02月13日 15:58)
+@ChinaGeeks <a href="https://en.greatfire.org/www.gamesinasia.com">en.greatfire.org/www.gamesinasia.com</a> tests say everything is fine (2014年02月20日 00:36)
  ---
-[上海社科院报告：北京污染严重 已接近不适合居住程度] 连环球时报的转载都被审查了。原文如下。 <a href="https://twitter.com/GreatFireChina/status/433812200348602368/photo/1">twitter.com/GreatFireChina/status/433812200348602368/photo/1</a> (2014年02月13日 11:57)
+RT @TooooBug: @github's statice files(JS/CSS) are blocked by the Great Fire Wall of China. Someone says the keyword 'ssl' in domain trigger… (2014年02月19日 23:32)
  ---
-RT @walkinal0ne: 有bing,真是药不能停 RT @shizhao: Bing在全球实行中国式审查 <a href="https://zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally#.Uvwd7liC47k.twitter">zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> from @GreatFireChina (2014年02月13日 11:31)
+@crucially @imrockybean @Livid @fastly our tests show from yesterday <a href="https://en.greatfire.org/debug.fastly.com">en.greatfire.org/debug.fastly.com</a> (2014年02月19日 23:28)
  ---
-RT @jasonqng: "freeweibo" currently unsearchable on Weibo <a href="https://en.greatfire.org/s.weibo.com/weibo/freeweibo">en.greatfire.org/s.weibo.com/weibo/freeweibo</a> Prob unrelated to Bing report; it's sensitive as is  @Gre… (2014年02月13日 11:27)
+RT @hunvreus: @github's assets (JS/CSS) blocked from #China make me a sad panda. <a href="https://twitter.com/hunvreus/status/435980935050186754/photo/1">twitter.com/hunvreus/status/435980935050186754/photo/1</a> (2014年02月19日 23:25)
  ---
-RT @gadyepstein: Internet censorship: Bing's Chinese enigma <a href="http://www.economist.com/blogs/analects/2014/02/internet-censorship">www.economist.com/blogs/analects/2014/02/internet-censorship</a> Analects blog post (2014年02月13日 06:01)
+RT @zuola: GitHub几无法正常显示页面，我翻墙到墙内到信息产业部网站也申诉了一下，我仍是湖南居民呢。申诉方法： <a href="http://www.v2ex.com/t/100888">www.v2ex.com/t/100888</a> 
+”您的提问已经提交成功，问题号为8503515205。请牢记此编号，以便查询。“ http://t.co… (2014年02月19日 23:21)
  ---
-Bing’s Chinese search result ‘glitch’ still reeks of censorship <a href="http://qz.com/176380/bings-chinese-search-result-glitch-still-reeks-of-censorship/">qz.com/176380/bings-chinese-search-result-glitch-still-reeks-of-censorship/</a> (2014年02月13日 05:15)
+China discredits any story that upsets political balance or casts Party in unfavorable light. On China Journalism: <a href="http://www.cnn.com/2014/02/18/world/asia/on-china-journalism-transcript/index.html?sr=sharebar_twitter">www.cnn.com/2014/02/18/world/asia/on-china-journalism-transcript/index.html</a> (2014年02月19日 20:56)
  ---
-Bing's govt-set censorship filters outside of China ominous extension of Great Firewall’s reach: <a href="http://qz.com/176048/is-microsofts-bing-spreading-the-chinese-governments-censorship-around-the-world/?utm_content=bufferfc2e4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">qz.com/176048/is-microsofts-bing-spreading-the-chinese-governments-censorship-around-the-world/</a> via @sinoceros (2014年02月13日 04:03)
+Snowden Documents Reveal Covert Surveillance and Pressure Tactics Aimed at WikiLeaks and Its Supporters  <a href="https://firstlook.org/theintercept/article/2014/02/18/snowden-docs-reveal-covert-surveillance-and-pressure-tactics-aimed-at-wikileaks-and-its-supporters/">firstlook.org/theintercept/article/2014/02/18/snowden-docs-reveal-covert-surveillance-and-pressure-tactics-aimed-at-wikileaks-and-its-supporters/</a> (2014年02月19日 14:35)
  ---
-[Animation]Bing censoring Chinese language search results in US.  
-<a href="https://www.youtube.com/watch?v=ENM0vxlvGYQ">www.youtube.com/watch</a> （English／中文）
-［动画］Bing在美国审查搜索结果 (2014年02月13日 02:16)
+新闻记者和博客作者如何绕过中国不断加强的审查制度 <a href="https://s3.amazonaws.com/nieman/xinwen_xue_zai_zhongguo.pdf">s3.amazonaws.com/nieman/xinwen_xue_zai_zhongguo.pdf</a> (2014年02月18日 15:51)
  ---
-@28481k Indeed. Maybe we should clarify all our tests are done using standard web version. We'll look into mobile too. Thank you! (2014年02月13日 02:03)
+@greatwriteshark we were referring to a plan we have where Google can end online censorship in China <a href="https://en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how">en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how</a> (2014年02月18日 15:50)
  ---
-@28481k The desktop version is censored. <a href="https://twitter.com/GreatFireChina/status/433661448540020736/photo/1">twitter.com/GreatFireChina/status/433661448540020736/photo/1</a> (2014年02月13日 01:58)
+Dear John Kerry: Cisco built great firewall, Apple and Bing willingly enforce it, Google could destroy it. <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F02%2F16%2Fworld%2Fasia%2Fchinese-ask-kerry-to-help-tear-down-a-firewall.html%3Fsmid%3Dtw-share%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年02月18日 15:31)
  ---
