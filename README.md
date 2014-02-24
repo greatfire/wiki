@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @PaulCarsten: RT @JoshTANoble: Sina prepares Weibo for New York IPO - FT <a href="http://www.ft.com/cms/s/0/d596fe74-9d02-11e3-b535-00144feab7de.html">www.ft.com/cms/s/0/d596fe74-9d02-11e3-b535-00144feab7de.html</a> (2014年02月24日 16:14)
+ ---
 Lantern官方镜像上线 <a href="https://s3.amazonaws.com/getlantern.org/index.html#zh_CN">s3.amazonaws.com/getlantern.org/index.html</a> (2014年02月23日 15:33)
  ---
 李承鹏V：胡锡进，出来道歉。 <a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E6%89%BF%E9%B9%8F">freeweibo.com/weibo/@李承鹏</a> (2014年02月22日 09:16)
@@ -48,6 +50,4 @@ Snowden Documents Reveal Covert Surveillance and Pressure Tactics Aimed at WikiL
 @greatwriteshark we were referring to a plan we have where Google can end online censorship in China <a href="https://en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how">en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how</a> (2014年02月18日 15:50)
  ---
 Dear John Kerry: Cisco built great firewall, Apple and Bing willingly enforce it, Google could destroy it. <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F02%2F16%2Fworld%2Fasia%2Fchinese-ask-kerry-to-help-tear-down-a-firewall.html%3Fsmid%3Dtw-share%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年02月18日 15:31)
- ---
-We ran our own Microsoft Bing censorship test. This is what we found. <a href="http://www.techinasia.com/microsoft-bing-in-china-censorship-test/">www.techinasia.com/microsoft-bing-in-china-censorship-test/</a> via @Techinasia (2014年02月17日 20:39)
  ---
