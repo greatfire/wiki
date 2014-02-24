@@ -11,8 +11,6 @@
 ## 新闻
 Lantern官方镜像上线 <a href="https://s3.amazonaws.com/getlantern.org/index.html#zh_CN">s3.amazonaws.com/getlantern.org/index.html</a> (2014年02月23日 15:33)
  ---
-央视截图被删除 ”痛苦不堪的表情“  <a href="https://freeweibo.com/weibo/%E7%97%9B%E8%8B%A6%E4%B8%8D%E5%A0%AA">freeweibo.com/weibo/痛苦不堪</a> <a href="https://twitter.com/GreatFireChina/status/437301125759246336/photo/1">twitter.com/GreatFireChina/status/437301125759246336/photo/1</a> (2014年02月23日 03:01)
- ---
 李承鹏V：胡锡进，出来道歉。 <a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E6%89%BF%E9%B9%8F">freeweibo.com/weibo/@李承鹏</a> (2014年02月22日 09:16)
  ---
 RT @ChinaFile: #China urges #Obama to cancel meeting w/ #DalaiLama (at #WhiteHouse today, Fri 2/21)—@suilee @robertarampton @reuters http:/… (2014年02月21日 23:31)
@@ -34,8 +32,6 @@ Large CDN fastly blocked in China. <a href="https://en.greatfire.org/https/www.f
  ---
 @ChinaGeeks <a href="https://en.greatfire.org/www.gamesinasia.com">en.greatfire.org/www.gamesinasia.com</a> tests say everything is fine (2014年02月20日 00:36)
  ---
-RT @TooooBug: @github's statice files(JS/CSS) are blocked by the Great Fire Wall of China. Someone says the keyword 'ssl' in domain trigger… (2014年02月19日 23:32)
- ---
 @crucially @imrockybean @Livid @fastly our tests show from yesterday <a href="https://en.greatfire.org/debug.fastly.com">en.greatfire.org/debug.fastly.com</a> (2014年02月19日 23:28)
  ---
 RT @hunvreus: @github's assets (JS/CSS) blocked from #China make me a sad panda. <a href="https://twitter.com/hunvreus/status/435980935050186754/photo/1">twitter.com/hunvreus/status/435980935050186754/photo/1</a> (2014年02月19日 23:25)
@@ -50,4 +46,8 @@ Snowden Documents Reveal Covert Surveillance and Pressure Tactics Aimed at WikiL
 新闻记者和博客作者如何绕过中国不断加强的审查制度 <a href="https://s3.amazonaws.com/nieman/xinwen_xue_zai_zhongguo.pdf">s3.amazonaws.com/nieman/xinwen_xue_zai_zhongguo.pdf</a> (2014年02月18日 15:51)
  ---
 @greatwriteshark we were referring to a plan we have where Google can end online censorship in China <a href="https://en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how">en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how</a> (2014年02月18日 15:50)
+ ---
+Dear John Kerry: Cisco built great firewall, Apple and Bing willingly enforce it, Google could destroy it. <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F02%2F16%2Fworld%2Fasia%2Fchinese-ask-kerry-to-help-tear-down-a-firewall.html%3Fsmid%3Dtw-share%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年02月18日 15:31)
+ ---
+We ran our own Microsoft Bing censorship test. This is what we found. <a href="http://www.techinasia.com/microsoft-bing-in-china-censorship-test/">www.techinasia.com/microsoft-bing-in-china-censorship-test/</a> via @Techinasia (2014年02月17日 20:39)
  ---
