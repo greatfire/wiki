@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Absence makes a heart grow fonder: subscribe to Sinocism for deeper news and inisght into China: <a href="http://sinocism.com/">sinocism.com/</a> (2014年02月25日 17:01)
+ ---
 RT @WikimediaTW: 做為社會的一份子，維基人在社會的大事件中也無從置身事外。而令人哀傷的是今天我們接到消息：2月20日，維基人User:Ig2000在烏克蘭基輔的抗議行動中彈身亡，得年22歲 <a href="https://blog.wikimedia.org/2014/02/24/wikipedia-ihor-kostenko-dies/">blog.wikimedia.org/2014/02/24/wikipedia-ihor-kostenko-dies/</a> #wikimedia #e… (2014年02月25日 15:35)
  ---
 RT @PaulCarsten: RT @JoshTANoble: Sina prepares Weibo for New York IPO - FT <a href="http://www.ft.com/cms/s/0/d596fe74-9d02-11e3-b535-00144feab7de.html">www.ft.com/cms/s/0/d596fe74-9d02-11e3-b535-00144feab7de.html</a> (2014年02月24日 16:14)
@@ -48,6 +50,4 @@ China discredits any story that upsets political balance or casts Party in unfav
 Snowden Documents Reveal Covert Surveillance and Pressure Tactics Aimed at WikiLeaks and Its Supporters  <a href="https://firstlook.org/theintercept/article/2014/02/18/snowden-docs-reveal-covert-surveillance-and-pressure-tactics-aimed-at-wikileaks-and-its-supporters/">firstlook.org/theintercept/article/2014/02/18/snowden-docs-reveal-covert-surveillance-and-pressure-tactics-aimed-at-wikileaks-and-its-supporters/</a> (2014年02月19日 14:35)
  ---
 新闻记者和博客作者如何绕过中国不断加强的审查制度 <a href="https://s3.amazonaws.com/nieman/xinwen_xue_zai_zhongguo.pdf">s3.amazonaws.com/nieman/xinwen_xue_zai_zhongguo.pdf</a> (2014年02月18日 15:51)
- ---
-@greatwriteshark we were referring to a plan we have where Google can end online censorship in China <a href="https://en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how">en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how</a> (2014年02月18日 15:50)
  ---
