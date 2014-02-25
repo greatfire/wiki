@@ -40,8 +40,6 @@ Large CDN fastly blocked in China. <a href="https://en.greatfire.org/https/www.f
  ---
 @crucially @imrockybean @Livid @fastly our tests show from yesterday <a href="https://en.greatfire.org/debug.fastly.com">en.greatfire.org/debug.fastly.com</a> (2014年02月19日 23:28)
  ---
-RT @hunvreus: @github's assets (JS/CSS) blocked from #China make me a sad panda. <a href="https://twitter.com/hunvreus/status/435980935050186754/photo/1">twitter.com/hunvreus/status/435980935050186754/photo/1</a> (2014年02月19日 23:25)
- ---
 RT @zuola: GitHub几无法正常显示页面，我翻墙到墙内到信息产业部网站也申诉了一下，我仍是湖南居民呢。申诉方法： <a href="http://www.v2ex.com/t/100888">www.v2ex.com/t/100888</a> 
 ”您的提问已经提交成功，问题号为8503515205。请牢记此编号，以便查询。“ http://t.co… (2014年02月19日 23:21)
  ---
@@ -50,4 +48,6 @@ China discredits any story that upsets political balance or casts Party in unfav
 Snowden Documents Reveal Covert Surveillance and Pressure Tactics Aimed at WikiLeaks and Its Supporters  <a href="https://firstlook.org/theintercept/article/2014/02/18/snowden-docs-reveal-covert-surveillance-and-pressure-tactics-aimed-at-wikileaks-and-its-supporters/">firstlook.org/theintercept/article/2014/02/18/snowden-docs-reveal-covert-surveillance-and-pressure-tactics-aimed-at-wikileaks-and-its-supporters/</a> (2014年02月19日 14:35)
  ---
 新闻记者和博客作者如何绕过中国不断加强的审查制度 <a href="https://s3.amazonaws.com/nieman/xinwen_xue_zai_zhongguo.pdf">s3.amazonaws.com/nieman/xinwen_xue_zai_zhongguo.pdf</a> (2014年02月18日 15:51)
+ ---
+@greatwriteshark we were referring to a plan we have where Google can end online censorship in China <a href="https://en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how">en.greatfire.org/blog/2013/nov/google-can-bring-end-censorship-10-days-heres-how</a> (2014年02月18日 15:50)
  ---
