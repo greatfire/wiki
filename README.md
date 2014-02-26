@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @RTKcn: 18+ RT @clowwindy: Shadowsocks for iOS 2.0 上架了，内置了公共服务器，新增支持二维码配置服务器 <a href="https://itunes.apple.com/us/app/shadowsocks/id665729974?ls=1&mt=8">itunes.apple.com/us/app/shadowsocks/id665729974</a> (2014年02月26日 12:53)
+ ---
 @Cielpy5 @fjfzwzs 不一定。在墙内信任的朋友可以把他们的代理分享给你。只要他们能正常访问，无论在国内国外，都可以分享给你 (2014年02月26日 09:46)
  ---
 李承鹏：《胡锡进，我等着你接招》  <a href="https://freeweibo.com/weibo/3681950790008466">freeweibo.com/weibo/3681950790008466</a> 胡锡进回复被（自我？）删除 <a href="https://freeweibo.com/weibo/3681986587509130">freeweibo.com/weibo/3681986587509130</a> (2014年02月26日 09:32)
@@ -47,6 +49,4 @@ RT @ChineseWSJ: 【《纸牌屋》打破中国监管屏障】- 美剧《纸牌�
 Large CDN fastly blocked in China. <a href="https://en.greatfire.org/https/www.fastly.com">en.greatfire.org/https/www.fastly.com</a> Attempts to degrade Github performance in China? <a href="https://en.greatfire.org/blog/2013/jan/china-github-and-man-middle">en.greatfire.org/blog/2013/jan/china-github-and-man-middle</a> (2014年02月20日 09:32)
  ---
 @ChinaGeeks <a href="https://en.greatfire.org/www.gamesinasia.com">en.greatfire.org/www.gamesinasia.com</a> tests say everything is fine (2014年02月20日 00:36)
- ---
-@crucially @imrockybean @Livid @fastly our tests show from yesterday <a href="https://en.greatfire.org/debug.fastly.com">en.greatfire.org/debug.fastly.com</a> (2014年02月19日 23:28)
  ---
