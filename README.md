@@ -25,7 +25,7 @@ Absence makes a heart grow fonder: subscribe to Sinocism for deeper news and ini
  ---
 RT @WikimediaTW: 做為社會的一份子，維基人在社會的大事件中也無從置身事外。而令人哀傷的是今天我們接到消息：2月20日，維基人User:Ig2000在烏克蘭基輔的抗議行動中彈身亡，得年22歲 <a href="https://blog.wikimedia.org/2014/02/24/wikipedia-ihor-kostenko-dies/">blog.wikimedia.org/2014/02/24/wikipedia-ihor-kostenko-dies/</a> #wikimedia #e… (2014年02月25日 15:35)
  ---
-RT @PaulCarsten: RT @JoshTANoble: Sina prepares Weibo for New York IPO - FT <a href="http://www.ft.com/cms/s/0/d596fe74-9d02-11e3-b535-00144feab7de.html">www.ft.com/cms/s/0/d596fe74-9d02-11e3-b535-00144feab7de.html</a> (2014年02月24日 16:14)
+RT @PaulCarsten: RT @JoshTANoble: Sina prepares Weibo for New York IPO - FT <a href="http://bit.ly/1mqntoo">bit.ly/1mqntoo</a> (2014年02月24日 16:14)
  ---
 Lantern官方镜像上线 <a href="https://s3.amazonaws.com/getlantern.org/index.html#zh_CN">s3.amazonaws.com/getlantern.org/index.html</a> (2014年02月23日 15:33)
  ---
@@ -35,7 +35,7 @@ RT @ChinaFile: #China urges #Obama to cancel meeting w/ #DalaiLama (at #WhiteHou
  ---
 Joey · Conssuf 的故事。 <a href="https://freeweibo.com/weibo/3680359662884480">freeweibo.com/weibo/3680359662884480</a> (2014年02月21日 13:35)
  ---
-RT @PhelimKine: Why is #China's govt victimizing #LiuXia? <a href="http://www.telegraph.co.uk/news/worldnews/asia/china/10650516/Wife-of-Chinas-jailed-Nobel-Laureate-Liu-Xiaobo-hospitalised.html">www.telegraph.co.uk/news/worldnews/asia/china/10650516/Wife-of-Chinas-jailed-Nobel-Laureate-Liu-Xiaobo-hospitalised.html</a> Fear of her Nobel Laureate husband, #LiuXiaobo @hrw http:/… (2014年02月21日 03:46)
+RT @PhelimKine: Why is #China's govt victimizing #LiuXia? <a href="http://bit.ly/1eYLJr5">bit.ly/1eYLJr5</a> Fear of her Nobel Laureate husband, #LiuXiaobo @hrw http:/… (2014年02月21日 03:46)
  ---
 RT @WeiboDataCenter: 莫名戳了笑点RT@sanzomaldini: 新浪的是“越过世界，走向长城”？
 RT @WeiboDataCenter: 第一条推…..被Twitter设置的默认介绍萌哭了：越过长城，走向世界！世界，我来了！#新人求fo http://… (2014年02月21日 01:29)
