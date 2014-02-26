@@ -9,6 +9,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+李承鹏：《胡锡进，我等着你接招》  <a href="https://freeweibo.com/weibo/3681950790008466">freeweibo.com/weibo/3681950790008466</a> 胡锡进回复被（自我？）删除 <a href="https://freeweibo.com/weibo/3681986587509130">freeweibo.com/weibo/3681986587509130</a> (2014年02月26日 09:32)
+ ---
 自由微博等镜像网站可用性调查 <a href="https://lanternforum.greatfire.org/viewtopic.php?f=7&t=19">lanternforum.greatfire.org/viewtopic.php</a> (2014年02月26日 09:18)
  ---
 RT @hblodget: RT @TheStalwart: Amazing view out of the 72nd floor of a Beijing hotel room <a href="http://instagram.com/p/k268TEkEDp/">instagram.com/p/k268TEkEDp/</a> <a href="https://twitter.com/TheStalwart/status/438474224974307328/photo/1">twitter.com/TheStalwart/status/438474224974307328/photo/1</a> (2014年02月26日 09:00)
@@ -48,6 +50,4 @@ Large CDN fastly blocked in China. <a href="https://en.greatfire.org/https/www.f
  ---
 RT @zuola: GitHub几无法正常显示页面，我翻墙到墙内到信息产业部网站也申诉了一下，我仍是湖南居民呢。申诉方法： <a href="http://www.v2ex.com/t/100888">www.v2ex.com/t/100888</a> 
 ”您的提问已经提交成功，问题号为8503515205。请牢记此编号，以便查询。“ http://t.co… (2014年02月19日 23:21)
- ---
-China discredits any story that upsets political balance or casts Party in unfavorable light. On China Journalism: <a href="http://www.cnn.com/2014/02/18/world/asia/on-china-journalism-transcript/index.html?sr=sharebar_twitter">www.cnn.com/2014/02/18/world/asia/on-china-journalism-transcript/index.html</a> (2014年02月19日 20:56)
  ---
