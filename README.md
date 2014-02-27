@@ -10,7 +10,7 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
-RT @Dali_Yang: Chinese artists call attention to air pollution in front of the Temple of Heaven in Beijing:  <a href="https://freeweibo.com/weibo/3681993461734063">freeweibo.com/weibo/3681993461734063</a>  http:/… (2014年02月27日 15:03)
+RT @Dali_Yang: Chinese artists call attention to air pollution in front of the Temple of Heaven in Beijing:  <a href="http://fw.cm/NFMDoWhqv">fw.cm/NFMDoWhqv</a>  http:/… (2014年02月27日 15:03)
  ---
 RT @isaac: 新浪微博(Sin) 加上自由微博 @FreeWeibo 才算完整信息，如果只上市前半部分属于欺诈呢 #Sina #weibo #IPO (2014年02月27日 08:24)
  ---
