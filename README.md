@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @cctvnews: Video: China publishes #humanrights report on the US, listing human rights problems in the country in 2013. <a href="http://t.co/0ujDQ">t.co/0ujDQ</a>… (2014年02月28日 18:28)
+ ---
 RT @XHNews: U.S. biggest violator of non-Americans' human rights: China report
 <a href="http://news.xinhuanet.com/english/china/2014-02/28/c_133150724.htm">news.xinhuanet.com/english/china/2014-02/28/c_133150724.htm</a> (2014年02月28日 17:41)
  ---
@@ -49,6 +51,4 @@ RT @PhelimKine: Why is #China's govt victimizing #LiuXia? <a href="http://www.te
  ---
 RT @WeiboDataCenter: 莫名戳了笑点RT@sanzomaldini: 新浪的是“越过世界，走向长城”？
 RT @WeiboDataCenter: 第一条推…..被Twitter设置的默认介绍萌哭了：越过长城，走向世界！世界，我来了！#新人求fo http://… (2014年02月21日 01:29)
- ---
-@crucially @imrockybean @Livid @fastly By IP addresses. Seems all IP addresses of fastly are blocked. (2014年02月20日 13:48)
  ---
