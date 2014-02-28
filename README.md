@@ -10,6 +10,9 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @XHNews: U.S. biggest violator of non-Americans' human rights: China report
+<a href="http://news.xinhuanet.com/english/china/2014-02/28/c_133150724.htm">news.xinhuanet.com/english/china/2014-02/28/c_133150724.htm</a> (2014年02月28日 17:41)
+ ---
 RT @RTKcn: 1+ RT @oracleblog: 各位大神，看看还有遗漏不？ <a href="https://twitter.com/oracleblog/status/439036022051975168/photo/1">twitter.com/oracleblog/status/439036022051975168/photo/1</a> (2014年02月28日 10:11)
  ---
 RT @Dali_Yang: Chinese artists call attention to air pollution in front of the Temple of Heaven in Beijing:  <a href="https://freeweibo.com/weibo/3681993461734063">freeweibo.com/weibo/3681993461734063</a>  http:/… (2014年02月27日 15:03)
@@ -48,6 +51,4 @@ RT @WeiboDataCenter: 莫名戳了笑点RT@sanzomaldini: 新浪的是“越过世
 RT @WeiboDataCenter: 第一条推…..被Twitter设置的默认介绍萌哭了：越过长城，走向世界！世界，我来了！#新人求fo http://… (2014年02月21日 01:29)
  ---
 @crucially @imrockybean @Livid @fastly By IP addresses. Seems all IP addresses of fastly are blocked. (2014年02月20日 13:48)
- ---
-RT @RTKcn: 21+ RT @liu_xiaoyuan: 公告：由北京锋锐律师所代理的北大原教授夏业良起诉北京大学违反劳动法，侵犯劳动者（夏教授）合法权益案，北京某法院已经正式立案！ (2014年02月20日 10:46)
  ---
