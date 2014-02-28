@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+related to offshore leaks? - ICIJ denounces brutal attack on Ming Pao editor <a href="http://www.publicintegrity.org/2014/02/26/14300/icij-denounces-brutal-attack-ming-pao-editor?shared_via_impaq_me=true&utm_campaign=53068196623738000c440000&utm_medium=social&utm_source=impaqme">www.publicintegrity.org/2014/02/26/14300/icij-denounces-brutal-attack-ming-pao-editor</a> via @Publici (2014年02月28日 18:36)
+ ---
 RT @cctvnews: Video: China publishes #humanrights report on the US, listing human rights problems in the country in 2013. <a href="http://t.co/0ujDQ">t.co/0ujDQ</a>… (2014年02月28日 18:28)
  ---
 RT @XHNews: U.S. biggest violator of non-Americans' human rights: China report
@@ -48,7 +50,4 @@ RT @ChinaFile: #China urges #Obama to cancel meeting w/ #DalaiLama (at #WhiteHou
 Joey · Conssuf 的故事。 <a href="https://freeweibo.com/weibo/3680359662884480">freeweibo.com/weibo/3680359662884480</a> (2014年02月21日 13:35)
  ---
 RT @PhelimKine: Why is #China's govt victimizing #LiuXia? <a href="http://www.telegraph.co.uk/news/worldnews/asia/china/10650516/Wife-of-Chinas-jailed-Nobel-Laureate-Liu-Xiaobo-hospitalised.html">www.telegraph.co.uk/news/worldnews/asia/china/10650516/Wife-of-Chinas-jailed-Nobel-Laureate-Liu-Xiaobo-hospitalised.html</a> Fear of her Nobel Laureate husband, #LiuXiaobo @hrw http:/… (2014年02月21日 03:46)
- ---
-RT @WeiboDataCenter: 莫名戳了笑点RT@sanzomaldini: 新浪的是“越过世界，走向长城”？
-RT @WeiboDataCenter: 第一条推…..被Twitter设置的默认介绍萌哭了：越过长城，走向世界！世界，我来了！#新人求fo http://… (2014年02月21日 01:29)
  ---
