@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Optic Nerve: millions of Yahoo webcam images intercepted by GCHQ <a href="http://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo">www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo</a> (2014年03月02日 04:07)
+ ---
 related to offshore leaks? - ICIJ denounces brutal attack on Ming Pao editor <a href="http://www.publicintegrity.org/2014/02/26/14300/icij-denounces-brutal-attack-ming-pao-editor?shared_via_impaq_me=true&utm_campaign=53068196623738000c440000&utm_medium=social&utm_source=impaqme">www.publicintegrity.org/2014/02/26/14300/icij-denounces-brutal-attack-ming-pao-editor</a> via @Publici (2014年02月28日 18:36)
  ---
 RT @cctvnews: Video: China publishes #humanrights report on the US, listing human rights problems in the country in 2013. <a href="http://t.co/0ujDQ">t.co/0ujDQ</a>… (2014年02月28日 18:28)
@@ -19,7 +21,7 @@ RT @XHNews: U.S. biggest violator of non-Americans' human rights: China report
  ---
 RT @RTKcn: 1+ RT @oracleblog: 各位大神，看看还有遗漏不？ <a href="https://twitter.com/oracleblog/status/439036022051975168/photo/1">twitter.com/oracleblog/status/439036022051975168/photo/1</a> (2014年02月28日 10:11)
  ---
-RT @Dali_Yang: Chinese artists call attention to air pollution in front of the Temple of Heaven in Beijing:  <a href="https://freeweibo.com/weibo/3681993461734063">freeweibo.com/weibo/3681993461734063</a>  http:/… (2014年02月27日 15:03)
+RT @Dali_Yang: Chinese artists call attention to air pollution in front of the Temple of Heaven in Beijing:  <a href="http://fw.cm/NFMDoWhqv">fw.cm/NFMDoWhqv</a>  http:/… (2014年02月27日 15:03)
  ---
 RT @isaac: 新浪微博(Sin) 加上自由微博 @FreeWeibo 才算完整信息，如果只上市前半部分属于欺诈呢 #Sina #weibo #IPO (2014年02月27日 08:24)
  ---
@@ -48,6 +50,4 @@ Lantern官方镜像上线 <a href="https://s3.amazonaws.com/getlantern.org/index
 RT @ChinaFile: #China urges #Obama to cancel meeting w/ #DalaiLama (at #WhiteHouse today, Fri 2/21)—@suilee @robertarampton @reuters http:/… (2014年02月21日 23:31)
  ---
 Joey · Conssuf 的故事。 <a href="https://freeweibo.com/weibo/3680359662884480">freeweibo.com/weibo/3680359662884480</a> (2014年02月21日 13:35)
- ---
-RT @PhelimKine: Why is #China's govt victimizing #LiuXia? <a href="http://www.telegraph.co.uk/news/worldnews/asia/china/10650516/Wife-of-Chinas-jailed-Nobel-Laureate-Liu-Xiaobo-hospitalised.html">www.telegraph.co.uk/news/worldnews/asia/china/10650516/Wife-of-Chinas-jailed-Nobel-Laureate-Liu-Xiaobo-hospitalised.html</a> Fear of her Nobel Laureate husband, #LiuXiaobo @hrw http:/… (2014年02月21日 03:46)
  ---
