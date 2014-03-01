@@ -10,6 +10,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+通知：对3月1日昆明火车站发生的砍杀事件，如报道，严格按新华社通稿或当地权威部门发布的信息报道，不做大标题不配图片。 当地媒体报道已经被删除 <a href="https://freeweibo.com/weibo/%40%E4%BA%91%E5%8D%97%E4%BF%A1%E6%81%AF%E6%8A%A5">freeweibo.com/weibo/@云南信息报</a> (2014年03月02日 05:48)
+ ---
+@云南信息报 大量微博被删除 什么意思？ <a href="https://freeweibo.com/weibo/%40%E4%BA%91%E5%8D%97%E4%BF%A1%E6%81%AF%E6%8A%A5">freeweibo.com/weibo/@云南信息报</a> (2014年03月02日 05:40)
+ ---
 昆明火车站暴恐事件 头条新闻5条微博被删除 <a href="https://freeweibo.com/weibo/%40%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB?latest">freeweibo.com/weibo/@头条新闻</a> (2014年03月02日 05:36)
  ---
 Optic Nerve: millions of Yahoo webcam images intercepted by GCHQ <a href="http://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo">www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo</a> (2014年03月02日 04:07)
@@ -46,8 +50,4 @@ RT @WikimediaTW: 做為社會的一份子，維基人在社會的大事件中也
 RT @PaulCarsten: RT @JoshTANoble: Sina prepares Weibo for New York IPO - FT <a href="http://www.ft.com/cms/s/0/d596fe74-9d02-11e3-b535-00144feab7de.html">www.ft.com/cms/s/0/d596fe74-9d02-11e3-b535-00144feab7de.html</a> (2014年02月24日 16:14)
  ---
 Lantern官方镜像上线 <a href="https://s3.amazonaws.com/getlantern.org/index.html#zh_CN">s3.amazonaws.com/getlantern.org/index.html</a> (2014年02月23日 15:33)
- ---
-李承鹏V：胡锡进，出来道歉。 <a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E6%89%BF%E9%B9%8F">freeweibo.com/weibo/@李承鹏</a> (2014年02月22日 09:16)
- ---
-RT @ChinaFile: #China urges #Obama to cancel meeting w/ #DalaiLama (at #WhiteHouse today, Fri 2/21)—@suilee @robertarampton @reuters http:/… (2014年02月21日 23:31)
  ---
