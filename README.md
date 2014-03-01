@@ -21,7 +21,7 @@ RT @XHNews: U.S. biggest violator of non-Americans' human rights: China report
  ---
 RT @RTKcn: 1+ RT @oracleblog: 各位大神，看看还有遗漏不？ <a href="https://twitter.com/oracleblog/status/439036022051975168/photo/1">twitter.com/oracleblog/status/439036022051975168/photo/1</a> (2014年02月28日 10:11)
  ---
-RT @Dali_Yang: Chinese artists call attention to air pollution in front of the Temple of Heaven in Beijing:  <a href="http://fw.cm/NFMDoWhqv">fw.cm/NFMDoWhqv</a>  http:/… (2014年02月27日 15:03)
+RT @Dali_Yang: Chinese artists call attention to air pollution in front of the Temple of Heaven in Beijing:  <a href="https://freeweibo.com/weibo/3681993461734063">freeweibo.com/weibo/3681993461734063</a>  http:/… (2014年02月27日 15:03)
  ---
 RT @isaac: 新浪微博(Sin) 加上自由微博 @FreeWeibo 才算完整信息，如果只上市前半部分属于欺诈呢 #Sina #weibo #IPO (2014年02月27日 08:24)
  ---
