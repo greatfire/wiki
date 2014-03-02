@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Github CDN 再次被屏蔽。发现是@fastly 更换了IP。可能碰巧更换到被封锁的IP了。 @zuola (2014年03月02日 09:14)
+ ---
 通知：对3月1日昆明火车站发生的砍杀事件，如报道，严格按新华社通稿或当地权威部门发布的信息报道，不做大标题不配图片。 当地媒体报道已经被删除 <a href="https://freeweibo.com/weibo/%40%E4%BA%91%E5%8D%97%E4%BF%A1%E6%81%AF%E6%8A%A5">freeweibo.com/weibo/@云南信息报</a> (2014年03月02日 05:48)
  ---
 @云南信息报 大量微博被删除 什么意思？ <a href="https://freeweibo.com/weibo/%40%E4%BA%91%E5%8D%97%E4%BF%A1%E6%81%AF%E6%8A%A5">freeweibo.com/weibo/@云南信息报</a> (2014年03月02日 05:40)
@@ -48,6 +50,4 @@ Absence makes a heart grow fonder: subscribe to Sinocism for deeper news and ini
 RT @WikimediaTW: 做為社會的一份子，維基人在社會的大事件中也無從置身事外。而令人哀傷的是今天我們接到消息：2月20日，維基人User:Ig2000在烏克蘭基輔的抗議行動中彈身亡，得年22歲 <a href="https://blog.wikimedia.org/2014/02/24/wikipedia-ihor-kostenko-dies/">blog.wikimedia.org/2014/02/24/wikipedia-ihor-kostenko-dies/</a> #wikimedia #e… (2014年02月25日 15:35)
  ---
 RT @PaulCarsten: RT @JoshTANoble: Sina prepares Weibo for New York IPO - FT <a href="http://www.ft.com/cms/s/0/d596fe74-9d02-11e3-b535-00144feab7de.html">www.ft.com/cms/s/0/d596fe74-9d02-11e3-b535-00144feab7de.html</a> (2014年02月24日 16:14)
- ---
-Lantern官方镜像上线 <a href="https://s3.amazonaws.com/getlantern.org/index.html#zh_CN">s3.amazonaws.com/getlantern.org/index.html</a> (2014年02月23日 15:33)
  ---
