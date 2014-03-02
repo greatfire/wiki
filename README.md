@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @RTKcn: 1+ RT @wickedonnaa: 昆明 收集的部分目击者的微博 <a href="http://wickedonna1.tumblr.com/post/78223148381/2014-3-1">wickedonna1.tumblr.com/post/78223148381/2014-3-1</a> (2014年03月02日 09:44)
+ ---
 @zuola <a href="https://zh.greatfire.org/https/github.global.ssl.fastly.net">zh.greatfire.org/https/github.global.ssl.fastly.net</a> (2014年03月02日 09:38)
  ---
 Github CDN 再次被屏蔽。发现是@fastly 更换了IP。可能碰巧更换到被封锁的IP了。 @zuola (2014年03月02日 09:14)
@@ -48,6 +50,4 @@ RT @hblodget: RT @TheStalwart: Amazing view out of the 72nd floor of a Beijing h
 ［Lantern新版邀请即将发放］感谢中国用户耐心的等待。 我们仍然在调整软件，保证Lantern新版发布时不会遭到封锁。所有Lantern的用户和以前在官方网站上申请邀请的用户在近期会逐步获得新版邀请。 <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=18">lanternforum.greatfire.org/viewtopic.php</a> (2014年02月26日 08:56)
  ---
 Absence makes a heart grow fonder: subscribe to Sinocism for deeper news and inisght into China: <a href="http://sinocism.com/">sinocism.com/</a> (2014年02月25日 17:01)
- ---
-RT @WikimediaTW: 做為社會的一份子，維基人在社會的大事件中也無從置身事外。而令人哀傷的是今天我們接到消息：2月20日，維基人User:Ig2000在烏克蘭基輔的抗議行動中彈身亡，得年22歲 <a href="https://blog.wikimedia.org/2014/02/24/wikipedia-ihor-kostenko-dies/">blog.wikimedia.org/2014/02/24/wikipedia-ihor-kostenko-dies/</a> #wikimedia #e… (2014年02月25日 15:35)
  ---
