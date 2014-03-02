@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Chinese flooded the comments of <a href="http://world.time.com/2014/03/01/deadly-terror-attack-in-southwestern-china-blamed-on-separatist-muslim-uighurs/">world.time.com/2014/03/01/deadly-terror-attack-in-southwestern-china-blamed-on-separatist-muslim-uighurs/</a> Most comments come from newly registered users. (2014年03月02日 15:50)
+ ---
 RT @RTKcn: 1+ RT @wickedonnaa: 昆明 收集的部分目击者的微博 <a href="http://wickedonna1.tumblr.com/post/78223148381/2014-3-1">wickedonna1.tumblr.com/post/78223148381/2014-3-1</a> (2014年03月02日 09:44)
  ---
 @zuola <a href="https://zh.greatfire.org/https/github.global.ssl.fastly.net">zh.greatfire.org/https/github.global.ssl.fastly.net</a> (2014年03月02日 09:38)
@@ -48,6 +50,4 @@ RT @RTKcn: 18+ RT @clowwindy: Shadowsocks for iOS 2.0 上架了，内置了公�
 RT @hblodget: RT @TheStalwart: Amazing view out of the 72nd floor of a Beijing hotel room <a href="http://instagram.com/p/k268TEkEDp/">instagram.com/p/k268TEkEDp/</a> <a href="https://twitter.com/TheStalwart/status/438474224974307328/photo/1">twitter.com/TheStalwart/status/438474224974307328/photo/1</a> (2014年02月26日 09:00)
  ---
 ［Lantern新版邀请即将发放］感谢中国用户耐心的等待。 我们仍然在调整软件，保证Lantern新版发布时不会遭到封锁。所有Lantern的用户和以前在官方网站上申请邀请的用户在近期会逐步获得新版邀请。 <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=18">lanternforum.greatfire.org/viewtopic.php</a> (2014年02月26日 08:56)
- ---
-Absence makes a heart grow fonder: subscribe to Sinocism for deeper news and inisght into China: <a href="http://sinocism.com/">sinocism.com/</a> (2014年02月25日 17:01)
  ---
