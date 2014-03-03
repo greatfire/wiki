@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+网友撰文 《为什么我要说“民不畏死，奈何以死惧之”》 后公安上门 <a href="https://freeweibo.com/weibo/%40%E9%98%91%E5%A4%95">freeweibo.com/weibo/@阑夕</a> (2014年03月03日 07:58)
+ ---
 Breaking News: Sina Weibo lift keyword censorship on Zhou Yongkang after spokesperson answered a question about him in a humorous way. (2014年03月03日 03:46)
  ---
 快讯： 新浪微博今日取消对“周永康”的屏蔽。 <a href="https://freeweibo.com/weibo/%E5%91%A8%E6%B0%B8%E5%BA%B7">freeweibo.com/weibo/周永康</a> (2014年03月03日 03:42)
@@ -48,6 +50,4 @@ RT @Dali_Yang: Chinese artists call attention to air pollution in front of the T
 RT @isaac: 新浪微博(Sin) 加上自由微博 @FreeWeibo 才算完整信息，如果只上市前半部分属于欺诈呢 #Sina #weibo #IPO (2014年02月27日 08:24)
  ---
 RT @RTKcn: 18+ RT @clowwindy: Shadowsocks for iOS 2.0 上架了，内置了公共服务器，新增支持二维码配置服务器 <a href="https://itunes.apple.com/us/app/shadowsocks/id665729974?ls=1&mt=8">itunes.apple.com/us/app/shadowsocks/id665729974</a> (2014年02月26日 12:53)
- ---
-@Cielpy5 @fjfzwzs 不一定。在墙内信任的朋友可以把他们的代理分享给你。只要他们能正常访问，无论在国内国外，都可以分享给你 (2014年02月26日 09:46)
  ---
