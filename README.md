@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Detained China dissident Cao Shunli near death-close friend <a href="http://www.reuters.com/article/2014/03/01/us-china-rights-cao-idUSBREA2002X20140301">www.reuters.com/article/2014/03/01/us-china-rights-cao-idUSBREA2002X20140301</a> via @reuters (2014年03月03日 19:02)
+ ---
 Censored 昆明微博 include govt criticism, warnings about 新疆人wearing black t-shirts in street, poss. of attack in 西安 <a href="https://freeweibo.com/weibo/%E6%98%86%E6%98%8E?censored">freeweibo.com/weibo/昆明</a> (2014年03月03日 17:13)
  ---
 RT @goldkorn: "News of Kunming attack absent from China's front pages" on @shanghaiist NONSENSE - it's on Ppl's Daily, BJ Eve News, Xinhua … (2014年03月03日 16:12)
@@ -48,6 +50,4 @@ RT @XHNews: U.S. biggest violator of non-Americans' human rights: China report
 <a href="http://news.xinhuanet.com/english/china/2014-02/28/c_133150724.htm">news.xinhuanet.com/english/china/2014-02/28/c_133150724.htm</a> (2014年02月28日 17:41)
  ---
 RT @RTKcn: 1+ RT @oracleblog: 各位大神，看看还有遗漏不？ <a href="https://twitter.com/oracleblog/status/439036022051975168/photo/1">twitter.com/oracleblog/status/439036022051975168/photo/1</a> (2014年02月28日 10:11)
- ---
-RT @Dali_Yang: Chinese artists call attention to air pollution in front of the Temple of Heaven in Beijing:  <a href="https://freeweibo.com/weibo/3681993461734063">freeweibo.com/weibo/3681993461734063</a>  http:/… (2014年02月27日 15:03)
  ---
