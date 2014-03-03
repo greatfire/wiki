@@ -43,7 +43,7 @@ related to offshore leaks? - ICIJ denounces brutal attack on Ming Pao editor <a 
 RT @cctvnews: Video: China publishes #humanrights report on the US, listing human rights problems in the country in 2013. <a href="http://t.co/0ujDQ">t.co/0ujDQ</a>… (2014年02月28日 18:28)
  ---
 RT @XHNews: U.S. biggest violator of non-Americans' human rights: China report
-<a href="http://news.xinhuanet.com/english/china/2014-02/28/c_133150724.htm">news.xinhuanet.com/english/china/2014-02/28/c_133150724.htm</a> (2014年02月28日 17:41)
+<a href="http://xhne.ws/ARZYq">xhne.ws/ARZYq</a> (2014年02月28日 17:41)
  ---
 RT @RTKcn: 1+ RT @oracleblog: 各位大神，看看还有遗漏不？ <a href="https://twitter.com/oracleblog/status/439036022051975168/photo/1">twitter.com/oracleblog/status/439036022051975168/photo/1</a> (2014年02月28日 10:11)
  ---
