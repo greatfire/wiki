@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Censored 昆明微博 include govt criticism, warnings about 新疆人wearing black t-shirts in street, poss. of attack in 西安 <a href="https://freeweibo.com/weibo/%E6%98%86%E6%98%8E?censored">freeweibo.com/weibo/昆明</a> (2014年03月03日 17:13)
+ ---
 RT @goldkorn: "News of Kunming attack absent from China's front pages" on @shanghaiist NONSENSE - it's on Ppl's Daily, BJ Eve News, Xinhua … (2014年03月03日 16:12)
  ---
 网友撰文 《为什么我要说“民不畏死，奈何以死惧之”》 后公安上门 <a href="https://freeweibo.com/weibo/%40%E9%98%91%E5%A4%95">freeweibo.com/weibo/@阑夕</a> (2014年03月03日 07:58)
@@ -43,11 +45,9 @@ related to offshore leaks? - ICIJ denounces brutal attack on Ming Pao editor <a 
 RT @cctvnews: Video: China publishes #humanrights report on the US, listing human rights problems in the country in 2013. <a href="http://t.co/0ujDQ">t.co/0ujDQ</a>… (2014年02月28日 18:28)
  ---
 RT @XHNews: U.S. biggest violator of non-Americans' human rights: China report
-<a href="http://xhne.ws/ARZYq">xhne.ws/ARZYq</a> (2014年02月28日 17:41)
+<a href="http://news.xinhuanet.com/english/china/2014-02/28/c_133150724.htm">news.xinhuanet.com/english/china/2014-02/28/c_133150724.htm</a> (2014年02月28日 17:41)
  ---
 RT @RTKcn: 1+ RT @oracleblog: 各位大神，看看还有遗漏不？ <a href="https://twitter.com/oracleblog/status/439036022051975168/photo/1">twitter.com/oracleblog/status/439036022051975168/photo/1</a> (2014年02月28日 10:11)
  ---
 RT @Dali_Yang: Chinese artists call attention to air pollution in front of the Temple of Heaven in Beijing:  <a href="https://freeweibo.com/weibo/3681993461734063">freeweibo.com/weibo/3681993461734063</a>  http:/… (2014年02月27日 15:03)
- ---
-RT @isaac: 新浪微博(Sin) 加上自由微博 @FreeWeibo 才算完整信息，如果只上市前半部分属于欺诈呢 #Sina #weibo #IPO (2014年02月27日 08:24)
  ---
