@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Kunming attack may be tied to manhunt. Uyghurs tried to flee to Laos after violence in Hotan last June: <a href="http://www.rfa.org/english/news/uyghur/desperate-03032014224353.html?utm_source=twitterfeed&utm_medium=twitter">www.rfa.org/english/news/uyghur/desperate-03032014224353.html</a> (2014年03月04日 17:45)
+ ---
 h/t @Stariver：七不讲也没啥阿。不讲普世价值可以讲专制罪恶，不讲新闻自由可以讲道路以目，不讲公民社会可以讲太平天国，不讲公民权利可以讲屁民遭遇，不讲党的历史错误可以讲假的历史功绩，不讲权贵资产阶级可以讲红二代，不讲司法独立可以讲司法黑幕。 (2014年03月04日 17:31)
  ---
 "Xi Jinping attempting to make space for public engagement more confined." <a href="http://blogs.nottingham.ac.uk/chinapolicyinstitute/2014/03/03/chinas-new-petitioning-guidelines-social-governance-policy/?utm_source=rss&utm_medium=rss&utm_campaign=chinas-new-petitioning-guidelines-social-governance-policy">blogs.nottingham.ac.uk/chinapolicyinstitute/2014/03/03/chinas-new-petitioning-guidelines-social-governance-policy/</a> - so far, a great success (2014年03月04日 17:26)
@@ -47,6 +49,4 @@ RT @RTKcn: 1+ RT @wickedonnaa: 昆明 收集的部分目击者的微博 <a href=
 Github CDN 再次被屏蔽。发现是@fastly 更换了IP。可能碰巧更换到被封锁的IP了。 @zuola (2014年03月02日 09:14)
  ---
 通知：对3月1日昆明火车站发生的砍杀事件，如报道，严格按新华社通稿或当地权威部门发布的信息报道，不做大标题不配图片。 当地媒体报道已经被删除 <a href="https://freeweibo.com/weibo/%40%E4%BA%91%E5%8D%97%E4%BF%A1%E6%81%AF%E6%8A%A5">freeweibo.com/weibo/@云南信息报</a> (2014年03月02日 05:48)
- ---
-@云南信息报 大量微博被删除 什么意思？ <a href="https://freeweibo.com/weibo/%40%E4%BA%91%E5%8D%97%E4%BF%A1%E6%81%AF%E6%8A%A5">freeweibo.com/weibo/@云南信息报</a> (2014年03月02日 05:40)
  ---
