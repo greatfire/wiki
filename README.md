@@ -10,6 +10,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+“周永康”解封一天后又被新浪微博封锁。 是各种势力在角逐么？ <a href="https://freeweibo.com/weibo/%E5%91%A8%E6%B0%B8%E5%BA%B7">freeweibo.com/weibo/周永康</a> (2014年03月04日 10:14)
+ ---
+Breaking News: Zhou Yongkang blocked again on Sina Weibo Search, one day after its unblock. Battle of powers? (2014年03月04日 10:13)
+ ---
 Detained China dissident Cao Shunli near death-close friend <a href="http://www.reuters.com/article/2014/03/01/us-china-rights-cao-idUSBREA2002X20140301">www.reuters.com/article/2014/03/01/us-china-rights-cao-idUSBREA2002X20140301</a> via @reuters (2014年03月03日 19:02)
  ---
 Censored 昆明微博 include govt criticism, warnings about 新疆人wearing black t-shirts in street, poss. of attack in 西安 <a href="https://freeweibo.com/weibo/%E6%98%86%E6%98%8E?censored">freeweibo.com/weibo/昆明</a> (2014年03月03日 17:13)
@@ -45,9 +49,4 @@ Optic Nerve: millions of Yahoo webcam images intercepted by GCHQ <a href="http:/
 related to offshore leaks? - ICIJ denounces brutal attack on Ming Pao editor <a href="http://www.publicintegrity.org/2014/02/26/14300/icij-denounces-brutal-attack-ming-pao-editor?shared_via_impaq_me=true&utm_campaign=53068196623738000c440000&utm_medium=social&utm_source=impaqme">www.publicintegrity.org/2014/02/26/14300/icij-denounces-brutal-attack-ming-pao-editor</a> via @Publici (2014年02月28日 18:36)
  ---
 RT @cctvnews: Video: China publishes #humanrights report on the US, listing human rights problems in the country in 2013. <a href="http://t.co/0ujDQ">t.co/0ujDQ</a>… (2014年02月28日 18:28)
- ---
-RT @XHNews: U.S. biggest violator of non-Americans' human rights: China report
-<a href="http://news.xinhuanet.com/english/china/2014-02/28/c_133150724.htm">news.xinhuanet.com/english/china/2014-02/28/c_133150724.htm</a> (2014年02月28日 17:41)
- ---
-RT @RTKcn: 1+ RT @oracleblog: 各位大神，看看还有遗漏不？ <a href="https://twitter.com/oracleblog/status/439036022051975168/photo/1">twitter.com/oracleblog/status/439036022051975168/photo/1</a> (2014年02月28日 10:11)
  ---
