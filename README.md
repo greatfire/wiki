@@ -10,6 +10,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+@qilu can you contact me on charlie.smith@greatfire.org? We have some new research on China Bing that I want to run by you first. (2014年03月04日 17:04)
+ ---
+@stefanweitz can you contact me on charlie.smith@greatfire.org? We have some new research that I want to run by you first. (2014年03月04日 17:03)
+ ---
 “周永康”解封一天后又被新浪微博封锁。 是各种势力在角逐么？ <a href="https://freeweibo.com/weibo/%E5%91%A8%E6%B0%B8%E5%BA%B7">freeweibo.com/weibo/周永康</a> (2014年03月04日 10:14)
  ---
 Breaking News: Zhou Yongkang blocked again on Sina Weibo Search, one day after its unblock. Battle of powers? (2014年03月04日 10:13)
@@ -45,8 +49,4 @@ Github CDN 再次被屏蔽。发现是@fastly 更换了IP。可能碰巧更换�
 昆明火车站暴恐事件 头条新闻5条微博被删除 <a href="https://freeweibo.com/weibo/%40%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB?latest">freeweibo.com/weibo/@头条新闻</a> (2014年03月02日 05:36)
  ---
 Optic Nerve: millions of Yahoo webcam images intercepted by GCHQ <a href="http://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo">www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo</a> (2014年03月02日 04:07)
- ---
-related to offshore leaks? - ICIJ denounces brutal attack on Ming Pao editor <a href="http://www.publicintegrity.org/2014/02/26/14300/icij-denounces-brutal-attack-ming-pao-editor?shared_via_impaq_me=true&utm_campaign=53068196623738000c440000&utm_medium=social&utm_source=impaqme">www.publicintegrity.org/2014/02/26/14300/icij-denounces-brutal-attack-ming-pao-editor</a> via @Publici (2014年02月28日 18:36)
- ---
-RT @cctvnews: Video: China publishes #humanrights report on the US, listing human rights problems in the country in 2013. <a href="http://t.co/0ujDQ">t.co/0ujDQ</a>… (2014年02月28日 18:28)
  ---
