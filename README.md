@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+"Xi Jinping attempting to make space for public engagement more confined." <a href="http://blogs.nottingham.ac.uk/chinapolicyinstitute/2014/03/03/chinas-new-petitioning-guidelines-social-governance-policy/?utm_source=rss&utm_medium=rss&utm_campaign=chinas-new-petitioning-guidelines-social-governance-policy">blogs.nottingham.ac.uk/chinapolicyinstitute/2014/03/03/chinas-new-petitioning-guidelines-social-governance-policy/</a> - so far, a great success (2014年03月04日 17:26)
+ ---
 @qilu can you contact me on charlie.smith@greatfire.org? We have some new research on China Bing that I want to run by you first. (2014年03月04日 17:04)
  ---
 @stefanweitz can you contact me on charlie.smith@greatfire.org? We have some new research that I want to run by you first. (2014年03月04日 17:03)
@@ -47,6 +49,4 @@ Github CDN 再次被屏蔽。发现是@fastly 更换了IP。可能碰巧更换�
 @云南信息报 大量微博被删除 什么意思？ <a href="https://freeweibo.com/weibo/%40%E4%BA%91%E5%8D%97%E4%BF%A1%E6%81%AF%E6%8A%A5">freeweibo.com/weibo/@云南信息报</a> (2014年03月02日 05:40)
  ---
 昆明火车站暴恐事件 头条新闻5条微博被删除 <a href="https://freeweibo.com/weibo/%40%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB?latest">freeweibo.com/weibo/@头条新闻</a> (2014年03月02日 05:36)
- ---
-Optic Nerve: millions of Yahoo webcam images intercepted by GCHQ <a href="http://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo">www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo</a> (2014年03月02日 04:07)
  ---
