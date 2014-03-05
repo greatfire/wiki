@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+"No results"! RT @ForeignPolicy: China's regions and stereotypes according to auto-complete: <a href="http://www.foreignpolicy.com/articles/2014/03/04/a_map_of_china_by_stereotype?utm_content=buffer7539d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.foreignpolicy.com/articles/2014/03/04/a_map_of_china_by_stereotype</a>  <a href="https://twitter.com/ForeignPolicy/status/440974888027701249/photo/1">twitter.com/ForeignPolicy/status/440974888027701249/photo/1</a> (2014年03月05日 16:18)
+ ---
 "暴徒照片曝光"均被删除。怕照片唤起同情和对动机的思考？ <a href="https://freeweibo.com/weibo/%E6%9A%B4%E5%BE%92%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89">freeweibo.com/weibo/暴徒照片曝光</a> (2014年03月05日 13:05)
  ---
 Kunming attack may be tied to manhunt. Uyghurs tried to flee to Laos after violence in Hotan last June: <a href="http://www.rfa.org/english/news/uyghur/desperate-03032014224353.html?utm_source=twitterfeed&utm_medium=twitter">www.rfa.org/english/news/uyghur/desperate-03032014224353.html</a> (2014年03月04日 17:45)
@@ -47,6 +49,4 @@ Chinese flooded the comments of <a href="http://world.time.com/2014/03/01/deadly
 RT @RTKcn: 1+ RT @wickedonnaa: 昆明 收集的部分目击者的微博 <a href="http://wickedonna1.tumblr.com/post/78223148381/2014-3-1">wickedonna1.tumblr.com/post/78223148381/2014-3-1</a> (2014年03月02日 09:44)
  ---
 @zuola <a href="https://zh.greatfire.org/https/github.global.ssl.fastly.net">zh.greatfire.org/https/github.global.ssl.fastly.net</a> (2014年03月02日 09:38)
- ---
-Github CDN 再次被屏蔽。发现是@fastly 更换了IP。可能碰巧更换到被封锁的IP了。 @zuola (2014年03月02日 09:14)
  ---
