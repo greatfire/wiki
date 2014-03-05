@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+"暴徒照片曝光"均被删除。怕照片唤起同情和对动机的思考？ <a href="https://freeweibo.com/weibo/%E6%9A%B4%E5%BE%92%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89">freeweibo.com/weibo/暴徒照片曝光</a> (2014年03月05日 13:05)
+ ---
 Kunming attack may be tied to manhunt. Uyghurs tried to flee to Laos after violence in Hotan last June: <a href="http://www.rfa.org/english/news/uyghur/desperate-03032014224353.html?utm_source=twitterfeed&utm_medium=twitter">www.rfa.org/english/news/uyghur/desperate-03032014224353.html</a> (2014年03月04日 17:45)
  ---
 h/t @Stariver：七不讲也没啥阿。不讲普世价值可以讲专制罪恶，不讲新闻自由可以讲道路以目，不讲公民社会可以讲太平天国，不讲公民权利可以讲屁民遭遇，不讲党的历史错误可以讲假的历史功绩，不讲权贵资产阶级可以讲红二代，不讲司法独立可以讲司法黑幕。 (2014年03月04日 17:31)
@@ -47,6 +49,4 @@ RT @RTKcn: 1+ RT @wickedonnaa: 昆明 收集的部分目击者的微博 <a href=
 @zuola <a href="https://zh.greatfire.org/https/github.global.ssl.fastly.net">zh.greatfire.org/https/github.global.ssl.fastly.net</a> (2014年03月02日 09:38)
  ---
 Github CDN 再次被屏蔽。发现是@fastly 更换了IP。可能碰巧更换到被封锁的IP了。 @zuola (2014年03月02日 09:14)
- ---
-通知：对3月1日昆明火车站发生的砍杀事件，如报道，严格按新华社通稿或当地权威部门发布的信息报道，不做大标题不配图片。 当地媒体报道已经被删除 <a href="https://freeweibo.com/weibo/%40%E4%BA%91%E5%8D%97%E4%BF%A1%E6%81%AF%E6%8A%A5">freeweibo.com/weibo/@云南信息报</a> (2014年03月02日 05:48)
  ---
