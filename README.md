@@ -10,6 +10,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @MalcolmMoore: V depressing that PSB trying to use public anger over Kunming to attack Big Vs (2014年03月06日 19:26)
+ ---
+RT @MalcolmMoore: Li Chengpeng responds to threats from Beijing police over his Weibo on Kunming massacre: "Shall I wait for you at home or… (2014年03月06日 19:26)
+ ---
 [话筒]希望广大网民自觉遵守法律，不信谣、不传谣，共同维护健康的网络环境和良好社会秩序。 <a href="https://freeweibo.com/weibo/3685153719053262">freeweibo.com/weibo/3685153719053262</a> 来自 @FreeWeibo (2014年03月06日 18:48)
  ---
 @MalcolmMoore can you post the links please? (2014年03月06日 18:42)
@@ -45,8 +49,4 @@ RT @goldkorn: "News of Kunming attack absent from China's front pages" on @shang
 Breaking News: Sina Weibo lift keyword censorship on Zhou Yongkang after spokesperson answered a question about him in a humorous way. (2014年03月03日 03:46)
  ---
 快讯： 新浪微博今日取消对“周永康”的屏蔽。 <a href="https://freeweibo.com/weibo/%E5%91%A8%E6%B0%B8%E5%BA%B7">freeweibo.com/weibo/周永康</a> (2014年03月03日 03:42)
- ---
-自由微博”昆明火车站“搜索结果已经被人民日报占领<a href="https://freeweibo.com/weibo/%E6%98%86%E6%98%8E%E7%81%AB%E8%BD%A6%E7%AB%99">freeweibo.com/weibo/昆明火车站</a> 要看其他观点，请把页面上方的“全部”改为“被新浪微博屏蔽”。 (2014年03月03日 03:37)
- ---
-今天国内部分都市报头版汇总 <a href="https://twitter.com/GreatFireChina/status/439879840385089536">twitter.com/GreatFireChina/status/439879840385089536</a> <a href="https://twitter.com/GreatFireChina/status/440207009506263040/photo/1">twitter.com/GreatFireChina/status/440207009506263040/photo/1</a> (2014年03月03日 03:28)
  ---
