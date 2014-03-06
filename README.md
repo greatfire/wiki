@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @sinoceros: RMB 1.4 trillion: The combined assets of 94 tycoons at China’s Congress—up RMB 200bl from 2013 <a href="http://english.caixin.com/2014-03-06/100647826.html">english.caixin.com/2014-03-06/100647826.html</a> http:/… (2014年03月06日 20:06)
+ ---
 主流消息是凌晨一点多流出来的，正式新华社消息是次日才出。我第一条是头晚十二点多发的，老沉说上面很不满，下令删。这是全部的事实。文字狱吗？我是家等你，还是自首？ <a href="https://freeweibo.com/weibo/3685191921679232">freeweibo.com/weibo/3685191921679232</a> not deleted yet @MalcolmMoore (2014年03月06日 19:34)
  ---
 RT @MalcolmMoore: V depressing that PSB trying to use public anger over Kunming to attack Big Vs (2014年03月06日 19:26)
@@ -47,6 +49,4 @@ Censored 昆明微博 include govt criticism, warnings about 新疆人wearing bl
 RT @goldkorn: "News of Kunming attack absent from China's front pages" on @shanghaiist NONSENSE - it's on Ppl's Daily, BJ Eve News, Xinhua … (2014年03月03日 16:12)
  ---
 网友撰文 《为什么我要说“民不畏死，奈何以死惧之”》 后公安上门 <a href="https://freeweibo.com/weibo/%40%E9%98%91%E5%A4%95">freeweibo.com/weibo/@阑夕</a> (2014年03月03日 07:58)
- ---
-Breaking News: Sina Weibo lift keyword censorship on Zhou Yongkang after spokesperson answered a question about him in a humorous way. (2014年03月03日 03:46)
  ---
