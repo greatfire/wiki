@@ -10,7 +10,7 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
-[话筒]希望广大网民自觉遵守法律，不信谣、不传谣，共同维护健康的网络环境和良好社会秩序。 <a href="https://freeweibo.com/weibo/3685153719053262">freeweibo.com/weibo/3685153719053262</a> 来自 @FreeWeibo (2014年03月06日 18:48)
+[话筒]希望广大网民自觉遵守法律，不信谣、不传谣，共同维护健康的网络环境和良好社会秩序。 <a href="http://fw.cm/NF6C2XevO">fw.cm/NF6C2XevO</a> 来自 @FreeWeibo (2014年03月06日 18:48)
  ---
 @MalcolmMoore can you post the links please? (2014年03月06日 18:42)
  ---
