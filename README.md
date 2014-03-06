@@ -44,7 +44,7 @@ Breaking News: Sina Weibo lift keyword censorship on Zhou Yongkang after spokesp
  ---
 今天国内部分都市报头版汇总 <a href="https://twitter.com/GreatFireChina/status/439879840385089536">twitter.com/GreatFireChina/status/439879840385089536</a> <a href="https://twitter.com/GreatFireChina/status/440207009506263040/photo/1">twitter.com/GreatFireChina/status/440207009506263040/photo/1</a> (2014年03月03日 03:28)
  ---
-Chinese flooded the comments of <a href="http://world.time.com/2014/03/01/deadly-terror-attack-in-southwestern-china-blamed-on-separatist-muslim-uighurs/">world.time.com/2014/03/01/deadly-terror-attack-in-southwestern-china-blamed-on-separatist-muslim-uighurs/</a> Most comments come from newly registered users. (2014年03月02日 15:50)
+Chinese flooded the comments of <a href="http://time.com/11687/deadly-terror-attack-in-southwestern-china-blamed-on-separatist-muslim-uighurs/">time.com/11687/deadly-terror-attack-in-southwestern-china-blamed-on-separatist-muslim-uighurs/</a> Most comments come from newly registered users. (2014年03月02日 15:50)
  ---
 RT @RTKcn: 1+ RT @wickedonnaa: 昆明 收集的部分目击者的微博 <a href="http://wickedonna1.tumblr.com/post/78223148381/2014-3-1">wickedonna1.tumblr.com/post/78223148381/2014-3-1</a> (2014年03月02日 09:44)
  ---
