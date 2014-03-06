@@ -10,6 +10,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @niubi: "Xinjiang leader blames VPNs for attacks"  <a href="http://www.ft.com/cms/s/0/984a7346-a51f-11e3-a7b4-00144feab7de.html?ftcamp=published_links%2Frss%2Fworld_asia-pacific_china%2Ffeed%2F%2Fproduct">www.ft.com/cms/s/0/984a7346-a51f-11e3-a7b4-00144feab7de.html</a> (2014年03月07日 01:14)
+ ---
+RT @laoyang945: 中共新疆自治区党委书记张春贤就“3.01”昆明暴恐案件后新疆的反恐形势表示，严打已经收效，而翻墙等技术手段造成恐怖事件外溢到新疆以外地区。“现在新疆的暴恐，90%是翻墙，根据网络上一些视频，不断形成暴恐” <a href="http://t.co/KZX43gBq">t.co/KZX43gBq</a>… (2014年03月07日 01:14)
+ ---
 RT @sinoceros: RMB 1.4 trillion: The combined assets of 94 tycoons at China’s Congress—up RMB 200bl from 2013 <a href="http://english.caixin.com/2014-03-06/100647826.html">english.caixin.com/2014-03-06/100647826.html</a> http:/… (2014年03月06日 20:06)
  ---
 主流消息是凌晨一点多流出来的，正式新华社消息是次日才出。我第一条是头晚十二点多发的，老沉说上面很不满，下令删。这是全部的事实。文字狱吗？我是家等你，还是自首？ <a href="https://freeweibo.com/weibo/3685191921679232">freeweibo.com/weibo/3685191921679232</a> not deleted yet @MalcolmMoore (2014年03月06日 19:34)
@@ -45,8 +49,4 @@ Breaking News: Zhou Yongkang blocked again on Sina Weibo Search, one day after i
 Detained China dissident Cao Shunli near death-close friend <a href="http://www.reuters.com/article/2014/03/01/us-china-rights-cao-idUSBREA2002X20140301">www.reuters.com/article/2014/03/01/us-china-rights-cao-idUSBREA2002X20140301</a> via @reuters (2014年03月03日 19:02)
  ---
 Censored 昆明微博 include govt criticism, warnings about 新疆人wearing black t-shirts in street, poss. of attack in 西安 <a href="https://freeweibo.com/weibo/%E6%98%86%E6%98%8E?censored">freeweibo.com/weibo/昆明</a> (2014年03月03日 17:13)
- ---
-RT @goldkorn: "News of Kunming attack absent from China's front pages" on @shanghaiist NONSENSE - it's on Ppl's Daily, BJ Eve News, Xinhua … (2014年03月03日 16:12)
- ---
-网友撰文 《为什么我要说“民不畏死，奈何以死惧之”》 后公安上门 <a href="https://freeweibo.com/weibo/%40%E9%98%91%E5%A4%95">freeweibo.com/weibo/@阑夕</a> (2014年03月03日 07:58)
  ---
