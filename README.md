@@ -10,6 +10,12 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+[话筒]希望广大网民自觉遵守法律，不信谣、不传谣，共同维护健康的网络环境和良好社会秩序。 <a href="https://freeweibo.com/weibo/3685153719053262">freeweibo.com/weibo/3685153719053262</a> 来自 @FreeWeibo (2014年03月06日 18:48)
+ ---
+@MalcolmMoore can you post the links please? (2014年03月06日 18:42)
+ ---
+RT @MalcolmMoore: Beijing police now threatening Big Vs including Li Chengpeng and Luo Changping on Weibo over Kunming. (2014年03月06日 18:41)
+ ---
 "No results"! RT @ForeignPolicy: China's regions and stereotypes according to auto-complete: <a href="http://www.foreignpolicy.com/articles/2014/03/04/a_map_of_china_by_stereotype?utm_content=buffer7539d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.foreignpolicy.com/articles/2014/03/04/a_map_of_china_by_stereotype</a>  <a href="https://twitter.com/ForeignPolicy/status/440974888027701249/photo/1">twitter.com/ForeignPolicy/status/440974888027701249/photo/1</a> (2014年03月05日 16:18)
  ---
 "暴徒照片曝光"均被删除。怕照片唤起同情和对动机的思考？ <a href="https://freeweibo.com/weibo/%E6%9A%B4%E5%BE%92%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89">freeweibo.com/weibo/暴徒照片曝光</a> (2014年03月05日 13:05)
@@ -43,10 +49,4 @@ Breaking News: Sina Weibo lift keyword censorship on Zhou Yongkang after spokesp
 自由微博”昆明火车站“搜索结果已经被人民日报占领<a href="https://freeweibo.com/weibo/%E6%98%86%E6%98%8E%E7%81%AB%E8%BD%A6%E7%AB%99">freeweibo.com/weibo/昆明火车站</a> 要看其他观点，请把页面上方的“全部”改为“被新浪微博屏蔽”。 (2014年03月03日 03:37)
  ---
 今天国内部分都市报头版汇总 <a href="https://twitter.com/GreatFireChina/status/439879840385089536">twitter.com/GreatFireChina/status/439879840385089536</a> <a href="https://twitter.com/GreatFireChina/status/440207009506263040/photo/1">twitter.com/GreatFireChina/status/440207009506263040/photo/1</a> (2014年03月03日 03:28)
- ---
-Chinese flooded the comments of <a href="http://time.com/11687/deadly-terror-attack-in-southwestern-china-blamed-on-separatist-muslim-uighurs/">time.com/11687/deadly-terror-attack-in-southwestern-china-blamed-on-separatist-muslim-uighurs/</a> Most comments come from newly registered users. (2014年03月02日 15:50)
- ---
-RT @RTKcn: 1+ RT @wickedonnaa: 昆明 收集的部分目击者的微博 <a href="http://wickedonna1.tumblr.com/post/78223148381/2014-3-1">wickedonna1.tumblr.com/post/78223148381/2014-3-1</a> (2014年03月02日 09:44)
- ---
-@zuola <a href="https://zh.greatfire.org/https/github.global.ssl.fastly.net">zh.greatfire.org/https/github.global.ssl.fastly.net</a> (2014年03月02日 09:38)
  ---
