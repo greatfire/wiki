@@ -24,7 +24,7 @@ RT @MalcolmMoore: Li Chengpeng responds to threats from Beijing police over his 
  ---
 RT @MalcolmMoore: Beijing police now threatening Big Vs including Li Chengpeng and Luo Changping on Weibo over Kunming. (2014年03月06日 18:41)
  ---
-"No results"! RT @ForeignPolicy: China's regions and stereotypes according to auto-complete: <a href="http://www.foreignpolicy.com/articles/2014/03/04/a_map_of_china_by_stereotype?utm_content=buffer7539d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.foreignpolicy.com/articles/2014/03/04/a_map_of_china_by_stereotype</a>  <a href="http://t.co/AdcFy83MY3">t.co/AdcFy83MY3</a> (2014年03月05日 16:18)
+"No results"! RT @ForeignPolicy: China's regions and stereotypes according to auto-complete: <a href="http://www.foreignpolicy.com/articles/2014/03/04/a_map_of_china_by_stereotype?utm_content=buffer7539d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.foreignpolicy.com/articles/2014/03/04/a_map_of_china_by_stereotype</a>  <a href="https://twitter.com/ForeignPolicy/status/440974888027701249/photo/1">twitter.com/ForeignPolicy/status/440974888027701249/photo/1</a> (2014年03月05日 16:18)
  ---
 "暴徒照片曝光"均被删除。怕照片唤起同情和对动机的思考？ <a href="https://freeweibo.com/weibo/%E6%9A%B4%E5%BE%92%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89">freeweibo.com/weibo/暴徒照片曝光</a> (2014年03月05日 13:05)
  ---
@@ -42,7 +42,7 @@ h/t @Stariver：七不讲也没啥阿。不讲普世价值可以讲专制罪恶�
  ---
 Breaking News: Zhou Yongkang blocked again on Sina Weibo Search, one day after its unblock. Battle of powers? (2014年03月04日 10:13)
  ---
-Detained China dissident Cao Shunli near death-close friend <a href="http://t.co/1jbIKLN2w6">t.co/1jbIKLN2w6</a> via @reuters (2014年03月03日 19:02)
+Detained China dissident Cao Shunli near death-close friend <a href="http://www.reuters.com/article/2014/03/01/us-china-rights-cao-idUSBREA2002X20140301">www.reuters.com/article/2014/03/01/us-china-rights-cao-idUSBREA2002X20140301</a> via @reuters (2014年03月03日 19:02)
  ---
 Censored 昆明微博 include govt criticism, warnings about 新疆人wearing black t-shirts in street, poss. of attack in 西安 <a href="https://freeweibo.com/weibo/%E6%98%86%E6%98%8E?censored">freeweibo.com/weibo/昆明</a> (2014年03月03日 17:13)
  ---
