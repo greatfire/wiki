@@ -18,13 +18,13 @@ RT @laoyang945: 中共新疆自治区党委书记张春贤就“3.01”昆明暴
  ---
 RT @sinoceros: RMB 1.4 trillion: The combined assets of 94 tycoons at China’s Congress—up RMB 200bl from 2013 <a href="http://english.caixin.com/2014-03-06/100647826.html">english.caixin.com/2014-03-06/100647826.html</a> http:/… (2014年03月06日 20:06)
  ---
-主流消息是凌晨一点多流出来的，正式新华社消息是次日才出。我第一条是头晚十二点多发的，老沉说上面很不满，下令删。这是全部的事实。文字狱吗？我是家等你，还是自首？ <a href="https://freeweibo.com/weibo/3685191921679232">freeweibo.com/weibo/3685191921679232</a> not deleted yet @MalcolmMoore (2014年03月06日 19:34)
+主流消息是凌晨一点多流出来的，正式新华社消息是次日才出。我第一条是头晚十二点多发的，老沉说上面很不满，下令删。这是全部的事实。文字狱吗？我是家等你，还是自首？ <a href="http://fw.cm/NF6mba7uA">fw.cm/NF6mba7uA</a> not deleted yet @MalcolmMoore (2014年03月06日 19:34)
  ---
 RT @MalcolmMoore: V depressing that PSB trying to use public anger over Kunming to attack Big Vs (2014年03月06日 19:26)
  ---
 RT @MalcolmMoore: Li Chengpeng responds to threats from Beijing police over his Weibo on Kunming massacre: "Shall I wait for you at home or… (2014年03月06日 19:26)
  ---
-[话筒]希望广大网民自觉遵守法律，不信谣、不传谣，共同维护健康的网络环境和良好社会秩序。 <a href="https://freeweibo.com/weibo/3685153719053262">freeweibo.com/weibo/3685153719053262</a> 来自 @FreeWeibo (2014年03月06日 18:48)
+[话筒]希望广大网民自觉遵守法律，不信谣、不传谣，共同维护健康的网络环境和良好社会秩序。 <a href="http://fw.cm/NF6C2XevO">fw.cm/NF6C2XevO</a> 来自 @FreeWeibo (2014年03月06日 18:48)
  ---
 @MalcolmMoore can you post the links please? (2014年03月06日 18:42)
  ---
