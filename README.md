@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+@作家-天佑 在询问昆明恐袭事件原因后被封号 <a href="https://freeweibo.com/weibo/%40%E4%BD%9C%E5%AE%B6-%E5%A4%A9%E4%BD%91">freeweibo.com/weibo/@作家-天佑</a> (2014年03月07日 12:24)
+ ---
 RT @niubi: "Xinjiang leader blames VPNs for attacks"  <a href="http://www.ft.com/cms/s/0/984a7346-a51f-11e3-a7b4-00144feab7de.html?ftcamp=published_links%2Frss%2Fworld_asia-pacific_china%2Ffeed%2F%2Fproduct">www.ft.com/cms/s/0/984a7346-a51f-11e3-a7b4-00144feab7de.html</a> (2014年03月07日 01:14)
  ---
 RT @laoyang945: 中共新疆自治区党委书记张春贤就“3.01”昆明暴恐案件后新疆的反恐形势表示，严打已经收效，而翻墙等技术手段造成恐怖事件外溢到新疆以外地区。“现在新疆的暴恐，90%是翻墙，根据网络上一些视频，不断形成暴恐” <a href="http://t.co/KZX43gBq">t.co/KZX43gBq</a>… (2014年03月07日 01:14)
@@ -47,6 +49,4 @@ h/t @Stariver：七不讲也没啥阿。不讲普世价值可以讲专制罪恶�
 Breaking News: Zhou Yongkang blocked again on Sina Weibo Search, one day after its unblock. Battle of powers? (2014年03月04日 10:13)
  ---
 Detained China dissident Cao Shunli near death-close friend <a href="http://www.reuters.com/article/2014/03/01/us-china-rights-cao-idUSBREA2002X20140301">www.reuters.com/article/2014/03/01/us-china-rights-cao-idUSBREA2002X20140301</a> via @reuters (2014年03月03日 19:02)
- ---
-Censored 昆明微博 include govt criticism, warnings about 新疆人wearing black t-shirts in street, poss. of attack in 西安 <a href="https://freeweibo.com/weibo/%E6%98%86%E6%98%8E?censored">freeweibo.com/weibo/昆明</a> (2014年03月03日 17:13)
  ---
