@@ -10,6 +10,23 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Air traffic controllers' weibo about MH370 deleted! <a href="https://freeweibo.com/en/weibo/%40%E8%88%AA%E6%A0%A1%E5%B0%8F%E8%8B%8F">freeweibo.com/en/weibo/@航校小苏</a> (2014年03月09日 07:48)
+ ---
+新浪删除关于马航370首都机场塔台管制室空中交通管制员的微博。自由微博存档 <a href="https://freeweibo.com/weibo/%40%E8%88%AA%E6%A0%A1%E5%B0%8F%E8%8B%8F">freeweibo.com/weibo/@航校小苏</a> (2014年03月09日 07:46)
+ ---
+新疆党委书记言论也会遭遇删帖？ <a href="http://cn.nytimes.com/china/20140308/c08censor/">cn.nytimes.com/china/20140308/c08censor/</a> (2014年03月09日 07:38)
+ ---
+Chinese state TV release passengers list of Flight MH370 which is still out of contact. <a href="https://freeweibo.com/en/weibo/3685813197771914">freeweibo.com/en/weibo/3685813197771914</a> The weibo was deleted. (2014年03月08日 14:32)
+ ---
+想起一个笑话。“我们家很穷。保姆，厨师，园丁都很穷”。 两会版，非段子。
+<a href="https://freeweibo.com/weibo/3685759775690778">freeweibo.com/weibo/3685759775690778</a> (2014年03月08日 10:49)
+ ---
+RT @paopaonet: 引号中的恐怖主义：中国媒体和网民批评外媒在报道上持“双重标准”。泡泡核对了网络上传播的一张外媒报道中外袭击事件对比图（人民网制作），发现人民网的图解有失偏颇。<a href="https://s3.amazonaws.com/pao-pao./index.html?u=article/45">s3.amazonaws.com/pao-pao./index.html</a> <a href="https://twitter.com/paopaonet/status/441599030548627457/photo/1">twitter.com/paopaonet/status/441599030548627457/photo/1</a> (2014年03月08日 09:23)
+ ---
+泡泡网“中国互联网创新停滞于05年” <a href="https://s3.amazonaws.com/pao-pao./index.html?u=article/46">s3.amazonaws.com/pao-pao./index.html</a> 泡泡网是自由微博@FreeWeibo 合作新闻网站。欢迎大家访问和投稿。 (2014年03月08日 09:22)
+ ---
+Turkey may ban Facebook and YouTube if Erdoğan wins elections <a href="http://www.theguardian.com/world/2014/mar/07/turkey-erdogan-facebook-youtube-ban-elections?CMP=twt_gu">www.theguardian.com/world/2014/mar/07/turkey-erdogan-facebook-youtube-ban-elections</a> - obviously not using the China censorship playbook (2014年03月07日 18:17)
+ ---
 Party rarely admits to existence of GFW or use of VPNs. Agree Xinjiang official making off cuff comments: <a href="http://time.com/14234/china-kunming-xinjiang-terror/">time.com/14234/china-kunming-xinjiang-terror/</a> (2014年03月07日 17:56)
  ---
 @作家-天佑 在询问昆明恐袭事件原因后被封号 <a href="https://freeweibo.com/weibo/%40%E4%BD%9C%E5%AE%B6-%E5%A4%A9%E4%BD%91">freeweibo.com/weibo/@作家-天佑</a> (2014年03月07日 12:24)
@@ -33,20 +50,4 @@ RT @MalcolmMoore: Li Chengpeng responds to threats from Beijing police over his 
 RT @MalcolmMoore: Beijing police now threatening Big Vs including Li Chengpeng and Luo Changping on Weibo over Kunming. (2014年03月06日 18:41)
  ---
 "No results"! RT @ForeignPolicy: China's regions and stereotypes according to auto-complete: <a href="http://www.foreignpolicy.com/articles/2014/03/04/a_map_of_china_by_stereotype?utm_content=buffer7539d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.foreignpolicy.com/articles/2014/03/04/a_map_of_china_by_stereotype</a>  <a href="https://twitter.com/ForeignPolicy/status/440974888027701249/photo/1">twitter.com/ForeignPolicy/status/440974888027701249/photo/1</a> (2014年03月05日 16:18)
- ---
-"暴徒照片曝光"均被删除。怕照片唤起同情和对动机的思考？ <a href="https://freeweibo.com/weibo/%E6%9A%B4%E5%BE%92%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89">freeweibo.com/weibo/暴徒照片曝光</a> (2014年03月05日 13:05)
- ---
-Kunming attack may be tied to manhunt. Uyghurs tried to flee to Laos after violence in Hotan last June: <a href="http://www.rfa.org/english/news/uyghur/desperate-03032014224353.html?utm_source=twitterfeed&utm_medium=twitter">www.rfa.org/english/news/uyghur/desperate-03032014224353.html</a> (2014年03月04日 17:45)
- ---
-h/t @Stariver：七不讲也没啥阿。不讲普世价值可以讲专制罪恶，不讲新闻自由可以讲道路以目，不讲公民社会可以讲太平天国，不讲公民权利可以讲屁民遭遇，不讲党的历史错误可以讲假的历史功绩，不讲权贵资产阶级可以讲红二代，不讲司法独立可以讲司法黑幕。 (2014年03月04日 17:31)
- ---
-"Xi Jinping attempting to make space for public engagement more confined." <a href="http://blogs.nottingham.ac.uk/chinapolicyinstitute/2014/03/03/chinas-new-petitioning-guidelines-social-governance-policy/?utm_source=rss&utm_medium=rss&utm_campaign=chinas-new-petitioning-guidelines-social-governance-policy">blogs.nottingham.ac.uk/chinapolicyinstitute/2014/03/03/chinas-new-petitioning-guidelines-social-governance-policy/</a> - so far, a great success (2014年03月04日 17:26)
- ---
-@qilu can you contact me on charlie.smith@greatfire.org? We have some new research on China Bing that I want to run by you first. (2014年03月04日 17:04)
- ---
-@stefanweitz can you contact me on charlie.smith@greatfire.org? We have some new research that I want to run by you first. (2014年03月04日 17:03)
- ---
-“周永康”解封一天后又被新浪微博封锁。 是各种势力在角逐么？ <a href="https://freeweibo.com/weibo/%E5%91%A8%E6%B0%B8%E5%BA%B7">freeweibo.com/weibo/周永康</a> (2014年03月04日 10:14)
- ---
-Breaking News: Zhou Yongkang blocked again on Sina Weibo Search, one day after its unblock. Battle of powers? (2014年03月04日 10:13)
  ---
