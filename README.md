@@ -49,5 +49,5 @@ RT @MalcolmMoore: Li Chengpeng responds to threats from Beijing police over his 
  ---
 RT @MalcolmMoore: Beijing police now threatening Big Vs including Li Chengpeng and Luo Changping on Weibo over Kunming. (2014年03月06日 18:41)
  ---
-"No results"! RT @ForeignPolicy: China's regions and stereotypes according to auto-complete: <a href="http://www.foreignpolicy.com/articles/2014/03/04/a_map_of_china_by_stereotype?utm_content=buffer7539d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.foreignpolicy.com/articles/2014/03/04/a_map_of_china_by_stereotype</a>  <a href="https://twitter.com/ForeignPolicy/status/440974888027701249/photo/1">twitter.com/ForeignPolicy/status/440974888027701249/photo/1</a> (2014年03月05日 16:18)
+"No results"! RT @ForeignPolicy: China's regions and stereotypes according to auto-complete: <a href="http://t.co/0s8mhLIW4h">t.co/0s8mhLIW4h</a>  <a href="https://twitter.com/ForeignPolicy/status/440974888027701249/photo/1">twitter.com/ForeignPolicy/status/440974888027701249/photo/1</a> (2014年03月05日 16:18)
  ---
