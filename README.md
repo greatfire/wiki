@@ -27,7 +27,7 @@ RT @paopaonet: 引号中的恐怖主义：中国媒体和网民批评外媒在�
  ---
 Turkey may ban Facebook and YouTube if Erdoğan wins elections <a href="http://www.theguardian.com/world/2014/mar/07/turkey-erdogan-facebook-youtube-ban-elections?CMP=twt_gu">www.theguardian.com/world/2014/mar/07/turkey-erdogan-facebook-youtube-ban-elections</a> - obviously not using the China censorship playbook (2014年03月07日 18:17)
  ---
-Party rarely admits to existence of GFW or use of VPNs. Agree Xinjiang official making off cuff comments: <a href="http://time.com/14234/china-kunming-xinjiang-terror/">time.com/14234/china-kunming-xinjiang-terror/</a> (2014年03月07日 17:56)
+Party rarely admits to existence of GFW or use of VPNs. Agree Xinjiang official making off cuff comments: <a href="http://t.co/s6uizFRkSr">t.co/s6uizFRkSr</a> (2014年03月07日 17:56)
  ---
 @作家-天佑 在询问昆明恐袭事件原因后被封号 <a href="https://freeweibo.com/weibo/%40%E4%BD%9C%E5%AE%B6-%E5%A4%A9%E4%BD%91">freeweibo.com/weibo/@作家-天佑</a> (2014年03月07日 12:24)
  ---
