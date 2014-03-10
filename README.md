@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @KenRoth: Even senior #China officials fall prey to censor's delete button when they dare to blog about Internet censorship. http://t.co… (2014年03月10日 16:54)
+ ---
 RT @YaxueCao: 浦志强律师 @puzhiqiang 采访数名被双规的中共底层官员： 《双规噩梦一一湖南宁远县双规访谈实录》 <a href="https://www.youtube.com/watch?v=ovpCJR8Ciho&feature=youtu.be">www.youtube.com/watch</a> （需要加上英文字幕） (2014年03月10日 10:04)
  ---
 微博用户仿造新浪回复形式编造美国和俄罗斯大使馆约架的段子，被新浪屏蔽。 <a href="https://freeweibo.com/weibo/%E5%8D%95%E6%8C%91">freeweibo.com/weibo/单挑</a> (2014年03月10日 08:00)
@@ -48,6 +50,4 @@ RT @MalcolmMoore: V depressing that PSB trying to use public anger over Kunming 
 RT @MalcolmMoore: Li Chengpeng responds to threats from Beijing police over his Weibo on Kunming massacre: "Shall I wait for you at home or… (2014年03月06日 19:26)
  ---
 [话筒]希望广大网民自觉遵守法律，不信谣、不传谣，共同维护健康的网络环境和良好社会秩序。 <a href="https://freeweibo.com/weibo/3685153719053262">freeweibo.com/weibo/3685153719053262</a> 来自 @FreeWeibo (2014年03月06日 18:48)
- ---
-@MalcolmMoore can you post the links please? (2014年03月06日 18:42)
  ---
