@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+微博用户仿造新浪回复形式编造美国和俄罗斯大使馆约架的段子，被新浪屏蔽。 <a href="https://freeweibo.com/weibo/%E5%8D%95%E6%8C%91">freeweibo.com/weibo/单挑</a> (2014年03月10日 08:00)
+ ---
 Air traffic controllers' weibo about MH370 deleted! <a href="https://freeweibo.com/en/weibo/%40%E8%88%AA%E6%A0%A1%E5%B0%8F%E8%8B%8F">freeweibo.com/en/weibo/@航校小苏</a> (2014年03月09日 07:48)
  ---
 新浪删除关于马航370首都机场塔台管制室空中交通管制员的微博。自由微博存档 <a href="https://freeweibo.com/weibo/%40%E8%88%AA%E6%A0%A1%E5%B0%8F%E8%8B%8F">freeweibo.com/weibo/@航校小苏</a> (2014年03月09日 07:46)
@@ -48,6 +50,4 @@ RT @MalcolmMoore: Li Chengpeng responds to threats from Beijing police over his 
 @MalcolmMoore can you post the links please? (2014年03月06日 18:42)
  ---
 RT @MalcolmMoore: Beijing police now threatening Big Vs including Li Chengpeng and Luo Changping on Weibo over Kunming. (2014年03月06日 18:41)
- ---
-"No results"! RT @ForeignPolicy: China's regions and stereotypes according to auto-complete: <a href="http://www.foreignpolicy.com/articles/2014/03/04/a_map_of_china_by_stereotype?utm_content=buffer7539d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.foreignpolicy.com/articles/2014/03/04/a_map_of_china_by_stereotype</a>  <a href="https://twitter.com/ForeignPolicy/status/440974888027701249/photo/1">twitter.com/ForeignPolicy/status/440974888027701249/photo/1</a> (2014年03月05日 16:18)
  ---
