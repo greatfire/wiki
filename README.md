@@ -31,7 +31,7 @@ RT @paopaonet: 引号中的恐怖主义：中国媒体和网民批评外媒在�
  ---
 泡泡网“中国互联网创新停滞于05年” <a href="https://s3.amazonaws.com/pao-pao./index.html?u=article/46">s3.amazonaws.com/pao-pao./index.html</a> 泡泡网是自由微博@FreeWeibo 合作新闻网站。欢迎大家访问和投稿。 (2014年03月08日 09:22)
  ---
-Turkey may ban Facebook and YouTube if Erdoğan wins elections <a href="http://www.theguardian.com/p/3nbmy/tw">www.theguardian.com/p/3nbmy/tw</a> - obviously not using the China censorship playbook (2014年03月07日 18:17)
+Turkey may ban Facebook and YouTube if Erdoğan wins elections <a href="http://www.theguardian.com/world/2014/mar/07/turkey-erdogan-facebook-youtube-ban-elections?CMP=twt_gu">www.theguardian.com/world/2014/mar/07/turkey-erdogan-facebook-youtube-ban-elections</a> - obviously not using the China censorship playbook (2014年03月07日 18:17)
  ---
 Party rarely admits to existence of GFW or use of VPNs. Agree Xinjiang official making off cuff comments: <a href="http://time.com/14234/china-kunming-xinjiang-terror/">time.com/14234/china-kunming-xinjiang-terror/</a> (2014年03月07日 17:56)
  ---
