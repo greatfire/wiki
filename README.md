@@ -10,6 +10,20 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+"The internet is for everyone!" We agree with @timberners_lee that fractured web will hurt, not help, China <a href="http://www.theguardian.com/technology/2014/mar/12/online-magna-carta-berners-lee-web">www.theguardian.com/technology/2014/mar/12/online-magna-carta-berners-lee-web</a> (2014年03月12日 19:21)
+ ---
+.@RSF_RWB declares China an enemy of the internet for creating world’s biggest netizen prison: <a href="http://12mars.rsf.org/2014-en/2014/03/10/china-electronic-great-wall-getting-taller/">12mars.rsf.org/2014-en/2014/03/10/china-electronic-great-wall-getting-taller/</a> (2014年03月12日 16:54)
+ ---
+@joshchin @gadyepstein who do you think they are referring to in Beijing? (2014年03月12日 16:09)
+ ---
+Conspicuous non-mention of China in @ericschmidt &amp; @JaredCohen oped piece on internet freedom in the NYT: <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F03%2F12%2Fopinion%2Fthe-future-of-internet-freedom.html%3Femc%3Dedit_tnt_20140311%26nlid%3D16428923%26tntemail0%3Dy%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年03月12日 16:04)
+ ---
+RT @muzuiget: 想当年我俩Github论剑，他先是一招SQL注入直刺过来，我随即以引号转义身法堪堪避过，连带一记Flash溢出大力横扫，谁知那厮有沙盒宝甲在身，爆了DDOS剑气和我硬碰，我只好换成404剑法护体。我们激战7天7夜不分胜负，最后被山脚那个扫地老头一招链… (2014年03月11日 14:13)
+ ---
+”王岐山“叫停”吉林省委书记“ 被删除。 <a href="https://freeweibo.com/weibo/3686850708961713">freeweibo.com/weibo/3686850708961713</a> (2014年03月11日 10:45)
+ ---
+RT @rupertmurdoch: 777crash confirms jihadists turning to make trouble for China.   Chance for US to make common cause, befriend China whil… (2014年03月11日 10:04)
+ ---
 RT @KenRoth: Even senior #China officials fall prey to censor's delete button when they dare to blog about Internet censorship. http://t.co… (2014年03月10日 16:54)
  ---
 RT @YaxueCao: 浦志强律师 @puzhiqiang 采访数名被双规的中共底层官员： 《双规噩梦一一湖南宁远县双规访谈实录》 <a href="https://www.youtube.com/watch?v=ovpCJR8Ciho&feature=youtu.be">www.youtube.com/watch</a> （需要加上英文字幕） (2014年03月10日 10:04)
@@ -36,18 +50,4 @@ Turkey may ban Facebook and YouTube if Erdoğan wins elections <a href="http://w
 Party rarely admits to existence of GFW or use of VPNs. Agree Xinjiang official making off cuff comments: <a href="http://time.com/14234/china-kunming-xinjiang-terror/">time.com/14234/china-kunming-xinjiang-terror/</a> (2014年03月07日 17:56)
  ---
 @作家-天佑 在询问昆明恐袭事件原因后被封号 <a href="https://freeweibo.com/weibo/%40%E4%BD%9C%E5%AE%B6-%E5%A4%A9%E4%BD%91">freeweibo.com/weibo/@作家-天佑</a> (2014年03月07日 12:24)
- ---
-RT @niubi: "Xinjiang leader blames VPNs for attacks"  <a href="http://www.ft.com/cms/s/0/984a7346-a51f-11e3-a7b4-00144feab7de.html?ftcamp=published_links%2Frss%2Fworld_asia-pacific_china%2Ffeed%2F%2Fproduct">www.ft.com/cms/s/0/984a7346-a51f-11e3-a7b4-00144feab7de.html</a> (2014年03月07日 01:14)
- ---
-RT @laoyang945: 中共新疆自治区党委书记张春贤就“3.01”昆明暴恐案件后新疆的反恐形势表示，严打已经收效，而翻墙等技术手段造成恐怖事件外溢到新疆以外地区。“现在新疆的暴恐，90%是翻墙，根据网络上一些视频，不断形成暴恐” <a href="http://t.co/KZX43gBq">t.co/KZX43gBq</a>… (2014年03月07日 01:14)
- ---
-RT @sinoceros: RMB 1.4 trillion: The combined assets of 94 tycoons at China’s Congress—up RMB 200bl from 2013 <a href="http://english.caixin.com/2014-03-06/100647826.html">english.caixin.com/2014-03-06/100647826.html</a> http:/… (2014年03月06日 20:06)
- ---
-主流消息是凌晨一点多流出来的，正式新华社消息是次日才出。我第一条是头晚十二点多发的，老沉说上面很不满，下令删。这是全部的事实。文字狱吗？我是家等你，还是自首？ <a href="https://freeweibo.com/weibo/3685191921679232">freeweibo.com/weibo/3685191921679232</a> not deleted yet @MalcolmMoore (2014年03月06日 19:34)
- ---
-RT @MalcolmMoore: V depressing that PSB trying to use public anger over Kunming to attack Big Vs (2014年03月06日 19:26)
- ---
-RT @MalcolmMoore: Li Chengpeng responds to threats from Beijing police over his Weibo on Kunming massacre: "Shall I wait for you at home or… (2014年03月06日 19:26)
- ---
-[话筒]希望广大网民自觉遵守法律，不信谣、不传谣，共同维护健康的网络环境和良好社会秩序。 <a href="https://freeweibo.com/weibo/3685153719053262">freeweibo.com/weibo/3685153719053262</a> 来自 @FreeWeibo (2014年03月06日 18:48)
  ---
