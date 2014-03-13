@@ -10,6 +10,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @iandenisjohnson: Top human rights blogger Huang Qi (@64tianwang) detained by police, says assistant @pufei Intro to Huang's work here: … (2014年03月13日 17:24)
+ ---
+RT @taniabranigan: RT @amnestypress: Breaking - China: Huang Qi, founder of human rights website 64 Tianwang, taken away by police in Cheng… (2014年03月13日 17:23)
+ ---
 @gabycastellanos you can reach me on charlie.smith @ <a href="https://zh.greatfire.org/">zh.greatfire.org/</a> (2014年03月13日 16:50)
  ---
 "The internet is for everyone!" We agree with @timberners_lee that fractured web will hurt, not help, China <a href="http://www.theguardian.com/technology/2014/mar/12/online-magna-carta-berners-lee-web">www.theguardian.com/technology/2014/mar/12/online-magna-carta-berners-lee-web</a> (2014年03月12日 19:21)
@@ -46,8 +50,4 @@ Chinese state TV release passengers list of Flight MH370 which is still out of c
 RT @paopaonet: 引号中的恐怖主义：中国媒体和网民批评外媒在报道上持“双重标准”。泡泡核对了网络上传播的一张外媒报道中外袭击事件对比图（人民网制作），发现人民网的图解有失偏颇。<a href="https://s3.amazonaws.com/pao-pao./index.html?u=article/45">s3.amazonaws.com/pao-pao./index.html</a> <a href="https://twitter.com/paopaonet/status/441599030548627457/photo/1">twitter.com/paopaonet/status/441599030548627457/photo/1</a> (2014年03月08日 09:23)
  ---
 泡泡网“中国互联网创新停滞于05年” <a href="https://s3.amazonaws.com/pao-pao./index.html?u=article/46">s3.amazonaws.com/pao-pao./index.html</a> 泡泡网是自由微博@FreeWeibo 合作新闻网站。欢迎大家访问和投稿。 (2014年03月08日 09:22)
- ---
-Turkey may ban Facebook and YouTube if Erdoğan wins elections <a href="http://www.theguardian.com/world/2014/mar/07/turkey-erdogan-facebook-youtube-ban-elections?CMP=twt_gu">www.theguardian.com/world/2014/mar/07/turkey-erdogan-facebook-youtube-ban-elections</a> - obviously not using the China censorship playbook (2014年03月07日 18:17)
- ---
-Party rarely admits to existence of GFW or use of VPNs. Agree Xinjiang official making off cuff comments: <a href="http://time.com/14234/china-kunming-xinjiang-terror/">time.com/14234/china-kunming-xinjiang-terror/</a> (2014年03月07日 17:56)
  ---
