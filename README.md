@@ -10,7 +10,7 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
-@gabycastellanos you can reach me on charlie.smith @ <a href="http://greatfire.org">greatfire.org</a> (2014年03月13日 16:50)
+@gabycastellanos you can reach me on charlie.smith @ <a href="https://zh.greatfire.org/">zh.greatfire.org/</a> (2014年03月13日 16:50)
  ---
 "The internet is for everyone!" We agree with @timberners_lee that fractured web will hurt, not help, China <a href="http://www.theguardian.com/technology/2014/mar/12/online-magna-carta-berners-lee-web">www.theguardian.com/technology/2014/mar/12/online-magna-carta-berners-lee-web</a> (2014年03月12日 19:21)
  ---
