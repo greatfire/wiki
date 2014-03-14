@@ -18,7 +18,7 @@ RT @dwertime: Breaking: Surprising Crackdown on China's Hottest Social Media Pla
  ---
 RT @niubi: Sudden crackdown on political public accounts hits Wechat <a href="http://offbeatchina.com/sudden-crackdown-on-liberal-public-accounts-hits-wechat">offbeatchina.com/sudden-crackdown-on-liberal-public-accounts-hits-wechat</a> via @feedly (2014年03月14日 14:36)
  ---
-RT @KainyGuo: “微信屠城，血流成河，自媒体运营者都疯了。封号后，并无申诉渠道。所以，别太迷信自媒体赚钱了，把身价性命都赌在微信身上，你只会欲哭无泪。” 。 <a href="https://twitter.com/KainyGuo/status/444108191928819712/photo/1">twitter.com/KainyGuo/status/444108191928819712/photo/1</a> (2014年03月14日 14:28)
+RT @KainyGuo: “微信屠城，血流成河，自媒体运营者都疯了。封号后，并无申诉渠道。所以，别太迷信自媒体赚钱了，把身价性命都赌在微信身上，你只会欲哭无泪。” 。 <a href="http://t.co/iVDpjh8ic3">t.co/iVDpjh8ic3</a> (2014年03月14日 14:28)
  ---
 RT @paopaonet: 微信今天封了大量公共帐号，记者宋志标之前曾谈到微信的审查机制 <a href="https://s3.amazonaws.com/pao-pao./index.html?u=article/34">s3.amazonaws.com/pao-pao./index.html</a> (2014年03月14日 14:19)
  ---
