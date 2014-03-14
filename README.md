@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @KainyGuo: “微信屠城，血流成河，自媒体运营者都疯了。封号后，并无申诉渠道。所以，别太迷信自媒体赚钱了，把身价性命都赌在微信身上，你只会欲哭无泪。” 。 <a href="https://twitter.com/KainyGuo/status/444108191928819712/photo/1">twitter.com/KainyGuo/status/444108191928819712/photo/1</a> (2014年03月14日 14:28)
+ ---
 RT @paopaonet: 微信今天封了大量公共帐号，记者宋志标之前曾谈到微信的审查机制 <a href="https://s3.amazonaws.com/pao-pao./index.html?u=article/34">s3.amazonaws.com/pao-pao./index.html</a> (2014年03月14日 14:19)
  ---
 RT @iandenisjohnson: Top human rights blogger Huang Qi (@64tianwang) detained by police, says assistant @pufei Intro to Huang's work here: … (2014年03月13日 17:24)
@@ -48,6 +50,4 @@ Chinese state TV release passengers list of Flight MH370 which is still out of c
  ---
 想起一个笑话。“我们家很穷。保姆，厨师，园丁都很穷”。 两会版，非段子。
 <a href="https://freeweibo.com/weibo/3685759775690778">freeweibo.com/weibo/3685759775690778</a> (2014年03月08日 10:49)
- ---
-RT @paopaonet: 引号中的恐怖主义：中国媒体和网民批评外媒在报道上持“双重标准”。泡泡核对了网络上传播的一张外媒报道中外袭击事件对比图（人民网制作），发现人民网的图解有失偏颇。<a href="https://s3.amazonaws.com/pao-pao./index.html?u=article/45">s3.amazonaws.com/pao-pao./index.html</a> <a href="https://twitter.com/paopaonet/status/441599030548627457/photo/1">twitter.com/paopaonet/status/441599030548627457/photo/1</a> (2014年03月08日 09:23)
  ---
