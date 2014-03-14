@@ -10,6 +10,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @dwertime: Breaking: Surprising Crackdown on China's Hottest Social Media Platform <a href="http://www.foreignpolicy.com/articles/2014/03/13/surprising_crackdown_on_chinas_hottest_social_media_platform">www.foreignpolicy.com/articles/2014/03/13/surprising_crackdown_on_chinas_hottest_social_media_platform</a> thanks to @ael_o @yiqinfu @Bet… (2014年03月14日 14:37)
+ ---
+RT @niubi: Sudden crackdown on political public accounts hits Wechat <a href="http://offbeatchina.com/sudden-crackdown-on-liberal-public-accounts-hits-wechat">offbeatchina.com/sudden-crackdown-on-liberal-public-accounts-hits-wechat</a> via @feedly (2014年03月14日 14:36)
+ ---
 RT @KainyGuo: “微信屠城，血流成河，自媒体运营者都疯了。封号后，并无申诉渠道。所以，别太迷信自媒体赚钱了，把身价性命都赌在微信身上，你只会欲哭无泪。” 。 <a href="https://twitter.com/KainyGuo/status/444108191928819712/photo/1">twitter.com/KainyGuo/status/444108191928819712/photo/1</a> (2014年03月14日 14:28)
  ---
 RT @paopaonet: 微信今天封了大量公共帐号，记者宋志标之前曾谈到微信的审查机制 <a href="https://s3.amazonaws.com/pao-pao./index.html?u=article/34">s3.amazonaws.com/pao-pao./index.html</a> (2014年03月14日 14:19)
@@ -45,9 +49,4 @@ Air traffic controllers' weibo about MH370 deleted! <a href="https://freeweibo.c
 新浪删除关于马航370首都机场塔台管制室空中交通管制员的微博。自由微博存档 <a href="https://freeweibo.com/weibo/%40%E8%88%AA%E6%A0%A1%E5%B0%8F%E8%8B%8F">freeweibo.com/weibo/@航校小苏</a> (2014年03月09日 07:46)
  ---
 新疆党委书记言论也会遭遇删帖？ <a href="http://cn.nytimes.com/china/20140308/c08censor/">cn.nytimes.com/china/20140308/c08censor/</a> (2014年03月09日 07:38)
- ---
-Chinese state TV release passengers list of Flight MH370 which is still out of contact. <a href="https://freeweibo.com/en/weibo/3685813197771914">freeweibo.com/en/weibo/3685813197771914</a> The weibo was deleted. (2014年03月08日 14:32)
- ---
-想起一个笑话。“我们家很穷。保姆，厨师，园丁都很穷”。 两会版，非段子。
-<a href="https://freeweibo.com/weibo/3685759775690778">freeweibo.com/weibo/3685759775690778</a> (2014年03月08日 10:49)
  ---
