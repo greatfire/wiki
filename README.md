@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @RSF_RWB: 2 hours left to gather 21 supporters to launch our #InternetEnemies #Thunderclap ! <a href="https://www.thunderclap.it/projects/9705-enemies-of-the-internet">www.thunderclap.it/projects/9705-enemies-of-the-internet</a> We need you ! (2014年03月14日 21:21)
+ ---
 RT @dwertime: Breaking: Surprising Crackdown on China's Hottest Social Media Platform <a href="http://www.foreignpolicy.com/articles/2014/03/13/surprising_crackdown_on_chinas_hottest_social_media_platform">www.foreignpolicy.com/articles/2014/03/13/surprising_crackdown_on_chinas_hottest_social_media_platform</a> thanks to @ael_o @yiqinfu @Bet… (2014年03月14日 14:37)
  ---
 RT @niubi: Sudden crackdown on political public accounts hits Wechat <a href="http://offbeatchina.com/sudden-crackdown-on-liberal-public-accounts-hits-wechat">offbeatchina.com/sudden-crackdown-on-liberal-public-accounts-hits-wechat</a> via @feedly (2014年03月14日 14:36)
@@ -47,6 +49,4 @@ RT @YaxueCao: 浦志强律师 @puzhiqiang 采访数名被双规的中共底层�
 Air traffic controllers' weibo about MH370 deleted! <a href="https://freeweibo.com/en/weibo/%40%E8%88%AA%E6%A0%A1%E5%B0%8F%E8%8B%8F">freeweibo.com/en/weibo/@航校小苏</a> (2014年03月09日 07:48)
  ---
 新浪删除关于马航370首都机场塔台管制室空中交通管制员的微博。自由微博存档 <a href="https://freeweibo.com/weibo/%40%E8%88%AA%E6%A0%A1%E5%B0%8F%E8%8B%8F">freeweibo.com/weibo/@航校小苏</a> (2014年03月09日 07:46)
- ---
-新疆党委书记言论也会遭遇删帖？ <a href="http://cn.nytimes.com/china/20140308/c08censor/">cn.nytimes.com/china/20140308/c08censor/</a> (2014年03月09日 07:38)
  ---
