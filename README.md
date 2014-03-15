@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+马航事件新闻战，中国媒体真的是完败。几乎所有的干货都是纽时华尔街路透BBC等英美媒体挖出来的，它们的报道真正对马来西亚形成了压力，体现了媒体的力量所在。什么是软实力？这就是软实力。反观中国媒体呢？除了搬运外媒，就只会一遍遍喊着“马航我们等你回家”“我们为你祈祷”作苍白廉价的煽情了 (2014年03月16日 06:02)
+ ---
 <a href="http://cn.nytimes.com/china/20140314/c14npc/">cn.nytimes.com/china/20140314/c14npc/</a> 哪些问题不准出席李克强记者会？ (2014年03月15日 12:54)
  ---
 RT @YaxueCao: 英国政府就曹顺利之死发表声明：“联合国人权理事会成员应该遵守和保持最高的人权标准。我们强烈敦促中国当局确保所有在囚人员获得充分的医疗，并释放所有因行使宪法权利、言论自由权、结社权和集会权而被捕入狱的人。” <a href="https://www.gov.uk/government/news/uk-saddened-at-death-of-chinese-activist-cao-shunli">www.gov.uk/government/news/uk-saddened-at-death-of-chinese-activist-cao-shunli</a> (2014年03月15日 11:44)
@@ -47,6 +49,4 @@ RT @muzuiget: 想当年我俩Github论剑，他先是一招SQL注入直刺过来
 RT @rupertmurdoch: 777crash confirms jihadists turning to make trouble for China.   Chance for US to make common cause, befriend China whil… (2014年03月11日 10:04)
  ---
 RT @KenRoth: Even senior #China officials fall prey to censor's delete button when they dare to blog about Internet censorship. http://t.co… (2014年03月10日 16:54)
- ---
-RT @YaxueCao: 浦志强律师 @puzhiqiang 采访数名被双规的中共底层官员： 《双规噩梦一一湖南宁远县双规访谈实录》 <a href="https://www.youtube.com/watch?v=ovpCJR8Ciho&feature=youtu.be">www.youtube.com/watch</a> （需要加上英文字幕） (2014年03月10日 10:04)
  ---
