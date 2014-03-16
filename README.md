@@ -12,7 +12,7 @@
 ## 新闻
 飞机遭劫持的消息的许多评论都被删除了。什么意思 <a href="https://freeweibo.com/weibo/3688361182984129">freeweibo.com/weibo/3688361182984129</a>  <a href="https://freeweibo.com/weibo/3688365175886022">freeweibo.com/weibo/3688365175886022</a> (2014年03月16日 09:52)
  ---
-互联网审查是可以打败的 - 纽约时报中文网 国际纵览 <a href="http://cn.nytimes.com/opinion/20140314/c14schmidtcohen/zh-hant/">cn.nytimes.com/opinion/20140314/c14schmidtcohen/zh-hant/</a> via @nytchinese (2014年03月16日 08:05)
+互联网审查是可以打败的 - 纽约时报中文网 国际纵览 <a href="http://cn.nytimes.com/opinion/20140314/c14schmidtcohen/">cn.nytimes.com/opinion/20140314/c14schmidtcohen/</a> via @nytchinese (2014年03月16日 08:05)
  ---
 马航事件新闻战，中国媒体真的是完败。几乎所有的干货都是纽时华尔街路透BBC等英美媒体挖出来的，它们的报道真正对马来西亚形成了压力，体现了媒体的力量所在。什么是软实力？这就是软实力。反观中国媒体呢？除了搬运外媒，就只会一遍遍喊着“马航我们等你回家”“我们为你祈祷”作苍白廉价的煽情了 (2014年03月16日 06:02)
  ---
