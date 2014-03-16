@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+飞机遭劫持的消息的许多评论都被删除了。什么意思 <a href="https://freeweibo.com/weibo/3688361182984129">freeweibo.com/weibo/3688361182984129</a>  <a href="https://freeweibo.com/weibo/3688365175886022">freeweibo.com/weibo/3688365175886022</a> (2014年03月16日 09:52)
+ ---
 互联网审查是可以打败的 - 纽约时报中文网 国际纵览 <a href="http://cn.nytimes.com/opinion/20140314/c14schmidtcohen/">cn.nytimes.com/opinion/20140314/c14schmidtcohen/</a> via @nytchinese (2014年03月16日 08:05)
  ---
 马航事件新闻战，中国媒体真的是完败。几乎所有的干货都是纽时华尔街路透BBC等英美媒体挖出来的，它们的报道真正对马来西亚形成了压力，体现了媒体的力量所在。什么是软实力？这就是软实力。反观中国媒体呢？除了搬运外媒，就只会一遍遍喊着“马航我们等你回家”“我们为你祈祷”作苍白廉价的煽情了 (2014年03月16日 06:02)
@@ -47,6 +49,4 @@ Conspicuous non-mention of China in @ericschmidt &amp; @JaredCohen oped piece on
 RT @muzuiget: 想当年我俩Github论剑，他先是一招SQL注入直刺过来，我随即以引号转义身法堪堪避过，连带一记Flash溢出大力横扫，谁知那厮有沙盒宝甲在身，爆了DDOS剑气和我硬碰，我只好换成404剑法护体。我们激战7天7夜不分胜负，最后被山脚那个扫地老头一招链… (2014年03月11日 14:13)
  ---
 ”王岐山“叫停”吉林省委书记“ 被删除。 <a href="https://freeweibo.com/weibo/3686850708961713">freeweibo.com/weibo/3686850708961713</a> (2014年03月11日 10:45)
- ---
-RT @rupertmurdoch: 777crash confirms jihadists turning to make trouble for China.   Chance for US to make common cause, befriend China whil… (2014年03月11日 10:04)
  ---
