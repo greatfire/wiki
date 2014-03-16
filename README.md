@@ -44,7 +44,7 @@ RT @taniabranigan: RT @amnestypress: Breaking - China: Huang Qi, founder of huma
  ---
 @joshchin @gadyepstein who do you think they are referring to in Beijing? (2014年03月12日 16:09)
  ---
-Conspicuous non-mention of China in @ericschmidt &amp; @JaredCohen oped piece on internet freedom in the NYT: <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F03%2F12%2Fopinion%2Fthe-future-of-internet-freedom.html%3Femc%3Dedit_tnt_20140311%26nlid%3D16428923%26tntemail0%3Dy%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年03月12日 16:04)
+Conspicuous non-mention of China in @ericschmidt &amp; @JaredCohen oped piece on internet freedom in the NYT: <a href="http://www.nytimes.com/2014/03/12/opinion/the-future-of-internet-freedom.html?emc=edit_tnt_20140311&nlid=16428923&tntemail0=y&_r=1">www.nytimes.com/2014/03/12/opinion/the-future-of-internet-freedom.html</a> (2014年03月12日 16:04)
  ---
 RT @muzuiget: 想当年我俩Github论剑，他先是一招SQL注入直刺过来，我随即以引号转义身法堪堪避过，连带一记Flash溢出大力横扫，谁知那厮有沙盒宝甲在身，爆了DDOS剑气和我硬碰，我只好换成404剑法护体。我们激战7天7夜不分胜负，最后被山脚那个扫地老头一招链… (2014年03月11日 14:13)
  ---
