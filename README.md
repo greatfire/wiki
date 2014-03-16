@@ -36,7 +36,7 @@ RT @iandenisjohnson: Top human rights blogger Huang Qi (@64tianwang) detained by
  ---
 RT @taniabranigan: RT @amnestypress: Breaking - China: Huang Qi, founder of human rights website 64 Tianwang, taken away by police in Cheng… (2014年03月13日 17:23)
  ---
-@gabycastellanos you can reach me on charlie.smith @ <a href="http://greatfire.org">greatfire.org</a> (2014年03月13日 16:50)
+@gabycastellanos you can reach me on charlie.smith @ <a href="https://zh.greatfire.org/">zh.greatfire.org/</a> (2014年03月13日 16:50)
  ---
 "The internet is for everyone!" We agree with @timberners_lee that fractured web will hurt, not help, China <a href="http://www.theguardian.com/technology/2014/mar/12/online-magna-carta-berners-lee-web">www.theguardian.com/technology/2014/mar/12/online-magna-carta-berners-lee-web</a> (2014年03月12日 19:21)
  ---
