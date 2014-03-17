@@ -14,7 +14,7 @@ Google Hangouts, Gmail Chat And Google Spreadsheets down, everywhere, not just i
  ---
 .@dickc whatever your reasons for visit hope self-censorship not on agenda when you meet those officials <a href="http://blogs.wsj.com/chinarealtime/2014/03/17/twitter-ceos-china-visit-is-interesting-but-not-for-the-reason-you-think/">blogs.wsj.com/chinarealtime/2014/03/17/twitter-ceos-china-visit-is-interesting-but-not-for-the-reason-you-think/</a> (2014年03月17日 22:21)
  ---
-Sadly no mention of @FreeWeibo in Weibo IPO prospectus. But censorship identified as real risk from p.36 <a href="https://t.co/LwlsjKZWin">t.co/LwlsjKZWin</a> (2014年03月17日 18:48)
+Sadly no mention of @FreeWeibo in Weibo IPO prospectus. But censorship identified as real risk from p.36 <a href="https://www.sec.gov/Archives/edgar/data/1595761/000119312514100237/d652805df1.htm">www.sec.gov/Archives/edgar/data/1595761/000119312514100237/d652805df1.htm</a> (2014年03月17日 18:48)
  ---
 RT @xixitalk: 周末写了个程序，干了一件事情，就是找出最近的收藏最多的推文。总共添加了七千多推友，但是只有一千多系统设置是中文，六千多推友系统设置为英文。扫描获得了三万多收藏推文。一周内的收藏次数的前100推文 <a href="http://xixitalk.github.io/twitter/2014/2014-03-16.html">xixitalk.github.io/twitter/2014/2014-03-16.html</a> (2014年03月17日 12:40)
  ---
