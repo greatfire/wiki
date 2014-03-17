@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+.@dickc whatever your reasons for visit hope self-censorship not on agenda when you meet those officials <a href="http://blogs.wsj.com/chinarealtime/2014/03/17/twitter-ceos-china-visit-is-interesting-but-not-for-the-reason-you-think/">blogs.wsj.com/chinarealtime/2014/03/17/twitter-ceos-china-visit-is-interesting-but-not-for-the-reason-you-think/</a> (2014年03月17日 22:21)
+ ---
 Sadly no mention of @FreeWeibo in Weibo IPO prospectus. But censorship identified as real risk from p.36 <a href="https://www.sec.gov/Archives/edgar/data/1595761/000119312514100237/d652805df1.htm">www.sec.gov/Archives/edgar/data/1595761/000119312514100237/d652805df1.htm</a> (2014年03月17日 18:48)
  ---
 RT @xixitalk: 周末写了个程序，干了一件事情，就是找出最近的收藏最多的推文。总共添加了七千多推友，但是只有一千多系统设置是中文，六千多推友系统设置为英文。扫描获得了三万多收藏推文。一周内的收藏次数的前100推文 <a href="http://xixitalk.github.io/twitter/2014/2014-03-16.html">xixitalk.github.io/twitter/2014/2014-03-16.html</a> (2014年03月17日 12:40)
@@ -47,6 +49,4 @@ RT @taniabranigan: RT @amnestypress: Breaking - China: Huang Qi, founder of huma
 "The internet is for everyone!" We agree with @timberners_lee that fractured web will hurt, not help, China <a href="http://www.theguardian.com/technology/2014/mar/12/online-magna-carta-berners-lee-web">www.theguardian.com/technology/2014/mar/12/online-magna-carta-berners-lee-web</a> (2014年03月12日 19:21)
  ---
 .@RSF_RWB declares China an enemy of the internet for creating world’s biggest netizen prison: <a href="http://12mars.rsf.org/2014-en/2014/03/10/china-electronic-great-wall-getting-taller/">12mars.rsf.org/2014-en/2014/03/10/china-electronic-great-wall-getting-taller/</a> (2014年03月12日 16:54)
- ---
-@joshchin @gadyepstein who do you think they are referring to in Beijing? (2014年03月12日 16:09)
  ---
