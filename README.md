@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @xixitalk: 周末写了个程序，干了一件事情，就是找出最近的收藏最多的推文。总共添加了七千多推友，但是只有一千多系统设置是中文，六千多推友系统设置为英文。扫描获得了三万多收藏推文。一周内的收藏次数的前100推文 <a href="http://xixitalk.github.io/twitter/2014/2014-03-16.html">xixitalk.github.io/twitter/2014/2014-03-16.html</a> (2014年03月17日 12:40)
+ ---
 China cracks down again on popular messaging app WeChat  <a href="http://www.reuters.com/article/2014/03/14/us-china-censorship-tencent-idUSBREA2D0I420140314">www.reuters.com/article/2014/03/14/us-china-censorship-tencent-idUSBREA2D0I420140314</a> (2014年03月17日 11:17)
  ---
 飞机遭劫持的消息的许多评论都被删除了。什么意思 <a href="https://freeweibo.com/weibo/3688361182984129">freeweibo.com/weibo/3688361182984129</a>  <a href="https://freeweibo.com/weibo/3688365175886022">freeweibo.com/weibo/3688365175886022</a> (2014年03月16日 09:52)
@@ -47,6 +49,4 @@ RT @taniabranigan: RT @amnestypress: Breaking - China: Huang Qi, founder of huma
 @joshchin @gadyepstein who do you think they are referring to in Beijing? (2014年03月12日 16:09)
  ---
 Conspicuous non-mention of China in @ericschmidt &amp; @JaredCohen oped piece on internet freedom in the NYT: <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F03%2F12%2Fopinion%2Fthe-future-of-internet-freedom.html%3Femc%3Dedit_tnt_20140311%26nlid%3D16428923%26tntemail0%3Dy%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年03月12日 16:04)
- ---
-RT @muzuiget: 想当年我俩Github论剑，他先是一招SQL注入直刺过来，我随即以引号转义身法堪堪避过，连带一记Flash溢出大力横扫，谁知那厮有沙盒宝甲在身，爆了DDOS剑气和我硬碰，我只好换成404剑法护体。我们激战7天7夜不分胜负，最后被山脚那个扫地老头一招链… (2014年03月11日 14:13)
  ---
