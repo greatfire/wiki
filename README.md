@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Once we end online censorship in China, Weibo's risk exposure will go down &amp; op. costs related to employing censors &amp; buying systems. (2014年03月18日 19:00)
+ ---
 RT @wafarris: Sina Identifies Censorship and Real Name Risks in Its Weibo IPO Filing <a href="http://blog.feichangdao.com/2014/03/sina-identifies-censorship-and-real.html">blog.feichangdao.com/2014/03/sina-identifies-censorship-and-real.html</a> (2014年03月18日 04:30)
  ---
 Google Hangouts, Gmail Chat And Google Spreadsheets down, everywhere, not just in China <a href="http://techcrunch.com/2014/03/17/google-hangouts-and-gmail-chat-go-down/?ncid=twittersocialshare">techcrunch.com/2014/03/17/google-hangouts-and-gmail-chat-go-down/</a> via @techcrunch (2014年03月18日 00:58)
@@ -47,6 +49,4 @@ RT @paopaonet: 微信今天封了大量公共帐号，记者宋志标之前曾�
 RT @iandenisjohnson: Top human rights blogger Huang Qi (@64tianwang) detained by police, says assistant @pufei Intro to Huang's work here: … (2014年03月13日 17:24)
  ---
 RT @taniabranigan: RT @amnestypress: Breaking - China: Huang Qi, founder of human rights website 64 Tianwang, taken away by police in Cheng… (2014年03月13日 17:23)
- ---
-@gabycastellanos you can reach me on charlie.smith @ <a href="https://zh.greatfire.org/">zh.greatfire.org/</a> (2014年03月13日 16:50)
  ---
