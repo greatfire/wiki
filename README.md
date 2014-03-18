@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+NSA surveillance program reaches ‘into the past’ to retrieve, replay phone calls <a href="http://www.washingtonpost.com/world/national-security/nsa-surveillance-program-reaches-into-the-past-to-retrieve-replay-phone-calls/2014/03/18/226d2646-ade9-11e3-a49e-76adc9210f19_story.html">www.washingtonpost.com/world/national-security/nsa-surveillance-program-reaches-into-the-past-to-retrieve-replay-phone-calls/2014/03/18/226d2646-ade9-11e3-a49e-76adc9210f19_story.html</a> via @washingtonpost (2014年03月19日 05:40)
+ ---
 Xi's war on corruption using internet focused just on stupid low level officials who don't know any better <a href="http://blogs.nottingham.ac.uk/chinapolicyinstitute/2014/03/17/xi-jinpings-tiger-hunt/?utm_source=rss&utm_medium=rss&utm_campaign=xi-jinpings-tiger-hunt">blogs.nottingham.ac.uk/chinapolicyinstitute/2014/03/17/xi-jinpings-tiger-hunt/</a> (2014年03月19日 03:31)
  ---
 Index Freedom of Expression Awards: Digital activism nominee @FreeWeibo - <a href="http://www.indexoncensorship.org/2014/03/index-freedom-of-expression-awards-free-weibo/">www.indexoncensorship.org/2014/03/index-freedom-of-expression-awards-free-weibo/</a> via @IndexCensorship (2014年03月18日 19:21)
@@ -47,6 +49,4 @@ RT @dwertime: Breaking: Surprising Crackdown on China's Hottest Social Media Pla
 RT @niubi: Sudden crackdown on political public accounts hits Wechat <a href="http://offbeatchina.com/sudden-crackdown-on-liberal-public-accounts-hits-wechat">offbeatchina.com/sudden-crackdown-on-liberal-public-accounts-hits-wechat</a> via @feedly (2014年03月14日 14:36)
  ---
 RT @KainyGuo: “微信屠城，血流成河，自媒体运营者都疯了。封号后，并无申诉渠道。所以，别太迷信自媒体赚钱了，把身价性命都赌在微信身上，你只会欲哭无泪。” 。 <a href="https://twitter.com/KainyGuo/status/444108191928819712/photo/1">twitter.com/KainyGuo/status/444108191928819712/photo/1</a> (2014年03月14日 14:28)
- ---
-RT @paopaonet: 微信今天封了大量公共帐号，记者宋志标之前曾谈到微信的审查机制 <a href="https://s3.amazonaws.com/pao-pao./index.html?u=article/34">s3.amazonaws.com/pao-pao./index.html</a> (2014年03月14日 14:19)
  ---
