@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Index Freedom of Expression Awards: Digital activism nominee @FreeWeibo - <a href="http://www.indexoncensorship.org/2014/03/index-freedom-of-expression-awards-free-weibo/">www.indexoncensorship.org/2014/03/index-freedom-of-expression-awards-free-weibo/</a> via @IndexCensorship (2014年03月18日 19:21)
+ ---
 Once we end online censorship in China, Weibo's risk exposure will go down &amp; op. costs related to employing censors &amp; buying systems. (2014年03月18日 19:00)
  ---
 RT @wafarris: Sina Identifies Censorship and Real Name Risks in Its Weibo IPO Filing <a href="http://blog.feichangdao.com/2014/03/sina-identifies-censorship-and-real.html">blog.feichangdao.com/2014/03/sina-identifies-censorship-and-real.html</a> (2014年03月18日 04:30)
@@ -47,6 +49,4 @@ RT @KainyGuo: “微信屠城，血流成河，自媒体运营者都疯了。封
 RT @paopaonet: 微信今天封了大量公共帐号，记者宋志标之前曾谈到微信的审查机制 <a href="https://s3.amazonaws.com/pao-pao./index.html?u=article/34">s3.amazonaws.com/pao-pao./index.html</a> (2014年03月14日 14:19)
  ---
 RT @iandenisjohnson: Top human rights blogger Huang Qi (@64tianwang) detained by police, says assistant @pufei Intro to Huang's work here: … (2014年03月13日 17:24)
- ---
-RT @taniabranigan: RT @amnestypress: Breaking - China: Huang Qi, founder of human rights website 64 Tianwang, taken away by police in Cheng… (2014年03月13日 17:23)
  ---
