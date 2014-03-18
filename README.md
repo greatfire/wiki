@@ -14,7 +14,7 @@ RT @wafarris: Sina Identifies Censorship and Real Name Risks in Its Weibo IPO Fi
  ---
 Google Hangouts, Gmail Chat And Google Spreadsheets down, everywhere, not just in China <a href="http://techcrunch.com/2014/03/17/google-hangouts-and-gmail-chat-go-down/?ncid=twittersocialshare">techcrunch.com/2014/03/17/google-hangouts-and-gmail-chat-go-down/</a> via @techcrunch (2014年03月18日 00:58)
  ---
-.@dickc whatever your reasons for visit hope self-censorship not on agenda when you meet those officials <a href="http://t.co/lw8BD2XATv">t.co/lw8BD2XATv</a> (2014年03月17日 22:21)
+.@dickc whatever your reasons for visit hope self-censorship not on agenda when you meet those officials <a href="http://blogs.wsj.com/chinarealtime/2014/03/17/twitter-ceos-china-visit-is-interesting-but-not-for-the-reason-you-think/">blogs.wsj.com/chinarealtime/2014/03/17/twitter-ceos-china-visit-is-interesting-but-not-for-the-reason-you-think/</a> (2014年03月17日 22:21)
  ---
 Sadly no mention of @FreeWeibo in Weibo IPO prospectus. But censorship identified as real risk from p.36 <a href="https://www.sec.gov/Archives/edgar/data/1595761/000119312514100237/d652805df1.htm">www.sec.gov/Archives/edgar/data/1595761/000119312514100237/d652805df1.htm</a> (2014年03月17日 18:48)
  ---
