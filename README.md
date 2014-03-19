@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @RememberJune4th: Fundraising for Hong Kong June 4th Memorial Museum 香港六四紀念館網上籌款 <a href="http://www.june4commemoration.org/1/post/2014/03/fundraising-for-hong-kong-june-4th-memorial-museum.html">www.june4commemoration.org/1/post/2014/03/fundraising-for-hong-kong-june-4th-memorial-museum.html</a> via @weebly (2014年03月20日 00:46)
+ ---
 We are at #TEDxHagueAcademy tonight and in London at #indexawards2014 tomorrow night. Come by and say 'hi'! <a href="https://twitter.com/marc_brouwer/status/446307715342929921/photo/1">twitter.com/marc_brouwer/status/446307715342929921/photo/1</a> (2014年03月20日 00:10)
  ---
 New research claims that Microsoft’s Bing censors heavily within China, even more so than Baidu <a href="http://thenextweb.com/microsoft/2014/03/19/new-research-claims-microsofts-bing-censors-heavily-within-china-even-baidu/?utm_source=Twitter&awesm=tnw.to_i4gDH&utm_medium=share+button&utm_content=New+research+claims+that+Microsoft's+Bing+censors+heavily+within+China,+even+more+so+than+Baidu&utm_campaign=social+media">thenextweb.com/microsoft/2014/03/19/new-research-claims-microsofts-bing-censors-heavily-within-china-even-baidu/</a> via @thenextweb (2014年03月19日 14:03)
@@ -47,6 +49,4 @@ Google Hangouts, Gmail Chat And Google Spreadsheets down, everywhere, not just i
 Sadly no mention of @FreeWeibo in Weibo IPO prospectus. But censorship identified as real risk from p.36 <a href="https://www.sec.gov/Archives/edgar/data/1595761/000119312514100237/d652805df1.htm">www.sec.gov/Archives/edgar/data/1595761/000119312514100237/d652805df1.htm</a> (2014年03月17日 18:48)
  ---
 RT @xixitalk: 周末写了个程序，干了一件事情，就是找出最近的收藏最多的推文。总共添加了七千多推友，但是只有一千多系统设置是中文，六千多推友系统设置为英文。扫描获得了三万多收藏推文。一周内的收藏次数的前100推文 <a href="http://xixitalk.github.io/twitter/2014/2014-03-16.html">xixitalk.github.io/twitter/2014/2014-03-16.html</a> (2014年03月17日 12:40)
- ---
-China cracks down again on popular messaging app WeChat  <a href="http://www.reuters.com/article/2014/03/14/us-china-censorship-tencent-idUSBREA2D0I420140314">www.reuters.com/article/2014/03/14/us-china-censorship-tencent-idUSBREA2D0I420140314</a> (2014年03月17日 11:17)
  ---
