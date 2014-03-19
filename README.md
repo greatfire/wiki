@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+What does it mean to live in a secure society? Follow fascinating live discussion here: <a href="http://tedxhagueacademy.org/">tedxhagueacademy.org/</a> #TEDxHagueAcademy (2014年03月20日 01:53)
+ ---
 "It's expensive to maintain a Ministry of Truth": 3 Reasons Investors Should Avoid ‘China’s Twitter’: <a href="http://www.fool.com/investing/general/2014/03/17/weibo-files-for-us-ipo-3-reasons-investors-should.aspx#.UynV8v9a8v0.twitter">www.fool.com/investing/general/2014/03/17/weibo-files-for-us-ipo-3-reasons-investors-should.aspx</a> (2014年03月20日 01:48)
  ---
 RT @YaxueCao: The Life and Death of Cao Shunli  (1961 -- 2014), a profile by me <a href="http://chinachange.org/2014/03/18/the-life-and-death-of-cao-shunli-1961-2014/">chinachange.org/2014/03/18/the-life-and-death-of-cao-shunli-1961-2014/</a> (2014年03月20日 01:27)
@@ -47,6 +49,4 @@ Index Freedom of Expression Awards: Digital activism nominee @FreeWeibo - <a hre
 Once we end online censorship in China, Weibo's risk exposure will go down &amp; op. costs related to employing censors &amp; buying systems. (2014年03月18日 19:00)
  ---
 RT @wafarris: Sina Identifies Censorship and Real Name Risks in Its Weibo IPO Filing <a href="http://blog.feichangdao.com/2014/03/sina-identifies-censorship-and-real.html">blog.feichangdao.com/2014/03/sina-identifies-censorship-and-real.html</a> (2014年03月18日 04:30)
- ---
-Google Hangouts, Gmail Chat And Google Spreadsheets down, everywhere, not just in China <a href="http://techcrunch.com/2014/03/17/google-hangouts-and-gmail-chat-go-down/?ncid=twittersocialshare">techcrunch.com/2014/03/17/google-hangouts-and-gmail-chat-go-down/</a> via @techcrunch (2014年03月18日 00:58)
  ---
