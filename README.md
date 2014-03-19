@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @paopaonet: 微信猎象记：一位不愿透露姓名的微信公共平台运营者向笔者表示，尽管在这次“微信屠城”中幸免，但审查标准与救济途径的不可知使他感到处于不安全之中。<a href="https://s3.amazonaws.com/pao-pao./index.html?u=article/52">s3.amazonaws.com/pao-pao./index.html</a> <a href="https://twitter.com/paopaonet/status/445923552944869377/photo/1">twitter.com/paopaonet/status/445923552944869377/photo/1</a> (2014年03月19日 09:04)
+ ---
 必应屏蔽的百度词条不仅有“手枪”，"地下六合彩",还包含了"喜羊羊与灰太狼","素鸡"等项目。 被屏蔽网址见 <a href="https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheet%2Fccc%3Fkey%3D0AsztBERe_FUwdHNxa1JnOXVkT3dYZHI5ZDY2ZWt6WWc%26pref%3D2&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheet%2Fccc%3Fkey%3D0AsztBERe_FUwdHNxa1JnOXVkT3dYZHI5ZDY2ZWt6WWc%26pref%3D2">accounts.google.com/ServiceLogin</a> 往下拉可以看到喜羊羊 (2014年03月19日 08:51)
  ---
 必应比百度更会审查。 1.必应屏蔽了部分中国网站的网页比如163，凤凰网，百度百科等（联系微软后还是被屏蔽）。2.必应全站屏蔽了5个外语维基百科，在我们联系微软后才取消。 <a href="https://en.greatfire.org/blog/2014/mar/bing-bests-baidu-censorship">en.greatfire.org/blog/2014/mar/bing-bests-baidu-censorship</a> (2014年03月19日 08:46)
@@ -47,6 +49,4 @@ China cracks down again on popular messaging app WeChat  <a href="http://www.reu
 马航事件新闻战，中国媒体真的是完败。几乎所有的干货都是纽时华尔街路透BBC等英美媒体挖出来的，它们的报道真正对马来西亚形成了压力，体现了媒体的力量所在。什么是软实力？这就是软实力。反观中国媒体呢？除了搬运外媒，就只会一遍遍喊着“马航我们等你回家”“我们为你祈祷”作苍白廉价的煽情了 (2014年03月16日 06:02)
  ---
 <a href="http://cn.nytimes.com/china/20140314/c14npc/">cn.nytimes.com/china/20140314/c14npc/</a> 哪些问题不准出席李克强记者会？ (2014年03月15日 12:54)
- ---
-RT @YaxueCao: 英国政府就曹顺利之死发表声明：“联合国人权理事会成员应该遵守和保持最高的人权标准。我们强烈敦促中国当局确保所有在囚人员获得充分的医疗，并释放所有因行使宪法权利、言论自由权、结社权和集会权而被捕入狱的人。” <a href="https://www.gov.uk/government/news/uk-saddened-at-death-of-chinese-activist-cao-shunli">www.gov.uk/government/news/uk-saddened-at-death-of-chinese-activist-cao-shunli</a> (2014年03月15日 11:44)
  ---
