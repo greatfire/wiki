@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @PGSnuclear: "Charlie" joining us from China to talk about Internet freedom has a sense of humor. #TEDxHagueAcademy <a href="http://t.co/3E7EBRUD">t.co/3E7EBRUD</a>… (2014年03月20日 03:03)
+ ---
 RT @fightfortheftr: Help send VPNs to group in #Turkey hosting crypto-parties for activists fighting censorship <a href="https://unblockturkey.fightforthefuture.org/fight-censorship-and-spying-in-turkey">unblockturkey.fightforthefuture.org/fight-censorship-and-spying-in-turkey</a> | h… (2014年03月20日 02:11)
  ---
 What does it mean to live in a secure society? Follow fascinating live discussion here: <a href="http://tedxhagueacademy.org/">tedxhagueacademy.org/</a> #TEDxHagueAcademy (2014年03月20日 01:53)
@@ -47,6 +49,4 @@ NSA surveillance program reaches ‘into the past’ to retrieve, replay phone c
 Xi's war on corruption using internet focused just on stupid low level officials who don't know any better <a href="http://blogs.nottingham.ac.uk/chinapolicyinstitute/2014/03/17/xi-jinpings-tiger-hunt/?utm_source=rss&utm_medium=rss&utm_campaign=xi-jinpings-tiger-hunt">blogs.nottingham.ac.uk/chinapolicyinstitute/2014/03/17/xi-jinpings-tiger-hunt/</a> (2014年03月19日 03:31)
  ---
 Index Freedom of Expression Awards: Digital activism nominee @FreeWeibo - <a href="http://www.indexoncensorship.org/2014/03/index-freedom-of-expression-awards-free-weibo/">www.indexoncensorship.org/2014/03/index-freedom-of-expression-awards-free-weibo/</a> via @IndexCensorship (2014年03月18日 19:21)
- ---
-Once we end online censorship in China, Weibo's risk exposure will go down &amp; op. costs related to employing censors &amp; buying systems. (2014年03月18日 19:00)
  ---
