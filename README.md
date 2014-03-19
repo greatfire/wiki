@@ -12,7 +12,7 @@
 ## 新闻
 RT @PGSnuclear: "Charlie" joining us from China to talk about Internet freedom has a sense of humor. #TEDxHagueAcademy <a href="http://t.co/3E7EBRUD">t.co/3E7EBRUD</a>… (2014年03月20日 03:03)
  ---
-RT @fightfortheftr: Help send VPNs to group in #Turkey hosting crypto-parties for activists fighting censorship <a href="https://unblockturkey.fightforthefuture.org/">unblockturkey.fightforthefuture.org/</a> | h… (2014年03月20日 02:11)
+RT @fightfortheftr: Help send VPNs to group in #Turkey hosting crypto-parties for activists fighting censorship <a href="https://unblockturkey.fightforthefuture.org/fight-censorship-and-spying-in-turkey">unblockturkey.fightforthefuture.org/fight-censorship-and-spying-in-turkey</a> | h… (2014年03月20日 02:11)
  ---
 What does it mean to live in a secure society? Follow fascinating live discussion here: <a href="http://tedxhagueacademy.org/">tedxhagueacademy.org/</a> #TEDxHagueAcademy (2014年03月20日 01:53)
  ---
