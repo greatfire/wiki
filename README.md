@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+必应还屏蔽了贺卫方的网易博客,贺卫方是北京大学法学院教授。 网易和百度都没有屏蔽他的博客，必应凭什么屏蔽？请在中国大陆访问一下网址测试<a href="http://www.bing.com/search?q=site%3Aheweifang2009.blog.163.com&mkt=zh-CN">www.bing.com/search</a> (2014年03月19日 09:16)
+ ---
 RT @paopaonet: 微信猎象记：一位不愿透露姓名的微信公共平台运营者向笔者表示，尽管在这次“微信屠城”中幸免，但审查标准与救济途径的不可知使他感到处于不安全之中。<a href="https://s3.amazonaws.com/pao-pao./index.html?u=article/52">s3.amazonaws.com/pao-pao./index.html</a> <a href="https://twitter.com/paopaonet/status/445923552944869377/photo/1">twitter.com/paopaonet/status/445923552944869377/photo/1</a> (2014年03月19日 09:04)
  ---
 必应屏蔽的百度词条不仅有“手枪”，"地下六合彩",还包含了"喜羊羊与灰太狼","素鸡"等项目。 被屏蔽网址见 <a href="https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheet%2Fccc%3Fkey%3D0AsztBERe_FUwdHNxa1JnOXVkT3dYZHI5ZDY2ZWt6WWc%26pref%3D2&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheet%2Fccc%3Fkey%3D0AsztBERe_FUwdHNxa1JnOXVkT3dYZHI5ZDY2ZWt6WWc%26pref%3D2">accounts.google.com/ServiceLogin</a> 往下拉可以看到喜羊羊 (2014年03月19日 08:51)
@@ -47,6 +49,4 @@ China cracks down again on popular messaging app WeChat  <a href="http://www.reu
 互联网审查是可以打败的 - 纽约时报中文网 国际纵览 <a href="http://cn.nytimes.com/opinion/20140314/c14schmidtcohen/">cn.nytimes.com/opinion/20140314/c14schmidtcohen/</a> via @nytchinese (2014年03月16日 08:05)
  ---
 马航事件新闻战，中国媒体真的是完败。几乎所有的干货都是纽时华尔街路透BBC等英美媒体挖出来的，它们的报道真正对马来西亚形成了压力，体现了媒体的力量所在。什么是软实力？这就是软实力。反观中国媒体呢？除了搬运外媒，就只会一遍遍喊着“马航我们等你回家”“我们为你祈祷”作苍白廉价的煽情了 (2014年03月16日 06:02)
- ---
-<a href="http://cn.nytimes.com/china/20140314/c14npc/">cn.nytimes.com/china/20140314/c14npc/</a> 哪些问题不准出席李克强记者会？ (2014年03月15日 12:54)
  ---
