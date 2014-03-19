@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+"It's expensive to maintain a Ministry of Truth": 3 Reasons Investors Should Avoid ‘China’s Twitter’: <a href="http://www.fool.com/investing/general/2014/03/17/weibo-files-for-us-ipo-3-reasons-investors-should.aspx#.UynV8v9a8v0.twitter">www.fool.com/investing/general/2014/03/17/weibo-files-for-us-ipo-3-reasons-investors-should.aspx</a> (2014年03月20日 01:48)
+ ---
 RT @YaxueCao: The Life and Death of Cao Shunli  (1961 -- 2014), a profile by me <a href="http://chinachange.org/2014/03/18/the-life-and-death-of-cao-shunli-1961-2014/">chinachange.org/2014/03/18/the-life-and-death-of-cao-shunli-1961-2014/</a> (2014年03月20日 01:27)
  ---
 2nd highest # of bloggers in prison behind China: Vietnam Sends Blogger to Prison for 15 Mo. <a href="http://mashable.com/2014/03/19/vietnam-blogger-prison/#:eyJzIjoidCIsImkiOiJfOHh2Zjl6M25idjY4Z2xwOCJ9">mashable.com/2014/03/19/vietnam-blogger-prison/</a> via @lorenzoFB (2014年03月20日 01:24)
@@ -47,6 +49,4 @@ Once we end online censorship in China, Weibo's risk exposure will go down &amp;
 RT @wafarris: Sina Identifies Censorship and Real Name Risks in Its Weibo IPO Filing <a href="http://blog.feichangdao.com/2014/03/sina-identifies-censorship-and-real.html">blog.feichangdao.com/2014/03/sina-identifies-censorship-and-real.html</a> (2014年03月18日 04:30)
  ---
 Google Hangouts, Gmail Chat And Google Spreadsheets down, everywhere, not just in China <a href="http://techcrunch.com/2014/03/17/google-hangouts-and-gmail-chat-go-down/?ncid=twittersocialshare">techcrunch.com/2014/03/17/google-hangouts-and-gmail-chat-go-down/</a> via @techcrunch (2014年03月18日 00:58)
- ---
-.@dickc whatever your reasons for visit hope self-censorship not on agenda when you meet those officials <a href="http://blogs.wsj.com/chinarealtime/2014/03/17/twitter-ceos-china-visit-is-interesting-but-not-for-the-reason-you-think/">blogs.wsj.com/chinarealtime/2014/03/17/twitter-ceos-china-visit-is-interesting-but-not-for-the-reason-you-think/</a> (2014年03月17日 22:21)
  ---
