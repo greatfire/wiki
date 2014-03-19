@@ -10,6 +10,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @YaxueCao: The Life and Death of Cao Shunli  (1961 -- 2014), a profile by me <a href="http://chinachange.org/2014/03/18/the-life-and-death-of-cao-shunli-1961-2014/">chinachange.org/2014/03/18/the-life-and-death-of-cao-shunli-1961-2014/</a> (2014年03月20日 01:27)
+ ---
+2nd highest # of bloggers in prison behind China: Vietnam Sends Blogger to Prison for 15 Mo. <a href="http://mashable.com/2014/03/19/vietnam-blogger-prison/#:eyJzIjoidCIsImkiOiJfOHh2Zjl6M25idjY4Z2xwOCJ9">mashable.com/2014/03/19/vietnam-blogger-prison/</a> via @lorenzoFB (2014年03月20日 01:24)
+ ---
 RT @RememberJune4th: Fundraising for Hong Kong June 4th Memorial Museum 香港六四紀念館網上籌款 <a href="http://www.june4commemoration.org/1/post/2014/03/fundraising-for-hong-kong-june-4th-memorial-museum.html">www.june4commemoration.org/1/post/2014/03/fundraising-for-hong-kong-june-4th-memorial-museum.html</a> via @weebly (2014年03月20日 00:46)
  ---
 We are at #TEDxHagueAcademy tonight and in London at #indexawards2014 tomorrow night. Come by and say 'hi'! <a href="https://twitter.com/marc_brouwer/status/446307715342929921/photo/1">twitter.com/marc_brouwer/status/446307715342929921/photo/1</a> (2014年03月20日 00:10)
@@ -45,8 +49,4 @@ RT @wafarris: Sina Identifies Censorship and Real Name Risks in Its Weibo IPO Fi
 Google Hangouts, Gmail Chat And Google Spreadsheets down, everywhere, not just in China <a href="http://techcrunch.com/2014/03/17/google-hangouts-and-gmail-chat-go-down/?ncid=twittersocialshare">techcrunch.com/2014/03/17/google-hangouts-and-gmail-chat-go-down/</a> via @techcrunch (2014年03月18日 00:58)
  ---
 .@dickc whatever your reasons for visit hope self-censorship not on agenda when you meet those officials <a href="http://blogs.wsj.com/chinarealtime/2014/03/17/twitter-ceos-china-visit-is-interesting-but-not-for-the-reason-you-think/">blogs.wsj.com/chinarealtime/2014/03/17/twitter-ceos-china-visit-is-interesting-but-not-for-the-reason-you-think/</a> (2014年03月17日 22:21)
- ---
-Sadly no mention of @FreeWeibo in Weibo IPO prospectus. But censorship identified as real risk from p.36 <a href="https://www.sec.gov/Archives/edgar/data/1595761/000119312514100237/d652805df1.htm">www.sec.gov/Archives/edgar/data/1595761/000119312514100237/d652805df1.htm</a> (2014年03月17日 18:48)
- ---
-RT @xixitalk: 周末写了个程序，干了一件事情，就是找出最近的收藏最多的推文。总共添加了七千多推友，但是只有一千多系统设置是中文，六千多推友系统设置为英文。扫描获得了三万多收藏推文。一周内的收藏次数的前100推文 <a href="http://xixitalk.github.io/twitter/2014/2014-03-16.html">xixitalk.github.io/twitter/2014/2014-03-16.html</a> (2014年03月17日 12:40)
  ---
