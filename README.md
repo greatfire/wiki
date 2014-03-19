@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Chrome data compression proxy blocked by GFW. This feature allows Chinese users to access blocked sites. <a href="https://en.greatfire.org/https/proxy.googlezip.net">en.greatfire.org/https/proxy.googlezip.net</a> (2014年03月19日 08:15)
+ ---
 Weibo IPO: "It may not be possible to determine in all cases what content could result in liability...or the suspension or shutdown.." (2014年03月19日 07:04)
  ---
 NSA surveillance program reaches ‘into the past’ to retrieve, replay phone calls <a href="http://www.washingtonpost.com/world/national-security/nsa-surveillance-program-reaches-into-the-past-to-retrieve-replay-phone-calls/2014/03/18/226d2646-ade9-11e3-a49e-76adc9210f19_story.html">www.washingtonpost.com/world/national-security/nsa-surveillance-program-reaches-into-the-past-to-retrieve-replay-phone-calls/2014/03/18/226d2646-ade9-11e3-a49e-76adc9210f19_story.html</a> via @washingtonpost (2014年03月19日 05:40)
@@ -47,6 +49,4 @@ Activist Cao Shunli, detained after peacefully calling for govt transparency, di
 RT @RSF_RWB: 2 hours left to gather 21 supporters to launch our #InternetEnemies #Thunderclap ! <a href="https://www.thunderclap.it/projects/9705-enemies-of-the-internet">www.thunderclap.it/projects/9705-enemies-of-the-internet</a> We need you ! (2014年03月14日 21:21)
  ---
 RT @dwertime: Breaking: Surprising Crackdown on China's Hottest Social Media Platform <a href="http://www.foreignpolicy.com/articles/2014/03/13/surprising_crackdown_on_chinas_hottest_social_media_platform">www.foreignpolicy.com/articles/2014/03/13/surprising_crackdown_on_chinas_hottest_social_media_platform</a> thanks to @ael_o @yiqinfu @Bet… (2014年03月14日 14:37)
- ---
-RT @niubi: Sudden crackdown on political public accounts hits Wechat <a href="http://offbeatchina.com/sudden-crackdown-on-liberal-public-accounts-hits-wechat/">offbeatchina.com/sudden-crackdown-on-liberal-public-accounts-hits-wechat/</a> via @feedly (2014年03月14日 14:36)
  ---
