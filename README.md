@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @fightfortheftr: Help send VPNs to group in #Turkey hosting crypto-parties for activists fighting censorship <a href="https://unblockturkey.fightforthefuture.org/fight-censorship-and-spying-in-turkey">unblockturkey.fightforthefuture.org/fight-censorship-and-spying-in-turkey</a> | h… (2014年03月20日 02:11)
+ ---
 What does it mean to live in a secure society? Follow fascinating live discussion here: <a href="http://tedxhagueacademy.org/">tedxhagueacademy.org/</a> #TEDxHagueAcademy (2014年03月20日 01:53)
  ---
 "It's expensive to maintain a Ministry of Truth": 3 Reasons Investors Should Avoid ‘China’s Twitter’: <a href="http://www.fool.com/investing/general/2014/03/17/weibo-files-for-us-ipo-3-reasons-investors-should.aspx#.UynV8v9a8v0.twitter">www.fool.com/investing/general/2014/03/17/weibo-files-for-us-ipo-3-reasons-investors-should.aspx</a> (2014年03月20日 01:48)
@@ -47,6 +49,4 @@ Xi's war on corruption using internet focused just on stupid low level officials
 Index Freedom of Expression Awards: Digital activism nominee @FreeWeibo - <a href="http://www.indexoncensorship.org/2014/03/index-freedom-of-expression-awards-free-weibo/">www.indexoncensorship.org/2014/03/index-freedom-of-expression-awards-free-weibo/</a> via @IndexCensorship (2014年03月18日 19:21)
  ---
 Once we end online censorship in China, Weibo's risk exposure will go down &amp; op. costs related to employing censors &amp; buying systems. (2014年03月18日 19:00)
- ---
-RT @wafarris: Sina Identifies Censorship and Real Name Risks in Its Weibo IPO Filing <a href="http://blog.feichangdao.com/2014/03/sina-identifies-censorship-and-real.html">blog.feichangdao.com/2014/03/sina-identifies-censorship-and-real.html</a> (2014年03月18日 04:30)
  ---
