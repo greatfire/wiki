@@ -10,6 +10,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+New research claims that Microsoft’s Bing censors heavily within China, even more so than Baidu <a href="http://thenextweb.com/microsoft/2014/03/19/new-research-claims-microsofts-bing-censors-heavily-within-china-even-baidu/?utm_source=Twitter&awesm=tnw.to_i4gDH&utm_medium=share+button&utm_content=New+research+claims+that+Microsoft's+Bing+censors+heavily+within+China,+even+more+so+than+Baidu&utm_campaign=social+media">thenextweb.com/microsoft/2014/03/19/new-research-claims-microsofts-bing-censors-heavily-within-china-even-baidu/</a> via @thenextweb (2014年03月19日 14:03)
+ ---
+.@Microsoft censors more content than Chinese companies. <a href="https://en.greatfire.org/blog/2014/mar/bing-bests-baidu-censorship">en.greatfire.org/blog/2014/mar/bing-bests-baidu-censorship</a> (2014年03月19日 13:47)
+ ---
 必应还屏蔽了贺卫方的网易博客,贺卫方是北京大学法学院教授。 网易和百度都没有屏蔽他的博客，必应凭什么屏蔽？请在中国大陆访问一下网址测试<a href="http://www.bing.com/search?q=site%3Aheweifang2009.blog.163.com&mkt=zh-CN">www.bing.com/search</a> (2014年03月19日 09:16)
  ---
 RT @paopaonet: 微信猎象记：一位不愿透露姓名的微信公共平台运营者向笔者表示，尽管在这次“微信屠城”中幸免，但审查标准与救济途径的不可知使他感到处于不安全之中。<a href="https://s3.amazonaws.com/pao-pao./index.html?u=article/52">s3.amazonaws.com/pao-pao./index.html</a> <a href="https://twitter.com/paopaonet/status/445923552944869377/photo/1">twitter.com/paopaonet/status/445923552944869377/photo/1</a> (2014年03月19日 09:04)
@@ -45,8 +49,4 @@ RT @xixitalk: 周末写了个程序，干了一件事情，就是找出最近的
 China cracks down again on popular messaging app WeChat  <a href="http://www.reuters.com/article/2014/03/14/us-china-censorship-tencent-idUSBREA2D0I420140314">www.reuters.com/article/2014/03/14/us-china-censorship-tencent-idUSBREA2D0I420140314</a> (2014年03月17日 11:17)
  ---
 飞机遭劫持的消息的许多评论都被删除了。什么意思 <a href="https://freeweibo.com/weibo/3688361182984129">freeweibo.com/weibo/3688361182984129</a>  <a href="https://freeweibo.com/weibo/3688365175886022">freeweibo.com/weibo/3688365175886022</a> (2014年03月16日 09:52)
- ---
-互联网审查是可以打败的 - 纽约时报中文网 国际纵览 <a href="http://cn.nytimes.com/opinion/20140314/c14schmidtcohen/">cn.nytimes.com/opinion/20140314/c14schmidtcohen/</a> via @nytchinese (2014年03月16日 08:05)
- ---
-马航事件新闻战，中国媒体真的是完败。几乎所有的干货都是纽时华尔街路透BBC等英美媒体挖出来的，它们的报道真正对马来西亚形成了压力，体现了媒体的力量所在。什么是软实力？这就是软实力。反观中国媒体呢？除了搬运外媒，就只会一遍遍喊着“马航我们等你回家”“我们为你祈祷”作苍白廉价的煽情了 (2014年03月16日 06:02)
  ---
