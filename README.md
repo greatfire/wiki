@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @Fi_Bradley: It's 1st day of spring, it's the #indexawards2014 tonight and here is a statement from our nominee #edwardsnowden http://t.… (2014年03月20日 17:58)
+ ---
 déjà 猪 ？ RT @XHNews: 131 dead pigs found in Chinese river   <a href="http://www.youtube.com/watch?v=cP1yvuTLnxA&feature=youtube_gdata&utm_content=buffer63ec0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.youtube.com/watch</a> … (2014年03月20日 17:01)
  ---
 @Azuike loved the questions you asked - hope that the answers made sense. You did a great job pulling out info all evening. (2014年03月20日 16:42)
@@ -47,6 +49,4 @@ RT @paopaonet: 微信猎象记：一位不愿透露姓名的微信公共平台�
 必应比百度更会审查。 1.必应屏蔽了部分中国网站的网页比如163，凤凰网，百度百科等（联系微软后还是被屏蔽）。2.必应全站屏蔽了5个外语维基百科，在我们联系微软后才取消。 <a href="https://en.greatfire.org/blog/2014/mar/bing-bests-baidu-censorship">en.greatfire.org/blog/2014/mar/bing-bests-baidu-censorship</a> (2014年03月19日 08:46)
  ---
 Bing Bests Baidu Censorship. <a href="https://en.greatfire.org/blog/2014/mar/bing-bests-baidu-censorship">en.greatfire.org/blog/2014/mar/bing-bests-baidu-censorship</a> (2014年03月19日 08:36)
- ---
-Chrome data compression proxy blocked by GFW. This feature allows Chinese users to access blocked sites. <a href="https://en.greatfire.org/https/proxy.googlezip.net">en.greatfire.org/https/proxy.googlezip.net</a> (2014年03月19日 08:15)
  ---
