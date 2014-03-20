@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+déjà 猪 ？ RT @XHNews: 131 dead pigs found in Chinese river   <a href="http://www.youtube.com/watch?v=cP1yvuTLnxA&feature=youtube_gdata&utm_content=buffer63ec0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.youtube.com/watch</a> … (2014年03月20日 17:01)
+ ---
 @Azuike loved the questions you asked - hope that the answers made sense. You did a great job pulling out info all evening. (2014年03月20日 16:42)
  ---
 RT @sinoceros: Behold the part-terrier, part-tank cartoon character that Bing China seems to be censoring. <a href="http://qz.com/189968/heres-why-bing-china-censors-this-cute-tank-dog/">qz.com/189968/heres-why-bing-china-censors-this-cute-tank-dog/</a> http://t.… (2014年03月20日 15:17)
@@ -47,6 +49,4 @@ RT @paopaonet: 微信猎象记：一位不愿透露姓名的微信公共平台�
 Bing Bests Baidu Censorship. <a href="https://en.greatfire.org/blog/2014/mar/bing-bests-baidu-censorship">en.greatfire.org/blog/2014/mar/bing-bests-baidu-censorship</a> (2014年03月19日 08:36)
  ---
 Chrome data compression proxy blocked by GFW. This feature allows Chinese users to access blocked sites. <a href="https://en.greatfire.org/https/proxy.googlezip.net">en.greatfire.org/https/proxy.googlezip.net</a> (2014年03月19日 08:15)
- ---
-Weibo IPO: "It may not be possible to determine in all cases what content could result in liability...or the suspension or shutdown.." (2014年03月19日 07:04)
  ---
