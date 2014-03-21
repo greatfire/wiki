@@ -10,6 +10,12 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @enginonder: #twitter blocked in #turkey tonight. folks are painting #google dns numbers onto the posters of the governing party. http:/… (2014年03月21日 17:19)
+ ---
+RT @luluyilun: Breaking through China's Great Firewall <a href="http://www.businessweek.com/articles/2014-03-20/secretive-web-activists-give-chinese-a-way-around-censorship">www.businessweek.com/articles/2014-03-20/secretive-web-activists-give-chinese-a-way-around-censorship</a> via @BW @GreatFireChina (2014年03月21日 17:17)
+ ---
+"Democratic, equitable communication": speech from #indexawards2014 Digital Activism award winner Shu Choudhary <a href="http://www.indexoncensorship.org/2014/03/the-google-digital-activism-award-winner-shubranshu-choudhary/">www.indexoncensorship.org/2014/03/the-google-digital-activism-award-winner-shubranshu-choudhary/</a> (2014年03月21日 17:16)
+ ---
 Shu Choudhary brings local lang. news &amp; info to 100m in India via @CGNet_Swara - a well deserved #indexawards2014  <a href="http://www.indexoncensorship.org/2014/03/index-freedom-expression-awards-digital-activism-nominee-shubhranshu-choudhary/">www.indexoncensorship.org/2014/03/index-freedom-expression-awards-digital-activism-nominee-shubhranshu-choudhary/</a> (2014年03月21日 14:46)
  ---
 RT @YaxueCao: Recently released Ma Xinli 马新立 displays "Citizens demand asset disclosure by officials" in BJ Yuyuantan Park <a href="http://t.co/OAVh">t.co/OAVh</a>… (2014年03月20日 18:26)
@@ -43,10 +49,4 @@ We are at #TEDxHagueAcademy tonight and in London at #indexawards2014 tomorrow n
 New research claims that Microsoft’s Bing censors heavily within China, even more so than Baidu <a href="http://thenextweb.com/microsoft/2014/03/19/new-research-claims-microsofts-bing-censors-heavily-within-china-even-baidu/?utm_source=Twitter&awesm=tnw.to_i4gDH&utm_medium=share+button&utm_content=New+research+claims+that+Microsoft's+Bing+censors+heavily+within+China,+even+more+so+than+Baidu&utm_campaign=social+media">thenextweb.com/microsoft/2014/03/19/new-research-claims-microsofts-bing-censors-heavily-within-china-even-baidu/</a> via @thenextweb (2014年03月19日 14:03)
  ---
 .@Microsoft censors more content than Chinese companies. <a href="https://en.greatfire.org/blog/2014/mar/bing-bests-baidu-censorship">en.greatfire.org/blog/2014/mar/bing-bests-baidu-censorship</a> (2014年03月19日 13:47)
- ---
-必应还屏蔽了贺卫方的网易博客,贺卫方是北京大学法学院教授。 网易和百度都没有屏蔽他的博客，必应凭什么屏蔽？请在中国大陆访问一下网址测试<a href="http://www.bing.com/search?q=site%3Aheweifang2009.blog.163.com&mkt=zh-CN">www.bing.com/search</a> (2014年03月19日 09:16)
- ---
-RT @paopaonet: 微信猎象记：一位不愿透露姓名的微信公共平台运营者向笔者表示，尽管在这次“微信屠城”中幸免，但审查标准与救济途径的不可知使他感到处于不安全之中。<a href="https://s3.amazonaws.com/pao-pao./index.html?u=article/52">s3.amazonaws.com/pao-pao./index.html</a> <a href="https://twitter.com/paopaonet/status/445923552944869377/photo/1">twitter.com/paopaonet/status/445923552944869377/photo/1</a> (2014年03月19日 09:04)
- ---
-必应屏蔽的百度词条不仅有“手枪”，"地下六合彩",还包含了"喜羊羊与灰太狼","素鸡"等项目。 被屏蔽网址见 <a href="https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheet%2Fccc%3Fkey%3D0AsztBERe_FUwdHNxa1JnOXVkT3dYZHI5ZDY2ZWt6WWc%26pref%3D2&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheet%2Fccc%3Fkey%3D0AsztBERe_FUwdHNxa1JnOXVkT3dYZHI5ZDY2ZWt6WWc%26pref%3D2">accounts.google.com/ServiceLogin</a> 往下拉可以看到喜羊羊 (2014年03月19日 08:51)
  ---
