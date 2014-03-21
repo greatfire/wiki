@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Shu Choudhary brings local lang. news &amp; info to 100m in India via @CGNet_Swara - a well deserved #indexawards2014  <a href="http://www.indexoncensorship.org/2014/03/index-freedom-expression-awards-digital-activism-nominee-shubhranshu-choudhary/">www.indexoncensorship.org/2014/03/index-freedom-expression-awards-digital-activism-nominee-shubhranshu-choudhary/</a> (2014年03月21日 14:46)
+ ---
 RT @YaxueCao: Recently released Ma Xinli 马新立 displays "Citizens demand asset disclosure by officials" in BJ Yuyuantan Park <a href="http://t.co/OAVh">t.co/OAVh</a>… (2014年03月20日 18:26)
  ---
 RT @Fi_Bradley: It's 1st day of spring, it's the #indexawards2014 tonight and here is a statement from our nominee #edwardsnowden http://t.… (2014年03月20日 17:58)
@@ -47,6 +49,4 @@ New research claims that Microsoft’s Bing censors heavily within China, even m
 RT @paopaonet: 微信猎象记：一位不愿透露姓名的微信公共平台运营者向笔者表示，尽管在这次“微信屠城”中幸免，但审查标准与救济途径的不可知使他感到处于不安全之中。<a href="https://s3.amazonaws.com/pao-pao./index.html?u=article/52">s3.amazonaws.com/pao-pao./index.html</a> <a href="https://twitter.com/paopaonet/status/445923552944869377/photo/1">twitter.com/paopaonet/status/445923552944869377/photo/1</a> (2014年03月19日 09:04)
  ---
 必应屏蔽的百度词条不仅有“手枪”，"地下六合彩",还包含了"喜羊羊与灰太狼","素鸡"等项目。 被屏蔽网址见 <a href="https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheet%2Fccc%3Fkey%3D0AsztBERe_FUwdHNxa1JnOXVkT3dYZHI5ZDY2ZWt6WWc%26pref%3D2&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheet%2Fccc%3Fkey%3D0AsztBERe_FUwdHNxa1JnOXVkT3dYZHI5ZDY2ZWt6WWc%26pref%3D2">accounts.google.com/ServiceLogin</a> 往下拉可以看到喜羊羊 (2014年03月19日 08:51)
- ---
-必应比百度更会审查。 1.必应屏蔽了部分中国网站的网页比如163，凤凰网，百度百科等（联系微软后还是被屏蔽）。2.必应全站屏蔽了5个外语维基百科，在我们联系微软后才取消。 <a href="https://en.greatfire.org/blog/2014/mar/bing-bests-baidu-censorship">en.greatfire.org/blog/2014/mar/bing-bests-baidu-censorship</a> (2014年03月19日 08:46)
  ---
