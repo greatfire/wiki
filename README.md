@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+We tech-savvy Turks are more than a match for Erdogan's Twitter ban | Binnaz Saktanber <a href="http://www.theguardian.com/commentisfree/2014/mar/21/tech-savvy-turks-erdogan-twitter-ban-censorship?CMP=twt_gu">www.theguardian.com/commentisfree/2014/mar/21/tech-savvy-turks-erdogan-twitter-ban-censorship</a> via @guardian (2014年03月23日 00:42)
+ ---
 Punching a Hole in the Great Firewall  The ‘Collateral Freedom’ Project  <a href="http://www.chinafile.com/Punching-Hole-Great-Firewall">www.chinafile.com/Punching-Hole-Great-Firewall</a> (2014年03月22日 13:39)
  ---
 RT @enginonder: #twitter blocked in #turkey tonight. folks are painting #google dns numbers onto the posters of the governing party. http:/… (2014年03月21日 17:19)
@@ -47,6 +49,4 @@ RT @YaxueCao: The Life and Death of Cao Shunli  (1961 -- 2014), a profile by me 
 RT @RememberJune4th: Fundraising for Hong Kong June 4th Memorial Museum 香港六四紀念館網上籌款 <a href="http://www.june4commemoration.org/1/post/2014/03/fundraising-for-hong-kong-june-4th-memorial-museum.html">www.june4commemoration.org/1/post/2014/03/fundraising-for-hong-kong-june-4th-memorial-museum.html</a> via @weebly (2014年03月20日 00:46)
  ---
 We are at #TEDxHagueAcademy tonight and in London at #indexawards2014 tomorrow night. Come by and say 'hi'! <a href="https://twitter.com/marc_brouwer/status/446307715342929921/photo/1">twitter.com/marc_brouwer/status/446307715342929921/photo/1</a> (2014年03月20日 00:10)
- ---
-New research claims that Microsoft’s Bing censors heavily within China, even more so than Baidu <a href="http://thenextweb.com/microsoft/2014/03/19/new-research-claims-microsofts-bing-censors-heavily-within-china-even-baidu/?utm_source=Twitter&awesm=tnw.to_i4gDH&utm_medium=share+button&utm_content=New+research+claims+that+Microsoft's+Bing+censors+heavily+within+China,+even+more+so+than+Baidu&utm_campaign=social+media">thenextweb.com/microsoft/2014/03/19/new-research-claims-microsofts-bing-censors-heavily-within-china-even-baidu/</a> via @thenextweb (2014年03月19日 14:03)
  ---
