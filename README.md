@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Punching a Hole in the Great Firewall  The ‘Collateral Freedom’ Project  <a href="http://www.chinafile.com/Punching-Hole-Great-Firewall">www.chinafile.com/Punching-Hole-Great-Firewall</a> (2014年03月22日 13:39)
+ ---
 RT @enginonder: #twitter blocked in #turkey tonight. folks are painting #google dns numbers onto the posters of the governing party. http:/… (2014年03月21日 17:19)
  ---
 RT @luluyilun: Breaking through China's Great Firewall <a href="http://www.businessweek.com/articles/2014-03-20/secretive-web-activists-give-chinese-a-way-around-censorship">www.businessweek.com/articles/2014-03-20/secretive-web-activists-give-chinese-a-way-around-censorship</a> via @BW @GreatFireChina (2014年03月21日 17:17)
@@ -47,6 +49,4 @@ RT @RememberJune4th: Fundraising for Hong Kong June 4th Memorial Museum 香港�
 We are at #TEDxHagueAcademy tonight and in London at #indexawards2014 tomorrow night. Come by and say 'hi'! <a href="https://twitter.com/marc_brouwer/status/446307715342929921/photo/1">twitter.com/marc_brouwer/status/446307715342929921/photo/1</a> (2014年03月20日 00:10)
  ---
 New research claims that Microsoft’s Bing censors heavily within China, even more so than Baidu <a href="http://thenextweb.com/microsoft/2014/03/19/new-research-claims-microsofts-bing-censors-heavily-within-china-even-baidu/?utm_source=Twitter&awesm=tnw.to_i4gDH&utm_medium=share+button&utm_content=New+research+claims+that+Microsoft's+Bing+censors+heavily+within+China,+even+more+so+than+Baidu&utm_campaign=social+media">thenextweb.com/microsoft/2014/03/19/new-research-claims-microsofts-bing-censors-heavily-within-china-even-baidu/</a> via @thenextweb (2014年03月19日 14:03)
- ---
-.@Microsoft censors more content than Chinese companies. <a href="https://en.greatfire.org/blog/2014/mar/bing-bests-baidu-censorship">en.greatfire.org/blog/2014/mar/bing-bests-baidu-censorship</a> (2014年03月19日 13:47)
  ---
