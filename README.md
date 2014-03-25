@@ -10,6 +10,12 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @comradewong: Ex-Bloomberg editor tells of quitting over self-censorship by top editors to appease China. NYT: <a href="HTTP://http:////www-nc.nytimes.com/2014/03/25/ex-bloomberg-editor-tells-why-he-left/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2014/03/25/ex-bloomberg-editor-tells-why-he-left/</a> (2014年03月25日 16:59)
+ ---
+RT @beenrich888: @niubi trouble is that it's almost impossible to separate them out, when your richest man has shareholder ties to xi and j… (2014年03月25日 16:58)
+ ---
+RT @niubi: Much better to allow venting at Malaysia than at beijing. Next up will be threatened boycotts (2014年03月25日 16:56)
+ ---
 Vitriol, conspiracy theories, govt criticism, calls for media to "move on". Deleted #MH370 weibo: <a href="https://freeweibo.com/weibo/%E9%A9%AC%E8%88%AA?censored">freeweibo.com/weibo/马航</a> (2014年03月25日 15:39)
  ---
 We tech-savvy Turks are more than a match for Erdogan's Twitter ban | Binnaz Saktanber <a href="http://www.theguardian.com/commentisfree/2014/mar/21/tech-savvy-turks-erdogan-twitter-ban-censorship?CMP=twt_gu">www.theguardian.com/commentisfree/2014/mar/21/tech-savvy-turks-erdogan-twitter-ban-censorship</a> via @guardian (2014年03月23日 00:42)
@@ -43,10 +49,4 @@ RT @fightfortheftr: Help send VPNs to group in #Turkey hosting crypto-parties fo
 What does it mean to live in a secure society? Follow fascinating live discussion here: <a href="http://tedxhagueacademy.org/">tedxhagueacademy.org/</a> #TEDxHagueAcademy (2014年03月20日 01:53)
  ---
 "It's expensive to maintain a Ministry of Truth": 3 Reasons Investors Should Avoid ‘China’s Twitter’: <a href="http://www.fool.com/investing/general/2014/03/17/weibo-files-for-us-ipo-3-reasons-investors-should.aspx#.UynV8v9a8v0.twitter">www.fool.com/investing/general/2014/03/17/weibo-files-for-us-ipo-3-reasons-investors-should.aspx</a> (2014年03月20日 01:48)
- ---
-RT @YaxueCao: The Life and Death of Cao Shunli  (1961 -- 2014), a profile by me <a href="http://chinachange.org/2014/03/18/the-life-and-death-of-cao-shunli-1961-2014/">chinachange.org/2014/03/18/the-life-and-death-of-cao-shunli-1961-2014/</a> (2014年03月20日 01:27)
- ---
-2nd highest # of bloggers in prison behind China: Vietnam Sends Blogger to Prison for 15 Mo. <a href="http://mashable.com/2014/03/19/vietnam-blogger-prison/#:eyJzIjoidCIsImkiOiJfOHh2Zjl6M25idjY4Z2xwOCJ9">mashable.com/2014/03/19/vietnam-blogger-prison/</a> via @lorenzoFB (2014年03月20日 01:24)
- ---
-RT @RememberJune4th: Fundraising for Hong Kong June 4th Memorial Museum 香港六四紀念館網上籌款 <a href="http://www.june4commemoration.org/1/post/2014/03/fundraising-for-hong-kong-june-4th-memorial-museum.html">www.june4commemoration.org/1/post/2014/03/fundraising-for-hong-kong-june-4th-memorial-museum.html</a> via @weebly (2014年03月20日 00:46)
  ---
