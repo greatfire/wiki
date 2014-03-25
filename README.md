@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Vitriol, conspiracy theories, govt criticism, calls for media to "move on". Deleted #MH370 weibo: <a href="https://freeweibo.com/weibo/%E9%A9%AC%E8%88%AA?censored">freeweibo.com/weibo/马航</a> (2014年03月25日 15:39)
+ ---
 We tech-savvy Turks are more than a match for Erdogan's Twitter ban | Binnaz Saktanber <a href="http://www.theguardian.com/commentisfree/2014/mar/21/tech-savvy-turks-erdogan-twitter-ban-censorship?CMP=twt_gu">www.theguardian.com/commentisfree/2014/mar/21/tech-savvy-turks-erdogan-twitter-ban-censorship</a> via @guardian (2014年03月23日 00:42)
  ---
 Punching a Hole in the Great Firewall  The ‘Collateral Freedom’ Project  <a href="http://www.chinafile.com/Punching-Hole-Great-Firewall">www.chinafile.com/Punching-Hole-Great-Firewall</a> (2014年03月22日 13:39)
@@ -47,6 +49,4 @@ RT @YaxueCao: The Life and Death of Cao Shunli  (1961 -- 2014), a profile by me 
 2nd highest # of bloggers in prison behind China: Vietnam Sends Blogger to Prison for 15 Mo. <a href="http://mashable.com/2014/03/19/vietnam-blogger-prison/#:eyJzIjoidCIsImkiOiJfOHh2Zjl6M25idjY4Z2xwOCJ9">mashable.com/2014/03/19/vietnam-blogger-prison/</a> via @lorenzoFB (2014年03月20日 01:24)
  ---
 RT @RememberJune4th: Fundraising for Hong Kong June 4th Memorial Museum 香港六四紀念館網上籌款 <a href="http://www.june4commemoration.org/1/post/2014/03/fundraising-for-hong-kong-june-4th-memorial-museum.html">www.june4commemoration.org/1/post/2014/03/fundraising-for-hong-kong-june-4th-memorial-museum.html</a> via @weebly (2014年03月20日 00:46)
- ---
-We are at #TEDxHagueAcademy tonight and in London at #indexawards2014 tomorrow night. Come by and say 'hi'! <a href="https://twitter.com/marc_brouwer/status/446307715342929921/photo/1">twitter.com/marc_brouwer/status/446307715342929921/photo/1</a> (2014年03月20日 00:10)
  ---
