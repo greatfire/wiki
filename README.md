@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+"We’re strongest when every1’s voices can be heard &amp; ppl can question &amp; criticize govt freely &amp; openly" <a href="http://www.whitehouse.gov/blog/2014/03/22/first-ladys-travel-journal-meeting-american-and-chinese-students-peking-university">www.whitehouse.gov/blog/2014/03/22/first-ladys-travel-journal-meeting-american-and-chinese-students-peking-university</a> via @FLOTUS (2014年03月25日 17:11)
+ ---
 RT @comradewong: Ex-Bloomberg editor tells of quitting over self-censorship by top editors to appease China. NYT: <a href="HTTP://http:////www-nc.nytimes.com/2014/03/25/ex-bloomberg-editor-tells-why-he-left/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2014/03/25/ex-bloomberg-editor-tells-why-he-left/</a> (2014年03月25日 16:59)
  ---
 RT @beenrich888: @niubi trouble is that it's almost impossible to separate them out, when your richest man has shareholder ties to xi and j… (2014年03月25日 16:58)
@@ -47,6 +49,4 @@ RT @PGSnuclear: "Charlie" joining us from China to talk about Internet freedom h
 RT @fightfortheftr: Help send VPNs to group in #Turkey hosting crypto-parties for activists fighting censorship <a href="https://unblockturkey.fightforthefuture.org/fight-censorship-and-spying-in-turkey">unblockturkey.fightforthefuture.org/fight-censorship-and-spying-in-turkey</a> | h… (2014年03月20日 02:11)
  ---
 What does it mean to live in a secure society? Follow fascinating live discussion here: <a href="http://tedxhagueacademy.org/">tedxhagueacademy.org/</a> #TEDxHagueAcademy (2014年03月20日 01:53)
- ---
-"It's expensive to maintain a Ministry of Truth": 3 Reasons Investors Should Avoid ‘China’s Twitter’: <a href="http://www.fool.com/investing/general/2014/03/17/weibo-files-for-us-ipo-3-reasons-investors-should.aspx#.UynV8v9a8v0.twitter">www.fool.com/investing/general/2014/03/17/weibo-files-for-us-ipo-3-reasons-investors-should.aspx</a> (2014年03月20日 01:48)
  ---
