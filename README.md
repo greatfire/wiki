@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @chinadailyshow: China has tweeted its congratulations to Turkish Prime Minister Recep Tayyip Erdoğan. No reply yet (2014年03月26日 07:57)
+ ---
 Agree: "Clearly, there needs to be a robust debate about how the media engages with China." <a href="http://jimromenesko.com/2014/03/24/ben-richardson-quits-bloomberg-news-over-handling-of-investigative-piece/?utm_content=buffer127b0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">jimromenesko.com/2014/03/24/ben-richardson-quits-bloomberg-news-over-handling-of-investigative-piece/</a> via @beenrich888  (2014年03月26日 03:03)
  ---
 Wow - striking and powerful image on press freedom - disappearing tanks near Tiananmen Square <a href="http://www.huffingtonpost.com/2014/03/24/free-aj-staff-youtube-christiane-amanpour_n_5020653.html?ncid=fcbklnkushpmg00000014&ir=World&utm_content=buffer9d52a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.huffingtonpost.com/2014/03/24/free-aj-staff-youtube-christiane-amanpour_n_5020653.html</a> #FreeAJStaff  (2014年03月25日 23:57)
@@ -47,6 +49,4 @@ déjà 猪 ？ RT @XHNews: 131 dead pigs found in Chinese river   <a href="http:
 RT @sinoceros: Behold the part-terrier, part-tank cartoon character that Bing China seems to be censoring. <a href="http://qz.com/189968/heres-why-bing-china-censors-this-cute-tank-dog/">qz.com/189968/heres-why-bing-china-censors-this-cute-tank-dog/</a> http://t.… (2014年03月20日 15:17)
  ---
 Here’s why Bing China censors this cute tank-dog <a href="http://qz.com/189968/heres-why-bing-china-censors-this-cute-tank-dog/">qz.com/189968/heres-why-bing-china-censors-this-cute-tank-dog/</a> (2014年03月20日 10:53)
- ---
-RT @PGSnuclear: "Charlie" joining us from China to talk about Internet freedom has a sense of humor. #TEDxHagueAcademy <a href="http://t.co/3E7EBRUD">t.co/3E7EBRUD</a>… (2014年03月20日 03:03)
  ---
