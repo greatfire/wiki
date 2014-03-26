@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @NMAtv: Self-censorship over a China investigative piece has prompted third Bloomberg News editor to quit <a href="http://www.youtube.com/watch?v=_C1YC0bZwCw&feature=youtu.be">www.youtube.com/watch</a> (2014年03月26日 18:56)
+ ---
 RT @luluyilun: Another disruption. China Internet users report access cuts to CCTV, NetEase today <a href="http://www.bloomberg.com/news/2014-03-26/china-internet-users-report-access-cuts-to-cctv-netease.html">www.bloomberg.com/news/2014-03-26/china-internet-users-report-access-cuts-to-cctv-netease.html</a> (2014年03月26日 16:34)
  ---
 Jailed June 4 activist: "There's nothing illegal about posting a photograph of a genuine incident"  <a href="http://www.scmp.com/news/china/article/1456366/activist-jailed-18-months-june-4-protest-bid">www.scmp.com/news/china/article/1456366/activist-jailed-18-months-june-4-protest-bid</a> (2014年03月26日 16:30)
@@ -47,6 +49,4 @@ RT @YaxueCao: Recently released Ma Xinli 马新立 displays "Citizens demand ass
 RT @Fi_Bradley: It's 1st day of spring, it's the #indexawards2014 tonight and here is a statement from our nominee #edwardsnowden http://t.… (2014年03月20日 17:58)
  ---
 déjà 猪 ？ RT @XHNews: 131 dead pigs found in Chinese river   <a href="http://www.youtube.com/watch?v=cP1yvuTLnxA&feature=youtube_gdata&utm_content=buffer63ec0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.youtube.com/watch</a> … (2014年03月20日 17:01)
- ---
-@Azuike loved the questions you asked - hope that the answers made sense. You did a great job pulling out info all evening. (2014年03月20日 16:42)
  ---
