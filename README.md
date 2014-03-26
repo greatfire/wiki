@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @BeijingPalmer: Things you can't say in Chinese media about Russia in Crimea: "annexation," "invasion," "Russian troops." (2014年03月26日 23:57)
+ ---
 RT @NMAtv: Self-censorship over a China investigative piece has prompted third Bloomberg News editor to quit <a href="http://www.youtube.com/watch?v=_C1YC0bZwCw&feature=youtu.be">www.youtube.com/watch</a> (2014年03月26日 18:56)
  ---
 RT @luluyilun: Another disruption. China Internet users report access cuts to CCTV, NetEase today <a href="http://www.bloomberg.com/news/2014-03-26/china-internet-users-report-access-cuts-to-cctv-netease.html">www.bloomberg.com/news/2014-03-26/china-internet-users-report-access-cuts-to-cctv-netease.html</a> (2014年03月26日 16:34)
@@ -47,6 +49,4 @@ Shu Choudhary brings local lang. news &amp; info to 100m in India via @CGNet_Swa
 RT @YaxueCao: Recently released Ma Xinli 马新立 displays "Citizens demand asset disclosure by officials" in BJ Yuyuantan Park <a href="http://t.co/OAVh">t.co/OAVh</a>… (2014年03月20日 18:26)
  ---
 RT @Fi_Bradley: It's 1st day of spring, it's the #indexawards2014 tonight and here is a statement from our nominee #edwardsnowden http://t.… (2014年03月20日 17:58)
- ---
-déjà 猪 ？ RT @XHNews: 131 dead pigs found in Chinese river   <a href="http://www.youtube.com/watch?v=cP1yvuTLnxA&feature=youtube_gdata&utm_content=buffer63ec0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.youtube.com/watch</a> … (2014年03月20日 17:01)
  ---
