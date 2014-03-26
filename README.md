@@ -10,6 +10,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @luluyilun: Another disruption. China Internet users report access cuts to CCTV, NetEase today <a href="http://www.bloomberg.com/news/2014-03-26/china-internet-users-report-access-cuts-to-cctv-netease.html">www.bloomberg.com/news/2014-03-26/china-internet-users-report-access-cuts-to-cctv-netease.html</a> (2014年03月26日 16:34)
+ ---
+Jailed June 4 activist: "There's nothing illegal about posting a photograph of a genuine incident"  <a href="http://www.scmp.com/news/china/article/1456366/activist-jailed-18-months-june-4-protest-bid">www.scmp.com/news/china/article/1456366/activist-jailed-18-months-june-4-protest-bid</a> (2014年03月26日 16:30)
+ ---
 RT @chinadailyshow: China has tweeted its congratulations to Turkish Prime Minister Recep Tayyip Erdoğan. No reply yet (2014年03月26日 07:57)
  ---
 Agree: "Clearly, there needs to be a robust debate about how the media engages with China." <a href="http://jimromenesko.com/2014/03/24/ben-richardson-quits-bloomberg-news-over-handling-of-investigative-piece/?utm_content=buffer127b0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">jimromenesko.com/2014/03/24/ben-richardson-quits-bloomberg-news-over-handling-of-investigative-piece/</a> via @beenrich888  (2014年03月26日 03:03)
@@ -45,8 +49,4 @@ RT @Fi_Bradley: It's 1st day of spring, it's the #indexawards2014 tonight and he
 déjà 猪 ？ RT @XHNews: 131 dead pigs found in Chinese river   <a href="http://www.youtube.com/watch?v=cP1yvuTLnxA&feature=youtube_gdata&utm_content=buffer63ec0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.youtube.com/watch</a> … (2014年03月20日 17:01)
  ---
 @Azuike loved the questions you asked - hope that the answers made sense. You did a great job pulling out info all evening. (2014年03月20日 16:42)
- ---
-RT @sinoceros: Behold the part-terrier, part-tank cartoon character that Bing China seems to be censoring. <a href="http://qz.com/189968/heres-why-bing-china-censors-this-cute-tank-dog/">qz.com/189968/heres-why-bing-china-censors-this-cute-tank-dog/</a> http://t.… (2014年03月20日 15:17)
- ---
-Here’s why Bing China censors this cute tank-dog <a href="http://qz.com/189968/heres-why-bing-china-censors-this-cute-tank-dog/">qz.com/189968/heres-why-bing-china-censors-this-cute-tank-dog/</a> (2014年03月20日 10:53)
  ---
