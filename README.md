@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+@XHNews should be "on its microblogging website" or "via its microblogging website", but still terrible news (2014年03月27日 17:13)
+ ---
 RT @BeijingPalmer: Things you can't say in Chinese media about Russia in Crimea: "annexation," "invasion," "Russian troops." (2014年03月26日 23:57)
  ---
 RT @NMAtv: Self-censorship over a China investigative piece has prompted third Bloomberg News editor to quit <a href="http://www.youtube.com/watch?v=_C1YC0bZwCw&feature=youtu.be">www.youtube.com/watch</a> (2014年03月26日 18:56)
@@ -47,6 +49,4 @@ RT @luluyilun: Breaking through China's Great Firewall <a href="http://www.busin
 Shu Choudhary brings local lang. news &amp; info to 100m in India via @CGNet_Swara - a well deserved #indexawards2014  <a href="http://www.indexoncensorship.org/2014/03/index-freedom-expression-awards-digital-activism-nominee-shubhranshu-choudhary/">www.indexoncensorship.org/2014/03/index-freedom-expression-awards-digital-activism-nominee-shubhranshu-choudhary/</a> (2014年03月21日 14:46)
  ---
 RT @YaxueCao: Recently released Ma Xinli 马新立 displays "Citizens demand asset disclosure by officials" in BJ Yuyuantan Park <a href="http://t.co/OAVh">t.co/OAVh</a>… (2014年03月20日 18:26)
- ---
-RT @Fi_Bradley: It's 1st day of spring, it's the #indexawards2014 tonight and here is a statement from our nominee #edwardsnowden http://t.… (2014年03月20日 17:58)
  ---
