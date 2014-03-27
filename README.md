@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Half of all Weibo posts originating from Tibet are being deleted. <a href="http://www.indexoncensorship.org/2014/03/tibet-china-tourist/?utm_content=bufferec602&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.indexoncensorship.org/2014/03/tibet-china-tourist/</a> (2014年03月27日 23:57)
+ ---
 RT @jiapin1989: 下列图片为今天的四川雅安监狱门口。2014年3月27日，曾因调查汶川地震而被判刑五年的谭-作人出狱，全国多名民主人士前往迎接，当地警方高度紧张，派出大批警力现场防控！ <a href="https://freeweibo.com/weibo/3692722936266842">freeweibo.com/weibo/3692722936266842</a> (2014年03月27日 21:06)
  ---
 RT @64tianwang: Sichuan quake activist Tan Zuoren defiant after release from prison <a href="http://www.64tianwang.com/bencandy.php?fid=13&aid=16729">www.64tianwang.com/bencandy.php</a> (2014年03月27日 21:03)
@@ -47,6 +49,4 @@ RT @niubi: Much better to allow venting at Malaysia than at beijing. Next up wil
 Vitriol, conspiracy theories, govt criticism, calls for media to "move on". Deleted #MH370 weibo: <a href="https://freeweibo.com/weibo/%E9%A9%AC%E8%88%AA?censored">freeweibo.com/weibo/马航</a> (2014年03月25日 15:39)
  ---
 We tech-savvy Turks are more than a match for Erdogan's Twitter ban | Binnaz Saktanber <a href="http://www.theguardian.com/commentisfree/2014/mar/21/tech-savvy-turks-erdogan-twitter-ban-censorship?CMP=twt_gu">www.theguardian.com/commentisfree/2014/mar/21/tech-savvy-turks-erdogan-twitter-ban-censorship</a> via @guardian (2014年03月23日 00:42)
- ---
-Punching a Hole in the Great Firewall  The ‘Collateral Freedom’ Project  <a href="http://www.chinafile.com/Punching-Hole-Great-Firewall">www.chinafile.com/Punching-Hole-Great-Firewall</a> (2014年03月22日 13:39)
  ---
