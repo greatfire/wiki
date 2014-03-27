@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @emilydparker: .@davidfolkenflik and I discuss Bloomberg and Western self-censorship in China on All Things Considered @npratc http://t.… (2014年03月27日 17:48)
+ ---
 Paris closes 13 metro stations for Xi Jinping visit. Hollande rides around on back of scooter buying brekkie. <a href="http://www.thelocal.fr/20140327/paris-13-metro-stations-shut-due-to-visit-of-chinese-leader">www.thelocal.fr/20140327/paris-13-metro-stations-shut-due-to-visit-of-chinese-leader</a> (2014年03月27日 17:38)
  ---
 @XHNews should be "on its microblogging website" or "via its microblogging website", but still terrible news (2014年03月27日 17:13)
@@ -47,6 +49,4 @@ RT @enginonder: #twitter blocked in #turkey tonight. folks are painting #google 
 RT @luluyilun: Breaking through China's Great Firewall <a href="http://www.businessweek.com/articles/2014-03-20/secretive-web-activists-give-chinese-a-way-around-censorship">www.businessweek.com/articles/2014-03-20/secretive-web-activists-give-chinese-a-way-around-censorship</a> via @BW @GreatFireChina (2014年03月21日 17:17)
  ---
 "Democratic, equitable communication": speech from #indexawards2014 Digital Activism award winner Shu Choudhary <a href="http://www.indexoncensorship.org/2014/03/the-google-digital-activism-award-winner-shubranshu-choudhary/">www.indexoncensorship.org/2014/03/the-google-digital-activism-award-winner-shubranshu-choudhary/</a> (2014年03月21日 17:16)
- ---
-Shu Choudhary brings local lang. news &amp; info to 100m in India via @CGNet_Swara - a well deserved #indexawards2014  <a href="http://www.indexoncensorship.org/2014/03/index-freedom-expression-awards-digital-activism-nominee-shubhranshu-choudhary/">www.indexoncensorship.org/2014/03/index-freedom-expression-awards-digital-activism-nominee-shubhranshu-choudhary/</a> (2014年03月21日 14:46)
  ---
