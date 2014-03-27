@@ -10,6 +10,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @jiapin1989: 下列图片为今天的四川雅安监狱门口。2014年3月27日，曾因调查汶川地震而被判刑五年的谭-作人出狱，全国多名民主人士前往迎接，当地警方高度紧张，派出大批警力现场防控！ <a href="https://freeweibo.com/weibo/3692722936266842">freeweibo.com/weibo/3692722936266842</a> (2014年03月27日 21:06)
+ ---
+RT @64tianwang: Sichuan quake activist Tan Zuoren defiant after release from prison <a href="http://www.64tianwang.com/bencandy.php?fid=13&aid=16729">www.64tianwang.com/bencandy.php</a> (2014年03月27日 21:03)
+ ---
 Any reports of folks being arrested for spreading false rumours on WeChat about banks running out of money? (2014年03月27日 17:52)
  ---
 RT @emilydparker: .@davidfolkenflik and I discuss Bloomberg and Western self-censorship in China on All Things Considered @npratc http://t.… (2014年03月27日 17:48)
@@ -45,8 +49,4 @@ Vitriol, conspiracy theories, govt criticism, calls for media to "move on". Dele
 We tech-savvy Turks are more than a match for Erdogan's Twitter ban | Binnaz Saktanber <a href="http://www.theguardian.com/commentisfree/2014/mar/21/tech-savvy-turks-erdogan-twitter-ban-censorship?CMP=twt_gu">www.theguardian.com/commentisfree/2014/mar/21/tech-savvy-turks-erdogan-twitter-ban-censorship</a> via @guardian (2014年03月23日 00:42)
  ---
 Punching a Hole in the Great Firewall  The ‘Collateral Freedom’ Project  <a href="http://www.chinafile.com/Punching-Hole-Great-Firewall">www.chinafile.com/Punching-Hole-Great-Firewall</a> (2014年03月22日 13:39)
- ---
-RT @enginonder: #twitter blocked in #turkey tonight. folks are painting #google dns numbers onto the posters of the governing party. http:/… (2014年03月21日 17:19)
- ---
-RT @luluyilun: Breaking through China's Great Firewall <a href="http://www.businessweek.com/articles/2014-03-20/secretive-web-activists-give-chinese-a-way-around-censorship">www.businessweek.com/articles/2014-03-20/secretive-web-activists-give-chinese-a-way-around-censorship</a> via @BW @GreatFireChina (2014年03月21日 17:17)
  ---
