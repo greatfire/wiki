@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Any reports of folks being arrested for spreading false rumours on WeChat about banks running out of money? (2014年03月27日 17:52)
+ ---
 RT @emilydparker: .@davidfolkenflik and I discuss Bloomberg and Western self-censorship in China on All Things Considered @npratc http://t.… (2014年03月27日 17:48)
  ---
 Paris closes 13 metro stations for Xi Jinping visit. Hollande rides around on back of scooter buying brekkie. <a href="http://www.thelocal.fr/20140327/paris-13-metro-stations-shut-due-to-visit-of-chinese-leader">www.thelocal.fr/20140327/paris-13-metro-stations-shut-due-to-visit-of-chinese-leader</a> (2014年03月27日 17:38)
@@ -47,6 +49,4 @@ Punching a Hole in the Great Firewall  The ‘Collateral Freedom’ Project  <a 
 RT @enginonder: #twitter blocked in #turkey tonight. folks are painting #google dns numbers onto the posters of the governing party. http:/… (2014年03月21日 17:19)
  ---
 RT @luluyilun: Breaking through China's Great Firewall <a href="http://www.businessweek.com/articles/2014-03-20/secretive-web-activists-give-chinese-a-way-around-censorship">www.businessweek.com/articles/2014-03-20/secretive-web-activists-give-chinese-a-way-around-censorship</a> via @BW @GreatFireChina (2014年03月21日 17:17)
- ---
-"Democratic, equitable communication": speech from #indexawards2014 Digital Activism award winner Shu Choudhary <a href="http://www.indexoncensorship.org/2014/03/the-google-digital-activism-award-winner-shubranshu-choudhary/">www.indexoncensorship.org/2014/03/the-google-digital-activism-award-winner-shubranshu-choudhary/</a> (2014年03月21日 17:16)
  ---
