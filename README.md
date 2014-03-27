@@ -42,7 +42,7 @@ RT @niubi: Much better to allow venting at Malaysia than at beijing. Next up wil
  ---
 Vitriol, conspiracy theories, govt criticism, calls for media to "move on". Deleted #MH370 weibo: <a href="https://freeweibo.com/weibo/%E9%A9%AC%E8%88%AA?censored">freeweibo.com/weibo/马航</a> (2014年03月25日 15:39)
  ---
-We tech-savvy Turks are more than a match for Erdogan's Twitter ban | Binnaz Saktanber <a href="http://www.theguardian.com/commentisfree/2014/mar/21/tech-savvy-turks-erdogan-twitter-ban-censorship?CMP=twt_gu">www.theguardian.com/commentisfree/2014/mar/21/tech-savvy-turks-erdogan-twitter-ban-censorship</a> via @guardian (2014年03月23日 00:42)
+We tech-savvy Turks are more than a match for Erdogan's Twitter ban | Binnaz Saktanber <a href="http://gu.com/p/3nmem/tw">gu.com/p/3nmem/tw</a> via @guardian (2014年03月23日 00:42)
  ---
 Punching a Hole in the Great Firewall  The ‘Collateral Freedom’ Project  <a href="http://www.chinafile.com/Punching-Hole-Great-Firewall">www.chinafile.com/Punching-Hole-Great-Firewall</a> (2014年03月22日 13:39)
  ---
