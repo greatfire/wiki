@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @Chassit: Sina #Weibo just erased the term "Sina" from its logo. Formally named "Weibo" from today on. (2014年03月28日 15:56)
+ ---
 @jilliancyork @Michael_Kan u shld mention Bing censors more than Baidu within China, another ex. of 'mericans exercising right 2 free speech (2014年03月28日 15:49)
  ---
 US court says Baidu censorship protected under free speech. Fail to note no alternatives in China <a href="http://www.itworld.com/legal/411926/us-judge-rules-baidus-censorship-protected-free-speech">www.itworld.com/legal/411926/us-judge-rules-baidus-censorship-protected-free-speech</a> via @jilliancyork (2014年03月28日 15:42)
@@ -47,6 +49,4 @@ Agree: "Clearly, there needs to be a robust debate about how the media engages w
 Wow - striking and powerful image on press freedom - disappearing tanks near Tiananmen Square <a href="http://www.huffingtonpost.com/2014/03/24/free-aj-staff-youtube-christiane-amanpour_n_5020653.html?ncid=fcbklnkushpmg00000014&ir=World&utm_content=buffer9d52a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.huffingtonpost.com/2014/03/24/free-aj-staff-youtube-christiane-amanpour_n_5020653.html</a> #FreeAJStaff  (2014年03月25日 23:57)
  ---
 "We’re strongest when every1’s voices can be heard &amp; ppl can question &amp; criticize govt freely &amp; openly" <a href="http://www.whitehouse.gov/blog/2014/03/22/first-ladys-travel-journal-meeting-american-and-chinese-students-peking-university">www.whitehouse.gov/blog/2014/03/22/first-ladys-travel-journal-meeting-american-and-chinese-students-peking-university</a> via @FLOTUS (2014年03月25日 17:11)
- ---
-RT @comradewong: Ex-Bloomberg editor tells of quitting over self-censorship by top editors to appease China. NYT: <a href="HTTP://http:////www-nc.nytimes.com/2014/03/25/ex-bloomberg-editor-tells-why-he-left/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2014/03/25/ex-bloomberg-editor-tells-why-he-left/</a> (2014年03月25日 16:59)
  ---
