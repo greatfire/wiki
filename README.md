@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+This Revolution is Live <a href="http://www.tealeafnation.com/2014/03/this-revolution-is-live/">www.tealeafnation.com/2014/03/this-revolution-is-live/</a> (2014年03月29日 03:03)
+ ---
 US judge rules Baidu's censorship is protected as free speech <a href="http://www.itworld.com/legal/411926/us-judge-rules-baidus-censorship-protected-free-speech">www.itworld.com/legal/411926/us-judge-rules-baidus-censorship-protected-free-speech</a> (2014年03月29日 01:45)
  ---
 五毛 active on Wikipedia in Taiwan concerning the Sunflower Student Movement <a href="http://fareasternpotato.blogspot.tw/2014/03/pro-china-opinion-monitors-at-work-in.html?utm_content=buffer2b766&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">fareasternpotato.blogspot.tw/2014/03/pro-china-opinion-monitors-at-work-in.html</a> (2014年03月28日 23:57)
@@ -47,6 +49,4 @@ RT @BeijingPalmer: Things you can't say in Chinese media about Russia in Crimea:
 RT @NMAtv: Self-censorship over a China investigative piece has prompted third Bloomberg News editor to quit <a href="http://www.youtube.com/watch?v=_C1YC0bZwCw&feature=youtu.be">www.youtube.com/watch</a> (2014年03月26日 18:56)
  ---
 RT @luluyilun: Another disruption. China Internet users report access cuts to CCTV, NetEase today <a href="http://www.bloomberg.com/news/2014-03-26/china-internet-users-report-access-cuts-to-cctv-netease.html">www.bloomberg.com/news/2014-03-26/china-internet-users-report-access-cuts-to-cctv-netease.html</a> (2014年03月26日 16:34)
- ---
-Jailed June 4 activist: "There's nothing illegal about posting a photograph of a genuine incident"  <a href="http://www.scmp.com/news/china/article/1456366/activist-jailed-18-months-june-4-protest-bid">www.scmp.com/news/china/article/1456366/activist-jailed-18-months-june-4-protest-bid</a> (2014年03月26日 16:30)
  ---
