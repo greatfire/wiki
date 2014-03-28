@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+五毛 active on Wikipedia in Taiwan concerning the Sunflower Student Movement <a href="http://fareasternpotato.blogspot.tw/2014/03/pro-china-opinion-monitors-at-work-in.html?utm_content=buffer2b766&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">fareasternpotato.blogspot.tw/2014/03/pro-china-opinion-monitors-at-work-in.html</a> (2014年03月28日 23:57)
+ ---
 西方制裁应让俄中两国走得更近。 美国和欧盟因克里米亚入俄而对俄罗斯采取的第三波制裁包括一些西方国家停止同俄罗斯进行军事合作。目前俄罗斯所处的境况有点儿类似于中国在天安门事件后所遭遇的境况: <a href="http://www.weibo.com/2503806417/ACATYseEd">www.weibo.com/2503806417/ACATYseEd</a> (2014年03月28日 17:06)
  ---
 Russia compares its annexation of Crimea with June 4 Tiananmen Incident - on Weibo, uncensored: <a href="http://www.hugchina.com/china/stories/chinese-society/russia-compares-its-annexation-of-crimea-with-tiananmen-incident-to-woo-china-2014-03-26.html#.UzU6E8W8whI.twitter">www.hugchina.com/china/stories/chinese-society/russia-compares-its-annexation-of-crimea-with-tiananmen-incident-to-woo-china-2014-03-26.html</a> via @anthonytao (2014年03月28日 17:01)
@@ -47,6 +49,4 @@ RT @luluyilun: Another disruption. China Internet users report access cuts to CC
 Jailed June 4 activist: "There's nothing illegal about posting a photograph of a genuine incident"  <a href="http://www.scmp.com/news/china/article/1456366/activist-jailed-18-months-june-4-protest-bid">www.scmp.com/news/china/article/1456366/activist-jailed-18-months-june-4-protest-bid</a> (2014年03月26日 16:30)
  ---
 RT @chinadailyshow: China has tweeted its congratulations to Turkish Prime Minister Recep Tayyip Erdoğan. No reply yet (2014年03月26日 07:57)
- ---
-Agree: "Clearly, there needs to be a robust debate about how the media engages with China." <a href="http://jimromenesko.com/2014/03/24/ben-richardson-quits-bloomberg-news-over-handling-of-investigative-piece/?utm_content=buffer127b0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">jimromenesko.com/2014/03/24/ben-richardson-quits-bloomberg-news-over-handling-of-investigative-piece/</a> via @beenrich888  (2014年03月26日 03:03)
  ---
