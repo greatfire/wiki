@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+For as little as RMB 6,800 (USD 1,108) you, too, can be an internet censor in China! <a href="http://www.indexoncensorship.org/2014/03/china-opinion-monitors/?utm_content=bufferd407d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.indexoncensorship.org/2014/03/china-opinion-monitors/</a> via @wenyunchao (2014年03月28日 07:57)
+ ---
 What a difference between China and India. Foreign media firms scrambling to stake their claim in India. <a href="http://www.livemint.com/Consumer/bG3BDWn5LTGsRAAOU13WUN/Online-news-Foreign-media-firms-make-beeline-for-India.html">www.livemint.com/Consumer/bG3BDWn5LTGsRAAOU13WUN/Online-news-Foreign-media-firms-make-beeline-for-India.html</a> (2014年03月28日 03:03)
  ---
 Half of all Weibo posts originating from Tibet are being deleted. <a href="http://www.indexoncensorship.org/2014/03/tibet-china-tourist/?utm_content=bufferec602&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.indexoncensorship.org/2014/03/tibet-china-tourist/</a> (2014年03月27日 23:57)
@@ -47,6 +49,4 @@ RT @comradewong: Ex-Bloomberg editor tells of quitting over self-censorship by t
 RT @beenrich888: @niubi trouble is that it's almost impossible to separate them out, when your richest man has shareholder ties to xi and j… (2014年03月25日 16:58)
  ---
 RT @niubi: Much better to allow venting at Malaysia than at beijing. Next up will be threatened boycotts (2014年03月25日 16:56)
- ---
-Vitriol, conspiracy theories, govt criticism, calls for media to "move on". Deleted #MH370 weibo: <a href="https://freeweibo.com/weibo/%E9%A9%AC%E8%88%AA?censored">freeweibo.com/weibo/马航</a> (2014年03月25日 15:39)
  ---
