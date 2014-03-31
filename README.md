@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @rmack: Intro video from @RonDeibert opening remarks at @cyberdialogue is here: <a href="http://vimeo.com/77650794">vimeo.com/77650794</a> h/t @munkschool #CD14 #netfreedom (2014年03月31日 22:18)
+ ---
 RT @NickKristof: I'm dating myself, but I remember when corrupt Chinese officials stole only millions, not billions: <a href="http://www.reuters.com/article/2014/03/30/us-china-corruption-zhou-idUSBREA2T02S20140330">www.reuters.com/article/2014/03/30/us-china-corruption-zhou-idUSBREA2T02S20140330</a> (2014年03月31日 19:38)
  ---
 When China CCP was Maoist, @readersdigest denounced it. Now guarantees profits so RD censors on its behalf.   <a href="http://www.theguardian.com/commentisfree/2014/mar/29/readers-digest-chinese-stooge-censorship?CMP=twt_gu">www.theguardian.com/commentisfree/2014/mar/29/readers-digest-chinese-stooge-censorship</a> (2014年03月31日 17:44)
@@ -47,6 +49,4 @@ RT @64tianwang: Sichuan quake activist Tan Zuoren defiant after release from pri
 Any reports of folks being arrested for spreading false rumours on WeChat about banks running out of money? (2014年03月27日 17:52)
  ---
 RT @emilydparker: .@davidfolkenflik and I discuss Bloomberg and Western self-censorship in China on All Things Considered @npratc http://t.… (2014年03月27日 17:48)
- ---
-Paris closes 13 metro stations for Xi Jinping visit. Hollande rides around on back of scooter buying brekkie. <a href="http://www.thelocal.fr/20140327/paris-13-metro-stations-shut-due-to-visit-of-chinese-leader">www.thelocal.fr/20140327/paris-13-metro-stations-shut-due-to-visit-of-chinese-leader</a> (2014年03月27日 17:38)
  ---
