@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+When China CCP was Maoist, @readersdigest denounced it. Now guarantees profits so RD censors on its behalf.   <a href="http://www.theguardian.com/commentisfree/2014/mar/29/readers-digest-chinese-stooge-censorship?CMP=twt_gu">www.theguardian.com/commentisfree/2014/mar/29/readers-digest-chinese-stooge-censorship</a> (2014年03月31日 17:44)
+ ---
 RT @PaulCarsten: Journalists, media under attack from hackers - "A lot of news organisations are just waking up to this." <a href="http://t.co/NsF9r">t.co/NsF9r</a>… (2014年03月29日 23:57)
  ---
 Leadership vulnerable in society lacking free press to expose official malfeasance: <a href="http://www.economist.com/blogs/analects/2014/03/rumour-crackdown?utm_content=bufferfbde3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.economist.com/blogs/analects/2014/03/rumour-crackdown</a> via @gadyepstein (2014年03月29日 07:57)
@@ -47,6 +49,4 @@ RT @emilydparker: .@davidfolkenflik and I discuss Bloomberg and Western self-cen
 Paris closes 13 metro stations for Xi Jinping visit. Hollande rides around on back of scooter buying brekkie. <a href="http://www.thelocal.fr/20140327/paris-13-metro-stations-shut-due-to-visit-of-chinese-leader">www.thelocal.fr/20140327/paris-13-metro-stations-shut-due-to-visit-of-chinese-leader</a> (2014年03月27日 17:38)
  ---
 @XHNews should be "on its microblogging website" or "via its microblogging website", but still terrible news (2014年03月27日 17:13)
- ---
-RT @BeijingPalmer: Things you can't say in Chinese media about Russia in Crimea: "annexation," "invasion," "Russian troops." (2014年03月26日 23:57)
  ---
