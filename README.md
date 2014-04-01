@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Freedom of speech in China influenced by five factors: power, media, market, technology and citizens <a href="http://cmp.hku.hk/2014/04/01/35152/?utm_source=twitterfeed&utm_medium=twitter">cmp.hku.hk/2014/04/01/35152/</a> (2014年04月01日 15:50)
+ ---
 This @perrylink June 4 story a reminder of “psychic disasters deep within us” <a href="http://www.nybooks.com/blogs/nyrblog/2014/mar/31/tiananmen-25-years-money-ideas/">www.nybooks.com/blogs/nyrblog/2014/mar/31/tiananmen-25-years-money-ideas/</a> quoting @aiww (2014年04月01日 15:29)
  ---
 RT @cctvnews: Xinjiang Uygur Autonomous Region in China bans circulation of audio &amp; video files related to terrorism. <a href="http://www.youtube.com/watch?v=rX0K8rr3RWw&list=PLt-M8o1W_GdSherIG5KY36Wp4Vj0qiqG5">www.youtube.com/watch</a> (2014年04月01日 14:35)
@@ -47,6 +49,4 @@ What a difference between China and India. Foreign media firms scrambling to sta
 Half of all Weibo posts originating from Tibet are being deleted. <a href="http://www.indexoncensorship.org/2014/03/tibet-china-tourist/?utm_content=bufferec602&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.indexoncensorship.org/2014/03/tibet-china-tourist/</a> (2014年03月27日 23:57)
  ---
 RT @jiapin1989: 下列图片为今天的四川雅安监狱门口。2014年3月27日，曾因调查汶川地震而被判刑五年的谭-作人出狱，全国多名民主人士前往迎接，当地警方高度紧张，派出大批警力现场防控！ <a href="https://freeweibo.com/weibo/3692722936266842">freeweibo.com/weibo/3692722936266842</a> (2014年03月27日 21:06)
- ---
-RT @64tianwang: Sichuan quake activist Tan Zuoren defiant after release from prison <a href="http://www.64tianwang.com/bencandy.php?fid=13&aid=16729">www.64tianwang.com/bencandy.php</a> (2014年03月27日 21:03)
  ---
