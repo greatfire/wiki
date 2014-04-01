@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @cctvnews: Xinjiang Uygur Autonomous Region in China bans circulation of audio &amp; video files related to terrorism. <a href="http://www.youtube.com/watch?v=rX0K8rr3RWw&list=PLt-M8o1W_GdSherIG5KY36Wp4Vj0qiqG5">www.youtube.com/watch</a> (2014年04月01日 14:35)
+ ---
 RT @rmack: Intro video from @RonDeibert opening remarks at @cyberdialogue is here: <a href="http://vimeo.com/77650794">vimeo.com/77650794</a> h/t @munkschool #CD14 #netfreedom (2014年03月31日 22:18)
  ---
 RT @NickKristof: I'm dating myself, but I remember when corrupt Chinese officials stole only millions, not billions: <a href="http://www.reuters.com/article/2014/03/30/us-china-corruption-zhou-idUSBREA2T02S20140330">www.reuters.com/article/2014/03/30/us-china-corruption-zhou-idUSBREA2T02S20140330</a> (2014年03月31日 19:38)
@@ -47,6 +49,4 @@ RT @jiapin1989: 下列图片为今天的四川雅安监狱门口。2014年3月27
 RT @64tianwang: Sichuan quake activist Tan Zuoren defiant after release from prison <a href="http://www.64tianwang.com/bencandy.php?fid=13&aid=16729">www.64tianwang.com/bencandy.php</a> (2014年03月27日 21:03)
  ---
 Any reports of folks being arrested for spreading false rumours on WeChat about banks running out of money? (2014年03月27日 17:52)
- ---
-RT @emilydparker: .@davidfolkenflik and I discuss Bloomberg and Western self-censorship in China on All Things Considered @npratc http://t.… (2014年03月27日 17:48)
  ---
