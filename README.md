@@ -10,6 +10,12 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @TeaWithCarl: FireChat (new chat technology from Open Garden) ---
+在反服贸运动，台湾和中国的学生通信了。
+Internet NOT required. 不需要互联网的心高技术。
+
+<a href="https://twitter.com/jagatsastry">twitter.com/jagatsastry</a>… (2014年04月02日 17:00)
+ ---
 RT @AsiaNewsDemetri: #Video footage of Chinese chemical plant demonstrators protesting and later being detained <a href="http://video.ft.com/3420731900001/Chemical-plant-protests-move-to-Guangzhou/World">video.ft.com/3420731900001/Chemical-plant-protests-move-to-Guangzhou/World</a> (not… (2014年04月02日 16:44)
  ---
 RT @wenyunchao: Gmail生日，给大家讲件我的糗事。五年前在瑞士，跟一起参加培训的人讲Gmail的安全注意事项，讲到要检查邮箱的转发设置时，赫然发现自己的邮箱已经被人入侵并设置了转发。 (2014年04月02日 16:37)
@@ -47,6 +53,4 @@ US judge rules Baidu's censorship is protected as free speech <a href="http://ww
 Russia compares its annexation of Crimea with June 4 Tiananmen Incident - on Weibo, uncensored: <a href="http://www.hugchina.com/china/stories/chinese-society/russia-compares-its-annexation-of-crimea-with-tiananmen-incident-to-woo-china-2014-03-26.html#.UzU6E8W8whI.twitter">www.hugchina.com/china/stories/chinese-society/russia-compares-its-annexation-of-crimea-with-tiananmen-incident-to-woo-china-2014-03-26.html</a> via @anthonytao (2014年03月28日 17:01)
  ---
 RT @Chassit: Sina #Weibo just erased the term "Sina" from its logo. Formally named "Weibo" from today on. (2014年03月28日 15:56)
- ---
-@jilliancyork @Michael_Kan u shld mention Bing censors more than Baidu within China, another ex. of 'mericans exercising right 2 free speech (2014年03月28日 15:49)
  ---
