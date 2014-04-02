@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @paopaonet: 习近平在欧洲“自墙” <a href="https://s3.amazonaws.com/pao-pao./index.html?u=article/64">s3.amazonaws.com/pao-pao./index.html</a> <a href="https://twitter.com/paopaonet/status/451355880462639104/photo/1">twitter.com/paopaonet/status/451355880462639104/photo/1</a> (2014年04月02日 23:46)
+ ---
 RT @Yangguobin: 2 related developments in Chinese information politics in 2 separate stories: @nytimes <a href="HTTP://http:////www-nc.nytimes.com/2014/04/02/chinese-government-expands-freedom-of-information/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2014/04/02/chinese-government-expands-freedom-of-information/</a>
 &amp; @qz: http:/… (2014年04月02日 23:08)
  ---
@@ -52,6 +54,4 @@ Leadership vulnerable in society lacking free press to expose official malfeasan
 This Revolution is Live <a href="http://www.tealeafnation.com/2014/03/this-revolution-is-live/">www.tealeafnation.com/2014/03/this-revolution-is-live/</a> (2014年03月29日 03:03)
  ---
 US judge rules Baidu's censorship is protected as free speech <a href="http://www.itworld.com/legal/411926/us-judge-rules-baidus-censorship-protected-free-speech">www.itworld.com/legal/411926/us-judge-rules-baidus-censorship-protected-free-speech</a> (2014年03月29日 01:45)
- ---
-五毛 active on Wikipedia in Taiwan concerning the Sunflower Student Movement <a href="http://fareasternpotato.blogspot.tw/2014/03/pro-china-opinion-monitors-at-work-in.html?utm_content=buffer2b766&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">fareasternpotato.blogspot.tw/2014/03/pro-china-opinion-monitors-at-work-in.html</a> (2014年03月28日 23:57)
  ---
