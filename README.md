@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @feliciasonmez: Striking photo: Chinese nationals in Belgium try to cover up an ad for the show of the Belgian Falun Gong Association ht… (2014年04月02日 16:20)
+ ---
 Baidu And Tencent Begin Censoring Searches for "Maoming PX" <a href="http://blog.feichangdao.com/2014/04/baidu-and-tencent-begin-censoring.html">blog.feichangdao.com/2014/04/baidu-and-tencent-begin-censoring.html</a> via @wafarris (2014年04月02日 15:49)
  ---
 Freedom of speech in China influenced by five factors: power, media, market, technology and citizens <a href="http://cmp.hku.hk/2014/04/01/35152/?utm_source=twitterfeed&utm_medium=twitter">cmp.hku.hk/2014/04/01/35152/</a> (2014年04月01日 15:50)
@@ -47,6 +49,4 @@ US court says Baidu censorship protected under free speech. Fail to note no alte
 For as little as RMB 6,800 (USD 1,108) you, too, can be an internet censor in China! <a href="http://www.indexoncensorship.org/2014/03/china-opinion-monitors/?utm_content=bufferd407d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.indexoncensorship.org/2014/03/china-opinion-monitors/</a> via @wenyunchao (2014年03月28日 07:57)
  ---
 What a difference between China and India. Foreign media firms scrambling to stake their claim in India. <a href="http://www.livemint.com/Consumer/bG3BDWn5LTGsRAAOU13WUN/Online-news-Foreign-media-firms-make-beeline-for-India.html">www.livemint.com/Consumer/bG3BDWn5LTGsRAAOU13WUN/Online-news-Foreign-media-firms-make-beeline-for-India.html</a> (2014年03月28日 03:03)
- ---
-Half of all Weibo posts originating from Tibet are being deleted. <a href="http://www.indexoncensorship.org/2014/03/tibet-china-tourist/?utm_content=bufferec602&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.indexoncensorship.org/2014/03/tibet-china-tourist/</a> (2014年03月27日 23:57)
  ---
