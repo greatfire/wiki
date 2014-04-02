@@ -10,6 +10,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @wenyunchao: Gmail生日，给大家讲件我的糗事。五年前在瑞士，跟一起参加培训的人讲Gmail的安全注意事项，讲到要检查邮箱的转发设置时，赫然发现自己的邮箱已经被人入侵并设置了转发。 (2014年04月02日 16:37)
+ ---
+Survey says: Freedom* <a href="http://www.economist.com/blogs/analects/2014/04/chinese-society?fsrc=scn/tw_ec/freedom_with_an_asterisk">www.economist.com/blogs/analects/2014/04/chinese-society</a> via @gadyepstein -odd responses - wld those surveyed ans. truthfully knowing u have my phone #? (2014年04月02日 16:31)
+ ---
 RT @feliciasonmez: Striking photo: Chinese nationals in Belgium try to cover up an ad for the show of the Belgian Falun Gong Association ht… (2014年04月02日 16:20)
  ---
 Baidu And Tencent Begin Censoring Searches for "Maoming PX" <a href="http://blog.feichangdao.com/2014/04/baidu-and-tencent-begin-censoring.html">blog.feichangdao.com/2014/04/baidu-and-tencent-begin-censoring.html</a> via @wafarris (2014年04月02日 15:49)
@@ -45,8 +49,4 @@ RT @Chassit: Sina #Weibo just erased the term "Sina" from its logo. Formally nam
 @jilliancyork @Michael_Kan u shld mention Bing censors more than Baidu within China, another ex. of 'mericans exercising right 2 free speech (2014年03月28日 15:49)
  ---
 US court says Baidu censorship protected under free speech. Fail to note no alternatives in China <a href="http://www.itworld.com/legal/411926/us-judge-rules-baidus-censorship-protected-free-speech">www.itworld.com/legal/411926/us-judge-rules-baidus-censorship-protected-free-speech</a> via @jilliancyork (2014年03月28日 15:42)
- ---
-For as little as RMB 6,800 (USD 1,108) you, too, can be an internet censor in China! <a href="http://www.indexoncensorship.org/2014/03/china-opinion-monitors/?utm_content=bufferd407d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.indexoncensorship.org/2014/03/china-opinion-monitors/</a> via @wenyunchao (2014年03月28日 07:57)
- ---
-What a difference between China and India. Foreign media firms scrambling to stake their claim in India. <a href="http://www.livemint.com/Consumer/bG3BDWn5LTGsRAAOU13WUN/Online-news-Foreign-media-firms-make-beeline-for-India.html">www.livemint.com/Consumer/bG3BDWn5LTGsRAAOU13WUN/Online-news-Foreign-media-firms-make-beeline-for-India.html</a> (2014年03月28日 03:03)
  ---
