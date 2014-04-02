@@ -39,7 +39,7 @@ Freedom of speech in China influenced by five factors: power, media, market, tec
  ---
 This @perrylink June 4 story a reminder of “psychic disasters deep within us” <a href="http://www.nybooks.com/blogs/nyrblog/2014/mar/31/tiananmen-25-years-money-ideas/">www.nybooks.com/blogs/nyrblog/2014/mar/31/tiananmen-25-years-money-ideas/</a> quoting @aiww (2014年04月01日 15:29)
  ---
-RT @cctvnews: Xinjiang Uygur Autonomous Region in China bans circulation of audio &amp; video files related to terrorism. <a href="http://www.youtube.com/watch?v=rX0K8rr3RWw&list=PLt-M8o1W_GdSherIG5KY36Wp4Vj0qiqG5">www.youtube.com/watch</a> (2014年04月01日 14:35)
+RT @cctvnews: Xinjiang Uygur Autonomous Region in China bans circulation of audio &amp; video files related to terrorism. <a href="http://t.co/oyMXstyTVf">t.co/oyMXstyTVf</a> (2014年04月01日 14:35)
  ---
 RT @rmack: Intro video from @RonDeibert opening remarks at @cyberdialogue is here: <a href="http://vimeo.com/77650794">vimeo.com/77650794</a> h/t @munkschool #CD14 #netfreedom (2014年03月31日 22:18)
  ---
