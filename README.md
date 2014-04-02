@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @AsiaNewsDemetri: #Video footage of Chinese chemical plant demonstrators protesting and later being detained <a href="http://video.ft.com/3420731900001/Chemical-plant-protests-move-to-Guangzhou/World">video.ft.com/3420731900001/Chemical-plant-protests-move-to-Guangzhou/World</a> (not… (2014年04月02日 16:44)
+ ---
 RT @wenyunchao: Gmail生日，给大家讲件我的糗事。五年前在瑞士，跟一起参加培训的人讲Gmail的安全注意事项，讲到要检查邮箱的转发设置时，赫然发现自己的邮箱已经被人入侵并设置了转发。 (2014年04月02日 16:37)
  ---
 Survey says: Freedom* <a href="http://www.economist.com/blogs/analects/2014/04/chinese-society?fsrc=scn/tw_ec/freedom_with_an_asterisk">www.economist.com/blogs/analects/2014/04/chinese-society</a> via @gadyepstein -odd responses - wld those surveyed ans. truthfully knowing u have my phone #? (2014年04月02日 16:31)
@@ -47,6 +49,4 @@ Russia compares its annexation of Crimea with June 4 Tiananmen Incident - on Wei
 RT @Chassit: Sina #Weibo just erased the term "Sina" from its logo. Formally named "Weibo" from today on. (2014年03月28日 15:56)
  ---
 @jilliancyork @Michael_Kan u shld mention Bing censors more than Baidu within China, another ex. of 'mericans exercising right 2 free speech (2014年03月28日 15:49)
- ---
-US court says Baidu censorship protected under free speech. Fail to note no alternatives in China <a href="http://www.itworld.com/legal/411926/us-judge-rules-baidus-censorship-protected-free-speech">www.itworld.com/legal/411926/us-judge-rules-baidus-censorship-protected-free-speech</a> via @jilliancyork (2014年03月28日 15:42)
  ---
