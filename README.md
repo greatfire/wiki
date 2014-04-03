@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @MalcolmMoore: Great reporting by AP which will further fuel China's distrust of US - USAID built Cuban Twitter to fuel dissent http://t… (2014年04月03日 18:06)
+ ---
 自由微博安卓版本上线，无需翻墙！！ <a href="https://s3.amazonaws.com/freeweibo./index.html?u=android">s3.amazonaws.com/freeweibo./index.html</a> (2014年04月03日 07:57)
  ---
 RT @paopaonet: 习近平在欧洲“自墙” <a href="https://s3.amazonaws.com/pao-pao./index.html?u=article/64">s3.amazonaws.com/pao-pao./index.html</a> <a href="https://twitter.com/paopaonet/status/451355880462639104/photo/1">twitter.com/paopaonet/status/451355880462639104/photo/1</a> (2014年04月02日 23:46)
@@ -52,6 +54,4 @@ When China CCP was Maoist, @readersdigest denounced it. Now guarantees profits s
 RT @PaulCarsten: Journalists, media under attack from hackers - "A lot of news organisations are just waking up to this." <a href="http://t.co/NsF9r">t.co/NsF9r</a>… (2014年03月29日 23:57)
  ---
 Leadership vulnerable in society lacking free press to expose official malfeasance: <a href="http://www.economist.com/blogs/analects/2014/03/rumour-crackdown?utm_content=bufferfbde3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.economist.com/blogs/analects/2014/03/rumour-crackdown</a> via @gadyepstein (2014年03月29日 07:57)
- ---
-This Revolution is Live <a href="http://www.tealeafnation.com/2014/03/this-revolution-is-live/">www.tealeafnation.com/2014/03/this-revolution-is-live/</a> (2014年03月29日 03:03)
  ---
