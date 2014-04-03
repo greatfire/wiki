@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+@chenshaoju @834714539 WP8中国市场占有率不高，所以暂时以安卓和苹果为主 (2014年04月04日 02:35)
+ ---
 習近平訪法，老法以黑色幽默熱情接待紅色中國  <a href="https://www.youtube.com/watch?v=Uv89nU1hDZk&feature=youtu.be">www.youtube.com/watch</a> (2014年04月04日 02:29)
  ---
 RT @chenshaoju: 自由微博安卓版本发布 <a href="http://www.solidot.org/story?sid=38993">www.solidot.org/story</a> //玩了一下，比当最初版本多了一个读写存储的权限，估计是缓存用把，不过整体权限仍然非常少，感觉不错。 <a href="https://twitter.com/chenshaoju/status/451567040705220608/photo/1">twitter.com/chenshaoju/status/451567040705220608/photo/1</a> (2014年04月04日 02:13)
@@ -52,6 +54,4 @@ This @perrylink June 4 story a reminder of “psychic disasters deep within us�
 RT @cctvnews: Xinjiang Uygur Autonomous Region in China bans circulation of audio &amp; video files related to terrorism. <a href="http://www.youtube.com/watch?v=rX0K8rr3RWw&list=PLt-M8o1W_GdSherIG5KY36Wp4Vj0qiqG5">www.youtube.com/watch</a> (2014年04月01日 14:35)
  ---
 RT @rmack: Intro video from @RonDeibert opening remarks at @cyberdialogue is here: <a href="http://vimeo.com/77650794">vimeo.com/77650794</a> h/t @munkschool #CD14 #netfreedom (2014年03月31日 22:18)
- ---
-RT @NickKristof: I'm dating myself, but I remember when corrupt Chinese officials stole only millions, not billions: <a href="http://www.reuters.com/article/2014/03/30/us-china-corruption-zhou-idUSBREA2T02S20140330">www.reuters.com/article/2014/03/30/us-china-corruption-zhou-idUSBREA2T02S20140330</a> (2014年03月31日 19:38)
  ---
