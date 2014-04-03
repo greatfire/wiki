@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @chenshaoju: 自由微博安卓版本发布 <a href="http://www.solidot.org/story?sid=38993">www.solidot.org/story</a> //玩了一下，比当最初版本多了一个读写存储的权限，估计是缓存用把，不过整体权限仍然非常少，感觉不错。 <a href="https://twitter.com/chenshaoju/status/451567040705220608/photo/1">twitter.com/chenshaoju/status/451567040705220608/photo/1</a> (2014年04月04日 02:13)
+ ---
 Maoming: a collective expression of exasperation with overbearing censorship restrictions <a href="http://qz.com/194494/chinas-state-media-seem-to-be-at-odds-with-chinas-state-censors/#/h/58577,3/">qz.com/194494/chinas-state-media-seem-to-be-at-odds-with-chinas-state-censors/</a> via @HeathaT @qz (2014年04月04日 00:22)
  ---
 RT @MalcolmMoore: Great reporting by AP which will further fuel China's distrust of US - USAID built Cuban Twitter to fuel dissent http://t… (2014年04月03日 18:06)
@@ -52,6 +54,4 @@ RT @rmack: Intro video from @RonDeibert opening remarks at @cyberdialogue is her
 RT @NickKristof: I'm dating myself, but I remember when corrupt Chinese officials stole only millions, not billions: <a href="http://www.reuters.com/article/2014/03/30/us-china-corruption-zhou-idUSBREA2T02S20140330">www.reuters.com/article/2014/03/30/us-china-corruption-zhou-idUSBREA2T02S20140330</a> (2014年03月31日 19:38)
  ---
 When China CCP was Maoist, @readersdigest denounced it. Now guarantees profits so RD censors on its behalf.   <a href="http://www.theguardian.com/commentisfree/2014/mar/29/readers-digest-chinese-stooge-censorship?CMP=twt_gu">www.theguardian.com/commentisfree/2014/mar/29/readers-digest-chinese-stooge-censorship</a> (2014年03月31日 17:44)
- ---
-RT @PaulCarsten: Journalists, media under attack from hackers - "A lot of news organisations are just waking up to this." <a href="http://t.co/NsF9r">t.co/NsF9r</a>… (2014年03月29日 23:57)
  ---
