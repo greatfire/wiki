@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+@danielheaf can you email me on charlie.smith at <a href="https://zh.greatfire.org/">zh.greatfire.org/</a>. You can read our Twitter feed to learn more about what we are doing (2014年04月04日 22:37)
+ ---
 The U.S. thinks it can invent a Cuban Spring? Puh-leez, say Internet freedom scholars. <a href="http://www.washingtonpost.com/blogs/the-switch/wp/2014/04/03/the-u-s-thinks-it-can-invent-a-cuban-spring-puh-leez-say-internet-freedom-scholars/">www.washingtonpost.com/blogs/the-switch/wp/2014/04/03/the-u-s-thinks-it-can-invent-a-cuban-spring-puh-leez-say-internet-freedom-scholars/</a> (2014年04月04日 21:43)
  ---
 @chenshaoju @834714539 WP8中国市场占有率不高，所以暂时以安卓和苹果为主 (2014年04月04日 02:35)
@@ -52,6 +54,4 @@ Baidu And Tencent Begin Censoring Searches for "Maoming PX" <a href="http://blog
 Freedom of speech in China influenced by five factors: power, media, market, technology and citizens <a href="http://cmp.hku.hk/2014/04/01/35152/?utm_source=twitterfeed&utm_medium=twitter">cmp.hku.hk/2014/04/01/35152/</a> (2014年04月01日 15:50)
  ---
 This @perrylink June 4 story a reminder of “psychic disasters deep within us” <a href="http://www.nybooks.com/blogs/nyrblog/2014/mar/31/tiananmen-25-years-money-ideas/">www.nybooks.com/blogs/nyrblog/2014/mar/31/tiananmen-25-years-money-ideas/</a> quoting @aiww (2014年04月01日 15:29)
- ---
-RT @cctvnews: Xinjiang Uygur Autonomous Region in China bans circulation of audio &amp; video files related to terrorism. <a href="http://www.youtube.com/watch?v=rX0K8rr3RWw&list=PLt-M8o1W_GdSherIG5KY36Wp4Vj0qiqG5">www.youtube.com/watch</a> (2014年04月01日 14:35)
  ---
