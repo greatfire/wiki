@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+The U.S. thinks it can invent a Cuban Spring? Puh-leez, say Internet freedom scholars. <a href="http://www.washingtonpost.com/blogs/the-switch/wp/2014/04/03/the-u-s-thinks-it-can-invent-a-cuban-spring-puh-leez-say-internet-freedom-scholars/">www.washingtonpost.com/blogs/the-switch/wp/2014/04/03/the-u-s-thinks-it-can-invent-a-cuban-spring-puh-leez-say-internet-freedom-scholars/</a> (2014年04月04日 21:43)
+ ---
 @chenshaoju @834714539 WP8中国市场占有率不高，所以暂时以安卓和苹果为主 (2014年04月04日 02:35)
  ---
 習近平訪法，老法以黑色幽默熱情接待紅色中國  <a href="https://www.youtube.com/watch?v=Uv89nU1hDZk&feature=youtu.be">www.youtube.com/watch</a> (2014年04月04日 02:29)
@@ -52,6 +54,4 @@ Freedom of speech in China influenced by five factors: power, media, market, tec
 This @perrylink June 4 story a reminder of “psychic disasters deep within us” <a href="http://www.nybooks.com/blogs/nyrblog/2014/mar/31/tiananmen-25-years-money-ideas/">www.nybooks.com/blogs/nyrblog/2014/mar/31/tiananmen-25-years-money-ideas/</a> quoting @aiww (2014年04月01日 15:29)
  ---
 RT @cctvnews: Xinjiang Uygur Autonomous Region in China bans circulation of audio &amp; video files related to terrorism. <a href="http://www.youtube.com/watch?v=rX0K8rr3RWw&list=PLt-M8o1W_GdSherIG5KY36Wp4Vj0qiqG5">www.youtube.com/watch</a> (2014年04月01日 14:35)
- ---
-RT @rmack: Intro video from @RonDeibert opening remarks at @cyberdialogue is here: <a href="http://vimeo.com/77650794">vimeo.com/77650794</a> h/t @munkschool #CD14 #netfreedom (2014年03月31日 22:18)
  ---
