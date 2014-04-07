@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Spy Vs. Spy: When is Cyberhacking Crossing the Line? <a href="https://www.chinafile.com/Spy-Vs-Spy-When-Cyberhacking-Crossing-Line">www.chinafile.com/Spy-Vs-Spy-When-Cyberhacking-Crossing-Line</a> (2014年04月07日 14:29)
+ ---
 @danielheaf can you email me on charlie.smith at <a href="https://zh.greatfire.org/">zh.greatfire.org/</a>. You can read our Twitter feed to learn more about what we are doing (2014年04月04日 22:37)
  ---
 The U.S. thinks it can invent a Cuban Spring? Puh-leez, say Internet freedom scholars. <a href="http://www.washingtonpost.com/blogs/the-switch/wp/2014/04/03/the-u-s-thinks-it-can-invent-a-cuban-spring-puh-leez-say-internet-freedom-scholars/">www.washingtonpost.com/blogs/the-switch/wp/2014/04/03/the-u-s-thinks-it-can-invent-a-cuban-spring-puh-leez-say-internet-freedom-scholars/</a> (2014年04月04日 21:43)
@@ -52,6 +54,4 @@ RT @feliciasonmez: Striking photo: Chinese nationals in Belgium try to cover up 
 Baidu And Tencent Begin Censoring Searches for "Maoming PX" <a href="http://blog.feichangdao.com/2014/04/baidu-and-tencent-begin-censoring.html">blog.feichangdao.com/2014/04/baidu-and-tencent-begin-censoring.html</a> via @wafarris (2014年04月02日 15:49)
  ---
 Freedom of speech in China influenced by five factors: power, media, market, technology and citizens <a href="http://cmp.hku.hk/2014/04/01/35152/?utm_source=twitterfeed&utm_medium=twitter">cmp.hku.hk/2014/04/01/35152/</a> (2014年04月01日 15:50)
- ---
-This @perrylink June 4 story a reminder of “psychic disasters deep within us” <a href="http://www.nybooks.com/blogs/nyrblog/2014/mar/31/tiananmen-25-years-money-ideas/">www.nybooks.com/blogs/nyrblog/2014/mar/31/tiananmen-25-years-money-ideas/</a> quoting @aiww (2014年04月01日 15:29)
  ---
