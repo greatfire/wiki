@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @feliciasonmez: Anti-corruption activists back on trial in China <a href="http://news.yahoo.com/anti-corruption-activists-back-trial-china-071518977.html">news.yahoo.com/anti-corruption-activists-back-trial-china-071518977.html</a> via @AFP (2014年04月09日 02:03)
+ ---
 RT @klustout: "Without knowing the ties binding wealth to power, it's impossible to truly understand the motives that guide policy..." - @b… (2014年04月08日 22:57)
  ---
 RT @coe: Watch again: #Video - Full webcast of Edward Snowden's evidence to #CoE assembly on mass state surveillance. <a href="http://clients.dbee.com/coe/webcast/index.php?id=20140408-1&lang=en">clients.dbee.com/coe/webcast/index.php</a> (2014年04月08日 21:57)
@@ -47,6 +49,4 @@ The U.S. thinks it can invent a Cuban Spring? Puh-leez, say Internet freedom sch
 RT @chenshaoju: 自由微博安卓版本发布 <a href="http://www.solidot.org/story?sid=38993">www.solidot.org/story</a> //玩了一下，比当最初版本多了一个读写存储的权限，估计是缓存用把，不过整体权限仍然非常少，感觉不错。 <a href="https://twitter.com/chenshaoju/status/451567040705220608/photo/1">twitter.com/chenshaoju/status/451567040705220608/photo/1</a> (2014年04月04日 02:13)
  ---
 Maoming: a collective expression of exasperation with overbearing censorship restrictions <a href="http://qz.com/194494/chinas-state-media-seem-to-be-at-odds-with-chinas-state-censors/#/h/58577,3/">qz.com/194494/chinas-state-media-seem-to-be-at-odds-with-chinas-state-censors/</a> via @HeathaT @qz (2014年04月04日 00:22)
- ---
-RT @MalcolmMoore: Great reporting by AP which will further fuel China's distrust of US - USAID built Cuban Twitter to fuel dissent http://t… (2014年04月03日 18:06)
  ---
