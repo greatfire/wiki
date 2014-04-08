@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @klustout: "Without knowing the ties binding wealth to power, it's impossible to truly understand the motives that guide policy..." - @b… (2014年04月08日 22:57)
+ ---
 RT @coe: Watch again: #Video - Full webcast of Edward Snowden's evidence to #CoE assembly on mass state surveillance. <a href="http://clients.dbee.com/coe/webcast/index.php?id=20140408-1&lang=en">clients.dbee.com/coe/webcast/index.php</a> (2014年04月08日 21:57)
  ---
 @BenedictEvans ok that makes sense. Other media reports saying 700m active smartphones does not make sense. (2014年04月08日 21:51)
@@ -47,6 +49,4 @@ RT @chenshaoju: 自由微博安卓版本发布 <a href="http://www.solidot.org/s
 Maoming: a collective expression of exasperation with overbearing censorship restrictions <a href="http://qz.com/194494/chinas-state-media-seem-to-be-at-odds-with-chinas-state-censors/#/h/58577,3/">qz.com/194494/chinas-state-media-seem-to-be-at-odds-with-chinas-state-censors/</a> via @HeathaT @qz (2014年04月04日 00:22)
  ---
 RT @MalcolmMoore: Great reporting by AP which will further fuel China's distrust of US - USAID built Cuban Twitter to fuel dissent http://t… (2014年04月03日 18:06)
- ---
-自由微博安卓版本上线，无需翻墙！！ <a href="https://s3.amazonaws.com/freeweibo./index.html?u=android">s3.amazonaws.com/freeweibo./index.html</a> (2014年04月03日 07:57)
  ---
