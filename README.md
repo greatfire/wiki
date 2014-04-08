@@ -26,7 +26,7 @@ Meet China's Protest Archivist <a href="http://www.foreignpolicy.com/articles/20
  ---
 Spy Vs. Spy: When is Cyberhacking Crossing the Line? <a href="https://www.chinafile.com/Spy-Vs-Spy-When-Cyberhacking-Crossing-Line">www.chinafile.com/Spy-Vs-Spy-When-Cyberhacking-Crossing-Line</a> (2014年04月07日 14:29)
  ---
-@danielheaf can you email me on charlie.smith at <a href="https://zh.greatfire.org/">zh.greatfire.org/</a>. You can read our Twitter feed to learn more about what we are doing (2014年04月04日 22:37)
+@danielheaf can you email me on charlie.smith at <a href="http://greatfire.org">greatfire.org</a>. You can read our Twitter feed to learn more about what we are doing (2014年04月04日 22:37)
  ---
 The U.S. thinks it can invent a Cuban Spring? Puh-leez, say Internet freedom scholars. <a href="http://www.washingtonpost.com/blogs/the-switch/wp/2014/04/03/the-u-s-thinks-it-can-invent-a-cuban-spring-puh-leez-say-internet-freedom-scholars/">www.washingtonpost.com/blogs/the-switch/wp/2014/04/03/the-u-s-thinks-it-can-invent-a-cuban-spring-puh-leez-say-internet-freedom-scholars/</a> (2014年04月04日 21:43)
  ---
