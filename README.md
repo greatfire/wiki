@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+10m users generate 94% of all messages on Weibo <a href="http://www.scmp.com/news/china-insider/article/1469338/weibo-less-active-expected-says-new-study?utm_content=bufferb8310&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.scmp.com/news/china-insider/article/1469338/weibo-less-active-expected-says-new-study</a> - wonder what this info will do for IPO? what % censored? (2014年04月08日 19:35)
+ ---
 @BenedictEvans CNNIC says 618m total internet users so I don't get how there can be 700m active smartphone and tablet users? (2014年04月08日 18:35)
  ---
 RT @mcgregorrichard: "The old-fashioned newspaper, has one advantage over high-tech alternatives: You read it. It never reads you." http://… (2014年04月08日 16:44)
@@ -48,6 +50,4 @@ RT @Yangguobin: 2 related developments in Chinese information politics in 2 sepa
 &amp; @qz: http:/… (2014年04月02日 23:08)
  ---
 RT @PhelimKine: Shocking if confirmed: Report that #China's security forces deploying tanks to quell #Maoming eco-protests <a href="http://t.co/EwBO">t.co/EwBO</a>… (2014年04月02日 22:22)
- ---
-Pic of fab self-censors, bendover bkwards @LBS students. You disappoint many. <a href="https://twitter.com/simonsquibb/status/451288258672996353/photo/1">twitter.com/simonsquibb/status/451288258672996353/photo/1</a> context here: <a href="https://twitter.com/klustout/status/450517256494006272">twitter.com/klustout/status/450517256494006272</a> (2014年04月02日 18:06)
  ---
