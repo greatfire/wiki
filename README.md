@@ -10,6 +10,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @mcgregorrichard: "The old-fashioned newspaper, has one advantage over high-tech alternatives: You read it. It never reads you." http://… (2014年04月08日 16:44)
+ ---
+RT @csoghoian: NYT &amp; Guardian refused comment on  news sites' lack of HTTPS. Come on, protect your readers from bulk surveillance. http://t… (2014年04月08日 16:43)
+ ---
 We applaud @washingtonpost for their move to encryption - this is what every news org should be doing: <a href="http://www.washingtonpost.com/business/technology/in-a-prying-world-news-organizations-are-struggling-to-encrypt-their-online-products/2014/04/04/537d1fec-aed5-11e3-9627-c65021d6d572_story.html">www.washingtonpost.com/business/technology/in-a-prying-world-news-organizations-are-struggling-to-encrypt-their-online-products/2014/04/04/537d1fec-aed5-11e3-9627-c65021d6d572_story.html</a> (2014年04月08日 16:02)
  ---
 Tying censorship to economic activity is compelling but Can Crowdfunding Change China? <a href="http://www.tealeafnation.com/2014/04/can-crowdfunding-change-china/#sthash.o1Vb49yA.uxfs">www.tealeafnation.com/2014/04/can-crowdfunding-change-china/</a> via @tealeafnation - prob not (2014年04月08日 15:45)
@@ -50,8 +54,4 @@ RT @TeaWithCarl: FireChat (new chat technology from Open Garden) ---
 Internet NOT required. 不需要互联网的心高技术。
 
 <a href="https://twitter.com/jagatsastry">twitter.com/jagatsastry</a>… (2014年04月02日 17:00)
- ---
-RT @AsiaNewsDemetri: #Video footage of Chinese chemical plant demonstrators protesting and later being detained <a href="http://video.ft.com/3420731900001/Chemical-plant-protests-move-to-Guangzhou/World">video.ft.com/3420731900001/Chemical-plant-protests-move-to-Guangzhou/World</a> (not… (2014年04月02日 16:44)
- ---
-RT @wenyunchao: Gmail生日，给大家讲件我的糗事。五年前在瑞士，跟一起参加培训的人讲Gmail的安全注意事项，讲到要检查邮箱的转发设置时，赫然发现自己的邮箱已经被人入侵并设置了转发。 (2014年04月02日 16:37)
  ---
