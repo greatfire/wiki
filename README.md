@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Tying censorship to economic activity is compelling but Can Crowdfunding Change China? <a href="http://www.tealeafnation.com/2014/04/can-crowdfunding-change-china/#sthash.o1Vb49yA.uxfs">www.tealeafnation.com/2014/04/can-crowdfunding-change-china/</a> via @tealeafnation - prob not (2014年04月08日 15:45)
+ ---
 RT @Trushar: If you want to follow our editorial experiment covering the Indian election on @WeChat, follow the user ID 'BBCNewsIndia'.  #I… (2014年04月07日 17:05)
  ---
 Meet China's Protest Archivist <a href="http://www.foreignpolicy.com/articles/2014/04/03/meet_chinas_digital_protest_archivist">www.foreignpolicy.com/articles/2014/04/03/meet_chinas_digital_protest_archivist</a> (2014年04月07日 15:25)
@@ -52,6 +54,4 @@ RT @AsiaNewsDemetri: #Video footage of Chinese chemical plant demonstrators prot
 RT @wenyunchao: Gmail生日，给大家讲件我的糗事。五年前在瑞士，跟一起参加培训的人讲Gmail的安全注意事项，讲到要检查邮箱的转发设置时，赫然发现自己的邮箱已经被人入侵并设置了转发。 (2014年04月02日 16:37)
  ---
 Survey says: Freedom* <a href="http://www.economist.com/blogs/analects/2014/04/chinese-society?fsrc=scn/tw_ec/freedom_with_an_asterisk">www.economist.com/blogs/analects/2014/04/chinese-society</a> via @gadyepstein -odd responses - wld those surveyed ans. truthfully knowing u have my phone #? (2014年04月02日 16:31)
- ---
-RT @feliciasonmez: Striking photo: Chinese nationals in Belgium try to cover up an ad for the show of the Belgian Falun Gong Association ht… (2014年04月02日 16:20)
  ---
