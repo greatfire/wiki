@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @globaltimesnews: "The fact is that as long as any protest is against the government, people support it" <a href="http://www.globaltimes.cn/content/853057.shtml?utm_content=buffer2de3d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.U0NjZUZRHTo">www.globaltimes.cn/content/853057.shtml</a> (2014年04月08日 21:01)
+ ---
 10m users generate 94% of all messages on Weibo <a href="http://www.scmp.com/news/china-insider/article/1469338/weibo-less-active-expected-says-new-study?utm_content=bufferb8310&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.scmp.com/news/china-insider/article/1469338/weibo-less-active-expected-says-new-study</a> - wonder what this info will do for IPO? what % censored? (2014年04月08日 19:35)
  ---
 @BenedictEvans CNNIC says 618m total internet users so I don't get how there can be 700m active smartphone and tablet users? (2014年04月08日 18:35)
@@ -48,6 +50,4 @@ RT @paopaonet: 习近平在欧洲“自墙” <a href="https://s3.amazonaws.com/
  ---
 RT @Yangguobin: 2 related developments in Chinese information politics in 2 separate stories: @nytimes <a href="HTTP://http:////www-nc.nytimes.com/2014/04/02/chinese-government-expands-freedom-of-information/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2014/04/02/chinese-government-expands-freedom-of-information/</a>
 &amp; @qz: http:/… (2014年04月02日 23:08)
- ---
-RT @PhelimKine: Shocking if confirmed: Report that #China's security forces deploying tanks to quell #Maoming eco-protests <a href="http://t.co/EwBO">t.co/EwBO</a>… (2014年04月02日 22:22)
  ---
