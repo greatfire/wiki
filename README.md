@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+In a prying world, news organizations are struggling to encrypt their online products  <a href="http://www.washingtonpost.com/business/technology/in-a-prying-world-news-organizations-are-struggling-to-encrypt-their-online-products/2014/04/04/537d1fec-aed5-11e3-9627-c65021d6d572_story.html">www.washingtonpost.com/business/technology/in-a-prying-world-news-organizations-are-struggling-to-encrypt-their-online-products/2014/04/04/537d1fec-aed5-11e3-9627-c65021d6d572_story.html</a> (2014年04月09日 07:43)
+ ---
 RT @gadyepstein: Next stop, democracy! RT @cjbrummitt: Internet memes mocking ruling elite shake up Vietnam @cat_barton explores http://t.c… (2014年04月09日 06:57)
  ---
 RT @feliciasonmez: Anti-corruption activists back on trial in China <a href="http://news.yahoo.com/anti-corruption-activists-back-trial-china-071518977.html">news.yahoo.com/anti-corruption-activists-back-trial-china-071518977.html</a> via @AFP (2014年04月09日 02:03)
@@ -47,6 +49,4 @@ The U.S. thinks it can invent a Cuban Spring? Puh-leez, say Internet freedom sch
 @chenshaoju @834714539 WP8中国市场占有率不高，所以暂时以安卓和苹果为主 (2014年04月04日 02:35)
  ---
 習近平訪法，老法以黑色幽默熱情接待紅色中國  <a href="https://www.youtube.com/watch?v=Uv89nU1hDZk&feature=youtu.be">www.youtube.com/watch</a> (2014年04月04日 02:29)
- ---
-RT @chenshaoju: 自由微博安卓版本发布 <a href="http://www.solidot.org/story?sid=38993">www.solidot.org/story</a> //玩了一下，比当最初版本多了一个读写存储的权限，估计是缓存用把，不过整体权限仍然非常少，感觉不错。 <a href="https://twitter.com/chenshaoju/status/451567040705220608/photo/1">twitter.com/chenshaoju/status/451567040705220608/photo/1</a> (2014年04月04日 02:13)
  ---
