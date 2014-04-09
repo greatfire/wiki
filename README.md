@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Infographic: Jesus More Popular Than Mao on China's Twitter <a href="http://www.foreignpolicy.com/articles/2014/04/07/jesus_more_popular_than_mao_on_chinese_twitter_infographic?utm_content=bufferebc1d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.foreignpolicy.com/articles/2014/04/07/jesus_more_popular_than_mao_on_chinese_twitter_infographic</a> (2014年04月10日 02:03)
+ ---
 Police take away six bus-loads of June 4 petitioners from Baobaoshan Revolutionary Cemetery <a href="http://www.rfa.org/english/news/china/qingming-04072014181919.html?utm_content=bufferbaf4c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.rfa.org/english/news/china/qingming-04072014181919.html</a> (2014年04月09日 22:57)
  ---
 Why Crowdfunding Won't Change China Anytime Soon | TechPresident <a href="http://techpresident.com/news/wegov/24902/crowdfunding-wont-change-china#.U0T4iVoYBis.twitter">techpresident.com/news/wegov/24902/crowdfunding-wont-change-china</a> (2014年04月09日 15:36)
@@ -47,6 +49,4 @@ Meet China's Protest Archivist <a href="http://www.foreignpolicy.com/articles/20
 Spy Vs. Spy: When is Cyberhacking Crossing the Line? <a href="https://www.chinafile.com/Spy-Vs-Spy-When-Cyberhacking-Crossing-Line">www.chinafile.com/Spy-Vs-Spy-When-Cyberhacking-Crossing-Line</a> (2014年04月07日 14:29)
  ---
 @danielheaf can you email me on charlie.smith at <a href="https://zh.greatfire.org/">zh.greatfire.org/</a>. You can read our Twitter feed to learn more about what we are doing (2014年04月04日 22:37)
- ---
-The U.S. thinks it can invent a Cuban Spring? Puh-leez, say Internet freedom scholars. <a href="http://www.washingtonpost.com/blogs/the-switch/wp/2014/04/03/the-u-s-thinks-it-can-invent-a-cuban-spring-puh-leez-say-internet-freedom-scholars/">www.washingtonpost.com/blogs/the-switch/wp/2014/04/03/the-u-s-thinks-it-can-invent-a-cuban-spring-puh-leez-say-internet-freedom-scholars/</a> (2014年04月04日 21:43)
  ---
