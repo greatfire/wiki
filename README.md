@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Police take away six bus-loads of June 4 petitioners from Baobaoshan Revolutionary Cemetery <a href="http://www.rfa.org/english/news/china/qingming-04072014181919.html?utm_content=bufferbaf4c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.rfa.org/english/news/china/qingming-04072014181919.html</a> (2014年04月09日 22:57)
+ ---
 Why Crowdfunding Won't Change China Anytime Soon | TechPresident <a href="http://techpresident.com/news/wegov/24902/crowdfunding-wont-change-china#.U0T4iVoYBis.twitter">techpresident.com/news/wegov/24902/crowdfunding-wont-change-china</a> (2014年04月09日 15:36)
  ---
 In a prying world, news organizations are struggling to encrypt their online products  <a href="http://www.washingtonpost.com/business/technology/in-a-prying-world-news-organizations-are-struggling-to-encrypt-their-online-products/2014/04/04/537d1fec-aed5-11e3-9627-c65021d6d572_story.html">www.washingtonpost.com/business/technology/in-a-prying-world-news-organizations-are-struggling-to-encrypt-their-online-products/2014/04/04/537d1fec-aed5-11e3-9627-c65021d6d572_story.html</a> (2014年04月09日 07:43)
@@ -47,6 +49,4 @@ Spy Vs. Spy: When is Cyberhacking Crossing the Line? <a href="https://www.chinaf
 @danielheaf can you email me on charlie.smith at <a href="https://zh.greatfire.org/">zh.greatfire.org/</a>. You can read our Twitter feed to learn more about what we are doing (2014年04月04日 22:37)
  ---
 The U.S. thinks it can invent a Cuban Spring? Puh-leez, say Internet freedom scholars. <a href="http://www.washingtonpost.com/blogs/the-switch/wp/2014/04/03/the-u-s-thinks-it-can-invent-a-cuban-spring-puh-leez-say-internet-freedom-scholars/">www.washingtonpost.com/blogs/the-switch/wp/2014/04/03/the-u-s-thinks-it-can-invent-a-cuban-spring-puh-leez-say-internet-freedom-scholars/</a> (2014年04月04日 21:43)
- ---
-@chenshaoju @834714539 WP8中国市场占有率不高，所以暂时以安卓和苹果为主 (2014年04月04日 02:35)
  ---
