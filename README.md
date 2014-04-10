@@ -48,5 +48,5 @@ RT @Trushar: If you want to follow our editorial experiment covering the Indian 
  ---
 Meet China's Protest Archivist <a href="http://www.foreignpolicy.com/articles/2014/04/03/meet_chinas_digital_protest_archivist">www.foreignpolicy.com/articles/2014/04/03/meet_chinas_digital_protest_archivist</a> (2014年04月07日 15:25)
  ---
-Spy Vs. Spy: When is Cyberhacking Crossing the Line? <a href="https://www.chinafile.com/Spy-Vs-Spy-When-Cyberhacking-Crossing-Line">www.chinafile.com/Spy-Vs-Spy-When-Cyberhacking-Crossing-Line</a> (2014年04月07日 14:29)
+Spy Vs. Spy: When is Cyberhacking Crossing the Line? <a href="http://j.mp/1qcZfQr">j.mp/1qcZfQr</a> (2014年04月07日 14:29)
  ---
