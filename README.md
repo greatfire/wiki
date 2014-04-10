@@ -10,6 +10,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @ChinaFile: China's New Citizens Movement—whose activist lawyer member Xu Zhiyong faces 4yrs in jail—now has a website <a href="http://t.co/lYrSa">t.co/lYrSa</a>… (2014年04月10日 23:28)
+ ---
+RT @taniabranigan: MT @tomphillipsin: Zhejiang Christians shd “fight back vs Western hostile forces’ attacks on our country re religion” ht… (2014年04月10日 23:23)
+ ---
 RT @wenyunchao: I believe crossing the GFW is the only way for Chinese people to escape censorship, but there is no way to escape self-cens… (2014年04月10日 22:57)
  ---
 Official in charge of GFW jumps to his death - was he about to be fingered on corruption charges? <a href="http://www.washingtonpost.com/world/asia_pacific/mysterious-spate-of-official-suicides-in-china-sparks-debate-censorship/2014/04/10/0f13edea-c0a0-11e3-b195-dd0c1174052c_story.html?tid=hpModule_949fa2be-8691-11e2-9d71-f0feafdd1394">www.washingtonpost.com/world/asia_pacific/mysterious-spate-of-official-suicides-in-china-sparks-debate-censorship/2014/04/10/0f13edea-c0a0-11e3-b195-dd0c1174052c_story.html</a> (2014年04月10日 21:53)
@@ -45,8 +49,4 @@ RT @coe: Watch again: #Video - Full webcast of Edward Snowden's evidence to #CoE
 RT @globaltimesnews: "The fact is that as long as any protest is against the government, people support it" <a href="http://www.globaltimes.cn/content/853057.shtml?utm_content=buffer2de3d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.U0NjZUZRHTo">www.globaltimes.cn/content/853057.shtml</a> (2014年04月08日 21:01)
  ---
 10m users generate 94% of all messages on Weibo <a href="http://www.scmp.com/news/china-insider/article/1469338/weibo-less-active-expected-says-new-study?utm_content=bufferb8310&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.scmp.com/news/china-insider/article/1469338/weibo-less-active-expected-says-new-study</a> - wonder what this info will do for IPO? what % censored? (2014年04月08日 19:35)
- ---
-@BenedictEvans CNNIC says 618m total internet users so I don't get how there can be 700m active smartphone and tablet users? (2014年04月08日 18:35)
- ---
-RT @mcgregorrichard: "The old-fashioned newspaper, has one advantage over high-tech alternatives: You read it. It never reads you." http://… (2014年04月08日 16:44)
  ---
