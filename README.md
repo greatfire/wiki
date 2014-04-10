@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @MrKennethTan: Seems like everyone I know in China is complaining about the internet today. What's up with that? (2014年04月10日 21:46)
+ ---
 Big Alvin Jiang story here《壹周刊》1224期封面故事： 紅色權貴橫行中環 江澤民孫超級基金曝光 <a href="https://s3.amazonaws.com/letscorp_archive/archives/69431">s3.amazonaws.com/letscorp_archive/archives/69431</a> (2014年04月10日 16:37)
  ---
 @niubi 大馅饺子圆鑫餐馆, the official dumpling sponsor of @FreeWeibo (2014年04月10日 15:45)
@@ -47,6 +49,4 @@ RT @mcgregorrichard: "The old-fashioned newspaper, has one advantage over high-t
 RT @csoghoian: NYT &amp; Guardian refused comment on  news sites' lack of HTTPS. Come on, protect your readers from bulk surveillance. http://t… (2014年04月08日 16:43)
  ---
 We applaud @washingtonpost for their move to encryption - this is what every news org should be doing: <a href="http://www.washingtonpost.com/business/technology/in-a-prying-world-news-organizations-are-struggling-to-encrypt-their-online-products/2014/04/04/537d1fec-aed5-11e3-9627-c65021d6d572_story.html">www.washingtonpost.com/business/technology/in-a-prying-world-news-organizations-are-struggling-to-encrypt-their-online-products/2014/04/04/537d1fec-aed5-11e3-9627-c65021d6d572_story.html</a> (2014年04月08日 16:02)
- ---
-Tying censorship to economic activity is compelling but Can Crowdfunding Change China? <a href="http://www.tealeafnation.com/2014/04/can-crowdfunding-change-china/#sthash.o1Vb49yA.uxfs">www.tealeafnation.com/2014/04/can-crowdfunding-change-china/</a> via @tealeafnation - prob not (2014年04月08日 15:45)
  ---
