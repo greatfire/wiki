@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+看来新浪小秘书也不知道一氧化二氢是什么。 <a href="https://freeweibo.com/weibo/3697520733509504">freeweibo.com/weibo/3697520733509504</a> (2014年04月10日 11:52)
+ ---
 "Hong Kong Will Be Destroyed After 33 Years" - or maybe not. Weibo censors title of scifi film: <a href="http://blog.feichangdao.com/2014/04/sina-weibo-censors-title-of-science.html?utm_content=buffer3ebe3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">blog.feichangdao.com/2014/04/sina-weibo-censors-title-of-science.html</a> (2014年04月10日 06:57)
  ---
 Infographic: Jesus More Popular Than Mao on China's Twitter <a href="http://www.foreignpolicy.com/articles/2014/04/07/jesus_more_popular_than_mao_on_chinese_twitter_infographic?utm_content=bufferebc1d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.foreignpolicy.com/articles/2014/04/07/jesus_more_popular_than_mao_on_chinese_twitter_infographic</a> (2014年04月10日 02:03)
@@ -47,6 +49,4 @@ Tying censorship to economic activity is compelling but Can Crowdfunding Change 
 RT @Trushar: If you want to follow our editorial experiment covering the Indian election on @WeChat, follow the user ID 'BBCNewsIndia'.  #I… (2014年04月07日 17:05)
  ---
 Meet China's Protest Archivist <a href="http://www.foreignpolicy.com/articles/2014/04/03/meet_chinas_digital_protest_archivist">www.foreignpolicy.com/articles/2014/04/03/meet_chinas_digital_protest_archivist</a> (2014年04月07日 15:25)
- ---
-Spy Vs. Spy: When is Cyberhacking Crossing the Line? <a href="https://www.chinafile.com/Spy-Vs-Spy-When-Cyberhacking-Crossing-Line">www.chinafile.com/Spy-Vs-Spy-When-Cyberhacking-Crossing-Line</a> (2014年04月07日 14:29)
  ---
