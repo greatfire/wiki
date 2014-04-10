@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @wenyunchao: I believe crossing the GFW is the only way for Chinese people to escape censorship, but there is no way to escape self-cens… (2014年04月10日 22:57)
+ ---
 Official in charge of GFW jumps to his death - was he about to be fingered on corruption charges? <a href="http://www.washingtonpost.com/world/asia_pacific/mysterious-spate-of-official-suicides-in-china-sparks-debate-censorship/2014/04/10/0f13edea-c0a0-11e3-b195-dd0c1174052c_story.html?tid=hpModule_949fa2be-8691-11e2-9d71-f0feafdd1394">www.washingtonpost.com/world/asia_pacific/mysterious-spate-of-official-suicides-in-china-sparks-debate-censorship/2014/04/10/0f13edea-c0a0-11e3-b195-dd0c1174052c_story.html</a> (2014年04月10日 21:53)
  ---
 RT @MrKennethTan: Seems like everyone I know in China is complaining about the internet today. What's up with that? (2014年04月10日 21:46)
@@ -47,6 +49,4 @@ RT @globaltimesnews: "The fact is that as long as any protest is against the gov
 @BenedictEvans CNNIC says 618m total internet users so I don't get how there can be 700m active smartphone and tablet users? (2014年04月08日 18:35)
  ---
 RT @mcgregorrichard: "The old-fashioned newspaper, has one advantage over high-tech alternatives: You read it. It never reads you." http://… (2014年04月08日 16:44)
- ---
-RT @csoghoian: NYT &amp; Guardian refused comment on  news sites' lack of HTTPS. Come on, protect your readers from bulk surveillance. http://t… (2014年04月08日 16:43)
  ---
