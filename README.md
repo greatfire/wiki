@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+With drones delivering internet does this mean great firewalls will be replaced by surface to air missiles? <a href="http://weeklywonk.newamerica.net/articles/facebook-drones-vacation-starvation/">weeklywonk.newamerica.net/articles/facebook-drones-vacation-starvation/</a> (2014年04月11日 01:36)
+ ---
 RT @ChinaFile: China's New Citizens Movement—whose activist lawyer member Xu Zhiyong faces 4yrs in jail—now has a website <a href="http://t.co/lYrSa">t.co/lYrSa</a>… (2014年04月10日 23:28)
  ---
 RT @taniabranigan: MT @tomphillipsin: Zhejiang Christians shd “fight back vs Western hostile forces’ attacks on our country re religion” ht… (2014年04月10日 23:23)
@@ -47,6 +49,4 @@ RT @coe: Watch again: #Video - Full webcast of Edward Snowden's evidence to #CoE
 @BenedictEvans ok that makes sense. Other media reports saying 700m active smartphones does not make sense. (2014年04月08日 21:51)
  ---
 RT @globaltimesnews: "The fact is that as long as any protest is against the government, people support it" <a href="http://www.globaltimes.cn/content/853057.shtml?utm_content=buffer2de3d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.U0NjZUZRHTo">www.globaltimes.cn/content/853057.shtml</a> (2014年04月08日 21:01)
- ---
-10m users generate 94% of all messages on Weibo <a href="http://www.scmp.com/news/china-insider/article/1469338/weibo-less-active-expected-says-new-study?utm_content=bufferb8310&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.scmp.com/news/china-insider/article/1469338/weibo-less-active-expected-says-new-study</a> - wonder what this info will do for IPO? what % censored? (2014年04月08日 19:35)
  ---
