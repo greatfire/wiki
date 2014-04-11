@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @suilee: Prominent Chinese activist, Xu Zhiyong, scorns court as jail term upheld <a href="http://uk.reuters.com/article/2014/04/11/uk-china-activist-idUKBREA3A04P20140411">uk.reuters.com/article/2014/04/11/uk-china-activist-idUKBREA3A04P20140411</a> (2014年04月11日 15:19)
+ ---
 RT @JohnSaeki: #INFOGRAPHIC Detained, exiled and restricted: prominent Chinese dissidents @AFP <a href="http://twitpic.com/e0ufkp">twitpic.com/e0ufkp</a> (2014年04月11日 14:23)
  ---
 RT @niubi: BigV Weibo marketer qin huohuo goes on trial today in beijing 分享网易新闻:「"秦火火"案今上午在北京开审」 链接 <a href="http://3g.163.com/ntes/special/0034073A/iframe.html?url=http://news.163.com/14/0411/00/9PGS6Q1R00014JB6.html">3g.163.com/ntes/special/0034073A/iframe.html</a> will foreign hac… (2014年04月11日 14:20)
@@ -47,6 +49,4 @@ Police take away six bus-loads of June 4 petitioners from Baobaoshan Revolutiona
 Why Crowdfunding Won't Change China Anytime Soon | TechPresident <a href="http://techpresident.com/news/wegov/24902/crowdfunding-wont-change-china#.U0T4iVoYBis.twitter">techpresident.com/news/wegov/24902/crowdfunding-wont-change-china</a> (2014年04月09日 15:36)
  ---
 In a prying world, news organizations are struggling to encrypt their online products  <a href="http://www.washingtonpost.com/business/technology/in-a-prying-world-news-organizations-are-struggling-to-encrypt-their-online-products/2014/04/04/537d1fec-aed5-11e3-9627-c65021d6d572_story.html">www.washingtonpost.com/business/technology/in-a-prying-world-news-organizations-are-struggling-to-encrypt-their-online-products/2014/04/04/537d1fec-aed5-11e3-9627-c65021d6d572_story.html</a> (2014年04月09日 07:43)
- ---
-RT @gadyepstein: Next stop, democracy! RT @cjbrummitt: Internet memes mocking ruling elite shake up Vietnam @cat_barton explores http://t.c… (2014年04月09日 06:57)
  ---
