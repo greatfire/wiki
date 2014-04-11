@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Govts already have a lot of power to begin with, so when they take advantage of tech, power is magnified <a href="http://www.securityweek.com/surveillance-business-model-internet-bruce-schneier?utm_content=bufferb61e6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.securityweek.com/surveillance-business-model-internet-bruce-schneier</a> (2014年04月11日 18:34)
+ ---
 RT @Martina: Good luck Glenn and keep going for it:) <a href="http://www.huffingtonpost.com/2014/04/10/glenn-greenwald-return-laura-poitras-snowden_n_5125574.html?utm_hp_ref=tw">www.huffingtonpost.com/2014/04/10/glenn-greenwald-return-laura-poitras-snowden_n_5125574.html</a> (2014年04月11日 18:03)
  ---
 RT @RFIChinese: 中国/公民社会: 许志永出新书当天北京法庭驳回上诉: 
@@ -49,6 +51,4 @@ Big Alvin Jiang story here《壹周刊》1224期封面故事： 紅色權貴橫�
 "Hong Kong Will Be Destroyed After 33 Years" - or maybe not. Weibo censors title of scifi film: <a href="http://blog.feichangdao.com/2014/04/sina-weibo-censors-title-of-science.html?utm_content=buffer3ebe3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">blog.feichangdao.com/2014/04/sina-weibo-censors-title-of-science.html</a> (2014年04月10日 06:57)
  ---
 Infographic: Jesus More Popular Than Mao on China's Twitter <a href="http://www.foreignpolicy.com/articles/2014/04/07/jesus_more_popular_than_mao_on_chinese_twitter_infographic?utm_content=bufferebc1d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.foreignpolicy.com/articles/2014/04/07/jesus_more_popular_than_mao_on_chinese_twitter_infographic</a> (2014年04月10日 02:03)
- ---
-Police take away six bus-loads of June 4 petitioners from Baobaoshan Revolutionary Cemetery <a href="http://www.rfa.org/english/news/china/qingming-04072014181919.html?utm_content=bufferbaf4c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.rfa.org/english/news/china/qingming-04072014181919.html</a> (2014年04月09日 22:57)
  ---
