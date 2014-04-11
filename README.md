@@ -10,6 +10,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @JohnSaeki: #INFOGRAPHIC Detained, exiled and restricted: prominent Chinese dissidents @AFP <a href="http://twitpic.com/e0ufkp">twitpic.com/e0ufkp</a> (2014年04月11日 14:23)
+ ---
+RT @niubi: BigV Weibo marketer qin huohuo goes on trial today in beijing 分享网易新闻:「"秦火火"案今上午在北京开审」 链接 <a href="http://3g.163.com/ntes/special/0034073A/iframe.html?url=http://news.163.com/14/0411/00/9PGS6Q1R00014JB6.html">3g.163.com/ntes/special/0034073A/iframe.html</a> will foreign hac… (2014年04月11日 14:20)
+ ---
 Lantern 1.3 版本正式发布，以前用过Lantern的用户请检查邮箱，查看邀请码。已经获得1.3版本邀请码的用户，欢迎反馈翻墙情况到官方论坛 <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=28">lanternforum.greatfire.org/viewtopic.php</a> (2014年04月11日 10:13)
  ---
 RT @getlantern: RT @dw_chinese: Lantern（中文版）获2014德国之声Bobs新媒体大赛最佳技术革新提名。欢迎登陆<a href="http://thebobs.com/chinese/">thebobs.com/chinese/</a>  投票 @getlantern #freetheinternet #defeatc… (2014年04月11日 10:07)
@@ -45,8 +49,4 @@ Why Crowdfunding Won't Change China Anytime Soon | TechPresident <a href="http:/
 In a prying world, news organizations are struggling to encrypt their online products  <a href="http://www.washingtonpost.com/business/technology/in-a-prying-world-news-organizations-are-struggling-to-encrypt-their-online-products/2014/04/04/537d1fec-aed5-11e3-9627-c65021d6d572_story.html">www.washingtonpost.com/business/technology/in-a-prying-world-news-organizations-are-struggling-to-encrypt-their-online-products/2014/04/04/537d1fec-aed5-11e3-9627-c65021d6d572_story.html</a> (2014年04月09日 07:43)
  ---
 RT @gadyepstein: Next stop, democracy! RT @cjbrummitt: Internet memes mocking ruling elite shake up Vietnam @cat_barton explores http://t.c… (2014年04月09日 06:57)
- ---
-RT @feliciasonmez: Anti-corruption activists back on trial in China <a href="http://news.yahoo.com/anti-corruption-activists-back-trial-china-071518977.html">news.yahoo.com/anti-corruption-activists-back-trial-china-071518977.html</a> via @AFP (2014年04月09日 02:03)
- ---
-RT @klustout: "Without knowing the ties binding wealth to power, it's impossible to truly understand the motives that guide policy..." - @b… (2014年04月08日 22:57)
  ---
