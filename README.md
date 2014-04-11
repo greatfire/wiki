@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+At 11:16 EDT RT @wikileaks: FLASH: Glenn Greenwald and Laura Poitras set to touch down in New York on flight SIA26 <a href="http://flightaware.com/live/flight/SIA26">flightaware.com/live/flight/SIA26</a> (2014年04月11日 21:21)
+ ---
 RT @WeiboDataCenter: @snipekmail @TechCrunch @FreeWeibo @WeiboToday oh sorry just saw ur tweet. weibo might be down sometimes but our tech … (2014年04月11日 19:25)
  ---
 Govts already have a lot of power to begin with, so when they take advantage of tech, power is magnified <a href="http://www.securityweek.com/surveillance-business-model-internet-bruce-schneier?utm_content=bufferb61e6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.securityweek.com/surveillance-business-model-internet-bruce-schneier</a> (2014年04月11日 18:34)
@@ -49,6 +51,4 @@ Big Alvin Jiang story here《壹周刊》1224期封面故事： 紅色權貴橫�
 @niubi 大馅饺子圆鑫餐馆, the official dumpling sponsor of @FreeWeibo (2014年04月10日 15:45)
  ---
 看来新浪小秘书也不知道一氧化二氢是什么。 <a href="https://freeweibo.com/weibo/3697520733509504">freeweibo.com/weibo/3697520733509504</a> (2014年04月10日 11:52)
- ---
-"Hong Kong Will Be Destroyed After 33 Years" - or maybe not. Weibo censors title of scifi film: <a href="http://blog.feichangdao.com/2014/04/sina-weibo-censors-title-of-science.html?utm_content=buffer3ebe3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">blog.feichangdao.com/2014/04/sina-weibo-censors-title-of-science.html</a> (2014年04月10日 06:57)
  ---
