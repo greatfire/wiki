@@ -10,7 +10,7 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
-RT @suilee: Prominent Chinese activist, Xu Zhiyong, scorns court as jail term upheld <a href="http://uk.reuters.com/article/2014/04/11/uk-china-activist-idUKBREA3A04P20140411">uk.reuters.com/article/2014/04/11/uk-china-activist-idUKBREA3A04P20140411</a> (2014年04月11日 15:19)
+RT @suilee: Prominent Chinese activist, Xu Zhiyong, scorns court as jail term upheld <a href="http://flip.it/qxLyF">flip.it/qxLyF</a> (2014年04月11日 15:19)
  ---
 RT @JohnSaeki: #INFOGRAPHIC Detained, exiled and restricted: prominent Chinese dissidents @AFP <a href="http://twitpic.com/e0ufkp">twitpic.com/e0ufkp</a> (2014年04月11日 14:23)
  ---
