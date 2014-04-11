@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+"When Google Decides To Delete Your App — Android Developers Beware" <a href="http://andrewpearson.org/?p=681&utm_content=bufferba01a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">andrewpearson.org/</a> (2014年04月12日 02:03)
+ ---
 RT @RebeccaChao8: My latest: #China's Crackdown on Online Rumors Escalates with First Public Trial <a href="http://techpresident.com/news/wegov/24919/chinas-crackdown-online-rumors-escalates-first-public-trial">techpresident.com/news/wegov/24919/chinas-crackdown-online-rumors-escalates-first-public-trial</a> (2014年04月12日 01:24)
  ---
 "Speech: An Open Internet for the whole world" <a href="http://europa.eu/rapid/press-release_SPEECH-14-321_en.htm?utm_content=buffer04e0d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">europa.eu/rapid/press-release_SPEECH-14-321_en.htm</a> - Every citizen can take part and take advantage. (2014年04月11日 22:57)
@@ -49,6 +51,4 @@ RT @wenyunchao: I believe crossing the GFW is the only way for Chinese people to
 Official in charge of GFW jumps to his death - was he about to be fingered on corruption charges? <a href="http://www.washingtonpost.com/world/asia_pacific/mysterious-spate-of-official-suicides-in-china-sparks-debate-censorship/2014/04/10/0f13edea-c0a0-11e3-b195-dd0c1174052c_story.html?tid=hpModule_949fa2be-8691-11e2-9d71-f0feafdd1394">www.washingtonpost.com/world/asia_pacific/mysterious-spate-of-official-suicides-in-china-sparks-debate-censorship/2014/04/10/0f13edea-c0a0-11e3-b195-dd0c1174052c_story.html</a> (2014年04月10日 21:53)
  ---
 RT @MrKennethTan: Seems like everyone I know in China is complaining about the internet today. What's up with that? (2014年04月10日 21:46)
- ---
-Big Alvin Jiang story here《壹周刊》1224期封面故事： 紅色權貴橫行中環 江澤民孫超級基金曝光 <a href="https://s3.amazonaws.com/letscorp_archive/archives/69431">s3.amazonaws.com/letscorp_archive/archives/69431</a> (2014年04月10日 16:37)
  ---
