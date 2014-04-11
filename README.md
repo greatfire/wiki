@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Lantern 1.3 版本正式发布，以前用过Lantern的用户请检查邮箱，查看邀请码。已经获得1.3版本邀请码的用户，欢迎反馈翻墙情况到官方论坛 <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=28">lanternforum.greatfire.org/viewtopic.php</a> (2014年04月11日 10:13)
+ ---
 RT @getlantern: RT @dw_chinese: Lantern（中文版）获2014德国之声Bobs新媒体大赛最佳技术革新提名。欢迎登陆<a href="http://thebobs.com/chinese/">thebobs.com/chinese/</a>  投票 @getlantern #freetheinternet #defeatc… (2014年04月11日 10:07)
  ---
 Murong Xuecun thinks jumping GFW a hassle <a href="http://shanghaiist.com/2014/04/09/interview_emily_parker_author_of_no.php?utm_content=buffer11602&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">shanghaiist.com/2014/04/09/interview_emily_parker_author_of_no.php</a> via @emilydparker (2014年04月11日 02:03)
@@ -47,6 +49,4 @@ RT @gadyepstein: Next stop, democracy! RT @cjbrummitt: Internet memes mocking ru
 RT @feliciasonmez: Anti-corruption activists back on trial in China <a href="http://news.yahoo.com/anti-corruption-activists-back-trial-china-071518977.html">news.yahoo.com/anti-corruption-activists-back-trial-china-071518977.html</a> via @AFP (2014年04月09日 02:03)
  ---
 RT @klustout: "Without knowing the ties binding wealth to power, it's impossible to truly understand the motives that guide policy..." - @b… (2014年04月08日 22:57)
- ---
-RT @coe: Watch again: #Video - Full webcast of Edward Snowden's evidence to #CoE assembly on mass state surveillance. <a href="http://clients.dbee.com/coe/webcast/index.php?id=20140408-1&lang=en">clients.dbee.com/coe/webcast/index.php</a> (2014年04月08日 21:57)
  ---
