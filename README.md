@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @Martina: Good luck Glenn and keep going for it:) <a href="http://www.huffingtonpost.com/2014/04/10/glenn-greenwald-return-laura-poitras-snowden_n_5125574.html?utm_hp_ref=tw">www.huffingtonpost.com/2014/04/10/glenn-greenwald-return-laura-poitras-snowden_n_5125574.html</a> (2014年04月11日 18:03)
+ ---
 RT @RFIChinese: 中国/公民社会: 许志永出新书当天北京法庭驳回上诉: 
 
           北京市高级人民法院4月１１日终审裁定，因为“聚众扰乱公共场所秩序”判监４年的维权律师许志永... <a href="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20140411-%E8%AE%B8%E5%BF%97%E6%B0%B8%E5%87%BA%E6%96%B0%E4%B9%A6%E5%BD%93%E5%A4%A9%E5%8C%97%E4%BA%AC%E6%B3%95%E5%BA%AD%E9%A9%B3%E5%9B%9E%E4%B8%8A%E8%AF%89">www.chinese.rfi.fr/中国/20140411-许志永出新书当天北京法庭驳回上诉</a> (2014年04月11日 17:44)
@@ -49,6 +51,4 @@ Big Alvin Jiang story here《壹周刊》1224期封面故事： 紅色權貴橫�
 Infographic: Jesus More Popular Than Mao on China's Twitter <a href="http://www.foreignpolicy.com/articles/2014/04/07/jesus_more_popular_than_mao_on_chinese_twitter_infographic?utm_content=bufferebc1d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.foreignpolicy.com/articles/2014/04/07/jesus_more_popular_than_mao_on_chinese_twitter_infographic</a> (2014年04月10日 02:03)
  ---
 Police take away six bus-loads of June 4 petitioners from Baobaoshan Revolutionary Cemetery <a href="http://www.rfa.org/english/news/china/qingming-04072014181919.html?utm_content=bufferbaf4c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.rfa.org/english/news/china/qingming-04072014181919.html</a> (2014年04月09日 22:57)
- ---
-Why Crowdfunding Won't Change China Anytime Soon | TechPresident <a href="http://techpresident.com/news/wegov/24902/crowdfunding-wont-change-china#.U0T4iVoYBis.twitter">techpresident.com/news/wegov/24902/crowdfunding-wont-change-china</a> (2014年04月09日 15:36)
  ---
