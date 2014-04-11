@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @RebeccaChao8: My latest: #China's Crackdown on Online Rumors Escalates with First Public Trial <a href="http://techpresident.com/news/wegov/24919/chinas-crackdown-online-rumors-escalates-first-public-trial">techpresident.com/news/wegov/24919/chinas-crackdown-online-rumors-escalates-first-public-trial</a> (2014年04月12日 01:24)
+ ---
 "Speech: An Open Internet for the whole world" <a href="http://europa.eu/rapid/press-release_SPEECH-14-321_en.htm?utm_content=buffer04e0d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">europa.eu/rapid/press-release_SPEECH-14-321_en.htm</a> - Every citizen can take part and take advantage. (2014年04月11日 22:57)
  ---
 At 11:16 EDT RT @wikileaks: FLASH: Glenn Greenwald and Laura Poitras set to touch down in New York on flight SIA26 <a href="http://flightaware.com/live/flight/SIA26">flightaware.com/live/flight/SIA26</a> (2014年04月11日 21:21)
@@ -49,6 +51,4 @@ Official in charge of GFW jumps to his death - was he about to be fingered on co
 RT @MrKennethTan: Seems like everyone I know in China is complaining about the internet today. What's up with that? (2014年04月10日 21:46)
  ---
 Big Alvin Jiang story here《壹周刊》1224期封面故事： 紅色權貴橫行中環 江澤民孫超級基金曝光 <a href="https://s3.amazonaws.com/letscorp_archive/archives/69431">s3.amazonaws.com/letscorp_archive/archives/69431</a> (2014年04月10日 16:37)
- ---
-@niubi 大馅饺子圆鑫餐馆, the official dumpling sponsor of @FreeWeibo (2014年04月10日 15:45)
  ---
