@@ -10,7 +10,11 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
-RT @suilee: Prominent Chinese activist, Xu Zhiyong, scorns court as jail term upheld <a href="http://flip.it/qxLyF">flip.it/qxLyF</a> (2014年04月11日 15:19)
+RT @RFIChinese: 中国/公民社会: 许志永出新书当天北京法庭驳回上诉: 
+
+          北京市高级人民法院4月１１日终审裁定，因为“聚众扰乱公共场所秩序”判监４年的维权律师许志永... <a href="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20140411-%E8%AE%B8%E5%BF%97%E6%B0%B8%E5%87%BA%E6%96%B0%E4%B9%A6%E5%BD%93%E5%A4%A9%E5%8C%97%E4%BA%AC%E6%B3%95%E5%BA%AD%E9%A9%B3%E5%9B%9E%E4%B8%8A%E8%AF%89">www.chinese.rfi.fr/中国/20140411-许志永出新书当天北京法庭驳回上诉</a> (2014年04月11日 17:44)
+ ---
+RT @suilee: Prominent Chinese activist, Xu Zhiyong, scorns court as jail term upheld <a href="http://uk.reuters.com/article/2014/04/11/uk-china-activist-idUKBREA3A04P20140411">uk.reuters.com/article/2014/04/11/uk-china-activist-idUKBREA3A04P20140411</a> (2014年04月11日 15:19)
  ---
 RT @JohnSaeki: #INFOGRAPHIC Detained, exiled and restricted: prominent Chinese dissidents @AFP <a href="http://twitpic.com/e0ufkp">twitpic.com/e0ufkp</a> (2014年04月11日 14:23)
  ---
@@ -47,6 +51,4 @@ Infographic: Jesus More Popular Than Mao on China's Twitter <a href="http://www.
 Police take away six bus-loads of June 4 petitioners from Baobaoshan Revolutionary Cemetery <a href="http://www.rfa.org/english/news/china/qingming-04072014181919.html?utm_content=bufferbaf4c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.rfa.org/english/news/china/qingming-04072014181919.html</a> (2014年04月09日 22:57)
  ---
 Why Crowdfunding Won't Change China Anytime Soon | TechPresident <a href="http://techpresident.com/news/wegov/24902/crowdfunding-wont-change-china#.U0T4iVoYBis.twitter">techpresident.com/news/wegov/24902/crowdfunding-wont-change-china</a> (2014年04月09日 15:36)
- ---
-In a prying world, news organizations are struggling to encrypt their online products  <a href="http://www.washingtonpost.com/business/technology/in-a-prying-world-news-organizations-are-struggling-to-encrypt-their-online-products/2014/04/04/537d1fec-aed5-11e3-9627-c65021d6d572_story.html">www.washingtonpost.com/business/technology/in-a-prying-world-news-organizations-are-struggling-to-encrypt-their-online-products/2014/04/04/537d1fec-aed5-11e3-9627-c65021d6d572_story.html</a> (2014年04月09日 07:43)
  ---
