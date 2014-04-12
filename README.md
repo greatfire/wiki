@@ -50,5 +50,5 @@ RT @taniabranigan: MT @tomphillipsin: Zhejiang Christians shd “fight back vs W
  ---
 RT @wenyunchao: I believe crossing the GFW is the only way for Chinese people to escape censorship, but there is no way to escape self-cens… (2014年04月10日 22:57)
  ---
-Official in charge of GFW jumps to his death - was he about to be fingered on corruption charges? <a href="http://flip.it/5bMD8">flip.it/5bMD8</a> (2014年04月10日 21:53)
+Official in charge of GFW jumps to his death - was he about to be fingered on corruption charges? <a href="http://www.washingtonpost.com/world/asia_pacific/mysterious-spate-of-official-suicides-in-china-sparks-debate-censorship/2014/04/10/0f13edea-c0a0-11e3-b195-dd0c1174052c_story.html?tid=hpModule_949fa2be-8691-11e2-9d71-f0feafdd1394">www.washingtonpost.com/world/asia_pacific/mysterious-spate-of-official-suicides-in-china-sparks-debate-censorship/2014/04/10/0f13edea-c0a0-11e3-b195-dd0c1174052c_story.html</a> (2014年04月10日 21:53)
  ---
