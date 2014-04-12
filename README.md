@@ -16,7 +16,7 @@ RT @RebeccaChao8: My latest: #China's Crackdown on Online Rumors Escalates with 
  ---
 "Speech: An Open Internet for the whole world" <a href="http://europa.eu/rapid/press-release_SPEECH-14-321_en.htm?utm_content=buffer04e0d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">europa.eu/rapid/press-release_SPEECH-14-321_en.htm</a> - Every citizen can take part and take advantage. (2014年04月11日 22:57)
  ---
-At 11:16 EDT RT @wikileaks: FLASH: Glenn Greenwald and Laura Poitras set to touch down in New York on flight SIA26 <a href="http://flip.it/L2yDZ">flip.it/L2yDZ</a> (2014年04月11日 21:21)
+At 11:16 EDT RT @wikileaks: FLASH: Glenn Greenwald and Laura Poitras set to touch down in New York on flight SIA26 <a href="http://flightaware.com/live/flight/SIA26">flightaware.com/live/flight/SIA26</a> (2014年04月11日 21:21)
  ---
 RT @WeiboDataCenter: @snipekmail @TechCrunch @FreeWeibo @WeiboToday oh sorry just saw ur tweet. weibo might be down sometimes but our tech … (2014年04月11日 19:25)
  ---
