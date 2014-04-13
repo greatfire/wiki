@@ -24,7 +24,7 @@ RT @WeiboDataCenter: @snipekmail @TechCrunch @FreeWeibo @WeiboToday oh sorry jus
  ---
 Govts already have a lot of power to begin with, so when they take advantage of tech, power is magnified <a href="http://www.securityweek.com/surveillance-business-model-internet-bruce-schneier?utm_content=bufferb61e6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.securityweek.com/surveillance-business-model-internet-bruce-schneier</a> (2014年04月11日 18:34)
  ---
-RT @Martina: Good luck Glenn and keep going for it:) <a href="http://www.huffingtonpost.com/2014/04/10/glenn-greenwald-return-laura-poitras-snowden_n_5125574.html?utm_hp_ref=tw">www.huffingtonpost.com/2014/04/10/glenn-greenwald-return-laura-poitras-snowden_n_5125574.html</a> (2014年04月11日 18:03)
+RT @Martina: Good luck Glenn and keep going for it:) <a href="http://t.co/n3KuD0v7K6">t.co/n3KuD0v7K6</a> (2014年04月11日 18:03)
  ---
 RT @RFIChinese: 中国/公民社会: 许志永出新书当天北京法庭驳回上诉: 
 
@@ -42,7 +42,7 @@ RT @getlantern: RT @dw_chinese: Lantern（中文版）获2014德国之声Bobs新
  ---
 Murong Xuecun thinks jumping GFW a hassle <a href="http://shanghaiist.com/2014/04/09/interview_emily_parker_author_of_no.php?utm_content=buffer11602&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">shanghaiist.com/2014/04/09/interview_emily_parker_author_of_no.php</a> via @emilydparker (2014年04月11日 02:03)
  ---
-With drones delivering internet does this mean great firewalls will be replaced by surface to air missiles? <a href="http://t.co/ZYSmvPRgys">t.co/ZYSmvPRgys</a> (2014年04月11日 01:36)
+With drones delivering internet does this mean great firewalls will be replaced by surface to air missiles? <a href="http://weeklywonk.newamerica.net/articles/facebook-drones-vacation-starvation/">weeklywonk.newamerica.net/articles/facebook-drones-vacation-starvation/</a> (2014年04月11日 01:36)
  ---
 RT @ChinaFile: China's New Citizens Movement—whose activist lawyer member Xu Zhiyong faces 4yrs in jail—now has a website <a href="http://t.co/lYrSa">t.co/lYrSa</a>… (2014年04月10日 23:28)
  ---
