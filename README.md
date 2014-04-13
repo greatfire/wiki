@@ -24,7 +24,7 @@ RT @WeiboDataCenter: @snipekmail @TechCrunch @FreeWeibo @WeiboToday oh sorry jus
  ---
 Govts already have a lot of power to begin with, so when they take advantage of tech, power is magnified <a href="http://www.securityweek.com/surveillance-business-model-internet-bruce-schneier?utm_content=bufferb61e6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.securityweek.com/surveillance-business-model-internet-bruce-schneier</a> (2014年04月11日 18:34)
  ---
-RT @Martina: Good luck Glenn and keep going for it:) <a href="http://t.co/n3KuD0v7K6">t.co/n3KuD0v7K6</a> (2014年04月11日 18:03)
+RT @Martina: Good luck Glenn and keep going for it:) <a href="http://www.huffingtonpost.com/2014/04/10/glenn-greenwald-return-laura-poitras-snowden_n_5125574.html?utm_hp_ref=tw">www.huffingtonpost.com/2014/04/10/glenn-greenwald-return-laura-poitras-snowden_n_5125574.html</a> (2014年04月11日 18:03)
  ---
 RT @RFIChinese: 中国/公民社会: 许志永出新书当天北京法庭驳回上诉: 
 
