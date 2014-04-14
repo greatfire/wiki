@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+The mysterious disappearance of China’s elite hacking unit <a href="http://www.washingtonpost.com/blogs/the-switch/wp/2014/04/10/the-mysterious-disappearance-of-chinas-elite-hacking-unit/">www.washingtonpost.com/blogs/the-switch/wp/2014/04/10/the-mysterious-disappearance-of-chinas-elite-hacking-unit/</a> - an "adaptive adversary" (2014年04月14日 15:58)
+ ---
 胡锦涛访胡耀邦故居 大公网原文和新浪凤凰网转载都被删除。头像新闻转发微博还在， 腾讯转载还在。 <a href="https://freeweibo.com/weibo/3699181618894612">freeweibo.com/weibo/3699181618894612</a> (2014年04月14日 14:04)
  ---
 路透社头条 特别报道：私募股权基金行业的太子党 <a href="http://cn.reuters.com/article/wtNews/idCNCNEA3A09G20140411">cn.reuters.com/article/wtNews/idCNCNEA3A09G20140411</a> 目前还未被屏蔽 (2014年04月14日 13:41)
@@ -49,6 +51,4 @@ RT @getlantern: RT @dw_chinese: Lantern（中文版）获2014德国之声Bobs新
 Murong Xuecun thinks jumping GFW a hassle <a href="http://shanghaiist.com/2014/04/09/interview_emily_parker_author_of_no.php?utm_content=buffer11602&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">shanghaiist.com/2014/04/09/interview_emily_parker_author_of_no.php</a> via @emilydparker (2014年04月11日 02:03)
  ---
 With drones delivering internet does this mean great firewalls will be replaced by surface to air missiles? <a href="http://weeklywonk.newamerica.net/articles/facebook-drones-vacation-starvation/">weeklywonk.newamerica.net/articles/facebook-drones-vacation-starvation/</a> (2014年04月11日 01:36)
- ---
-RT @ChinaFile: China's New Citizens Movement—whose activist lawyer member Xu Zhiyong faces 4yrs in jail—now has a website <a href="http://t.co/lYrSa">t.co/lYrSa</a>… (2014年04月10日 23:28)
  ---
