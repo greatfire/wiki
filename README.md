@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @mattsheehan88: Lanzhou joking hash tag censored from Weibo: "以人为苯“ @FreeWeibo (2014年04月14日 16:47)
+ ---
 The mysterious disappearance of China’s elite hacking unit <a href="http://www.washingtonpost.com/blogs/the-switch/wp/2014/04/10/the-mysterious-disappearance-of-chinas-elite-hacking-unit/">www.washingtonpost.com/blogs/the-switch/wp/2014/04/10/the-mysterious-disappearance-of-chinas-elite-hacking-unit/</a> - an "adaptive adversary" (2014年04月14日 15:58)
  ---
 胡锦涛访胡耀邦故居 大公网原文和新浪凤凰网转载都被删除。头像新闻转发微博还在， 腾讯转载还在。 <a href="https://freeweibo.com/weibo/3699181618894612">freeweibo.com/weibo/3699181618894612</a> (2014年04月14日 14:04)
@@ -49,6 +51,4 @@ Lantern 1.3 版本正式发布，以前用过Lantern的用户请检查邮箱，�
 RT @getlantern: RT @dw_chinese: Lantern（中文版）获2014德国之声Bobs新媒体大赛最佳技术革新提名。欢迎登陆<a href="http://thebobs.com/chinese/">thebobs.com/chinese/</a>  投票 @getlantern #freetheinternet #defeatc… (2014年04月11日 10:07)
  ---
 Murong Xuecun thinks jumping GFW a hassle <a href="http://shanghaiist.com/2014/04/09/interview_emily_parker_author_of_no.php?utm_content=buffer11602&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">shanghaiist.com/2014/04/09/interview_emily_parker_author_of_no.php</a> via @emilydparker (2014年04月11日 02:03)
- ---
-With drones delivering internet does this mean great firewalls will be replaced by surface to air missiles? <a href="http://weeklywonk.newamerica.net/articles/facebook-drones-vacation-starvation/">weeklywonk.newamerica.net/articles/facebook-drones-vacation-starvation/</a> (2014年04月11日 01:36)
  ---
