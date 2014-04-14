@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT@打假特供 新公民运动网站（<a href="https://zh.greatfire.org/xgmyd.com">zh.greatfire.org/xgmyd.com</a> ）于4月11日正式发布后立即吸引数万浏览量，但仅仅一天之后，防火长城就将网站屏蔽。有鉴于此，我们推出网站镜像：<a href="https://s3-ap-northeast-1.amazonaws.com/xgmyd/index.html">s3-ap-northeast-1.amazonaws.com/xgmyd/index.html</a> 无需翻墙，欢迎传播。 @滕彪 (2014年04月14日 13:34)
+ ---
 RT @oubiaofeng: 給798藝術區高氏兄弟樹上咖啡店守廁所的毛賊⋯⋯ <a href="https://twitter.com/oubiaofeng/status/454903722011664384/photo/1">twitter.com/oubiaofeng/status/454903722011664384/photo/1</a> (2014年04月12日 17:29)
  ---
 "When Google Decides To Delete Your App — Android Developers Beware" <a href="http://andrewpearson.org/?p=681&utm_content=bufferba01a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">andrewpearson.org/</a> (2014年04月12日 02:03)
@@ -49,6 +51,4 @@ RT @ChinaFile: China's New Citizens Movement—whose activist lawyer member Xu Z
 RT @taniabranigan: MT @tomphillipsin: Zhejiang Christians shd “fight back vs Western hostile forces’ attacks on our country re religion” ht… (2014年04月10日 23:23)
  ---
 RT @wenyunchao: I believe crossing the GFW is the only way for Chinese people to escape censorship, but there is no way to escape self-cens… (2014年04月10日 22:57)
- ---
-Official in charge of GFW jumps to his death - was he about to be fingered on corruption charges? <a href="http://www.washingtonpost.com/world/asia_pacific/mysterious-spate-of-official-suicides-in-china-sparks-debate-censorship/2014/04/10/0f13edea-c0a0-11e3-b195-dd0c1174052c_story.html?tid=hpModule_949fa2be-8691-11e2-9d71-f0feafdd1394">www.washingtonpost.com/world/asia_pacific/mysterious-spate-of-official-suicides-in-china-sparks-debate-censorship/2014/04/10/0f13edea-c0a0-11e3-b195-dd0c1174052c_story.html</a> (2014年04月10日 21:53)
  ---
