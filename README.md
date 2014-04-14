@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+胡锦涛访胡耀邦故居 大公网原文和新浪凤凰网转载都被删除。头像新闻转发微博还在， 腾讯转载还在。 <a href="https://freeweibo.com/weibo/3699181618894612">freeweibo.com/weibo/3699181618894612</a> (2014年04月14日 14:04)
+ ---
 路透社头条 特别报道：私募股权基金行业的太子党 <a href="http://cn.reuters.com/article/wtNews/idCNCNEA3A09G20140411">cn.reuters.com/article/wtNews/idCNCNEA3A09G20140411</a> 目前还未被屏蔽 (2014年04月14日 13:41)
  ---
 RT@打假特供 新公民运动网站（<a href="https://zh.greatfire.org/xgmyd.com">zh.greatfire.org/xgmyd.com</a> ）于4月11日正式发布后立即吸引数万浏览量，但仅仅一天之后，防火长城就将网站屏蔽。有鉴于此，我们推出网站镜像：<a href="https://s3-ap-northeast-1.amazonaws.com/xgmyd/index.html">s3-ap-northeast-1.amazonaws.com/xgmyd/index.html</a> 无需翻墙，欢迎传播。 @滕彪 (2014年04月14日 13:34)
@@ -49,6 +51,4 @@ Murong Xuecun thinks jumping GFW a hassle <a href="http://shanghaiist.com/2014/0
 With drones delivering internet does this mean great firewalls will be replaced by surface to air missiles? <a href="http://weeklywonk.newamerica.net/articles/facebook-drones-vacation-starvation/">weeklywonk.newamerica.net/articles/facebook-drones-vacation-starvation/</a> (2014年04月11日 01:36)
  ---
 RT @ChinaFile: China's New Citizens Movement—whose activist lawyer member Xu Zhiyong faces 4yrs in jail—now has a website <a href="http://t.co/lYrSa">t.co/lYrSa</a>… (2014年04月10日 23:28)
- ---
-RT @taniabranigan: MT @tomphillipsin: Zhejiang Christians shd “fight back vs Western hostile forces’ attacks on our country re religion” ht… (2014年04月10日 23:23)
  ---
