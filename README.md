@@ -10,6 +10,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @ChineseWSJ: 【博客：细数五年来北京的雾霾天数】- 北京空气污染的天数到底有多少？这个北京居民心中最感困惑的问题，在美国国务院的帮助下终于有了答案。<a href="http://cn.wsj.com/gb/20140414/ren123211.asp">cn.wsj.com/gb/20140414/ren123211.asp</a> <a href="https://twitter.com/ChineseWSJ/status/455576295909253120/photo/1">twitter.com/ChineseWSJ/status/455576295909253120/photo/1</a> (2014年04月15日 11:04)
+ ---
+RT @ChinaRealTime: How polluted was Beijing from 2008-14? Breaking down the data by U.S. and Chinese standards: <a href="http://blogs.wsj.com/chinarealtime/2014/04/14/beijings-bad-air-days-finally-counted/">blogs.wsj.com/chinarealtime/2014/04/14/beijings-bad-air-days-finally-counted/</a> http… (2014年04月15日 11:03)
+ ---
 RT @emilyrauhala: Clarification: New Citizen mirror site <a href="https://s3-ap-northeast-1.amazonaws.com/xgmyd/index.html">s3-ap-northeast-1.amazonaws.com/xgmyd/index.html</a> uses same strategy as @GreatFireChina, but was not built by… (2014年04月14日 16:57)
  ---
 RT @mattsheehan88: Lanzhou joking hash tag censored from Weibo: "以人为苯“ @FreeWeibo (2014年04月14日 16:47)
@@ -47,8 +51,4 @@ RT @suilee: Prominent Chinese activist, Xu Zhiyong, scorns court as jail term up
 RT @JohnSaeki: #INFOGRAPHIC Detained, exiled and restricted: prominent Chinese dissidents @AFP <a href="http://twitpic.com/e0ufkp">twitpic.com/e0ufkp</a> (2014年04月11日 14:23)
  ---
 RT @niubi: BigV Weibo marketer qin huohuo goes on trial today in beijing 分享网易新闻:「"秦火火"案今上午在北京开审」 链接 <a href="http://3g.163.com/ntes/special/0034073A/iframe.html?url=http://news.163.com/14/0411/00/9PGS6Q1R00014JB6.html">3g.163.com/ntes/special/0034073A/iframe.html</a> will foreign hac… (2014年04月11日 14:20)
- ---
-Lantern 1.3 版本正式发布，以前用过Lantern的用户请检查邮箱，查看邀请码。已经获得1.3版本邀请码的用户，欢迎反馈翻墙情况到官方论坛 <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=28">lanternforum.greatfire.org/viewtopic.php</a> (2014年04月11日 10:13)
- ---
-RT @getlantern: RT @dw_chinese: Lantern（中文版）获2014德国之声Bobs新媒体大赛最佳技术革新提名。欢迎登陆<a href="http://thebobs.com/chinese/">thebobs.com/chinese/</a>  投票 @getlantern #freetheinternet #defeatc… (2014年04月11日 10:07)
  ---
