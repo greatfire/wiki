@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @RTKcn: 21+ RT @likev: 河南联通已开始限制家庭无线路由器的使用 #清网行动 <a href="https://twitter.com/likev/status/455898179133648897/photo/1">twitter.com/likev/status/455898179133648897/photo/1</a> (2014年04月15日 12:26)
+ ---
 RT @ChineseWSJ: 【博客：细数五年来北京的雾霾天数】- 北京空气污染的天数到底有多少？这个北京居民心中最感困惑的问题，在美国国务院的帮助下终于有了答案。<a href="http://cn.wsj.com/gb/20140414/ren123211.asp">cn.wsj.com/gb/20140414/ren123211.asp</a> <a href="https://twitter.com/ChineseWSJ/status/455576295909253120/photo/1">twitter.com/ChineseWSJ/status/455576295909253120/photo/1</a> (2014年04月15日 11:04)
  ---
 RT @ChinaRealTime: How polluted was Beijing from 2008-14? Breaking down the data by U.S. and Chinese standards: <a href="http://blogs.wsj.com/chinarealtime/2014/04/14/beijings-bad-air-days-finally-counted/">blogs.wsj.com/chinarealtime/2014/04/14/beijings-bad-air-days-finally-counted/</a> http… (2014年04月15日 11:03)
@@ -49,6 +51,4 @@ RT @RFIChinese: 中国/公民社会: 许志永出新书当天北京法庭驳回�
 RT @suilee: Prominent Chinese activist, Xu Zhiyong, scorns court as jail term upheld <a href="http://uk.reuters.com/article/2014/04/11/uk-china-activist-idUKBREA3A04P20140411">uk.reuters.com/article/2014/04/11/uk-china-activist-idUKBREA3A04P20140411</a> (2014年04月11日 15:19)
  ---
 RT @JohnSaeki: #INFOGRAPHIC Detained, exiled and restricted: prominent Chinese dissidents @AFP <a href="http://twitpic.com/e0ufkp">twitpic.com/e0ufkp</a> (2014年04月11日 14:23)
- ---
-RT @niubi: BigV Weibo marketer qin huohuo goes on trial today in beijing 分享网易新闻:「"秦火火"案今上午在北京开审」 链接 <a href="http://3g.163.com/ntes/special/0034073A/iframe.html?url=http://news.163.com/14/0411/00/9PGS6Q1R00014JB6.html">3g.163.com/ntes/special/0034073A/iframe.html</a> will foreign hac… (2014年04月11日 14:20)
  ---
