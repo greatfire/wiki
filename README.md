@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+.@cctvnews does it come with Golden Shield and the Great Firewall? (2014年04月16日 19:48)
+ ---
 RT @RTKcn: 21+ RT @likev: 河南联通已开始限制家庭无线路由器的使用 #清网行动 <a href="https://twitter.com/likev/status/455898179133648897/photo/1">twitter.com/likev/status/455898179133648897/photo/1</a> (2014年04月15日 12:26)
  ---
 RT @ChineseWSJ: 【博客：细数五年来北京的雾霾天数】- 北京空气污染的天数到底有多少？这个北京居民心中最感困惑的问题，在美国国务院的帮助下终于有了答案。<a href="http://cn.wsj.com/gb/20140414/ren123211.asp">cn.wsj.com/gb/20140414/ren123211.asp</a> <a href="https://twitter.com/ChineseWSJ/status/455576295909253120/photo/1">twitter.com/ChineseWSJ/status/455576295909253120/photo/1</a> (2014年04月15日 11:04)
@@ -49,6 +51,4 @@ RT @RFIChinese: 中国/公民社会: 许志永出新书当天北京法庭驳回�
           北京市高级人民法院4月１１日终审裁定，因为“聚众扰乱公共场所秩序”判监４年的维权律师许志永... <a href="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20140411-%E8%AE%B8%E5%BF%97%E6%B0%B8%E5%87%BA%E6%96%B0%E4%B9%A6%E5%BD%93%E5%A4%A9%E5%8C%97%E4%BA%AC%E6%B3%95%E5%BA%AD%E9%A9%B3%E5%9B%9E%E4%B8%8A%E8%AF%89">www.chinese.rfi.fr/中国/20140411-许志永出新书当天北京法庭驳回上诉</a> (2014年04月11日 17:44)
  ---
 RT @suilee: Prominent Chinese activist, Xu Zhiyong, scorns court as jail term upheld <a href="http://uk.reuters.com/article/2014/04/11/uk-china-activist-idUKBREA3A04P20140411">uk.reuters.com/article/2014/04/11/uk-china-activist-idUKBREA3A04P20140411</a> (2014年04月11日 15:19)
- ---
-RT @JohnSaeki: #INFOGRAPHIC Detained, exiled and restricted: prominent Chinese dissidents @AFP <a href="http://twitpic.com/e0ufkp">twitpic.com/e0ufkp</a> (2014年04月11日 14:23)
  ---
