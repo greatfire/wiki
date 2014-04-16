@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @thenanfang: Security Guards At Shenzhen Hospital Abuse Cat, Attack Reporters [GRAPHIC] | Nanfang Insider <a href="http://www.thenanfang.com/blog/security-guards-at-shenzhen-hospital-abuse-cat-attack-reporters-graphic/?utm_content=buffer84918&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.thenanfang.com/blog/security-guards-at-shenzhen-hospital-abuse-cat-attack-reporters-graphic/</a> (2014年04月16日 22:57)
+ ---
 RT @YaxueCao: 美国国家公共广播电台原驻中国记者 @limlouisa 出书记述25年前发生在成都、特别是6月5/6两日发生在锦江饭店的屠杀--《人民遗忘共和国》："来了两辆卡车...他们把尸体拖起来就像拖沙袋一样，扔进卡车货斗，就像扔垃圾那样。”  http://… (2014年04月16日 20:15)
  ---
 .@cctvnews does it come with Golden Shield and the Great Firewall? (2014年04月16日 19:48)
@@ -47,8 +49,4 @@ RT @WeiboDataCenter: @snipekmail @TechCrunch @FreeWeibo @WeiboToday oh sorry jus
 Govts already have a lot of power to begin with, so when they take advantage of tech, power is magnified <a href="http://www.securityweek.com/surveillance-business-model-internet-bruce-schneier?utm_content=bufferb61e6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.securityweek.com/surveillance-business-model-internet-bruce-schneier</a> (2014年04月11日 18:34)
  ---
 RT @Martina: Good luck Glenn and keep going for it:) <a href="http://www.huffingtonpost.com/2014/04/10/glenn-greenwald-return-laura-poitras-snowden_n_5125574.html?utm_hp_ref=tw">www.huffingtonpost.com/2014/04/10/glenn-greenwald-return-laura-poitras-snowden_n_5125574.html</a> (2014年04月11日 18:03)
- ---
-RT @RFIChinese: 中国/公民社会: 许志永出新书当天北京法庭驳回上诉: 
-
-          北京市高级人民法院4月１１日终审裁定，因为“聚众扰乱公共场所秩序”判监４年的维权律师许志永... <a href="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20140411-%E8%AE%B8%E5%BF%97%E6%B0%B8%E5%87%BA%E6%96%B0%E4%B9%A6%E5%BD%93%E5%A4%A9%E5%8C%97%E4%BA%AC%E6%B3%95%E5%BA%AD%E9%A9%B3%E5%9B%9E%E4%B8%8A%E8%AF%89">www.chinese.rfi.fr/中国/20140411-许志永出新书当天北京法庭驳回上诉</a> (2014年04月11日 17:44)
  ---
