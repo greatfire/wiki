@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @FreeWeibo: 【无厘头】一个被认定嫖娼，涉嫌聚众淫乱的犯罪嫌疑人，竟然为网络言论认罪悔罪，警示网络大V,太搞笑了！<a href="http://news.sina.com.cn/c/2014-04-16/205629948692.shtml">news.sina.com.cn/c/2014-04-16/205629948692.shtml</a> <a href="https://freeweibo.com/weibo/3700114382830367">freeweibo.com/weibo/3700114382830367</a> <a href="https://twitter.com/FreeWeibo/status/456599992187092993/photo/1">twitter.com/FreeWeibo/status/456599992187092993/photo/1</a> (2014年04月17日 12:48)
+ ---
 RT @wafarris: Tiananmen Watch: Sina Weibo Relaxes Censorship of Discussion of Hu Yaobang, Baidu PostBar Doesn't <a href="http://blog.feichangdao.com/2014/04/tiananmen-watch-sina-weibo-relaxes.html?utm_content=buffer15eae&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">blog.feichangdao.com/2014/04/tiananmen-watch-sina-weibo-relaxes.html</a> (2014年04月17日 02:03)
  ---
 RT @thenanfang: Security Guards At Shenzhen Hospital Abuse Cat, Attack Reporters [GRAPHIC] | Nanfang Insider <a href="http://www.thenanfang.com/blog/security-guards-at-shenzhen-hospital-abuse-cat-attack-reporters-graphic/?utm_content=buffer84918&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.thenanfang.com/blog/security-guards-at-shenzhen-hospital-abuse-cat-attack-reporters-graphic/</a> (2014年04月16日 22:57)
@@ -47,6 +49,4 @@ RT @RebeccaChao8: My latest: #China's Crackdown on Online Rumors Escalates with 
 At 11:16 EDT RT @wikileaks: FLASH: Glenn Greenwald and Laura Poitras set to touch down in New York on flight SIA26 <a href="http://flightaware.com/live/flight/SIA26">flightaware.com/live/flight/SIA26</a> (2014年04月11日 21:21)
  ---
 RT @WeiboDataCenter: @snipekmail @TechCrunch @FreeWeibo @WeiboToday oh sorry just saw ur tweet. weibo might be down sometimes but our tech … (2014年04月11日 19:25)
- ---
-Govts already have a lot of power to begin with, so when they take advantage of tech, power is magnified <a href="http://www.securityweek.com/surveillance-business-model-internet-bruce-schneier?utm_content=bufferb61e6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.securityweek.com/surveillance-business-model-internet-bruce-schneier</a> (2014年04月11日 18:34)
  ---
