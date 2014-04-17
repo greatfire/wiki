@@ -38,7 +38,7 @@ The mysterious disappearance of China’s elite hacking unit <a href="http://www
  ---
 路透社头条 特别报道：私募股权基金行业的太子党 <a href="http://cn.reuters.com/article/wtNews/idCNCNEA3A09G20140411">cn.reuters.com/article/wtNews/idCNCNEA3A09G20140411</a> 目前还未被屏蔽 (2014年04月14日 13:41)
  ---
-RT@打假特供 新公民运动网站（<a href="https://zh.greatfire.org/xgmyd.com">zh.greatfire.org/xgmyd.com</a> ）于4月11日正式发布后立即吸引数万浏览量，但仅仅一天之后，防火长城就将网站屏蔽。有鉴于此，我们推出网站镜像：<a href="https://t.co/vd3cw1MH6a">t.co/vd3cw1MH6a</a> 无需翻墙，欢迎传播。 @滕彪 (2014年04月14日 13:34)
+RT@打假特供 新公民运动网站（<a href="https://zh.greatfire.org/xgmyd.com">zh.greatfire.org/xgmyd.com</a> ）于4月11日正式发布后立即吸引数万浏览量，但仅仅一天之后，防火长城就将网站屏蔽。有鉴于此，我们推出网站镜像：<a href="https://s3-ap-northeast-1.amazonaws.com/xgmyd/index.html">s3-ap-northeast-1.amazonaws.com/xgmyd/index.html</a> 无需翻墙，欢迎传播。 @滕彪 (2014年04月14日 13:34)
  ---
 RT @oubiaofeng: 給798藝術區高氏兄弟樹上咖啡店守廁所的毛賊⋯⋯ <a href="https://twitter.com/oubiaofeng/status/454903722011664384/photo/1">twitter.com/oubiaofeng/status/454903722011664384/photo/1</a> (2014年04月12日 17:29)
  ---
