@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+IDG Connect – Did LinkedIn Look Before Leaping the Great Firewall of China? <a href="http://www.idgconnect.com/abstract/7589/did-linkedin-look-before-leaping-great-firewall-china">www.idgconnect.com/abstract/7589/did-linkedin-look-before-leaping-great-firewall-china</a> 来自 @idgconnect (2014年04月17日 14:01)
+ ---
 RT @RTKcn: 21+ RT @samichl: 转：关于薛蛮子的网安中心指示 <a href="https://twitter.com/samichl/status/456619969019539456/photo/1">twitter.com/samichl/status/456619969019539456/photo/1</a> (2014年04月17日 12:50)
  ---
 RT @FreeWeibo: 【无厘头】一个被认定嫖娼，涉嫌聚众淫乱的犯罪嫌疑人，竟然为网络言论认罪悔罪，警示网络大V,太搞笑了！<a href="http://news.sina.com.cn/c/2014-04-16/205629948692.shtml">news.sina.com.cn/c/2014-04-16/205629948692.shtml</a> <a href="https://freeweibo.com/weibo/3700114382830367">freeweibo.com/weibo/3700114382830367</a> <a href="https://twitter.com/FreeWeibo/status/456599992187092993/photo/1">twitter.com/FreeWeibo/status/456599992187092993/photo/1</a> (2014年04月17日 12:48)
@@ -47,6 +49,4 @@ RT @oubiaofeng: 給798藝術區高氏兄弟樹上咖啡店守廁所的毛賊⋯�
 RT @RebeccaChao8: My latest: #China's Crackdown on Online Rumors Escalates with First Public Trial <a href="http://techpresident.com/news/wegov/24919/chinas-crackdown-online-rumors-escalates-first-public-trial">techpresident.com/news/wegov/24919/chinas-crackdown-online-rumors-escalates-first-public-trial</a> (2014年04月12日 01:24)
  ---
 "Speech: An Open Internet for the whole world" <a href="http://europa.eu/rapid/press-release_SPEECH-14-321_en.htm?utm_content=buffer04e0d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">europa.eu/rapid/press-release_SPEECH-14-321_en.htm</a> - Every citizen can take part and take advantage. (2014年04月11日 22:57)
- ---
-At 11:16 EDT RT @wikileaks: FLASH: Glenn Greenwald and Laura Poitras set to touch down in New York on flight SIA26 <a href="http://flightaware.com/live/flight/SIA26">flightaware.com/live/flight/SIA26</a> (2014年04月11日 21:21)
  ---
