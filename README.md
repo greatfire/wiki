@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @williamnee: Lin Dong should be freed! Labour advocate helping Dongguan factory strike arrested over WeChat message <a href="http://t.co/zTBbdJc5">t.co/zTBbdJc5</a>… (2014年04月30日 20:51)
+ ---
 RT @mranti: 习还在视察的时候都能发生火车站爆炸，新疆官员的面子哪里搁？ (2014年04月30日 20:49)
  ---
 RT @XHNews: A blast hits a railway station in Urumqi, capital of northwest China's Xinjiang Uygur Autonomous Region (2014年04月30日 20:47)
@@ -48,6 +50,4 @@ RT @rmack: Dear #FOC14 people: I moderate"1internet" panel @ 11:30am soon. <a hr
 RT @niubi: “@paulmozur: when will China's Internet moral police get to smartphones. A lot of apps... feature lots of lewd content.” Games/m… (2014年04月29日 15:19)
  ---
 Download the unblockable @FreeWeibo Android app via these links: <a href="https://s3.amazonaws.com/freeweibo./index.html?u=android">s3.amazonaws.com/freeweibo./index.html</a> (2014年04月29日 15:08)
- ---
-RT @jasonqng: My slides and notes from my #TtW14 presentation on Chinese online encyclopedias <a href="https://docs.google.com/presentation/d/1PCmg8IMa4PrdmbOEJz5nC-9RynOpbt9e0N7Oq-NUAY4/edit?usp=sharing">docs.google.com/presentation/d/1PCmg8IMa4PrdmbOEJz5nC-9RynOpbt9e0N7Oq-NUAY4/edit</a> @gilgul @KaiserKuo @f… (2014年04月29日 12:30)
  ---
