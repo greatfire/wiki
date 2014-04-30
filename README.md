@@ -10,43 +10,45 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
-RT @niubi: Jailing of (Yet Another) Corrupt Internet Police Officer Shows How Censors Interact with Webmasters <a href="http://blog.feichangdao.com/2014/04/jailing-of-yet-another-corrupt-internet.html?m=1">blog.feichangdao.com/2014/04/jailing-of-yet-another-corrupt-internet.html</a> (2014年04月17日 15:27)
+Cao Shunli nominated posthumously for @martinennals award usually given to HR activists as way to protect them <a href="http://vimeo.com/92709800">vimeo.com/92709800</a> (2014年04月30日 15:44)
  ---
-IDG Connect – Did LinkedIn Look Before Leaping the Great Firewall of China? <a href="http://www.idgconnect.com/abstract/7589/did-linkedin-look-before-leaping-great-firewall-china">www.idgconnect.com/abstract/7589/did-linkedin-look-before-leaping-great-firewall-china</a> 来自 @idgconnect (2014年04月17日 14:01)
+Fans Paint U.S. Shows as Friendly to the Party <a href="HTTP://http:////www-nc.nytimes.com/2014/04/28/fans-paint-u-s-shows-as-friendly-to-the-party/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2014/04/28/fans-paint-u-s-shows-as-friendly-to-the-party/</a> (2014年04月30日 09:55)
  ---
-RT @RTKcn: 21+ RT @samichl: 转：关于薛蛮子的网安中心指示 <a href="https://twitter.com/samichl/status/456619969019539456/photo/1">twitter.com/samichl/status/456619969019539456/photo/1</a> (2014年04月17日 12:50)
+《华尔街日报》1989年4月28日 对六四事件报告原文 <a href="http://cn.wsj.com/gb/20140429/rlw160233.asp">cn.wsj.com/gb/20140429/rlw160233.asp</a> 目前还未被屏蔽 <a href="https://zh.greatfire.org/cn.wsj.com/gb/20140429/rlw160233.asp">zh.greatfire.org/cn.wsj.com/gb/20140429/rlw160233.asp</a> (2014年04月30日 09:46)
  ---
-RT @FreeWeibo: 【无厘头】一个被认定嫖娼，涉嫌聚众淫乱的犯罪嫌疑人，竟然为网络言论认罪悔罪，警示网络大V,太搞笑了！<a href="http://news.sina.com.cn/c/2014-04-16/205629948692.shtml">news.sina.com.cn/c/2014-04-16/205629948692.shtml</a> <a href="https://freeweibo.com/weibo/3700114382830367">freeweibo.com/weibo/3700114382830367</a> <a href="https://twitter.com/FreeWeibo/status/456599992187092993/photo/1">twitter.com/FreeWeibo/status/456599992187092993/photo/1</a> (2014年04月17日 12:48)
+人民日报发文职责人民日报模仿账号 @relevantorgans  <a href="http://cn.wsj.com/gb/20140428/rlw172502.asp">cn.wsj.com/gb/20140428/rlw172502.asp</a>  模仿账号感谢@PDChina维护中国主权并保持原则直立（勃起）。 <a href="http://english.people.com.cn/90782/8588918.html">english.people.com.cn/90782/8588918.html</a> (2014年04月30日 09:33)
  ---
-RT @wafarris: Tiananmen Watch: Sina Weibo Relaxes Censorship of Discussion of Hu Yaobang, Baidu PostBar Doesn't <a href="http://blog.feichangdao.com/2014/04/tiananmen-watch-sina-weibo-relaxes.html?utm_content=buffer15eae&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">blog.feichangdao.com/2014/04/tiananmen-watch-sina-weibo-relaxes.html</a> (2014年04月17日 02:03)
+RT @relevantorgans: Proud to see @PDChina upholding solemnity and dignity of Chinese government publications. Keep those standards erect! h… (2014年04月30日 09:26)
  ---
-RT @thenanfang: Security Guards At Shenzhen Hospital Abuse Cat, Attack Reporters [GRAPHIC] | Nanfang Insider <a href="http://www.thenanfang.com/blog/security-guards-at-shenzhen-hospital-abuse-cat-attack-reporters-graphic/?utm_content=buffer84918&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.thenanfang.com/blog/security-guards-at-shenzhen-hospital-abuse-cat-attack-reporters-graphic/</a> (2014年04月16日 22:57)
+RT @PDChina: Account @relevantorgans is breaking Twitter Rules for impersonation &amp; fails to comply with parody a/c requirements http://t.co… (2014年04月30日 09:25)
  ---
-RT @YaxueCao: 美国国家公共广播电台原驻中国记者 @limlouisa 出书记述25年前发生在成都、特别是6月5/6两日发生在锦江饭店的屠杀--《人民遗忘共和国》："来了两辆卡车...他们把尸体拖起来就像拖沙袋一样，扔进卡车货斗，就像扔垃圾那样。”  http://… (2014年04月16日 20:15)
+RT @limlouisa: “I took this class bc I am the generation that’s being brainwashed,” Chinese student in Harvard's Tiananmen class http://t.c… (2014年04月30日 06:57)
  ---
-.@cctvnews does it come with Golden Shield and the Great Firewall? (2014年04月16日 19:48)
+RT @ChinaRealTime: 'The democratic era in China starts from today.' WSJ story on April 28, 1989 <a href="http://blogs.wsj.com/chinarealtime/2014/04/29/wsj-archives-25-years-ago-in-beijing-a-key-shift-in-tiananmen-protests/">blogs.wsj.com/chinarealtime/2014/04/29/wsj-archives-25-years-ago-in-beijing-a-key-shift-in-tiananmen-protests/</a> (Image: AP) http://t… (2014年04月30日 02:03)
  ---
-RT @RTKcn: 21+ RT @likev: 河南联通已开始限制家庭无线路由器的使用 #清网行动 <a href="https://twitter.com/likev/status/455898179133648897/photo/1">twitter.com/likev/status/455898179133648897/photo/1</a> (2014年04月15日 12:26)
+RT @Andrew_Schorr: Don't underestimate China's willingness to degrade ALL (encrypted) traffic when deemed necessary #CollateralFreedom http… (2014年04月29日 22:57)
  ---
-RT @ChineseWSJ: 【博客：细数五年来北京的雾霾天数】- 北京空气污染的天数到底有多少？这个北京居民心中最感困惑的问题，在美国国务院的帮助下终于有了答案。<a href="http://cn.wsj.com/gb/20140414/ren123211.asp">cn.wsj.com/gb/20140414/ren123211.asp</a> <a href="https://twitter.com/ChineseWSJ/status/455576295909253120/photo/1">twitter.com/ChineseWSJ/status/455576295909253120/photo/1</a> (2014年04月15日 11:04)
+Internet users, these are your human rights <a href="http://www.coe.int/web/internet-users-rights/guide">www.coe.int/web/internet-users-rights/guide</a> #FOC14 (2014年04月29日 17:12)
  ---
-RT @ChinaRealTime: How polluted was Beijing from 2008-14? Breaking down the data by U.S. and Chinese standards: <a href="http://blogs.wsj.com/chinarealtime/2014/04/14/beijings-bad-air-days-finally-counted/">blogs.wsj.com/chinarealtime/2014/04/14/beijings-bad-air-days-finally-counted/</a> http… (2014年04月15日 11:03)
+RT @guyberger: Some govts say One Internet is a cover for mercantilism &amp; cultural/linguistic imperialism, says @rmack #FOC14 (2014年04月29日 16:59)
  ---
-RT @emilyrauhala: Clarification: New Citizen mirror site <a href="https://s3-ap-northeast-1.amazonaws.com/xgmyd/index.html">s3-ap-northeast-1.amazonaws.com/xgmyd/index.html</a> uses same strategy as @GreatFireChina, but was not built by… (2014年04月14日 16:57)
+RT @figge: ”Democracy” is often code word for state-only representation in Internet Governance. "Democratic MS-ism" better term. #FOC14 (2014年04月29日 16:55)
  ---
-RT @mattsheehan88: Lanzhou joking hash tag censored from Weibo: "以人为苯“ @FreeWeibo (2014年04月14日 16:47)
+RT @XHNews: Facebook in trouble against China's Tencent? <a href="http://www.youtube.com/watch?v=QHz5qwwFtjs">www.youtube.com/watch</a> great propaganda w/ @jeffreytowson no censorship mention (2014年04月29日 16:50)
  ---
-The mysterious disappearance of China’s elite hacking unit <a href="http://www.washingtonpost.com/blogs/the-switch/wp/2014/04/10/the-mysterious-disappearance-of-chinas-elite-hacking-unit/">www.washingtonpost.com/blogs/the-switch/wp/2014/04/10/the-mysterious-disappearance-of-chinas-elite-hacking-unit/</a> - an "adaptive adversary" (2014年04月14日 15:58)
+RT @dgatterdam: Chinese journalist Gao Yu is missing - <a href="http://cpj.org/blog/2014/04/chinese-journalist-gao-yu-is-missing.php">cpj.org/blog/2014/04/chinese-journalist-gao-yu-is-missing.php</a> 
+@tengbiao (2014年04月29日 16:00)
  ---
-胡锦涛访胡耀邦故居 大公网原文和新浪凤凰网转载都被删除。头像新闻转发微博还在， 腾讯转载还在。 <a href="https://freeweibo.com/weibo/3699181618894612">freeweibo.com/weibo/3699181618894612</a> (2014年04月14日 14:04)
+RT @rmack: Dear #FOC14 people: I moderate"1internet" panel @ 11:30am soon. <a href="http://www.freedomonline.ee/detailed">www.freedomonline.ee/detailed</a> pls send questions! #netfreedom #netmundi… (2014年04月29日 15:34)
  ---
-路透社头条 特别报道：私募股权基金行业的太子党 <a href="http://cn.reuters.com/article/wtNews/idCNCNEA3A09G20140411">cn.reuters.com/article/wtNews/idCNCNEA3A09G20140411</a> 目前还未被屏蔽 (2014年04月14日 13:41)
+RT @niubi: “@paulmozur: when will China's Internet moral police get to smartphones. A lot of apps... feature lots of lewd content.” Games/m… (2014年04月29日 15:19)
  ---
-RT@打假特供 新公民运动网站（<a href="https://zh.greatfire.org/xgmyd.com">zh.greatfire.org/xgmyd.com</a> ）于4月11日正式发布后立即吸引数万浏览量，但仅仅一天之后，防火长城就将网站屏蔽。有鉴于此，我们推出网站镜像：<a href="https://s3-ap-northeast-1.amazonaws.com/xgmyd/index.html">s3-ap-northeast-1.amazonaws.com/xgmyd/index.html</a> 无需翻墙，欢迎传播。 @滕彪 (2014年04月14日 13:34)
+Download the unblockable @FreeWeibo Android app via these links: <a href="https://s3.amazonaws.com/freeweibo./index.html?u=android">s3.amazonaws.com/freeweibo./index.html</a> (2014年04月29日 15:08)
  ---
-RT @oubiaofeng: 給798藝術區高氏兄弟樹上咖啡店守廁所的毛賊⋯⋯ <a href="https://twitter.com/oubiaofeng/status/454903722011664384/photo/1">twitter.com/oubiaofeng/status/454903722011664384/photo/1</a> (2014年04月12日 17:29)
+RT @jasonqng: My slides and notes from my #TtW14 presentation on Chinese online encyclopedias <a href="https://docs.google.com/presentation/d/1PCmg8IMa4PrdmbOEJz5nC-9RynOpbt9e0N7Oq-NUAY4/edit?usp=sharing">docs.google.com/presentation/d/1PCmg8IMa4PrdmbOEJz5nC-9RynOpbt9e0N7Oq-NUAY4/edit</a> @gilgul @KaiserKuo @f… (2014年04月29日 12:30)
  ---
-"When Google Decides To Delete Your App — Android Developers Beware" <a href="http://andrewpearson.org/?p=681&utm_content=bufferba01a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">andrewpearson.org/</a> (2014年04月12日 02:03)
+Breaking News: Reports on China ordering 4 U.S. Shows Off Streaming Sites censored. <a href="https://freeweibo.com/en/weibo/3704342248507132">freeweibo.com/en/weibo/3704342248507132</a> (2014年04月29日 12:22)
  ---
-RT @RebeccaChao8: My latest: #China's Crackdown on Online Rumors Escalates with First Public Trial <a href="http://techpresident.com/news/wegov/24919/chinas-crackdown-online-rumors-escalates-first-public-trial">techpresident.com/news/wegov/24919/chinas-crackdown-online-rumors-escalates-first-public-trial</a> (2014年04月12日 01:24)
+RT @RTKcn: 21+ RT @TangDami: 生活大爆炸被封的原因：估计就是前几集有个讽刺中国科研小组拿着国家预算伪造数据的情节，于是现在中枪了。
+本来以为是个笑话，光腚一封我就觉得是真的了 (2014年04月29日 08:21)
  ---
