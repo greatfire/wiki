@@ -10,6 +10,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @mranti: 习还在视察的时候都能发生火车站爆炸，新疆官员的面子哪里搁？ (2014年04月30日 20:49)
+ ---
+RT @XHNews: A blast hits a railway station in Urumqi, capital of northwest China's Xinjiang Uygur Autonomous Region (2014年04月30日 20:47)
+ ---
 Cao Shunli nominated posthumously for @martinennals award usually given to HR activists as way to protect them <a href="http://vimeo.com/92709800">vimeo.com/92709800</a> (2014年04月30日 15:44)
  ---
 Fans Paint U.S. Shows as Friendly to the Party <a href="HTTP://http:////www-nc.nytimes.com/2014/04/28/fans-paint-u-s-shows-as-friendly-to-the-party/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2014/04/28/fans-paint-u-s-shows-as-friendly-to-the-party/</a> (2014年04月30日 09:55)
@@ -46,9 +50,4 @@ RT @niubi: “@paulmozur: when will China's Internet moral police get to smartph
 Download the unblockable @FreeWeibo Android app via these links: <a href="https://s3.amazonaws.com/freeweibo./index.html?u=android">s3.amazonaws.com/freeweibo./index.html</a> (2014年04月29日 15:08)
  ---
 RT @jasonqng: My slides and notes from my #TtW14 presentation on Chinese online encyclopedias <a href="https://docs.google.com/presentation/d/1PCmg8IMa4PrdmbOEJz5nC-9RynOpbt9e0N7Oq-NUAY4/edit?usp=sharing">docs.google.com/presentation/d/1PCmg8IMa4PrdmbOEJz5nC-9RynOpbt9e0N7Oq-NUAY4/edit</a> @gilgul @KaiserKuo @f… (2014年04月29日 12:30)
- ---
-Breaking News: Reports on China ordering 4 U.S. Shows Off Streaming Sites censored. <a href="https://freeweibo.com/en/weibo/3704342248507132">freeweibo.com/en/weibo/3704342248507132</a> (2014年04月29日 12:22)
- ---
-RT @RTKcn: 21+ RT @TangDami: 生活大爆炸被封的原因：估计就是前几集有个讽刺中国科研小组拿着国家预算伪造数据的情节，于是现在中枪了。
-本来以为是个笑话，光腚一封我就觉得是真的了 (2014年04月29日 08:21)
  ---
