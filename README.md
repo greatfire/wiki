@@ -10,6 +10,9 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+中国视频网站与广电总局的“猫鼠游戏” <a href="http://cn.tmagazine.com/film-tv/20140430/tc30shows/">cn.tmagazine.com/film-tv/20140430/tc30shows/</a>
+"目前网站大多延用据传是一套审查技术：根据用户上传视频有较大一部分重复的特征，设置MD5码违规内容匹配系统。当第二个用户上传的曾经被删除过的视频，其视频文件值和系统中的违规内容匹配." (2014年05月01日 10:34)
+ ---
 State media @XHNews report on Xinjiang Rail station blast censored! <a href="https://freeweibo.com/en/weibo/%40%E6%96%B0%E5%8D%8E-%E6%88%91%E6%8A%A5%E9%81%93">freeweibo.com/en/weibo/@新华-我报道</a> (2014年05月01日 09:51)
  ---
 RT @RTKcn: 17+ RT @zuola: 社交网络上关于乌鲁木齐火车站爆炸的细节 <a href="https://storify.com/zuola/urumqi">storify.com/zuola/urumqi</a> <a href="https://twitter.com/zuola/status/461507886976225280/photo/1">twitter.com/zuola/status/461507886976225280/photo/1</a> (2014年05月01日 08:32)
@@ -47,7 +50,4 @@ RT @guyberger: Some govts say One Internet is a cover for mercantilism &amp; cul
 RT @figge: ”Democracy” is often code word for state-only representation in Internet Governance. "Democratic MS-ism" better term. #FOC14 (2014年04月29日 16:55)
  ---
 RT @XHNews: Facebook in trouble against China's Tencent? <a href="http://www.youtube.com/watch?v=QHz5qwwFtjs">www.youtube.com/watch</a> great propaganda w/ @jeffreytowson no censorship mention (2014年04月29日 16:50)
- ---
-RT @dgatterdam: Chinese journalist Gao Yu is missing - <a href="http://cpj.org/blog/2014/04/chinese-journalist-gao-yu-is-missing.php">cpj.org/blog/2014/04/chinese-journalist-gao-yu-is-missing.php</a> 
-@tengbiao (2014年04月29日 16:00)
  ---
