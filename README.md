@@ -19,7 +19,7 @@ State media @XHNews report on Xinjiang Rail station blast censored! <a href="htt
  ---
 RT @RTKcn: 17+ RT @zuola: 社交网络上关于乌鲁木齐火车站爆炸的细节 <a href="https://storify.com/zuola/urumqi">storify.com/zuola/urumqi</a> <a href="https://twitter.com/zuola/status/461507886976225280/photo/1">twitter.com/zuola/status/461507886976225280/photo/1</a> (2014年05月01日 08:32)
  ---
-Asia Chats: LINE Censored Keywords Update <a href="https://t.co/JHsSgaXwgV">t.co/JHsSgaXwgV</a> (2014年05月01日 08:25)
+Asia Chats: LINE Censored Keywords Update <a href="https://citizenlab.org/2014/04/line-censored-keywords-update/">citizenlab.org/2014/04/line-censored-keywords-update/</a> (2014年05月01日 08:25)
  ---
 RT @williamnee: Lin Dong should be freed! Labour advocate helping Dongguan factory strike arrested over WeChat message <a href="http://t.co/zTBbdJc5">t.co/zTBbdJc5</a>… (2014年04月30日 20:51)
  ---
