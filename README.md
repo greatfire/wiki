@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+State media @XHNews report on Xinjiang Rail station blast censored! <a href="https://freeweibo.com/en/weibo/%40%E6%96%B0%E5%8D%8E-%E6%88%91%E6%8A%A5%E9%81%93">freeweibo.com/en/weibo/@新华-我报道</a> (2014年05月01日 09:51)
+ ---
 RT @RTKcn: 17+ RT @zuola: 社交网络上关于乌鲁木齐火车站爆炸的细节 <a href="https://storify.com/zuola/urumqi">storify.com/zuola/urumqi</a> <a href="https://twitter.com/zuola/status/461507886976225280/photo/1">twitter.com/zuola/status/461507886976225280/photo/1</a> (2014年05月01日 08:32)
  ---
 Asia Chats: LINE Censored Keywords Update <a href="https://citizenlab.org/2014/04/line-censored-keywords-update/">citizenlab.org/2014/04/line-censored-keywords-update/</a> (2014年05月01日 08:25)
@@ -48,6 +50,4 @@ RT @XHNews: Facebook in trouble against China's Tencent? <a href="http://www.you
  ---
 RT @dgatterdam: Chinese journalist Gao Yu is missing - <a href="http://cpj.org/blog/2014/04/chinese-journalist-gao-yu-is-missing.php">cpj.org/blog/2014/04/chinese-journalist-gao-yu-is-missing.php</a> 
 @tengbiao (2014年04月29日 16:00)
- ---
-RT @rmack: Dear #FOC14 people: I moderate"1internet" panel @ 11:30am soon. <a href="http://www.freedomonline.ee/detailed">www.freedomonline.ee/detailed</a> pls send questions! #netfreedom #netmundi… (2014年04月29日 15:34)
  ---
