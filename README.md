@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @gadyepstein: We would love to publish your book, minus a few bits… <a href="http://www.nytimes.com/glogin?mobile=1&URI=http%3A%2F%2Fmobile.nytimes.com%2F2014%2F05%2F03%2Fopinion%2Fsunday%2Fchinas-censored-world.html">www.nytimes.com/glogin</a> @eosnos on why he said no to a mainland Chine… (2014年05月02日 23:03)
+ ---
 Story behind the stories, some published and some which may never come to light <a href="http://www.cjr.org/feature/bloombergs_folly.php">www.cjr.org/feature/bloombergs_folly.php</a> via @hofrench (2014年05月02日 22:57)
  ---
 On censorship of Xinjiang blast: “If the authorities don’t trust the public, why on earth should they trust you?” <a href="http://www.scmp.com/news/china/article/1501612/sina-weibo-censored-news-alerts-urumqi-train-blasts?utm_content=buffer0e688&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.scmp.com/news/china/article/1501612/sina-weibo-censored-news-alerts-urumqi-train-blasts</a> (2014年05月02日 18:17)
@@ -48,6 +50,4 @@ Fans Paint U.S. Shows as Friendly to the Party <a href="HTTP://http:////www-nc.n
 RT @relevantorgans: Proud to see @PDChina upholding solemnity and dignity of Chinese government publications. Keep those standards erect! h… (2014年04月30日 09:26)
  ---
 RT @PDChina: Account @relevantorgans is breaking Twitter Rules for impersonation &amp; fails to comply with parody a/c requirements http://t.co… (2014年04月30日 09:25)
- ---
-RT @limlouisa: “I took this class bc I am the generation that’s being brainwashed,” Chinese student in Harvard's Tiananmen class http://t.c… (2014年04月30日 06:57)
  ---
