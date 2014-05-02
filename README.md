@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Agree: How come associates of Xi Jinping family making death threats to journo never became story in itself? <a href="http://bloodandtreasure.typepad.com/blood_treasure/2014/05/heroic-jobs.html?utm_content=buffer70cac&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">bloodandtreasure.typepad.com/blood_treasure/2014/05/heroic-jobs.html</a> (2014年05月03日 02:03)
+ ---
 RT @gadyepstein: We would love to publish your book, minus a few bits… <a href="http://www.nytimes.com/glogin?mobile=1&URI=http%3A%2F%2Fmobile.nytimes.com%2F2014%2F05%2F03%2Fopinion%2Fsunday%2Fchinas-censored-world.html">www.nytimes.com/glogin</a> @eosnos on why he said no to a mainland Chine… (2014年05月02日 23:03)
  ---
 Story behind the stories, some published and some which may never come to light <a href="http://www.cjr.org/feature/bloombergs_folly.php">www.cjr.org/feature/bloombergs_folly.php</a> via @hofrench (2014年05月02日 22:57)
@@ -48,6 +50,4 @@ Fans Paint U.S. Shows as Friendly to the Party <a href="HTTP://http:////www-nc.n
 人民日报发文职责人民日报模仿账号 @relevantorgans  <a href="http://cn.wsj.com/gb/20140428/rlw172502.asp">cn.wsj.com/gb/20140428/rlw172502.asp</a>  模仿账号感谢@PDChina维护中国主权并保持原则直立（勃起）。 <a href="http://english.people.com.cn/90782/8588918.html">english.people.com.cn/90782/8588918.html</a> (2014年04月30日 09:33)
  ---
 RT @relevantorgans: Proud to see @PDChina upholding solemnity and dignity of Chinese government publications. Keep those standards erect! h… (2014年04月30日 09:26)
- ---
-RT @PDChina: Account @relevantorgans is breaking Twitter Rules for impersonation &amp; fails to comply with parody a/c requirements http://t.co… (2014年04月30日 09:25)
  ---
