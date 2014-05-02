@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+On censorship of Xinjiang blast: “If the authorities don’t trust the public, why on earth should they trust you?” <a href="http://www.scmp.com/news/china/article/1501612/sina-weibo-censored-news-alerts-urumqi-train-blasts?utm_content=buffer0e688&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.scmp.com/news/china/article/1501612/sina-weibo-censored-news-alerts-urumqi-train-blasts</a> (2014年05月02日 18:17)
+ ---
 Provocation? Xi promised to “strike first” against terrorism in Xinjiang, but rivals struck first instead. <a href="http://www.tealeafnation.com/2014/05/mixed-signals-on-xinjiang/?utm_content=buffer5f2c3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#sthash.W2J4cHp2.dpuf">www.tealeafnation.com/2014/05/mixed-signals-on-xinjiang/</a> (2014年05月02日 17:13)
  ---
 Apple cooperates with Chinese govt on censorship enforcement from @FreedomHouseDC report: <a href="http://freedomhouse.org/sites/default/files/China%20FOTP2014%20draft.pdf">freedomhouse.org/sites/default/files/China FOTP2014 draft.pdf</a> #AAPL (2014年05月02日 15:21)
@@ -48,6 +50,4 @@ RT @PDChina: Account @relevantorgans is breaking Twitter Rules for impersonation
 RT @limlouisa: “I took this class bc I am the generation that’s being brainwashed,” Chinese student in Harvard's Tiananmen class http://t.c… (2014年04月30日 06:57)
  ---
 RT @ChinaRealTime: 'The democratic era in China starts from today.' WSJ story on April 28, 1989 <a href="http://blogs.wsj.com/chinarealtime/2014/04/29/wsj-archives-25-years-ago-in-beijing-a-key-shift-in-tiananmen-protests/">blogs.wsj.com/chinarealtime/2014/04/29/wsj-archives-25-years-ago-in-beijing-a-key-shift-in-tiananmen-protests/</a> (Image: AP) http://t… (2014年04月30日 02:03)
- ---
-RT @Andrew_Schorr: Don't underestimate China's willingness to degrade ALL (encrypted) traffic when deemed necessary #CollateralFreedom http… (2014年04月29日 22:57)
  ---
