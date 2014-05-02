@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+@XHNews the two suspects are not Chinese citizens? What nationality/nationalities did they have? (2014年05月02日 15:05)
+ ---
 “最怕的有人在视频中通过走字幕来传播非法信息。”前述酷6网员工告诉纽约时报中文网，手工操作的过程就是把视频内容放在时间轨上，用拖拽的方式，肉眼搜看视频缩略图的同时，利用系统特征码和图像匹配进行机器审核。 (2014年05月01日 10:45)
  ---
 中国视频网站与广电总局的“猫鼠游戏” <a href="http://cn.tmagazine.com/film-tv/20140430/tc30shows/">cn.tmagazine.com/film-tv/20140430/tc30shows/</a>
@@ -48,6 +50,4 @@ RT @Andrew_Schorr: Don't underestimate China's willingness to degrade ALL (encry
 Internet users, these are your human rights <a href="http://www.coe.int/web/internet-users-rights/guide">www.coe.int/web/internet-users-rights/guide</a> #FOC14 (2014年04月29日 17:12)
  ---
 RT @guyberger: Some govts say One Internet is a cover for mercantilism &amp; cultural/linguistic imperialism, says @rmack #FOC14 (2014年04月29日 16:59)
- ---
-RT @figge: ”Democracy” is often code word for state-only representation in Internet Governance. "Democratic MS-ism" better term. #FOC14 (2014年04月29日 16:55)
  ---
