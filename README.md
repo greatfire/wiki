@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+From bad to worse - comparison of Tiananmen search results on Baidu <a href="http://blog.feichangdao.com/2014/05/baidu-search-results-for-tiananmen.html?utm_content=buffer27f18&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">blog.feichangdao.com/2014/05/baidu-search-results-for-tiananmen.html</a> and <a href="http://blog.feichangdao.com/2014/05/searching-for-tiananmen-massacre-on.html">blog.feichangdao.com/2014/05/searching-for-tiananmen-massacre-on.html</a> via @wafarris (2014年05月04日 06:57)
+ ---
 Chinese general Liu Yazhou claims Jasmine Revolution direct result of US new media war: <a href="http://chinascope.org/main/content/view/6281/92/">chinascope.org/main/content/view/6281/92/</a> via @zhubochubo (2014年05月04日 02:03)
  ---
 People’s Daily Discovers Massive Security Flaw in Internet | Ministry of Harmony: <a href="http://www.miniharm.com/2014/05/01/peoples-daily-discovers-massive-security-flaw/?utm_content=buffer8f60a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.miniharm.com/2014/05/01/peoples-daily-discovers-massive-security-flaw/</a> via @miniharm (2014年05月03日 22:57)
@@ -48,6 +50,4 @@ RT @RTKcn: 17+ RT @zuola: 社交网络上关于乌鲁木齐火车站爆炸的细
 Asia Chats: LINE Censored Keywords Update <a href="https://citizenlab.org/2014/04/line-censored-keywords-update/">citizenlab.org/2014/04/line-censored-keywords-update/</a> (2014年05月01日 08:25)
  ---
 RT @williamnee: Lin Dong should be freed! Labour advocate helping Dongguan factory strike arrested over WeChat message <a href="http://t.co/zTBbdJc5">t.co/zTBbdJc5</a>… (2014年04月30日 20:51)
- ---
-RT @mranti: 习还在视察的时候都能发生火车站爆炸，新疆官员的面子哪里搁？ (2014年04月30日 20:49)
  ---
