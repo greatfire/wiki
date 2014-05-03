@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @iamyid: 惊呆了，互联网用户毫无隐私可言！打开中国联通官网，登录，点自助服务，使用量查询，手机上网记录查询。你就会看到一个列表，详细列出了你每次使用联通网络进行的上网记录，你使用的每个 app 上的每个网站就连登录的 QQ 号都有记录。惊呆了！ http://t.… (2014年05月03日 10:39)
+ ---
 Next popular June 4/May 4 style China uprising may hinge on negative impact of rapid development. <a href="HTTP://http:////www-nc.nytimes.com/2014/05/01/q-a-jeffrey-wasserstrom-on-history-dissent-and-the-power-of-may-4-in-china/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&utm_content=bufferd4a90&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&">http////www-nc.nytimes.com/2014/05/01/q-a-jeffrey-wasserstrom-on-history-dissent-and-the-power-of-may-4-in-china/</a> via @ChuBailiang (2014年05月03日 10:21)
  ---
 RT @RTKcn: 20+ RT @songma: 我也看到Chuck Lorre在《生活大爆炸》第七季第二十二集最后的声明了。#存照 <a href="https://twitter.com/songma/status/462268548891836416/photo/1">twitter.com/songma/status/462268548891836416/photo/1</a> (2014年05月03日 09:49)
@@ -48,6 +50,4 @@ RT @mranti: 习还在视察的时候都能发生火车站爆炸，新疆官员�
 RT @XHNews: A blast hits a railway station in Urumqi, capital of northwest China's Xinjiang Uygur Autonomous Region (2014年04月30日 20:47)
  ---
 Cao Shunli nominated posthumously for @martinennals award usually given to HR activists as way to protect them <a href="http://vimeo.com/92709800">vimeo.com/92709800</a> (2014年04月30日 15:44)
- ---
-Fans Paint U.S. Shows as Friendly to the Party <a href="HTTP://http:////www-nc.nytimes.com/2014/04/28/fans-paint-u-s-shows-as-friendly-to-the-party/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2014/04/28/fans-paint-u-s-shows-as-friendly-to-the-party/</a> (2014年04月30日 09:55)
  ---
