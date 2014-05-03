@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @RTKcn: 20+ RT @songma: 我也看到Chuck Lorre在《生活大爆炸》第七季第二十二集最后的声明了。#存照 <a href="https://twitter.com/songma/status/462268548891836416/photo/1">twitter.com/songma/status/462268548891836416/photo/1</a> (2014年05月03日 09:49)
+ ---
 How I feel when my VPN expires via @beijingcream <a href="https://twitter.com/GreatFireChina/status/462365188852051969/photo/1">twitter.com/GreatFireChina/status/462365188852051969/photo/1</a> (2014年05月03日 06:57)
  ---
 Agree: How come associates of Xi Jinping family making death threats to journo never became story in itself? <a href="http://bloodandtreasure.typepad.com/blood_treasure/2014/05/heroic-jobs.html?utm_content=buffer70cac&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">bloodandtreasure.typepad.com/blood_treasure/2014/05/heroic-jobs.html</a> (2014年05月03日 02:03)
@@ -48,6 +50,4 @@ Cao Shunli nominated posthumously for @martinennals award usually given to HR ac
 Fans Paint U.S. Shows as Friendly to the Party <a href="HTTP://http:////www-nc.nytimes.com/2014/04/28/fans-paint-u-s-shows-as-friendly-to-the-party/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2014/04/28/fans-paint-u-s-shows-as-friendly-to-the-party/</a> (2014年04月30日 09:55)
  ---
 《华尔街日报》1989年4月28日 对六四事件报告原文 <a href="http://cn.wsj.com/gb/20140429/rlw160233.asp">cn.wsj.com/gb/20140429/rlw160233.asp</a> 目前还未被屏蔽 <a href="https://zh.greatfire.org/cn.wsj.com/gb/20140429/rlw160233.asp">zh.greatfire.org/cn.wsj.com/gb/20140429/rlw160233.asp</a> (2014年04月30日 09:46)
- ---
-人民日报发文职责人民日报模仿账号 @relevantorgans  <a href="http://cn.wsj.com/gb/20140428/rlw172502.asp">cn.wsj.com/gb/20140428/rlw172502.asp</a>  模仿账号感谢@PDChina维护中国主权并保持原则直立（勃起）。 <a href="http://english.people.com.cn/90782/8588918.html">english.people.com.cn/90782/8588918.html</a> (2014年04月30日 09:33)
  ---
