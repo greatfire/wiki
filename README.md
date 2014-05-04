@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+不是戒严了吗？[疑问]不是每天都在巡逻吗？[疑问]装甲车不是都开到街上来了吗？[疑问]怎么还出这个问题？[疑问]到底有没有人真的把新疆的维稳工作放在心上，落到实处？[疑问]是不是要我们老百姓自己想办法来保护自己呢？ <a href="http://www.chinasmack.com/2014/stories/xinjiang-railway-station-terrorist-attack-chinese-reactions.html">www.chinasmack.com/2014/stories/xinjiang-railway-station-terrorist-attack-chinese-reactions.html</a> (2014年05月04日 10:21)
+ ---
 From bad to worse - comparison of Tiananmen search results on Baidu <a href="http://blog.feichangdao.com/2014/05/baidu-search-results-for-tiananmen.html?utm_content=buffer27f18&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">blog.feichangdao.com/2014/05/baidu-search-results-for-tiananmen.html</a> and <a href="http://blog.feichangdao.com/2014/05/searching-for-tiananmen-massacre-on.html">blog.feichangdao.com/2014/05/searching-for-tiananmen-massacre-on.html</a> via @wafarris (2014年05月04日 06:57)
  ---
 Chinese general Liu Yazhou claims Jasmine Revolution direct result of US new media war: <a href="http://chinascope.org/main/content/view/6281/92/">chinascope.org/main/content/view/6281/92/</a> via @zhubochubo (2014年05月04日 02:03)
@@ -48,6 +50,4 @@ State media @XHNews report on Xinjiang Rail station blast censored! <a href="htt
 RT @RTKcn: 17+ RT @zuola: 社交网络上关于乌鲁木齐火车站爆炸的细节 <a href="https://storify.com/zuola/urumqi">storify.com/zuola/urumqi</a> <a href="https://twitter.com/zuola/status/461507886976225280/photo/1">twitter.com/zuola/status/461507886976225280/photo/1</a> (2014年05月01日 08:32)
  ---
 Asia Chats: LINE Censored Keywords Update <a href="https://citizenlab.org/2014/04/line-censored-keywords-update/">citizenlab.org/2014/04/line-censored-keywords-update/</a> (2014年05月01日 08:25)
- ---
-RT @williamnee: Lin Dong should be freed! Labour advocate helping Dongguan factory strike arrested over WeChat message <a href="http://t.co/zTBbdJc5">t.co/zTBbdJc5</a>… (2014年04月30日 20:51)
  ---
