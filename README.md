@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+If Weibo thinks it can beat WeChat as an information platform then it best sack those 150 censors <a href="http://thenextweb.com/asia/2014/05/05/weibo-ceo-paints-a-twitter-like-vision-for-his-company-but-doesnt-mention-censorship/">thenextweb.com/asia/2014/05/05/weibo-ceo-paints-a-twitter-like-vision-for-his-company-but-doesnt-mention-censorship/</a> (2014年05月05日 20:14)
+ ---
 An incredible amount of info about June 4, 1989 being shared ahead of 25th anniversary <a href="http://blogs.wsj.com/chinarealtime/2014/05/05/wsj-archives-25-years-ago-state-journalists-join-protests-in-beijing/?mod=WSJBlog">blogs.wsj.com/chinarealtime/2014/05/05/wsj-archives-25-years-ago-state-journalists-join-protests-in-beijing/</a> via @joshchin (2014年05月05日 17:28)
  ---
 Chinese censorship wide, inconsistent and (perhaps) arbitrary <a href="http://qz.com/205384/asias-most-popular-messaging-app-is-censoring-itself-in-china/">qz.com/205384/asias-most-popular-messaging-app-is-censoring-itself-in-china/</a> via @lilkuo and @citizenlab (2014年05月05日 17:07)
@@ -47,6 +49,4 @@ Provocation? Xi promised to “strike first” against terrorism in Xinjiang, bu
 Apple cooperates with Chinese govt on censorship enforcement from @FreedomHouseDC report: <a href="http://freedomhouse.org/sites/default/files/China%20FOTP2014%20draft.pdf">freedomhouse.org/sites/default/files/China FOTP2014 draft.pdf</a> #AAPL (2014年05月02日 15:21)
  ---
 @XHNews the two suspects are not Chinese citizens? What nationality/nationalities did they have? (2014年05月02日 15:05)
- ---
-“最怕的有人在视频中通过走字幕来传播非法信息。”前述酷6网员工告诉纽约时报中文网，手工操作的过程就是把视频内容放在时间轨上，用拖拽的方式，肉眼搜看视频缩略图的同时，利用系统特征码和图像匹配进行机器审核。 (2014年05月01日 10:45)
  ---
