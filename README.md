@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Baidu's "Knows" Can't Find Any Questions About "Tiananmen 1989" or "June 1989" <a href="http://blog.feichangdao.com/2014/05/baidus-knows-cant-find-any-questions.html">blog.feichangdao.com/2014/05/baidus-knows-cant-find-any-questions.html</a> via @wafarris (2014年05月06日 02:03)
+ ---
 Tiananmen docu - whoever held the broadcasting tent held the power in square. Battles btw student groups <a href="http://www.youtube.com/watch?v=AGnu_HwqAfs&feature=youtu.be&t=7m47s">www.youtube.com/watch</a> (2014年05月05日 22:57)
  ---
 If Weibo thinks it can beat WeChat as an information platform then it best sack those 150 censors <a href="http://thenextweb.com/asia/2014/05/05/weibo-ceo-paints-a-twitter-like-vision-for-his-company-but-doesnt-mention-censorship/">thenextweb.com/asia/2014/05/05/weibo-ceo-paints-a-twitter-like-vision-for-his-company-but-doesnt-mention-censorship/</a> (2014年05月05日 20:14)
@@ -47,6 +49,4 @@ Story behind the stories, some published and some which may never come to light 
 On censorship of Xinjiang blast: “If the authorities don’t trust the public, why on earth should they trust you?” <a href="http://www.scmp.com/news/china/article/1501612/sina-weibo-censored-news-alerts-urumqi-train-blasts?utm_content=buffer0e688&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.scmp.com/news/china/article/1501612/sina-weibo-censored-news-alerts-urumqi-train-blasts</a> (2014年05月02日 18:17)
  ---
 Provocation? Xi promised to “strike first” against terrorism in Xinjiang, but rivals struck first instead. <a href="http://www.tealeafnation.com/2014/05/mixed-signals-on-xinjiang/?utm_content=buffer5f2c3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#sthash.W2J4cHp2.dpuf">www.tealeafnation.com/2014/05/mixed-signals-on-xinjiang/</a> (2014年05月02日 17:13)
- ---
-Apple cooperates with Chinese govt on censorship enforcement from @FreedomHouseDC report: <a href="http://freedomhouse.org/sites/default/files/China%20FOTP2014%20draft.pdf">freedomhouse.org/sites/default/files/China FOTP2014 draft.pdf</a> #AAPL (2014年05月02日 15:21)
  ---
