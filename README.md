@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @KaiserKuo: While Twitter still appears to be blocked in China, right now oddly I can get on Twitter via Hootsuite sans VPN . Anyone con… (2014年05月05日 15:50)
+ ---
 Avoid Apple's evil karma zen! Go Android: <a href="http://techpresident.com/news/wegov/24975/with-new-android-app-chinese-netizens-see-govt-wants-suppress?utm_content=buffer559e3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">techpresident.com/news/wegov/24975/with-new-android-app-chinese-netizens-see-govt-wants-suppress</a> (2014年05月04日 22:57)
  ---
 不是戒严了吗？[疑问]不是每天都在巡逻吗？[疑问]装甲车不是都开到街上来了吗？[疑问]怎么还出这个问题？[疑问]到底有没有人真的把新疆的维稳工作放在心上，落到实处？[疑问]是不是要我们老百姓自己想办法来保护自己呢？ <a href="http://www.chinasmack.com/2014/stories/xinjiang-railway-station-terrorist-attack-chinese-reactions.html">www.chinasmack.com/2014/stories/xinjiang-railway-station-terrorist-attack-chinese-reactions.html</a> (2014年05月04日 10:21)
@@ -48,6 +50,4 @@ Apple cooperates with Chinese govt on censorship enforcement from @FreedomHouseD
 "目前网站大多延用据传是一套审查技术：根据用户上传视频有较大一部分重复的特征，设置MD5码违规内容匹配系统。当第二个用户上传的曾经被删除过的视频，其视频文件值和系统中的违规内容匹配." (2014年05月01日 10:34)
  ---
 State media @XHNews report on Xinjiang Rail station blast censored! <a href="https://freeweibo.com/en/weibo/%40%E6%96%B0%E5%8D%8E-%E6%88%91%E6%8A%A5%E9%81%93">freeweibo.com/en/weibo/@新华-我报道</a> (2014年05月01日 09:51)
- ---
-RT @RTKcn: 17+ RT @zuola: 社交网络上关于乌鲁木齐火车站爆炸的细节 <a href="https://storify.com/zuola/urumqi">storify.com/zuola/urumqi</a> <a href="https://twitter.com/zuola/status/461507886976225280/photo/1">twitter.com/zuola/status/461507886976225280/photo/1</a> (2014年05月01日 08:32)
  ---
