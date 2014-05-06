@@ -16,7 +16,7 @@ Discussing Tiananmen Square is still risky after 25 years, even for Chinese stud
  ---
 Baidu's "Knows" Can't Find Any Questions About "Tiananmen 1989" or "June 1989" <a href="http://blog.feichangdao.com/2014/05/baidus-knows-cant-find-any-questions.html">blog.feichangdao.com/2014/05/baidus-knows-cant-find-any-questions.html</a> via @wafarris (2014年05月06日 02:03)
  ---
-Tiananmen docu - whoever held the broadcasting tent held the power in square. Battles btw student groups <a href="http://www.youtube.com/watch?v=AGnu_HwqAfs&feature=youtu.be&t=7m47s">www.youtube.com/watch</a> (2014年05月05日 22:57)
+Tiananmen docu - whoever held the broadcasting tent held the power in square. Battles btw student groups <a href="http://youtu.be/AGnu_HwqAfs?t=7m47s">youtu.be/AGnu_HwqAfs</a> (2014年05月05日 22:57)
  ---
 If Weibo thinks it can beat WeChat as an information platform then it best sack those 150 censors <a href="http://thenextweb.com/asia/2014/05/05/weibo-ceo-paints-a-twitter-like-vision-for-his-company-but-doesnt-mention-censorship/">thenextweb.com/asia/2014/05/05/weibo-ceo-paints-a-twitter-like-vision-for-his-company-but-doesnt-mention-censorship/</a> (2014年05月05日 20:14)
  ---
