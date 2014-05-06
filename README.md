@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Sounds like @XHNews and @CCTVNews English language editors may be marching to own tune.    <a href="http://chinadigitaltimes.net/2014/05/minitrue-condemn-violence-focus-ethnic-cooperation/#.U2dIIcY4YKQ.twitter">chinadigitaltimes.net/2014/05/minitrue-condemn-violence-focus-ethnic-cooperation/</a> (2014年05月07日 02:03)
+ ---
 We may NOT end online censorship in China because much $$ at stake; not b/c party wants to maintain grip on media <a href="http://cmp.hku.hk/2014/05/02/35286/">cmp.hku.hk/2014/05/02/35286/</a> (2014年05月06日 22:57)
  ---
 "The Censorship Effect" <a href="http://techcrunch.com/2014/05/03/business-and-censorship/?utm_content=buffer2a6b6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">techcrunch.com/2014/05/03/business-and-censorship/</a> social media platforms are decimated by censorship (2014年05月06日 16:09)
@@ -47,6 +49,4 @@ People’s Daily Discovers Massive Security Flaw in Internet | Ministry of Harmo
 RT @iamyid: 惊呆了，互联网用户毫无隐私可言！打开中国联通官网，登录，点自助服务，使用量查询，手机上网记录查询。你就会看到一个列表，详细列出了你每次使用联通网络进行的上网记录，你使用的每个 app 上的每个网站就连登录的 QQ 号都有记录。惊呆了！ http://t.… (2014年05月03日 10:39)
  ---
 Next popular June 4/May 4 style China uprising may hinge on negative impact of rapid development. <a href="HTTP://http:////www-nc.nytimes.com/2014/05/01/q-a-jeffrey-wasserstrom-on-history-dissent-and-the-power-of-may-4-in-china/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&utm_content=bufferd4a90&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&">http////www-nc.nytimes.com/2014/05/01/q-a-jeffrey-wasserstrom-on-history-dissent-and-the-power-of-may-4-in-china/</a> via @ChuBailiang (2014年05月03日 10:21)
- ---
-RT @RTKcn: 20+ RT @songma: 我也看到Chuck Lorre在《生活大爆炸》第七季第二十二集最后的声明了。#存照 <a href="https://twitter.com/songma/status/462268548891836416/photo/1">twitter.com/songma/status/462268548891836416/photo/1</a> (2014年05月03日 09:49)
  ---
