@@ -10,6 +10,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+.@puzhiqiang top search term on @FreeWeibo right now <a href="https://freeweibo.com/weibo/%E6%B5%A6%E5%BF%97%E5%BC%BA?censored">freeweibo.com/weibo/浦志强</a> (2014年05月06日 15:48)
+ ---
+RT @melissakchan: Just learned @puzhiqiang criminally detained. A great rights attorney and someone I knew. China's taken 100 steps back in… (2014年05月06日 15:47)
+ ---
 "Xinjiang is in essence a colonial setting." <a href="HTTP://http:////www-nc.nytimes.com/2014/05/02/q-a-nicholas-bequelin-on-why-tensions-are-rising-in-xinjiang-and-beyond/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2014/05/02/q-a-nicholas-bequelin-on-why-tensions-are-rising-in-xinjiang-and-beyond/</a> via @Bequelin (2014年05月06日 10:21)
  ---
 Discussing Tiananmen Square is still risky after 25 years, even for Chinese students in the US <a href="http://www.pri.org/stories/2014-05-02/discussing-tiananmen-square-still-risky-after-25-years-even-chinese-students-us">www.pri.org/stories/2014-05-02/discussing-tiananmen-square-still-risky-after-25-years-even-chinese-students-us</a> (2014年05月06日 06:57)
@@ -45,8 +49,4 @@ RT @RTKcn: 20+ RT @songma: 我也看到Chuck Lorre在《生活大爆炸》第七
 How I feel when my VPN expires via @beijingcream <a href="https://twitter.com/GreatFireChina/status/462365188852051969/photo/1">twitter.com/GreatFireChina/status/462365188852051969/photo/1</a> (2014年05月03日 06:57)
  ---
 Agree: How come associates of Xi Jinping family making death threats to journo never became story in itself? <a href="http://bloodandtreasure.typepad.com/blood_treasure/2014/05/heroic-jobs.html?utm_content=buffer70cac&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">bloodandtreasure.typepad.com/blood_treasure/2014/05/heroic-jobs.html</a> (2014年05月03日 02:03)
- ---
-RT @gadyepstein: We would love to publish your book, minus a few bits… <a href="http://www.nytimes.com/glogin?mobile=1&URI=http%3A%2F%2Fmobile.nytimes.com%2F2014%2F05%2F03%2Fopinion%2Fsunday%2Fchinas-censored-world.html">www.nytimes.com/glogin</a> @eosnos on why he said no to a mainland Chine… (2014年05月02日 23:03)
- ---
-Story behind the stories, some published and some which may never come to light <a href="http://www.cjr.org/feature/bloombergs_folly.php">www.cjr.org/feature/bloombergs_folly.php</a> via @hofrench (2014年05月02日 22:57)
  ---
