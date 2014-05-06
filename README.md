@@ -10,6 +10,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+"The Censorship Effect" <a href="http://techcrunch.com/2014/05/03/business-and-censorship/?utm_content=buffer2a6b6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">techcrunch.com/2014/05/03/business-and-censorship/</a> social media platforms are decimated by censorship (2014年05月06日 16:09)
+ ---
 .@puzhiqiang top search term on @FreeWeibo right now <a href="https://freeweibo.com/weibo/%E6%B5%A6%E5%BF%97%E5%BC%BA?censored">freeweibo.com/weibo/浦志强</a> (2014年05月06日 15:48)
  ---
 RT @melissakchan: Just learned @puzhiqiang criminally detained. A great rights attorney and someone I knew. China's taken 100 steps back in… (2014年05月06日 15:47)
@@ -47,6 +49,4 @@ Next popular June 4/May 4 style China uprising may hinge on negative impact of r
 RT @RTKcn: 20+ RT @songma: 我也看到Chuck Lorre在《生活大爆炸》第七季第二十二集最后的声明了。#存照 <a href="https://twitter.com/songma/status/462268548891836416/photo/1">twitter.com/songma/status/462268548891836416/photo/1</a> (2014年05月03日 09:49)
  ---
 How I feel when my VPN expires via @beijingcream <a href="https://twitter.com/GreatFireChina/status/462365188852051969/photo/1">twitter.com/GreatFireChina/status/462365188852051969/photo/1</a> (2014年05月03日 06:57)
- ---
-Agree: How come associates of Xi Jinping family making death threats to journo never became story in itself? <a href="http://bloodandtreasure.typepad.com/blood_treasure/2014/05/heroic-jobs.html?utm_content=buffer70cac&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">bloodandtreasure.typepad.com/blood_treasure/2014/05/heroic-jobs.html</a> (2014年05月03日 02:03)
  ---
