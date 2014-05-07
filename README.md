@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+On Baidu, it's okay to talk about the numbers 63 and 65 (and 69). 64 - not so much. <a href="http://blog.feichangdao.com/2014/05/baidu-bans-postbar-forums-on-64-and-1989.html">blog.feichangdao.com/2014/05/baidu-bans-postbar-forums-on-64-and-1989.html</a> via @wafarris (2014年05月08日 06:57)
+ ---
 China v Vietnam: Not the usual drill | The Economist <a href="http://www.economist.com/blogs/banyan/2014/05/china-v-vietnam">www.economist.com/blogs/banyan/2014/05/china-v-vietnam</a> (2014年05月08日 02:03)
  ---
 Civil Society Activists Detained as Anniversary Looms <a href="HTTP://http:////www-nc.nytimes.com/2014/05/07/more-civil-society-activists-detained-as-anniversary-looms/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2014/05/07/more-civil-society-activists-detained-as-anniversary-looms/</a> via @dktatlow the more things change... (2014年05月07日 22:57)
@@ -48,6 +50,4 @@ RT @KaiserKuo: While Twitter still appears to be blocked in China, right now odd
 Avoid Apple's evil karma zen! Go Android: <a href="http://techpresident.com/news/wegov/24975/with-new-android-app-chinese-netizens-see-govt-wants-suppress?utm_content=buffer559e3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">techpresident.com/news/wegov/24975/with-new-android-app-chinese-netizens-see-govt-wants-suppress</a> (2014年05月04日 22:57)
  ---
 不是戒严了吗？[疑问]不是每天都在巡逻吗？[疑问]装甲车不是都开到街上来了吗？[疑问]怎么还出这个问题？[疑问]到底有没有人真的把新疆的维稳工作放在心上，落到实处？[疑问]是不是要我们老百姓自己想办法来保护自己呢？ <a href="http://www.chinasmack.com/2014/stories/xinjiang-railway-station-terrorist-attack-chinese-reactions.html">www.chinasmack.com/2014/stories/xinjiang-railway-station-terrorist-attack-chinese-reactions.html</a> (2014年05月04日 10:21)
- ---
-From bad to worse - comparison of Tiananmen search results on Baidu <a href="http://blog.feichangdao.com/2014/05/baidu-search-results-for-tiananmen.html?utm_content=buffer27f18&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">blog.feichangdao.com/2014/05/baidu-search-results-for-tiananmen.html</a> and <a href="http://blog.feichangdao.com/2014/05/searching-for-tiananmen-massacre-on.html">blog.feichangdao.com/2014/05/searching-for-tiananmen-massacre-on.html</a> via @wafarris (2014年05月04日 06:57)
  ---
