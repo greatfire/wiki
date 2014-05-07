@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Civil Society Activists Detained as Anniversary Looms <a href="HTTP://http:////www-nc.nytimes.com/2014/05/07/more-civil-society-activists-detained-as-anniversary-looms/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2014/05/07/more-civil-society-activists-detained-as-anniversary-looms/</a> via @dktatlow the more things change... (2014年05月07日 22:57)
+ ---
 RT @cynthiamw: Turkey's Erdogan steps up Internet #censorship, #surveillance (+DPI): <a href="http://online.wsj.com/news/articles/SB10001424052702304626304579505912518706936?mod=WSJ_hp_RightTopStories&mg=reno64-wsj&utm_content=buffer78f38&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#">online.wsj.com/news/articles/SB10001424052702304626304579505912518706936</a> #netfreedom (2014年05月07日 10:21)
  ---
 “Bribery by propaganda officials” (宣传部长受贿) extensive and out of control. China's true untouchables. <a href="http://cmp.hku.hk/2014/05/02/35286/">cmp.hku.hk/2014/05/02/35286/</a> (2014年05月07日 06:57)
@@ -48,6 +50,4 @@ Avoid Apple's evil karma zen! Go Android: <a href="http://techpresident.com/news
 From bad to worse - comparison of Tiananmen search results on Baidu <a href="http://blog.feichangdao.com/2014/05/baidu-search-results-for-tiananmen.html?utm_content=buffer27f18&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">blog.feichangdao.com/2014/05/baidu-search-results-for-tiananmen.html</a> and <a href="http://blog.feichangdao.com/2014/05/searching-for-tiananmen-massacre-on.html">blog.feichangdao.com/2014/05/searching-for-tiananmen-massacre-on.html</a> via @wafarris (2014年05月04日 06:57)
  ---
 Chinese general Liu Yazhou claims Jasmine Revolution direct result of US new media war: <a href="http://chinascope.org/main/content/view/6281/92/">chinascope.org/main/content/view/6281/92/</a> via @zhubochubo (2014年05月04日 02:03)
- ---
-People’s Daily Discovers Massive Security Flaw in Internet | Ministry of Harmony: <a href="http://www.miniharm.com/2014/05/01/peoples-daily-discovers-massive-security-flaw/?utm_content=buffer8f60a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.miniharm.com/2014/05/01/peoples-daily-discovers-massive-security-flaw/</a> via @miniharm (2014年05月03日 22:57)
  ---
