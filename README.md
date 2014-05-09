@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+@WolfmanChina depends - if censors are only acting out of their own self interest on bribes then they have their own remit beyond party (2014年05月09日 23:41)
+ ---
 北京女子涉向境外非法提供中央机密文件被拘。 机密文件是《关于当前意识形态领域情况的通报》 大家看看 <a href="https://zh.wikipedia.org/zh-cn/%E5%85%B3%E4%BA%8E%E5%BD%93%E5%89%8D%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E9%A2%86%E5%9F%9F%E6%83%85%E5%86%B5%E7%9A%84%E9%80%9A%E6%8A%A5">zh.wikipedia.org/zh-cn/关于当前意识形态领域情况的通报</a> (2014年05月08日 10:37)
  ---
 RT @ChineseWSJ: 【中国刑拘维权律师浦志强】- 据几位律师及浦志强家人提供的消息，中国当局以寻衅滋事为由对知名维权律师浦志强进行了刑事拘留。这一事件表明，在“天安门事件”25周年即将到来之际，中国政府加强了对维权人士的审查。<a href="http://t.co/Qbm4zNa2">t.co/Qbm4zNa2</a>… (2014年05月08日 09:02)
@@ -48,6 +50,4 @@ If Weibo thinks it can beat WeChat as an information platform then it best sack 
 An incredible amount of info about June 4, 1989 being shared ahead of 25th anniversary <a href="http://blogs.wsj.com/chinarealtime/2014/05/05/wsj-archives-25-years-ago-state-journalists-join-protests-in-beijing/?mod=WSJBlog">blogs.wsj.com/chinarealtime/2014/05/05/wsj-archives-25-years-ago-state-journalists-join-protests-in-beijing/</a> via @joshchin (2014年05月05日 17:28)
  ---
 Chinese censorship wide, inconsistent and (perhaps) arbitrary <a href="http://qz.com/205384/asias-most-popular-messaging-app-is-censoring-itself-in-china/">qz.com/205384/asias-most-popular-messaging-app-is-censoring-itself-in-china/</a> via @lilkuo and @citizenlab (2014年05月05日 17:07)
- ---
-RT @KaiserKuo: While Twitter still appears to be blocked in China, right now oddly I can get on Twitter via Hootsuite sans VPN . Anyone con… (2014年05月05日 15:50)
  ---
