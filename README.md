@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Bloomberg’s folly <a href="http://www.cjr.org/feature/bloombergs_folly.php">www.cjr.org/feature/bloombergs_folly.php</a> (2014年05月10日 07:52)
+ ---
 中国数字时代安卓版上线，免翻墙！ 直接下载 <a href="https://s3.amazonaws.com/_._/ChinaDigitalTimesAndroid1.2.apk">s3.amazonaws.com/_._/ChinaDigitalTimesAndroid1.2.apk</a> Google Play下载 <a href="https://play.google.com/store/apps/details?id=org.greatfire.cdt">play.google.com/store/apps/details</a> (2014年05月10日 06:01)
  ---
 @WolfmanChina depends - if censors are only acting out of their own self interest on bribes then they have their own remit beyond party (2014年05月09日 23:41)
@@ -48,6 +50,4 @@ Baidu's "Knows" Can't Find Any Questions About "Tiananmen 1989" or "June 1989" <
 Tiananmen docu - whoever held the broadcasting tent held the power in square. Battles btw student groups <a href="http://www.youtube.com/watch?v=AGnu_HwqAfs&feature=youtu.be&t=7m47s">www.youtube.com/watch</a> (2014年05月05日 22:57)
  ---
 If Weibo thinks it can beat WeChat as an information platform then it best sack those 150 censors <a href="http://thenextweb.com/asia/2014/05/05/weibo-ceo-paints-a-twitter-like-vision-for-his-company-but-doesnt-mention-censorship/">thenextweb.com/asia/2014/05/05/weibo-ceo-paints-a-twitter-like-vision-for-his-company-but-doesnt-mention-censorship/</a> (2014年05月05日 20:14)
- ---
-An incredible amount of info about June 4, 1989 being shared ahead of 25th anniversary <a href="http://blogs.wsj.com/chinarealtime/2014/05/05/wsj-archives-25-years-ago-state-journalists-join-protests-in-beijing/?mod=WSJBlog">blogs.wsj.com/chinarealtime/2014/05/05/wsj-archives-25-years-ago-state-journalists-join-protests-in-beijing/</a> via @joshchin (2014年05月05日 17:28)
  ---
