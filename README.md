@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+数字时代发布安卓应用 <a href="http://www.solidot.org/story?sid=39480">www.solidot.org/story</a> 有人评论“做法简直可怕”。可各位有没有记得在去年我们故意“挑战D和ZHFU忍耐的底线” <a href="http://www.solidot.org/story?sid=37487">www.solidot.org/story</a> GFW都只敢当缩头乌龟。这里公开质问GFW敢不敢把微软，亚马逊，谷歌全封锁？ (2014年05月11日 06:17)
+ ---
 RT @wyzl0225: 余杭进入一级战备,现在zf已经疯了！大家要注意人身安全！留下部队已经出发，，崇贤特警在路上，临平特警已经在路上都带来了武器！zF各处调特警，几千特警己到场，很多老余杭，闲林人困在里面。现场看到Jc残暴打百姓的人们怒了，流血事件在升级！。。。全疯狂了。… (2014年05月11日 01:18)
  ---
 Bloomberg’s folly <a href="http://www.cjr.org/feature/bloombergs_folly.php">www.cjr.org/feature/bloombergs_folly.php</a> (2014年05月10日 07:52)
@@ -48,6 +50,4 @@ RT @melissakchan: Just learned @puzhiqiang criminally detained. A great rights a
 Discussing Tiananmen Square is still risky after 25 years, even for Chinese students in the US <a href="http://www.pri.org/stories/2014-05-02/discussing-tiananmen-square-still-risky-after-25-years-even-chinese-students-us">www.pri.org/stories/2014-05-02/discussing-tiananmen-square-still-risky-after-25-years-even-chinese-students-us</a> (2014年05月06日 06:57)
  ---
 Baidu's "Knows" Can't Find Any Questions About "Tiananmen 1989" or "June 1989" <a href="http://blog.feichangdao.com/2014/05/baidus-knows-cant-find-any-questions.html">blog.feichangdao.com/2014/05/baidus-knows-cant-find-any-questions.html</a> via @wafarris (2014年05月06日 02:03)
- ---
-Tiananmen docu - whoever held the broadcasting tent held the power in square. Battles btw student groups <a href="http://www.youtube.com/watch?v=AGnu_HwqAfs&feature=youtu.be&t=7m47s">www.youtube.com/watch</a> (2014年05月05日 22:57)
  ---
