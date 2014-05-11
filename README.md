@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+全平台翻墙指南（PC＋安卓＋iOS+Mac+Linux） <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=15">lanternforum.greatfire.org/viewtopic.php</a> 欢迎补充。 (2014年05月11日 15:12)
+ ---
 Protesters in east China clash with police over waste incinerator plan <a href="http://www.reuters.com/article/2014/05/10/us-china-protests-idUSBREA4904320140510">www.reuters.com/article/2014/05/10/us-china-protests-idUSBREA4904320140510</a> (2014年05月11日 13:06)
  ---
 数字时代发布安卓应用 <a href="http://www.solidot.org/story?sid=39480">www.solidot.org/story</a> 有人评论“做法简直可怕”。可各位有没有记得在去年我们故意“挑战D和ZHFU忍耐的底线” <a href="http://www.solidot.org/story?sid=37487">www.solidot.org/story</a> GFW都只敢当缩头乌龟。这里公开质问GFW敢不敢把微软，亚马逊，谷歌全封锁？ (2014年05月11日 06:17)
@@ -48,6 +50,4 @@ We may NOT end online censorship in China because much $$ at stake; not b/c part
 RT @melissakchan: Just learned @puzhiqiang criminally detained. A great rights attorney and someone I knew. China's taken 100 steps back in… (2014年05月06日 15:47)
  ---
 "Xinjiang is in essence a colonial setting." <a href="HTTP://http:////www-nc.nytimes.com/2014/05/02/q-a-nicholas-bequelin-on-why-tensions-are-rising-in-xinjiang-and-beyond/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2014/05/02/q-a-nicholas-bequelin-on-why-tensions-are-rising-in-xinjiang-and-beyond/</a> via @Bequelin (2014年05月06日 10:21)
- ---
-Discussing Tiananmen Square is still risky after 25 years, even for Chinese students in the US <a href="http://www.pri.org/stories/2014-05-02/discussing-tiananmen-square-still-risky-after-25-years-even-chinese-students-us">www.pri.org/stories/2014-05-02/discussing-tiananmen-square-still-risky-after-25-years-even-chinese-students-us</a> (2014年05月06日 06:57)
  ---
