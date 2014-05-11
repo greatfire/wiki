@@ -31,7 +31,7 @@ China v Vietnam: Not the usual drill | The Economist <a href="http://www.economi
  ---
 Civil Society Activists Detained as Anniversary Looms <a href="HTTP://http:////www-nc.nytimes.com/2014/05/07/more-civil-society-activists-detained-as-anniversary-looms/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2014/05/07/more-civil-society-activists-detained-as-anniversary-looms/</a> via @dktatlow the more things change... (2014年05月07日 22:57)
  ---
-RT @cynthiamw: Turkey's Erdogan steps up Internet #censorship, #surveillance (+DPI): <a href="http://online.wsj.com/news/articles/SB10001424052702304626304579505912518706936?mod=WSJ_hp_RightTopStories&mg=reno64-wsj&utm_content=buffer78f38&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#">online.wsj.com/news/articles/SB10001424052702304626304579505912518706936</a> #netfreedom (2014年05月07日 10:21)
+RT @cynthiamw: Turkey's Erdogan steps up Internet #censorship, #surveillance (+DPI): <a href="http://online.wsj.com/dr/">online.wsj.com/dr/</a> #netfreedom (2014年05月07日 10:21)
  ---
 “Bribery by propaganda officials” (宣传部长受贿) extensive and out of control. China's true untouchables. <a href="http://cmp.hku.hk/2014/05/02/35286/">cmp.hku.hk/2014/05/02/35286/</a> (2014年05月07日 06:57)
  ---
