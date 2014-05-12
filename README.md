@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @Bequelin: Excellent piece on the arrest of Uighur language advocate Abduweli Ayup in #Xinjiang by @AndrewJacobsNYT <a href="http://t.co/EN58NwfK">t.co/EN58NwfK</a>… (2014年05月12日 18:34)
+ ---
 全平台翻墙指南（PC＋安卓＋iOS+Mac+Linux） <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=15">lanternforum.greatfire.org/viewtopic.php</a> 欢迎补充。 (2014年05月11日 15:12)
  ---
 Protesters in east China clash with police over waste incinerator plan <a href="http://www.reuters.com/article/2014/05/10/us-china-protests-idUSBREA4904320140510">www.reuters.com/article/2014/05/10/us-china-protests-idUSBREA4904320140510</a> (2014年05月11日 13:06)
@@ -48,6 +50,4 @@ We may NOT end online censorship in China because much $$ at stake; not b/c part
 .@puzhiqiang top search term on @FreeWeibo right now <a href="https://freeweibo.com/weibo/%E6%B5%A6%E5%BF%97%E5%BC%BA?censored">freeweibo.com/weibo/浦志强</a> (2014年05月06日 15:48)
  ---
 RT @melissakchan: Just learned @puzhiqiang criminally detained. A great rights attorney and someone I knew. China's taken 100 steps back in… (2014年05月06日 15:47)
- ---
-"Xinjiang is in essence a colonial setting." <a href="HTTP://http:////www-nc.nytimes.com/2014/05/02/q-a-nicholas-bequelin-on-why-tensions-are-rising-in-xinjiang-and-beyond/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2014/05/02/q-a-nicholas-bequelin-on-why-tensions-are-rising-in-xinjiang-and-beyond/</a> via @Bequelin (2014年05月06日 10:21)
  ---
