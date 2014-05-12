@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @nerysinchina: If Beijing wasn't a police state before, it's surely heading that way now. A prison with extortionate property prices htt… (2014年05月12日 22:57)
+ ---
 RT @Bequelin: Excellent piece on the arrest of Uighur language advocate Abduweli Ayup in #Xinjiang by @AndrewJacobsNYT <a href="http://t.co/EN58NwfK">t.co/EN58NwfK</a>… (2014年05月12日 18:34)
  ---
 全平台翻墙指南（PC＋安卓＋iOS+Mac+Linux） <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=15">lanternforum.greatfire.org/viewtopic.php</a> 欢迎补充。 (2014年05月11日 15:12)
@@ -48,6 +50,4 @@ We may NOT end online censorship in China because much $$ at stake; not b/c part
 "The Censorship Effect" <a href="http://techcrunch.com/2014/05/03/business-and-censorship/?utm_content=buffer2a6b6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">techcrunch.com/2014/05/03/business-and-censorship/</a> social media platforms are decimated by censorship (2014年05月06日 16:09)
  ---
 .@puzhiqiang top search term on @FreeWeibo right now <a href="https://freeweibo.com/weibo/%E6%B5%A6%E5%BF%97%E5%BC%BA?censored">freeweibo.com/weibo/浦志强</a> (2014年05月06日 15:48)
- ---
-RT @melissakchan: Just learned @puzhiqiang criminally detained. A great rights attorney and someone I knew. China's taken 100 steps back in… (2014年05月06日 15:47)
  ---
