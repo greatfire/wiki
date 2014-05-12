@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+No more foreign TV shows? 妈的 要文革了是吧？ <a href="http://www.chinasmack.com/2014/stories/chinese-video-websites-halt-buying-of-japanese-anime.html">www.chinasmack.com/2014/stories/chinese-video-websites-halt-buying-of-japanese-anime.html</a> (2014年05月13日 02:04)
+ ---
 RT @nerysinchina: If Beijing wasn't a police state before, it's surely heading that way now. A prison with extortionate property prices htt… (2014年05月12日 22:57)
  ---
 RT @Bequelin: Excellent piece on the arrest of Uighur language advocate Abduweli Ayup in #Xinjiang by @AndrewJacobsNYT <a href="http://t.co/EN58NwfK">t.co/EN58NwfK</a>… (2014年05月12日 18:34)
@@ -48,6 +50,4 @@ Sounds like @XHNews and @CCTVNews English language editors may be marching to ow
 We may NOT end online censorship in China because much $$ at stake; not b/c party wants to maintain grip on media <a href="http://cmp.hku.hk/2014/05/02/35286/">cmp.hku.hk/2014/05/02/35286/</a> (2014年05月06日 22:57)
  ---
 "The Censorship Effect" <a href="http://techcrunch.com/2014/05/03/business-and-censorship/?utm_content=buffer2a6b6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">techcrunch.com/2014/05/03/business-and-censorship/</a> social media platforms are decimated by censorship (2014年05月06日 16:09)
- ---
-.@puzhiqiang top search term on @FreeWeibo right now <a href="https://freeweibo.com/weibo/%E6%B5%A6%E5%BF%97%E5%BC%BA?censored">freeweibo.com/weibo/浦志强</a> (2014年05月06日 15:48)
  ---
