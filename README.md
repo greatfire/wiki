@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+杭州53人涉群体抗议被警方带走 <a href="http://cn.nytimes.com/china/20140513/c13hangzhou/">cn.nytimes.com/china/20140513/c13hangzhou/</a> (2014年05月14日 08:08)
+ ---
 RT @EFF: Today @ggreenwald released over 100 pages of new Snowden documents detailing the breadth and depth of NSA spying. <a href="https://t.co/K1y">t.co/K1y</a>… (2014年05月14日 07:03)
  ---
 On social media, talk is of growing number of strikes, spreading from Shenzhen to Huizhou and Dongguan. <a href="http://www.scmp.com/news/china/article/1508705/strikes-portend-summer-discontent-pearl-river-delta-worlds-factory">www.scmp.com/news/china/article/1508705/strikes-portend-summer-discontent-pearl-river-delta-worlds-factory</a> (2014年05月13日 06:57)
@@ -48,6 +50,4 @@ Civil Society Activists Detained as Anniversary Looms <a href="HTTP://http:////w
 RT @cynthiamw: Turkey's Erdogan steps up Internet #censorship, #surveillance (+DPI): <a href="http://online.wsj.com/news/articles/SB10001424052702304626304579505912518706936?mod=WSJ_hp_RightTopStories&mg=reno64-wsj&utm_content=buffer78f38&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#">online.wsj.com/news/articles/SB10001424052702304626304579505912518706936</a> #netfreedom (2014年05月07日 10:21)
  ---
 “Bribery by propaganda officials” (宣传部长受贿) extensive and out of control. China's true untouchables. <a href="http://cmp.hku.hk/2014/05/02/35286/">cmp.hku.hk/2014/05/02/35286/</a> (2014年05月07日 06:57)
- ---
-Sounds like @XHNews and @CCTVNews English language editors may be marching to own tune.    <a href="http://chinadigitaltimes.net/2014/05/minitrue-condemn-violence-focus-ethnic-cooperation/#.U2dIIcY4YKQ.twitter">chinadigitaltimes.net/2014/05/minitrue-condemn-violence-focus-ethnic-cooperation/</a> (2014年05月07日 02:03)
  ---
