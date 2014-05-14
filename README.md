@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @amesich: "Digital Activism: Blocked on Weibo, Encouraged at SIPA" <a href="http://www.themorningsidepost.com/2014/05/06/digital-activism-blocked-on-weibo-encouraged-at-sipa/?utm_content=bufferf7b52&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.themorningsidepost.com/2014/05/06/digital-activism-blocked-on-weibo-encouraged-at-sipa/</a> @jasonqng teaching @ColumbiaSIPA in Fall 2014 (2014年05月14日 22:57)
+ ---
 RT @jasonqng: Really looking fwd to @eosnos + @orvilleschell chat at @AsiaSociety on Wed. <a href="http://asiasociety.org/new-york/events/chinafile-presents-evan-osnos">asiasociety.org/new-york/events/chinafile-presents-evan-osnos</a> @ChinaFile (2014年05月14日 15:37)
  ---
 RT @wangyi09: 2014年5月13号，6点57分零5秒，杭州市龙井路7号，花园餐厅107房间，发生了一场由警察、国保与特警活捉酒鬼党战役，数十位警察特警将12位酒鬼党成员全部活捉，大获全胜… <a href="https://twitter.com/wangyi09/status/466222468206567424/photo/1">twitter.com/wangyi09/status/466222468206567424/photo/1</a> (2014年05月14日 12:04)
@@ -48,6 +50,4 @@ RT @ChineseWSJ: 【中国刑拘维权律师浦志强】- 据几位律师及浦�
 On Baidu, it's okay to talk about the numbers 63 and 65 (and 69). 64 - not so much. <a href="http://blog.feichangdao.com/2014/05/baidu-bans-postbar-forums-on-64-and-1989.html">blog.feichangdao.com/2014/05/baidu-bans-postbar-forums-on-64-and-1989.html</a> via @wafarris (2014年05月08日 06:57)
  ---
 China v Vietnam: Not the usual drill | The Economist <a href="http://www.economist.com/blogs/banyan/2014/05/china-v-vietnam">www.economist.com/blogs/banyan/2014/05/china-v-vietnam</a> (2014年05月08日 02:03)
- ---
-Civil Society Activists Detained as Anniversary Looms <a href="HTTP://http:////www-nc.nytimes.com/2014/05/07/more-civil-society-activists-detained-as-anniversary-looms/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&">http////www-nc.nytimes.com/2014/05/07/more-civil-society-activists-detained-as-anniversary-looms/</a> via @dktatlow the more things change... (2014年05月07日 22:57)
  ---
