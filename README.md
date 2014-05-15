@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Freeing China's Sina Weibo <a href="http://www.voanews.com/content/freeing-sina-weibo/1913898.html">www.voanews.com/content/freeing-sina-weibo/1913898.html</a> (2014年05月15日 20:28)
+ ---
 Rural Social Harmony Can Now Be Measured To 4 Decimal Places - <a href="http://beijingcream.com/2014/05/rural-social-harmony-can-now-be-measured-to-4-decimal-places/">beijingcream.com/2014/05/rural-social-harmony-can-now-be-measured-to-4-decimal-places/</a> hahaha great @beijingcream headline (2014年05月15日 02:03)
  ---
 RT @amesich: "Digital Activism: Blocked on Weibo, Encouraged at SIPA" <a href="http://www.themorningsidepost.com/2014/05/06/digital-activism-blocked-on-weibo-encouraged-at-sipa/?utm_content=bufferf7b52&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.themorningsidepost.com/2014/05/06/digital-activism-blocked-on-weibo-encouraged-at-sipa/</a> @jasonqng teaching @ColumbiaSIPA in Fall 2014 (2014年05月14日 22:57)
@@ -48,6 +50,4 @@ Bloomberg’s folly <a href="http://www.cjr.org/feature/bloombergs_folly.php">ww
 北京女子涉向境外非法提供中央机密文件被拘。 机密文件是《关于当前意识形态领域情况的通报》 大家看看 <a href="https://zh.wikipedia.org/zh-cn/%E5%85%B3%E4%BA%8E%E5%BD%93%E5%89%8D%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E9%A2%86%E5%9F%9F%E6%83%85%E5%86%B5%E7%9A%84%E9%80%9A%E6%8A%A5">zh.wikipedia.org/zh-cn/关于当前意识形态领域情况的通报</a> (2014年05月08日 10:37)
  ---
 RT @ChineseWSJ: 【中国刑拘维权律师浦志强】- 据几位律师及浦志强家人提供的消息，中国当局以寻衅滋事为由对知名维权律师浦志强进行了刑事拘留。这一事件表明，在“天安门事件”25周年即将到来之际，中国政府加强了对维权人士的审查。<a href="http://t.co/Qbm4zNa2">t.co/Qbm4zNa2</a>… (2014年05月08日 09:02)
- ---
-On Baidu, it's okay to talk about the numbers 63 and 65 (and 69). 64 - not so much. <a href="http://blog.feichangdao.com/2014/05/baidu-bans-postbar-forums-on-64-and-1989.html">blog.feichangdao.com/2014/05/baidu-bans-postbar-forums-on-64-and-1989.html</a> via @wafarris (2014年05月08日 06:57)
  ---
