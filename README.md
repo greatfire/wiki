@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Reminder of risks foreign and Chinese journos take to bring stories to life.  @limlouisa Tiananmen book <a href="http://www.pekingduck.org/2014/05/the-peoples-republic-of-amnesia/">www.pekingduck.org/2014/05/the-peoples-republic-of-amnesia/</a> (2014年05月19日 17:23)
+ ---
 RT @globalvoices: Spanish Government Threatens to Censor Social Media <a href="http://globalvoicesonline.org/2014/05/17/spanish-government-threats-to-censor-social-media/">globalvoicesonline.org/2014/05/17/spanish-government-threats-to-censor-social-media/</a> <a href="https://twitter.com/globalvoices/status/468292512587984896/photo/1">twitter.com/globalvoices/status/468292512587984896/photo/1</a> (2014年05月19日 17:18)
  ---
 Iran Takes Aim at Google, Wikipedia in Latest Internet Censorship Effort <a href="http://mashable.com/2014/05/16/iran-google-wikipedia/#:eyJzIjoidCIsImkiOiJfNHg4a3JsN2cwZDhzNXM1eiJ9">mashable.com/2014/05/16/iran-google-wikipedia/</a> via @lorenzoFB (2014年05月19日 16:40)
@@ -48,6 +50,4 @@ RT @Bequelin: Excellent piece on the arrest of Uighur language advocate Abduweli
 Protesters in east China clash with police over waste incinerator plan <a href="http://www.reuters.com/article/2014/05/10/us-china-protests-idUSBREA4904320140510">www.reuters.com/article/2014/05/10/us-china-protests-idUSBREA4904320140510</a> (2014年05月11日 13:06)
  ---
 数字时代发布安卓应用 <a href="http://www.solidot.org/story?sid=39480">www.solidot.org/story</a> 有人评论“做法简直可怕”。可各位有没有记得在去年我们故意“挑战D和ZHFU忍耐的底线” <a href="http://www.solidot.org/story?sid=37487">www.solidot.org/story</a> GFW都只敢当缩头乌龟。这里公开质问GFW敢不敢把微软，亚马逊，谷歌全封锁？ (2014年05月11日 06:17)
- ---
-RT @wyzl0225: 余杭进入一级战备,现在zf已经疯了！大家要注意人身安全！留下部队已经出发，，崇贤特警在路上，临平特警已经在路上都带来了武器！zF各处调特警，几千特警己到场，很多老余杭，闲林人困在里面。现场看到Jc残暴打百姓的人们怒了，流血事件在升级！。。。全疯狂了。… (2014年05月11日 01:18)
  ---
