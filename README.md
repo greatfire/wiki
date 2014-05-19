@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Iran Takes Aim at Google, Wikipedia in Latest Internet Censorship Effort <a href="http://mashable.com/2014/05/16/iran-google-wikipedia/#:eyJzIjoidCIsImkiOiJfNHg4a3JsN2cwZDhzNXM1eiJ9">mashable.com/2014/05/16/iran-google-wikipedia/</a> via @lorenzoFB (2014年05月19日 16:40)
+ ---
 RT @niubi: leading Chinese "Secret" clone pulled from iTunes China app store “秘密”App遭苹果下架 安卓平台或遭同命运 <a href="http://tech.sina.com.cn/i/2014-05-14/18189378587.shtml">tech.sina.com.cn/i/2014-05-14/18189378587.shtml</a> Android mkts may… (2014年05月16日 06:57)
  ---
 Change at @nytimes - hoping this means a more aggressive approach to information dissemination in China. <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F05%2F15%2Fbusiness%2Fmedia%2Fjill-abramson-being-replaced-as-top-editor-at-times.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年05月16日 02:03)
@@ -48,6 +50,4 @@ Protesters in east China clash with police over waste incinerator plan <a href="
 RT @wyzl0225: 余杭进入一级战备,现在zf已经疯了！大家要注意人身安全！留下部队已经出发，，崇贤特警在路上，临平特警已经在路上都带来了武器！zF各处调特警，几千特警己到场，很多老余杭，闲林人困在里面。现场看到Jc残暴打百姓的人们怒了，流血事件在升级！。。。全疯狂了。… (2014年05月11日 01:18)
  ---
 Bloomberg’s folly <a href="http://www.cjr.org/feature/bloombergs_folly.php">www.cjr.org/feature/bloombergs_folly.php</a> (2014年05月10日 07:52)
- ---
-中国数字时代安卓版上线，免翻墙！ 直接下载 <a href="https://s3.amazonaws.com/_._/ChinaDigitalTimesAndroid1.2.apk">s3.amazonaws.com/_._/ChinaDigitalTimesAndroid1.2.apk</a> Google Play下载 <a href="https://play.google.com/store/apps/details?id=org.greatfire.cdt">play.google.com/store/apps/details</a> (2014年05月10日 06:01)
  ---
