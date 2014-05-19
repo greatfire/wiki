@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+@thewanreport @ChuBailiang @MalcolmMoore @sleavenworth ironically, two named Jack - US prime time TV not delivering either (2014年05月20日 00:55)
+ ---
 RT @relevantorgans: Wow! The FBI’s “Cyber Most Wanted” is a dead match for the PLA Unit 61398 “sexiest cadre” awards. How weird is that? ht… (2014年05月20日 00:32)
  ---
 Surely civilians working for those US companies played some part in this latest case of Chinese cyber espionage (2014年05月20日 00:06)
@@ -48,6 +50,4 @@ RT @globalvoices: Spanish Government Threatens to Censor Social Media <a href="h
 Iran Takes Aim at Google, Wikipedia in Latest Internet Censorship Effort <a href="http://mashable.com/2014/05/16/iran-google-wikipedia/#:eyJzIjoidCIsImkiOiJfNHg4a3JsN2cwZDhzNXM1eiJ9">mashable.com/2014/05/16/iran-google-wikipedia/</a> via @lorenzoFB (2014年05月19日 16:40)
  ---
 RT @niubi: leading Chinese "Secret" clone pulled from iTunes China app store “秘密”App遭苹果下架 安卓平台或遭同命运 <a href="http://tech.sina.com.cn/i/2014-05-14/18189378587.shtml">tech.sina.com.cn/i/2014-05-14/18189378587.shtml</a> Android mkts may… (2014年05月16日 06:57)
- ---
-Change at @nytimes - hoping this means a more aggressive approach to information dissemination in China. <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F05%2F15%2Fbusiness%2Fmedia%2Fjill-abramson-being-replaced-as-top-editor-at-times.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年05月16日 02:03)
  ---
