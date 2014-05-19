@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Surely civilians working for those US companies played some part in this latest case of Chinese cyber espionage (2014年05月20日 00:06)
+ ---
 @AsiaNewsDemetri @MalcolmMoore they KNEW it was coming! The Unit would have tipped them off ages ago. Response was just gathering dust (2014年05月19日 23:58)
  ---
 人肉搜索开始！Human flesh search this - America's most wanted  <a href="http://www.fbi.gov/wanted/cyber">www.fbi.gov/wanted/cyber</a> (2014年05月19日 23:56)
@@ -48,6 +50,4 @@ RT @niubi: leading Chinese "Secret" clone pulled from iTunes China app store “
 Change at @nytimes - hoping this means a more aggressive approach to information dissemination in China. <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F05%2F15%2Fbusiness%2Fmedia%2Fjill-abramson-being-replaced-as-top-editor-at-times.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年05月16日 02:03)
  ---
 RT @niubi: freeweibo stream for "越南"(vietnam ). still lots being censored. good  <a href="https://freeweibo.com/en/weibo/%E8%B6%8A%E5%8D%97">freeweibo.com/en/weibo/越南</a> (2014年05月15日 22:57)
- ---
-Freeing China's Sina Weibo <a href="http://www.voanews.com/content/freeing-sina-weibo/1913898.html">www.voanews.com/content/freeing-sina-weibo/1913898.html</a> (2014年05月15日 20:28)
  ---
