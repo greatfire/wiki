@@ -11,6 +11,16 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+@AsiaNewsDemetri @MalcolmMoore they KNEW it was coming! The Unit would have tipped them off ages ago. Response was just gathering dust (2014年05月19日 23:58)
+ ---
+人肉搜索开始！Human flesh search this - America's most wanted  <a href="http://www.fbi.gov/wanted/cyber">www.fbi.gov/wanted/cyber</a> (2014年05月19日 23:56)
+ ---
+@MalcolmMoore they likely knew it was coming (2014年05月19日 23:53)
+ ---
+RT @MalcolmMoore: I can't remember the last time the Chinese Foreign ministry responded to breaking news in real time. (2014年05月19日 23:53)
+ ---
+RT @globaldan: WANTED By The FBI: Chinese PLA hacker Gu Chunhui, AKA "KandyGoo" <a href="http://www.fbi.gov/wanted/cyber/gu-chunhui/view">www.fbi.gov/wanted/cyber/gu-chunhui/view</a> (2014年05月19日 23:50)
+ ---
 .@aiww docu The Fake Case playing in NYC now through to the 22nd <a href="http://www.ifccenter.com/films/ai-weiwei-the-fake-case/">www.ifccenter.com/films/ai-weiwei-the-fake-case/</a> also <a href="http://aiweiweithefakecase.com/">aiweiweithefakecase.com/</a> (2014年05月19日 23:39)
  ---
 U.S. charges China with cyberspying - first criminal charges against foreign country for cyberspying <a href="http://www.washingtonpost.com/world/national-security/us-to-announce-first-criminal-charges-against-foreign-country-for-cyberspying/2014/05/19/586c9992-df45-11e3-810f-764fe508b82d_story.html">www.washingtonpost.com/world/national-security/us-to-announce-first-criminal-charges-against-foreign-country-for-cyberspying/2014/05/19/586c9992-df45-11e3-810f-764fe508b82d_story.html</a> (2014年05月19日 23:28)
@@ -40,14 +50,4 @@ Change at @nytimes - hoping this means a more aggressive approach to information
 RT @niubi: freeweibo stream for "越南"(vietnam ). still lots being censored. good  <a href="https://freeweibo.com/en/weibo/%E8%B6%8A%E5%8D%97">freeweibo.com/en/weibo/越南</a> (2014年05月15日 22:57)
  ---
 Freeing China's Sina Weibo <a href="http://www.voanews.com/content/freeing-sina-weibo/1913898.html">www.voanews.com/content/freeing-sina-weibo/1913898.html</a> (2014年05月15日 20:28)
- ---
-Rural Social Harmony Can Now Be Measured To 4 Decimal Places - <a href="http://beijingcream.com/2014/05/rural-social-harmony-can-now-be-measured-to-4-decimal-places/">beijingcream.com/2014/05/rural-social-harmony-can-now-be-measured-to-4-decimal-places/</a> hahaha great @beijingcream headline (2014年05月15日 02:03)
- ---
-RT @amesich: "Digital Activism: Blocked on Weibo, Encouraged at SIPA" <a href="http://www.themorningsidepost.com/2014/05/06/digital-activism-blocked-on-weibo-encouraged-at-sipa/?utm_content=bufferf7b52&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.themorningsidepost.com/2014/05/06/digital-activism-blocked-on-weibo-encouraged-at-sipa/</a> @jasonqng teaching @ColumbiaSIPA in Fall 2014 (2014年05月14日 22:57)
- ---
-RT @jasonqng: Really looking fwd to @eosnos + @orvilleschell chat at @AsiaSociety on Wed. <a href="http://asiasociety.org/new-york/events/chinafile-presents-evan-osnos">asiasociety.org/new-york/events/chinafile-presents-evan-osnos</a> @ChinaFile (2014年05月14日 15:37)
- ---
-RT @wangyi09: 2014年5月13号，6点57分零5秒，杭州市龙井路7号，花园餐厅107房间，发生了一场由警察、国保与特警活捉酒鬼党战役，数十位警察特警将12位酒鬼党成员全部活捉，大获全胜… <a href="https://twitter.com/wangyi09/status/466222468206567424/photo/1">twitter.com/wangyi09/status/466222468206567424/photo/1</a> (2014年05月14日 12:04)
- ---
-杭州53人涉群体抗议被警方带走 <a href="http://cn.nytimes.com/china/20140513/c13hangzhou/">cn.nytimes.com/china/20140513/c13hangzhou/</a> (2014年05月14日 08:08)
  ---
