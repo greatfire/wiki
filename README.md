@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+U.S. charges China with cyberspying - first criminal charges against foreign country for cyberspying <a href="http://www.washingtonpost.com/world/national-security/us-to-announce-first-criminal-charges-against-foreign-country-for-cyberspying/2014/05/19/586c9992-df45-11e3-810f-764fe508b82d_story.html">www.washingtonpost.com/world/national-security/us-to-announce-first-criminal-charges-against-foreign-country-for-cyberspying/2014/05/19/586c9992-df45-11e3-810f-764fe508b82d_story.html</a> (2014年05月19日 23:28)
+ ---
 likely b/c every1 knows how to download torrents - After ‘Big Bang Theory’ Censorship, No Mass Viewer Revolt <a href="http://blogs.wsj.com/chinarealtime/2014/05/19/after-big-bang-theory-censorship-no-mass-viewer-revolt/?mg=blogs-wsj&url=http%253A%252F%252Fblogs.wsj.com%252Fchinarealtime%252F2014%252F05%252F19%252Fafter-big-bang-theory-censorship-no-mass-viewer-revolt&utm_content=buffere7123&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">blogs.wsj.com/chinarealtime/2014/05/19/after-big-bang-theory-censorship-no-mass-viewer-revolt/</a> (2014年05月19日 22:57)
  ---
 RT @mrlv426: @ggreenwald The main issue is that the spyware the NSA installs on Cisco products interferes with Cisco's pre-installed Chines… (2014年05月19日 20:53)
@@ -48,6 +50,4 @@ RT @wangyi09: 2014年5月13号，6点57分零5秒，杭州市龙井路7号，花
 杭州53人涉群体抗议被警方带走 <a href="http://cn.nytimes.com/china/20140513/c13hangzhou/">cn.nytimes.com/china/20140513/c13hangzhou/</a> (2014年05月14日 08:08)
  ---
 RT @EFF: Today @ggreenwald released over 100 pages of new Snowden documents detailing the breadth and depth of NSA spying. <a href="https://t.co/K1y">t.co/K1y</a>… (2014年05月14日 07:03)
- ---
-On social media, talk is of growing number of strikes, spreading from Shenzhen to Huizhou and Dongguan. <a href="http://www.scmp.com/news/china/article/1508705/strikes-portend-summer-discontent-pearl-river-delta-worlds-factory">www.scmp.com/news/china/article/1508705/strikes-portend-summer-discontent-pearl-river-delta-worlds-factory</a> (2014年05月13日 06:57)
  ---
