@@ -11,6 +11,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @mrlv426: @ggreenwald The main issue is that the spyware the NSA installs on Cisco products interferes with Cisco's pre-installed Chines… (2014年05月19日 20:53)
+ ---
+@taniabranigan @klustout @NiemanLab saw a lot about Cooking but I don't think there was one mention of China. (2014年05月19日 20:51)
+ ---
 @suilee just noticing on @freeweibo the deleted rumor reports are being heavily censored (2014年05月19日 19:07)
  ---
 .@XHNews how are the tens of thousands of ethnic Chinese in Vietnam being treated? Will they be evacuated too? (2014年05月19日 18:53)
@@ -46,8 +50,4 @@ RT @EFF: Today @ggreenwald released over 100 pages of new Snowden documents deta
 On social media, talk is of growing number of strikes, spreading from Shenzhen to Huizhou and Dongguan. <a href="http://www.scmp.com/news/china/article/1508705/strikes-portend-summer-discontent-pearl-river-delta-worlds-factory">www.scmp.com/news/china/article/1508705/strikes-portend-summer-discontent-pearl-river-delta-worlds-factory</a> (2014年05月13日 06:57)
  ---
 No more foreign TV shows? 妈的 要文革了是吧？ <a href="http://www.chinasmack.com/2014/stories/chinese-video-websites-halt-buying-of-japanese-anime.html">www.chinasmack.com/2014/stories/chinese-video-websites-halt-buying-of-japanese-anime.html</a> (2014年05月13日 02:04)
- ---
-RT @nerysinchina: If Beijing wasn't a police state before, it's surely heading that way now. A prison with extortionate property prices htt… (2014年05月12日 22:57)
- ---
-RT @Bequelin: Excellent piece on the arrest of Uighur language advocate Abduweli Ayup in #Xinjiang by @AndrewJacobsNYT <a href="http://t.co/EN58NwfK">t.co/EN58NwfK</a>… (2014年05月12日 18:34)
  ---
