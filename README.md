@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+"Attacking, slandering and spreading rumours in the name of 'internet freedom'"  <a href="http://www.scmp.com/news/china/article/1514851/china-says-internet-security-necessary-counter-hostile-forces">www.scmp.com/news/china/article/1514851/china-says-internet-security-necessary-counter-hostile-forces</a> via @SCMP_News batting 1.000 (2014年05月20日 06:57)
+ ---
 Baidu Censors Name and Images of Tiananmen Tank Man As the 25th Anniversary of June 4, 1989 Nears <a href="http://blog.feichangdao.com/2014/05/baidu-censors-name-and-images-of.html">blog.feichangdao.com/2014/05/baidu-censors-name-and-images-of.html</a> via @wafarris (2014年05月20日 02:03)
  ---
 @thewanreport @ChuBailiang @MalcolmMoore @sleavenworth ironically, two named Jack - US prime time TV not delivering either (2014年05月20日 00:55)
@@ -48,6 +50,4 @@ RT @klustout: Tiananmen Massacre 25th anniversary: how HK triads enabled the Gre
 Reminder of risks foreign and Chinese journos take to bring stories to life.  @limlouisa Tiananmen book <a href="http://www.pekingduck.org/2014/05/the-peoples-republic-of-amnesia/">www.pekingduck.org/2014/05/the-peoples-republic-of-amnesia/</a> (2014年05月19日 17:23)
  ---
 RT @globalvoices: Spanish Government Threatens to Censor Social Media <a href="http://globalvoicesonline.org/2014/05/17/spanish-government-threats-to-censor-social-media/">globalvoicesonline.org/2014/05/17/spanish-government-threats-to-censor-social-media/</a> <a href="https://twitter.com/globalvoices/status/468292512587984896/photo/1">twitter.com/globalvoices/status/468292512587984896/photo/1</a> (2014年05月19日 17:18)
- ---
-Iran Takes Aim at Google, Wikipedia in Latest Internet Censorship Effort <a href="http://mashable.com/2014/05/16/iran-google-wikipedia/#:eyJzIjoidCIsImkiOiJfNHg4a3JsN2cwZDhzNXM1eiJ9">mashable.com/2014/05/16/iran-google-wikipedia/</a> via @lorenzoFB (2014年05月19日 16:40)
  ---
