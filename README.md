@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @NickKristof: My starkest memory of the Tiananmen Square massacre 25 years ago is of the bravest and unlikeliest heroes: <a href="http://t.co/pEZ">t.co/pEZ</a>… (2014年05月20日 22:57)
+ ---
 RT @globaldan: Beijing, we have a problem: “China investigates corruption inspector for corruption” says Chinese state media. #为人民服务 (2014年05月20日 20:30)
  ---
 Stability in China: Lessons from Tiananmen and Implications for the United States (Webcast) <a href="http://www.uscc.gov/Hearings/hearing-stability-china-lessons-tiananmen-and-implications-united-states-webcast#sthash.Yy3YQSYa.dpuf">www.uscc.gov/Hearings/hearing-stability-china-lessons-tiananmen-and-implications-united-states-webcast</a> (2014年05月20日 16:02)
@@ -48,6 +50,4 @@ likely b/c every1 knows how to download torrents - After ‘Big Bang Theory’ C
 RT @mrlv426: @ggreenwald The main issue is that the spyware the NSA installs on Cisco products interferes with Cisco's pre-installed Chines… (2014年05月19日 20:53)
  ---
 @taniabranigan @klustout @NiemanLab saw a lot about Cooking but I don't think there was one mention of China. (2014年05月19日 20:51)
- ---
-@suilee just noticing on @freeweibo the deleted rumor reports are being heavily censored (2014年05月19日 19:07)
  ---
