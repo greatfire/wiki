@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Stability in China: Lessons from Tiananmen and Implications for the United States (Webcast) <a href="http://www.uscc.gov/Hearings/hearing-stability-china-lessons-tiananmen-and-implications-united-states-webcast#sthash.Yy3YQSYa.dpuf">www.uscc.gov/Hearings/hearing-stability-china-lessons-tiananmen-and-implications-united-states-webcast</a> (2014年05月20日 16:02)
+ ---
 RT @feliciasonmez: Chinese officials may ban Facebook &amp; Twitter, but are increasingly keen users themselves. My story for @AFP: http://t.co… (2014年05月20日 10:21)
  ---
 RT @paopaonet: 达赖喇嘛日前的欧洲行受中国压力的痕迹十分明显。在泡泡网采访达赖喇嘛的过程中，安排他行程的团体从记者身份核对、沟通方式等方面都小心翼翼。但达赖喇嘛似乎对此十分坦荡：“我希望中共来监听我。“达赖喇嘛告诉泡泡，表示这样中共就能看到真相。https://t… (2014年05月20日 07:57)
@@ -48,6 +50,4 @@ RT @mrlv426: @ggreenwald The main issue is that the spyware the NSA installs on 
 @suilee just noticing on @freeweibo the deleted rumor reports are being heavily censored (2014年05月19日 19:07)
  ---
 .@XHNews how are the tens of thousands of ethnic Chinese in Vietnam being treated? Will they be evacuated too? (2014年05月19日 18:53)
- ---
-RT @klustout: Tiananmen Massacre 25th anniversary: how HK triads enabled the Great Escape <a href="http://www.telegraph.co.uk/news/worldnews/asia/china/10820248/Tiananmen-Massacre-25th-anniversary-how-Chinese-triads-enabled-the-Great-Escape.html">www.telegraph.co.uk/news/worldnews/asia/china/10820248/Tiananmen-Massacre-25th-anniversary-how-Chinese-triads-enabled-the-Great-Escape.html</a> by @MalcolmMoore #TAM25 ht… (2014年05月19日 17:38)
  ---
