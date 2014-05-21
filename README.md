@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Latest and greatest @NMAtv video on hackers and nose pickers <a href="https://www.youtube.com/watch?v=wsndpFj_8sc">www.youtube.com/watch</a> (2014年05月21日 15:21)
+ ---
 Internet archive now blocked in China  <a href="https://en.greatfire.org/https/archive.org">en.greatfire.org/https/archive.org</a> (2014年05月21日 09:09)
  ---
 Shanghai clear its streets for Putin's visit <a href="https://freeweibo.com/en/weibo/3712372197338181">freeweibo.com/en/weibo/3712372197338181</a> <a href="https://twitter.com/GreatFireChina/status/468915918928879617/photo/1">twitter.com/GreatFireChina/status/468915918928879617/photo/1</a> (2014年05月21日 08:47)
@@ -48,6 +50,4 @@ RT @globaldan: WANTED By The FBI: Chinese PLA hacker Gu Chunhui, AKA "KandyGoo" 
 .@aiww docu The Fake Case playing in NYC now through to the 22nd <a href="http://www.ifccenter.com/films/ai-weiwei-the-fake-case/">www.ifccenter.com/films/ai-weiwei-the-fake-case/</a> also <a href="http://aiweiweithefakecase.com/">aiweiweithefakecase.com/</a> (2014年05月19日 23:39)
  ---
 U.S. charges China with cyberspying - first criminal charges against foreign country for cyberspying <a href="http://www.washingtonpost.com/world/national-security/us-to-announce-first-criminal-charges-against-foreign-country-for-cyberspying/2014/05/19/586c9992-df45-11e3-810f-764fe508b82d_story.html">www.washingtonpost.com/world/national-security/us-to-announce-first-criminal-charges-against-foreign-country-for-cyberspying/2014/05/19/586c9992-df45-11e3-810f-764fe508b82d_story.html</a> (2014年05月19日 23:28)
- ---
-likely b/c every1 knows how to download torrents - After ‘Big Bang Theory’ Censorship, No Mass Viewer Revolt <a href="http://blogs.wsj.com/chinarealtime/2014/05/19/after-big-bang-theory-censorship-no-mass-viewer-revolt/?mg=blogs-wsj&url=http%253A%252F%252Fblogs.wsj.com%252Fchinarealtime%252F2014%252F05%252F19%252Fafter-big-bang-theory-censorship-no-mass-viewer-revolt&utm_content=buffere7123&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">blogs.wsj.com/chinarealtime/2014/05/19/after-big-bang-theory-censorship-no-mass-viewer-revolt/</a> (2014年05月19日 22:57)
  ---
