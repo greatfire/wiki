@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @akaDashan: The only poster I saw at Beida signed with a real name: Wang Dan, May 25 1989 <a href="https://twitter.com/akaDashan/status/469068268641062912/photo/1">twitter.com/akaDashan/status/469068268641062912/photo/1</a> (2014年05月21日 18:57)
+ ---
 Latest and greatest @NMAtv video on hackers and nose pickers <a href="https://www.youtube.com/watch?v=wsndpFj_8sc">www.youtube.com/watch</a> (2014年05月21日 15:21)
  ---
 Internet archive now blocked in China  <a href="https://en.greatfire.org/https/archive.org">en.greatfire.org/https/archive.org</a> (2014年05月21日 09:09)
@@ -48,6 +50,4 @@ RT @MalcolmMoore: I can't remember the last time the Chinese Foreign ministry re
 RT @globaldan: WANTED By The FBI: Chinese PLA hacker Gu Chunhui, AKA "KandyGoo" <a href="http://www.fbi.gov/wanted/cyber/gu-chunhui/view">www.fbi.gov/wanted/cyber/gu-chunhui/view</a> (2014年05月19日 23:50)
  ---
 .@aiww docu The Fake Case playing in NYC now through to the 22nd <a href="http://www.ifccenter.com/films/ai-weiwei-the-fake-case/">www.ifccenter.com/films/ai-weiwei-the-fake-case/</a> also <a href="http://aiweiweithefakecase.com/">aiweiweithefakecase.com/</a> (2014年05月19日 23:39)
- ---
-U.S. charges China with cyberspying - first criminal charges against foreign country for cyberspying <a href="http://www.washingtonpost.com/world/national-security/us-to-announce-first-criminal-charges-against-foreign-country-for-cyberspying/2014/05/19/586c9992-df45-11e3-810f-764fe508b82d_story.html">www.washingtonpost.com/world/national-security/us-to-announce-first-criminal-charges-against-foreign-country-for-cyberspying/2014/05/19/586c9992-df45-11e3-810f-764fe508b82d_story.html</a> (2014年05月19日 23:28)
  ---
