@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Shanghai clear its streets for Putin's visit <a href="https://freeweibo.com/en/weibo/3712372197338181">freeweibo.com/en/weibo/3712372197338181</a> <a href="https://twitter.com/GreatFireChina/status/468915918928879617/photo/1">twitter.com/GreatFireChina/status/468915918928879617/photo/1</a> (2014年05月21日 08:47)
+ ---
 RT @NickKristof: My starkest memory of the Tiananmen Square massacre 25 years ago is of the bravest and unlikeliest heroes: <a href="http://t.co/pEZ">t.co/pEZ</a>… (2014年05月20日 22:57)
  ---
 RT @globaldan: Beijing, we have a problem: “China investigates corruption inspector for corruption” says Chinese state media. #为人民服务 (2014年05月20日 20:30)
@@ -48,6 +50,4 @@ U.S. charges China with cyberspying - first criminal charges against foreign cou
 likely b/c every1 knows how to download torrents - After ‘Big Bang Theory’ Censorship, No Mass Viewer Revolt <a href="http://blogs.wsj.com/chinarealtime/2014/05/19/after-big-bang-theory-censorship-no-mass-viewer-revolt/?mg=blogs-wsj&url=http%253A%252F%252Fblogs.wsj.com%252Fchinarealtime%252F2014%252F05%252F19%252Fafter-big-bang-theory-censorship-no-mass-viewer-revolt&utm_content=buffere7123&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">blogs.wsj.com/chinarealtime/2014/05/19/after-big-bang-theory-censorship-no-mass-viewer-revolt/</a> (2014年05月19日 22:57)
  ---
 RT @mrlv426: @ggreenwald The main issue is that the spyware the NSA installs on Cisco products interferes with Cisco's pre-installed Chines… (2014年05月19日 20:53)
- ---
-@taniabranigan @klustout @NiemanLab saw a lot about Cooking but I don't think there was one mention of China. (2014年05月19日 20:51)
  ---
