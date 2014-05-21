@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @McAndrew: 点点 ftw! RT @CodyBrown: Betaworks is attempting to bring @playdots to China. Nuanced changes. Fascinating read: <a href="http://t.co/rD">t.co/rD</a>… (2014年05月21日 23:32)
+ ---
 RT @akaDashan: The only poster I saw at Beida signed with a real name: Wang Dan, May 25 1989 <a href="https://twitter.com/akaDashan/status/469068268641062912/photo/1">twitter.com/akaDashan/status/469068268641062912/photo/1</a> (2014年05月21日 18:57)
  ---
 Latest and greatest @NMAtv video on hackers and nose pickers <a href="https://www.youtube.com/watch?v=wsndpFj_8sc">www.youtube.com/watch</a> (2014年05月21日 15:21)
@@ -48,6 +50,4 @@ Surely civilians working for those US companies played some part in this latest 
 RT @MalcolmMoore: I can't remember the last time the Chinese Foreign ministry responded to breaking news in real time. (2014年05月19日 23:53)
  ---
 RT @globaldan: WANTED By The FBI: Chinese PLA hacker Gu Chunhui, AKA "KandyGoo" <a href="http://www.fbi.gov/wanted/cyber/gu-chunhui/view">www.fbi.gov/wanted/cyber/gu-chunhui/view</a> (2014年05月19日 23:50)
- ---
-.@aiww docu The Fake Case playing in NYC now through to the 22nd <a href="http://www.ifccenter.com/films/ai-weiwei-the-fake-case/">www.ifccenter.com/films/ai-weiwei-the-fake-case/</a> also <a href="http://aiweiweithefakecase.com/">aiweiweithefakecase.com/</a> (2014年05月19日 23:39)
  ---
