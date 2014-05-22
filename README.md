@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+"Xinjiang a war zone" / "New Chechnya" / "There will be no good end" many 新建微博 censored, many uncensored <a href="https://freeweibo.com/weibo/%E6%96%B0%E7%96%86?censored">freeweibo.com/weibo/新疆</a> (2014年05月22日 17:32)
+ ---
 @Azuike @DwnewsDWnews <a href="http://blogs.wsj.com/chinarealtime/2014/05/22/explosives-attack-hits-street-market-in-xinjiang/?mod=WSJBlog">blogs.wsj.com/chinarealtime/2014/05/22/explosives-attack-hits-street-market-in-xinjiang/</a> (2014年05月22日 15:46)
  ---
 RT @DwnewsDWnews: 新疆 #乌鲁木齐 #文化宫 路5月22日早发生爆炸，伤亡不明，疑似再遭 #恐怖袭击：<a href="http://china.dwnews.com/news/2014-05-21/59473157.html">china.dwnews.com/news/2014-05-21/59473157.html</a> <a href="https://twitter.com/DwnewsDWnews/status/469284201942892546/photo/1">twitter.com/DwnewsDWnews/status/469284201942892546/photo/1</a> (2014年05月22日 10:49)
@@ -48,6 +50,4 @@ RT @relevantorgans: Wow! The FBI’s “Cyber Most Wanted” is a dead match for
 Surely civilians working for those US companies played some part in this latest case of Chinese cyber espionage (2014年05月20日 00:06)
  ---
 @AsiaNewsDemetri @MalcolmMoore they KNEW it was coming! The Unit would have tipped them off ages ago. Response was just gathering dust (2014年05月19日 23:58)
- ---
-人肉搜索开始！Human flesh search this - America's most wanted  <a href="http://www.fbi.gov/wanted/cyber">www.fbi.gov/wanted/cyber</a> (2014年05月19日 23:56)
  ---
