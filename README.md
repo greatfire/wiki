@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @tomphillipsin: RT @SCMP_News BREAKING: China shuts train station in Lanzhou over suspected bombs <a href="http://www.scmp.com/news/china/article/1517944/china-shuts-train-station-lanzhou-over-suspected-explosives">www.scmp.com/news/china/article/1517944/china-shuts-train-station-lanzhou-over-suspected-explosives</a> (2014年05月22日 18:49)
+ ---
 @XHNews your site is down (2014年05月22日 18:18)
  ---
 Note the plural - coordinated attack? RT @XHNews Flights bound for China's Xinjiang land midway for security check <a href="http://news.xinhuanet.com/english/china/2014-05/22/c_133353714.htm">news.xinhuanet.com/english/china/2014-05/22/c_133353714.htm</a> (2014年05月22日 18:16)
@@ -48,6 +50,4 @@ RT @paopaonet: 达赖喇嘛日前的欧洲行受中国压力的痕迹十分明�
 "Attacking, slandering and spreading rumours in the name of 'internet freedom'"  <a href="http://www.scmp.com/news/china/article/1514851/china-says-internet-security-necessary-counter-hostile-forces">www.scmp.com/news/china/article/1514851/china-says-internet-security-necessary-counter-hostile-forces</a> via @SCMP_News batting 1.000 (2014年05月20日 06:57)
  ---
 Baidu Censors Name and Images of Tiananmen Tank Man As the 25th Anniversary of June 4, 1989 Nears <a href="http://blog.feichangdao.com/2014/05/baidu-censors-name-and-images-of.html">blog.feichangdao.com/2014/05/baidu-censors-name-and-images-of.html</a> via @wafarris (2014年05月20日 02:03)
- ---
-@thewanreport @ChuBailiang @MalcolmMoore @sleavenworth ironically, two named Jack - US prime time TV not delivering either (2014年05月20日 00:55)
  ---
