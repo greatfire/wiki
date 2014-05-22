@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+As cyber rift deepens, China bans use of Windows 8 on government computers <a href="http://www.washingtonpost.com/world/asia_pacific/as-cyber-rift-deepens-china-bans-use-of-windows-8-on-government-computers/2014/05/21/11bdb4b6-597e-4afe-ba16-ce27afa7a7d7_story.html">www.washingtonpost.com/world/asia_pacific/as-cyber-rift-deepens-china-bans-use-of-windows-8-on-government-computers/2014/05/21/11bdb4b6-597e-4afe-ba16-ce27afa7a7d7_story.html</a> via @washingtonpost (2014年05月22日 08:18)
+ ---
 RT @McAndrew: 点点 ftw! RT @CodyBrown: Betaworks is attempting to bring @playdots to China. Nuanced changes. Fascinating read: <a href="http://t.co/rD">t.co/rD</a>… (2014年05月21日 23:32)
  ---
 RT @akaDashan: The only poster I saw at Beida signed with a real name: Wang Dan, May 25 1989 <a href="https://twitter.com/akaDashan/status/469068268641062912/photo/1">twitter.com/akaDashan/status/469068268641062912/photo/1</a> (2014年05月21日 18:57)
@@ -48,6 +50,4 @@ Surely civilians working for those US companies played some part in this latest 
 @MalcolmMoore they likely knew it was coming (2014年05月19日 23:53)
  ---
 RT @MalcolmMoore: I can't remember the last time the Chinese Foreign ministry responded to breaking news in real time. (2014年05月19日 23:53)
- ---
-RT @globaldan: WANTED By The FBI: Chinese PLA hacker Gu Chunhui, AKA "KandyGoo" <a href="http://www.fbi.gov/wanted/cyber/gu-chunhui/view">www.fbi.gov/wanted/cyber/gu-chunhui/view</a> (2014年05月19日 23:50)
  ---
