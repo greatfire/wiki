@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @TheMantle: Meet the blogger from #China who discusses the secret police's "tea chats" by @xinwenfan <a href="http://www.bloomberg.com/news/2013-06-05/china-blogger-who-began-querying-home-prices-taken-to-tea.html?utm_content=buffercede4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.bloomberg.com/news/2013-06-05/china-blogger-who-began-querying-home-prices-taken-to-tea.html</a> | (2014年05月22日 22:57)
+ ---
 RT @jehan_ara: RT @FariehaAziz:[Blogpost] Digital Fortress:From China to #Pakistan by @Ghausia for @BoloBhi <a href="http://bolobhi.org/digital-fortress-from-china-to-pakistan/">bolobhi.org/digital-fortress-from-china-to-pakistan/</a> #Interne… (2014年05月22日 19:10)
  ---
 RT @tomphillipsin: RT @SCMP_News BREAKING: China shuts train station in Lanzhou over suspected bombs <a href="http://www.scmp.com/news/china/article/1517944/china-shuts-train-station-lanzhou-over-suspected-explosives">www.scmp.com/news/china/article/1517944/china-shuts-train-station-lanzhou-over-suspected-explosives</a> (2014年05月22日 18:49)
@@ -48,6 +50,4 @@ Stability in China: Lessons from Tiananmen and Implications for the United State
 RT @feliciasonmez: Chinese officials may ban Facebook &amp; Twitter, but are increasingly keen users themselves. My story for @AFP: http://t.co… (2014年05月20日 10:21)
  ---
 RT @paopaonet: 达赖喇嘛日前的欧洲行受中国压力的痕迹十分明显。在泡泡网采访达赖喇嘛的过程中，安排他行程的团体从记者身份核对、沟通方式等方面都小心翼翼。但达赖喇嘛似乎对此十分坦荡：“我希望中共来监听我。“达赖喇嘛告诉泡泡，表示这样中共就能看到真相。https://t… (2014年05月20日 07:57)
- ---
-"Attacking, slandering and spreading rumours in the name of 'internet freedom'"  <a href="http://www.scmp.com/news/china/article/1514851/china-says-internet-security-necessary-counter-hostile-forces">www.scmp.com/news/china/article/1514851/china-says-internet-security-necessary-counter-hostile-forces</a> via @SCMP_News batting 1.000 (2014年05月20日 06:57)
  ---
