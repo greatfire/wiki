@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+@Azuike @DwnewsDWnews <a href="http://blogs.wsj.com/chinarealtime/2014/05/22/explosives-attack-hits-street-market-in-xinjiang/?mod=WSJBlog">blogs.wsj.com/chinarealtime/2014/05/22/explosives-attack-hits-street-market-in-xinjiang/</a> (2014年05月22日 15:46)
+ ---
 RT @DwnewsDWnews: 新疆 #乌鲁木齐 #文化宫 路5月22日早发生爆炸，伤亡不明，疑似再遭 #恐怖袭击：<a href="http://china.dwnews.com/news/2014-05-21/59473157.html">china.dwnews.com/news/2014-05-21/59473157.html</a> <a href="https://twitter.com/DwnewsDWnews/status/469284201942892546/photo/1">twitter.com/DwnewsDWnews/status/469284201942892546/photo/1</a> (2014年05月22日 10:49)
  ---
 As cyber rift deepens, China bans use of Windows 8 on government computers <a href="http://www.washingtonpost.com/world/asia_pacific/as-cyber-rift-deepens-china-bans-use-of-windows-8-on-government-computers/2014/05/21/11bdb4b6-597e-4afe-ba16-ce27afa7a7d7_story.html">www.washingtonpost.com/world/asia_pacific/as-cyber-rift-deepens-china-bans-use-of-windows-8-on-government-computers/2014/05/21/11bdb4b6-597e-4afe-ba16-ce27afa7a7d7_story.html</a> via @washingtonpost (2014年05月22日 08:18)
@@ -48,6 +50,4 @@ Surely civilians working for those US companies played some part in this latest 
 @AsiaNewsDemetri @MalcolmMoore they KNEW it was coming! The Unit would have tipped them off ages ago. Response was just gathering dust (2014年05月19日 23:58)
  ---
 人肉搜索开始！Human flesh search this - America's most wanted  <a href="http://www.fbi.gov/wanted/cyber">www.fbi.gov/wanted/cyber</a> (2014年05月19日 23:56)
- ---
-@MalcolmMoore they likely knew it was coming (2014年05月19日 23:53)
  ---
