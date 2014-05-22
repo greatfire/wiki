@@ -11,6 +11,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+@XHNews your site is down (2014年05月22日 18:18)
+ ---
+Note the plural - coordinated attack? RT @XHNews Flights bound for China's Xinjiang land midway for security check <a href="http://news.xinhuanet.com/english/china/2014-05/22/c_133353714.htm">news.xinhuanet.com/english/china/2014-05/22/c_133353714.htm</a> (2014年05月22日 18:16)
+ ---
 @rob_schmitz @niubi @KaiserKuo @comradewong oped from @globaltimesnews ties that suitcase bomb to Kunming station <a href="http://www.globaltimes.cn/content/861579.shtml?utm_content=bufferc0929&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.globaltimes.cn/content/861579.shtml</a> (2014年05月22日 18:04)
  ---
 "Xinjiang a war zone" / "New Chechnya" / "There will be no good end" many 新建微博 censored, many uncensored <a href="https://freeweibo.com/weibo/%E6%96%B0%E7%96%86?censored">freeweibo.com/weibo/新疆</a> (2014年05月22日 17:32)
@@ -46,8 +50,4 @@ RT @paopaonet: 达赖喇嘛日前的欧洲行受中国压力的痕迹十分明�
 Baidu Censors Name and Images of Tiananmen Tank Man As the 25th Anniversary of June 4, 1989 Nears <a href="http://blog.feichangdao.com/2014/05/baidu-censors-name-and-images-of.html">blog.feichangdao.com/2014/05/baidu-censors-name-and-images-of.html</a> via @wafarris (2014年05月20日 02:03)
  ---
 @thewanreport @ChuBailiang @MalcolmMoore @sleavenworth ironically, two named Jack - US prime time TV not delivering either (2014年05月20日 00:55)
- ---
-RT @relevantorgans: Wow! The FBI’s “Cyber Most Wanted” is a dead match for the PLA Unit 61398 “sexiest cadre” awards. How weird is that? ht… (2014年05月20日 00:32)
- ---
-Surely civilians working for those US companies played some part in this latest case of Chinese cyber espionage (2014年05月20日 00:06)
  ---
