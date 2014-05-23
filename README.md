@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @JoFloto: BBC team in Xinjiang briefly detained by police who deleted footage - including testimony of victims relatives from yesterday'… (2014年05月23日 22:57)
+ ---
 Zhou Yongkang used CNPC money to silence victim's family from Mar '12 Ferrari crash - political manoeuvring <a href="http://graphics.thomsonreuters.com//14/05/CHINA-CORRUPTION.pdf">graphics.thomsonreuters.com//14/05/CHINA-CORRUPTION.pdf</a> (2014年05月23日 15:16)
  ---
 Petition: 25 years after Tiananmen ask President Xi Jinping to implement China's constitution. <a href="http://rsf.org/petitions/tiananmen/petition.php?lang=en&utm_source=btn_top&utm_medium=email&utm_campaign=tiananmen">rsf.org/petitions/tiananmen/petition.php</a> (2014年05月23日 14:19)
@@ -48,6 +50,4 @@ Shanghai clear its streets for Putin's visit <a href="https://freeweibo.com/en/w
 RT @NickKristof: My starkest memory of the Tiananmen Square massacre 25 years ago is of the bravest and unlikeliest heroes: <a href="http://t.co/pEZ">t.co/pEZ</a>… (2014年05月20日 22:57)
  ---
 RT @globaldan: Beijing, we have a problem: “China investigates corruption inspector for corruption” says Chinese state media. #为人民服务 (2014年05月20日 20:30)
- ---
-Stability in China: Lessons from Tiananmen and Implications for the United States (Webcast) <a href="http://www.uscc.gov/Hearings/hearing-stability-china-lessons-tiananmen-and-implications-united-states-webcast#sthash.Yy3YQSYa.dpuf">www.uscc.gov/Hearings/hearing-stability-china-lessons-tiananmen-and-implications-united-states-webcast</a> (2014年05月20日 16:02)
  ---
