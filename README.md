@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @tomphillipsin: Soldiers with automatic rifles out on Shanghai's Nanjing West Road today.  First time I've seen that. (2014年05月24日 02:03)
+ ---
 RT @JoFloto: BBC team in Xinjiang briefly detained by police who deleted footage - including testimony of victims relatives from yesterday'… (2014年05月23日 22:57)
  ---
 Zhou Yongkang used CNPC money to silence victim's family from Mar '12 Ferrari crash - political manoeuvring <a href="http://graphics.thomsonreuters.com//14/05/CHINA-CORRUPTION.pdf">graphics.thomsonreuters.com//14/05/CHINA-CORRUPTION.pdf</a> (2014年05月23日 15:16)
@@ -48,6 +50,4 @@ Internet archive now blocked in China  <a href="https://en.greatfire.org/https/a
 Shanghai clear its streets for Putin's visit <a href="https://freeweibo.com/en/weibo/3712372197338181">freeweibo.com/en/weibo/3712372197338181</a> <a href="https://twitter.com/GreatFireChina/status/468915918928879617/photo/1">twitter.com/GreatFireChina/status/468915918928879617/photo/1</a> (2014年05月21日 08:47)
  ---
 RT @NickKristof: My starkest memory of the Tiananmen Square massacre 25 years ago is of the bravest and unlikeliest heroes: <a href="http://t.co/pEZ">t.co/pEZ</a>… (2014年05月20日 22:57)
- ---
-RT @globaldan: Beijing, we have a problem: “China investigates corruption inspector for corruption” says Chinese state media. #为人民服务 (2014年05月20日 20:30)
  ---
