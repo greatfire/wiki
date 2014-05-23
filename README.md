@@ -17,7 +17,7 @@ Petition: 25 years after Tiananmen ask President Xi Jinping to implement China's
  ---
 RT @TheMantle: Meet the blogger from #China who discusses the secret police's "tea chats" by @xinwenfan <a href="http://www.bloomberg.com/news/2013-06-05/china-blogger-who-began-querying-home-prices-taken-to-tea.html?utm_content=buffercede4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.bloomberg.com/news/2013-06-05/china-blogger-who-began-querying-home-prices-taken-to-tea.html</a> | (2014年05月22日 22:57)
  ---
-RT @jehan_ara: RT @FariehaAziz:[Blogpost] Digital Fortress:From China to #Pakistan by @Ghausia for @BoloBhi <a href="http://t.co/4iK3PjKKXh">t.co/4iK3PjKKXh</a> #Interne… (2014年05月22日 19:10)
+RT @jehan_ara: RT @FariehaAziz:[Blogpost] Digital Fortress:From China to #Pakistan by @Ghausia for @BoloBhi <a href="http://bolobhi.org/digital-fortress-from-china-to-pakistan/">bolobhi.org/digital-fortress-from-china-to-pakistan/</a> #Interne… (2014年05月22日 19:10)
  ---
 RT @tomphillipsin: RT @SCMP_News BREAKING: China shuts train station in Lanzhou over suspected bombs <a href="http://www.scmp.com/news/china/article/1517944/china-shuts-train-station-lanzhou-over-suspected-explosives">www.scmp.com/news/china/article/1517944/china-shuts-train-station-lanzhou-over-suspected-explosives</a> (2014年05月22日 18:49)
  ---
