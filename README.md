@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Sina Weibo Begins Censoring "Tiananmen" and "25 Years Ago" <a href="http://blog.feichangdao.com/2014/05/sina-weibo-begins-censoring-tiananmen.html">blog.feichangdao.com/2014/05/sina-weibo-begins-censoring-tiananmen.html</a> via @wafarris (2014年05月24日 06:57)
+ ---
 RT @tomphillipsin: Soldiers with automatic rifles out on Shanghai's Nanjing West Road today.  First time I've seen that. (2014年05月24日 02:03)
  ---
 RT @JoFloto: BBC team in Xinjiang briefly detained by police who deleted footage - including testimony of victims relatives from yesterday'… (2014年05月23日 22:57)
@@ -48,6 +50,4 @@ Latest and greatest @NMAtv video on hackers and nose pickers <a href="https://ww
 Internet archive now blocked in China  <a href="https://en.greatfire.org/https/archive.org">en.greatfire.org/https/archive.org</a> (2014年05月21日 09:09)
  ---
 Shanghai clear its streets for Putin's visit <a href="https://freeweibo.com/en/weibo/3712372197338181">freeweibo.com/en/weibo/3712372197338181</a> <a href="https://twitter.com/GreatFireChina/status/468915918928879617/photo/1">twitter.com/GreatFireChina/status/468915918928879617/photo/1</a> (2014年05月21日 08:47)
- ---
-RT @NickKristof: My starkest memory of the Tiananmen Square massacre 25 years ago is of the bravest and unlikeliest heroes: <a href="http://t.co/pEZ">t.co/pEZ</a>… (2014年05月20日 22:57)
  ---
