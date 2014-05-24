@@ -35,7 +35,7 @@ RT @tomphillipsin: RT @SCMP_News BREAKING: China shuts train station in Lanzhou 
  ---
 @XHNews your site is down (2014年05月22日 18:18)
  ---
-Note the plural - coordinated attack? RT @XHNews Flights bound for China's Xinjiang land midway for security check <a href="http://news.xinhuanet.com/english/china/2014-05/22/c_133353714.htm">news.xinhuanet.com/english/china/2014-05/22/c_133353714.htm</a> (2014年05月22日 18:16)
+Note the plural - coordinated attack? RT @XHNews Flights bound for China's Xinjiang land midway for security check <a href="http://xhne.ws/BpzhV">xhne.ws/BpzhV</a> (2014年05月22日 18:16)
  ---
 @rob_schmitz @niubi @KaiserKuo @comradewong oped from @globaltimesnews ties that suitcase bomb to Kunming station <a href="http://www.globaltimes.cn/content/861579.shtml?utm_content=bufferc0929&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.globaltimes.cn/content/861579.shtml</a> (2014年05月22日 18:04)
  ---
@@ -50,4 +50,6 @@ As cyber rift deepens, China bans use of Windows 8 on government computers <a hr
 RT @McAndrew: 点点 ftw! RT @CodyBrown: Betaworks is attempting to bring @playdots to China. Nuanced changes. Fascinating read: <a href="http://t.co/rD">t.co/rD</a>… (2014年05月21日 23:32)
  ---
 RT @akaDashan: The only poster I saw at Beida signed with a real name: Wang Dan, May 25 1989 <a href="https://twitter.com/akaDashan/status/469068268641062912/photo/1">twitter.com/akaDashan/status/469068268641062912/photo/1</a> (2014年05月21日 18:57)
+ ---
+>twitter.com/akaDashan/status/469068268641062912/photo/1</a> (2014年05月21日 18:57)
  ---
