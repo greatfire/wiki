@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Agree MT @JPBarlow: "Now, in age of Internet, government cannot possibly control all information." - Murong Xuecun <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F05%2F23%2Fopinion%2F23iht-edmurong23.html%3Fhp%26rref%3Dopinion%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年05月24日 10:21)
+ ---
 The power struggle behind China's corruption crackdown <a href="http://www.reuters.com/article/2014/05/23/us-china-corruption-special-report-idUSBREA4M00120140523">www.reuters.com/article/2014/05/23/us-china-corruption-special-report-idUSBREA4M00120140523</a> Not posted on Chinese Reuters. (2014年05月24日 07:28)
  ---
 @孔庆东 被封号，自由微博存档，大家看看是因为哪条。 <a href="https://freeweibo.com/weibo/%40%E5%AD%94%E5%BA%86%E4%B8%9C">freeweibo.com/weibo/@孔庆东</a> (2014年05月24日 07:12)
@@ -48,6 +50,4 @@ As cyber rift deepens, China bans use of Windows 8 on government computers <a hr
 RT @McAndrew: 点点 ftw! RT @CodyBrown: Betaworks is attempting to bring @playdots to China. Nuanced changes. Fascinating read: <a href="http://t.co/rD">t.co/rD</a>… (2014年05月21日 23:32)
  ---
 RT @akaDashan: The only poster I saw at Beida signed with a real name: Wang Dan, May 25 1989 <a href="https://twitter.com/akaDashan/status/469068268641062912/photo/1">twitter.com/akaDashan/status/469068268641062912/photo/1</a> (2014年05月21日 18:57)
- ---
-Latest and greatest @NMAtv video on hackers and nose pickers <a href="https://www.youtube.com/watch?v=wsndpFj_8sc">www.youtube.com/watch</a> (2014年05月21日 15:21)
  ---
