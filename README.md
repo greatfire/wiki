@@ -31,7 +31,7 @@ RT @TheMantle: Meet the blogger from #China who discusses the secret police's "t
  ---
 RT @jehan_ara: RT @FariehaAziz:[Blogpost] Digital Fortress:From China to #Pakistan by @Ghausia for @BoloBhi <a href="http://bolobhi.org/digital-fortress-from-china-to-pakistan/">bolobhi.org/digital-fortress-from-china-to-pakistan/</a> #Interne… (2014年05月22日 19:10)
  ---
-RT @tomphillipsin: RT @SCMP_News BREAKING: China shuts train station in Lanzhou over suspected bombs <a href="http://www.scmp.com/news/china/article/1517944/china-shuts-train-station-lanzhou-over-suspected-explosives">www.scmp.com/news/china/article/1517944/china-shuts-train-station-lanzhou-over-suspected-explosives</a> (2014年05月22日 18:49)
+RT @tomphillipsin: RT @SCMP_News BREAKING: China shuts train station in Lanzhou over suspected bombs <a href="http://sc.mp/bjc32">sc.mp/bjc32</a> (2014年05月22日 18:49)
  ---
 @XHNews your site is down (2014年05月22日 18:18)
  ---
