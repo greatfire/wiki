@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @austinramzy: Sinosphere Blog: Tiananmen Comment Eyed After Professor’s Microblog Vanishes <a href="HTTP://http:////www-nc.nytimes.com/2014/05/26/tiananmen-comment-eyed-after-professors-microblog-vanishes/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&utm_content=buffer54364&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&">http////www-nc.nytimes.com/2014/05/26/tiananmen-comment-eyed-after-professors-microblog-vanishes/</a> (2014年05月26日 22:57)
+ ---
 RT @niubi: Proton Mail-The Only Email System The NSA Can't Access <a href="http://www.forbes.com/sites/hollieslade/2014/05/19/the-only-email-system-the-nsa-cant-access/">www.forbes.com/sites/hollieslade/2014/05/19/the-only-email-system-the-nsa-cant-access/</a> says already has 100s of chinese users. when will … (2014年05月26日 19:27)
  ---
 Agree MT @JPBarlow: "Now, in age of Internet, government cannot possibly control all information." - Murong Xuecun <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F05%2F23%2Fopinion%2F23iht-edmurong23.html%3Fhp%26rref%3Dopinion%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年05月24日 10:21)
@@ -48,6 +50,4 @@ Note the plural - coordinated attack? RT @XHNews Flights bound for China's Xinji
 RT @DwnewsDWnews: 新疆 #乌鲁木齐 #文化宫 路5月22日早发生爆炸，伤亡不明，疑似再遭 #恐怖袭击：<a href="http://china.dwnews.com/news/2014-05-21/59473157.html">china.dwnews.com/news/2014-05-21/59473157.html</a> <a href="https://twitter.com/DwnewsDWnews/status/469284201942892546/photo/1">twitter.com/DwnewsDWnews/status/469284201942892546/photo/1</a> (2014年05月22日 10:49)
  ---
 As cyber rift deepens, China bans use of Windows 8 on government computers <a href="http://www.washingtonpost.com/world/asia_pacific/as-cyber-rift-deepens-china-bans-use-of-windows-8-on-government-computers/2014/05/21/11bdb4b6-597e-4afe-ba16-ce27afa7a7d7_story.html">www.washingtonpost.com/world/asia_pacific/as-cyber-rift-deepens-china-bans-use-of-windows-8-on-government-computers/2014/05/21/11bdb4b6-597e-4afe-ba16-ce27afa7a7d7_story.html</a> via @washingtonpost (2014年05月22日 08:18)
- ---
-RT @McAndrew: 点点 ftw! RT @CodyBrown: Betaworks is attempting to bring @playdots to China. Nuanced changes. Fascinating read: <a href="http://t.co/rD">t.co/rD</a>… (2014年05月21日 23:32)
  ---
