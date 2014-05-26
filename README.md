@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+US may block visas for Chinese hackers attending DefCon, Black Hat <a href="http://arstechnica.com/tech-policy/2014/05/us-may-block-visas-for-chinese-hackers-attending-defcon-black-hat/?utm_content=buffere6e3f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">arstechnica.com/tech-policy/2014/05/us-may-block-visas-for-chinese-hackers-attending-defcon-black-hat/</a> (2014年05月27日 06:57)
+ ---
 RT @CDTimes: We have compiled our best posts from 10 years of commemoration and censorship of the events of 1989: <a href="http://chinadigitaltimes.net/china/1989-top-stories/?utm_content=bufferc5f34&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">chinadigitaltimes.net/china/1989-top-stories/</a> (2014年05月27日 02:03)
  ---
 RT @austinramzy: Sinosphere Blog: Tiananmen Comment Eyed After Professor’s Microblog Vanishes <a href="HTTP://http:////www-nc.nytimes.com/2014/05/26/tiananmen-comment-eyed-after-professors-microblog-vanishes/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&utm_content=buffer54364&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&">http////www-nc.nytimes.com/2014/05/26/tiananmen-comment-eyed-after-professors-microblog-vanishes/</a> (2014年05月26日 22:57)
@@ -48,6 +50,4 @@ Note the plural - coordinated attack? RT @XHNews Flights bound for China's Xinji
 "Xinjiang a war zone" / "New Chechnya" / "There will be no good end" many 新建微博 censored, many uncensored <a href="https://freeweibo.com/weibo/%E6%96%B0%E7%96%86?censored">freeweibo.com/weibo/新疆</a> (2014年05月22日 17:32)
  ---
 @Azuike @DwnewsDWnews <a href="http://blogs.wsj.com/chinarealtime/2014/05/22/explosives-attack-hits-street-market-in-xinjiang/?mod=WSJBlog">blogs.wsj.com/chinarealtime/2014/05/22/explosives-attack-hits-street-market-in-xinjiang/</a> (2014年05月22日 15:46)
- ---
-RT @DwnewsDWnews: 新疆 #乌鲁木齐 #文化宫 路5月22日早发生爆炸，伤亡不明，疑似再遭 #恐怖袭击：<a href="http://china.dwnews.com/news/2014-05-21/59473157.html">china.dwnews.com/news/2014-05-21/59473157.html</a> <a href="https://twitter.com/DwnewsDWnews/status/469284201942892546/photo/1">twitter.com/DwnewsDWnews/status/469284201942892546/photo/1</a> (2014年05月22日 10:49)
  ---
