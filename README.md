@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @RTKcn: 51+ RT @zhangjialong: 张贾龙被解聘的情况说明 <a href="http://zhangjialong.blogspot.com/2014/05/blog-post_23.html">zhangjialong.blogspot.com/2014/05/blog-post_23.html</a> (2014年05月27日 11:37)
+ ---
 RT @ict4d: "Even For Censorship Savvy China, ICTs Can Cut Through Corruption, Study Finds | TechPresident"  <a href="http://techpresident.com/news/wegov/25072/censorship-savvy-china-icts-corruption?utm_content=bufferb6c20&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">techpresident.com/news/wegov/25072/censorship-savvy-china-icts-corruption</a> (2014年05月27日 10:21)
  ---
 US may block visas for Chinese hackers attending DefCon, Black Hat <a href="http://arstechnica.com/tech-policy/2014/05/us-may-block-visas-for-chinese-hackers-attending-defcon-black-hat/?utm_content=buffere6e3f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">arstechnica.com/tech-policy/2014/05/us-may-block-visas-for-chinese-hackers-attending-defcon-black-hat/</a> (2014年05月27日 06:57)
@@ -48,6 +50,4 @@ RT @tomphillipsin: RT @SCMP_News BREAKING: China shuts train station in Lanzhou 
 Note the plural - coordinated attack? RT @XHNews Flights bound for China's Xinjiang land midway for security check <a href="http://news.xinhuanet.com/english/china/2014-05/22/c_133353714.htm">news.xinhuanet.com/english/china/2014-05/22/c_133353714.htm</a> (2014年05月22日 18:16)
  ---
 @rob_schmitz @niubi @KaiserKuo @comradewong oped from @globaltimesnews ties that suitcase bomb to Kunming station <a href="http://www.globaltimes.cn/content/861579.shtml?utm_content=bufferc0929&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.globaltimes.cn/content/861579.shtml</a> (2014年05月22日 18:04)
- ---
-"Xinjiang a war zone" / "New Chechnya" / "There will be no good end" many 新建微博 censored, many uncensored <a href="https://freeweibo.com/weibo/%E6%96%B0%E7%96%86?censored">freeweibo.com/weibo/新疆</a> (2014年05月22日 17:32)
  ---
