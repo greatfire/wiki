@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+.@AmyTan the rhyme and reason behind censorship evades Chinese, too <a href="http://www.canberratimes.com.au/act-news/amy-tan-speaks-of-a-new-and-old-china-at-the-nla-20140526-zrols.html">www.canberratimes.com.au/act-news/amy-tan-speaks-of-a-new-and-old-china-at-the-nla-20140526-zrols.html</a> (2014年05月27日 15:51)
+ ---
 RT @RTKcn: 51+ RT @zhangjialong: 张贾龙被解聘的情况说明 <a href="http://zhangjialong.blogspot.com/2014/05/blog-post_23.html">zhangjialong.blogspot.com/2014/05/blog-post_23.html</a> (2014年05月27日 11:37)
  ---
 RT @ict4d: "Even For Censorship Savvy China, ICTs Can Cut Through Corruption, Study Finds | TechPresident"  <a href="http://techpresident.com/news/wegov/25072/censorship-savvy-china-icts-corruption?utm_content=bufferb6c20&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">techpresident.com/news/wegov/25072/censorship-savvy-china-icts-corruption</a> (2014年05月27日 10:21)
@@ -48,6 +50,4 @@ RT @tomphillipsin: RT @SCMP_News BREAKING: China shuts train station in Lanzhou 
 @XHNews your site is down (2014年05月22日 18:18)
  ---
 Note the plural - coordinated attack? RT @XHNews Flights bound for China's Xinjiang land midway for security check <a href="http://news.xinhuanet.com/english/china/2014-05/22/c_133353714.htm">news.xinhuanet.com/english/china/2014-05/22/c_133353714.htm</a> (2014年05月22日 18:16)
- ---
-@rob_schmitz @niubi @KaiserKuo @comradewong oped from @globaltimesnews ties that suitcase bomb to Kunming station <a href="http://www.globaltimes.cn/content/861579.shtml?utm_content=bufferc0929&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.globaltimes.cn/content/861579.shtml</a> (2014年05月22日 18:04)
  ---
