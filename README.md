@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @avilarenata: It drives me insane when researchers think they can know what people think or want. Assumptions about the South, and what … (2014年05月27日 17:19)
+ ---
 RT @jilliancyork: Surveillance is presented as an inevitability by the Swedish government. Time to revolt. #SIF14 (2014年05月27日 16:21)
  ---
 Non-censorship of Vietnam conflict highlighted on <a href="https://freeweibo.com/">freeweibo.com/</a> today - 越南 barely makes it onto censorship hot list. (2014年05月27日 16:04)
@@ -48,6 +50,4 @@ Zhou Yongkang used CNPC money to silence victim's family from Mar '12 Ferrari cr
 Petition: 25 years after Tiananmen ask President Xi Jinping to implement China's constitution. <a href="http://rsf.org/petitions/tiananmen/petition.php?lang=en&utm_source=btn_top&utm_medium=email&utm_campaign=tiananmen">rsf.org/petitions/tiananmen/petition.php</a> (2014年05月23日 14:19)
  ---
 RT @TheMantle: Meet the blogger from #China who discusses the secret police's "tea chats" by @xinwenfan <a href="http://www.bloomberg.com/news/2013-06-05/china-blogger-who-began-querying-home-prices-taken-to-tea.html?utm_content=buffercede4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.bloomberg.com/news/2013-06-05/china-blogger-who-began-querying-home-prices-taken-to-tea.html</a> | (2014年05月22日 22:57)
- ---
-RT @jehan_ara: RT @FariehaAziz:[Blogpost] Digital Fortress:From China to #Pakistan by @Ghausia for @BoloBhi <a href="http://bolobhi.org/digital-fortress-from-china-to-pakistan/">bolobhi.org/digital-fortress-from-china-to-pakistan/</a> #Interne… (2014年05月22日 19:10)
  ---
