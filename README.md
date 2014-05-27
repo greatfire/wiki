@@ -11,6 +11,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Non-censorship of Vietnam conflict highlighted on <a href="https://freeweibo.com/">freeweibo.com/</a> today - 越南 barely makes it onto censorship hot list. (2014年05月27日 16:04)
+ ---
+Anti-Vietnam chatter allowed to run rampant / uncensored because it's a well-timed distraction from June 4 discussions. (2014年05月27日 16:02)
+ ---
 .@AmyTan the rhyme and reason behind censorship evades Chinese, too <a href="http://www.canberratimes.com.au/act-news/amy-tan-speaks-of-a-new-and-old-china-at-the-nla-20140526-zrols.html">www.canberratimes.com.au/act-news/amy-tan-speaks-of-a-new-and-old-china-at-the-nla-20140526-zrols.html</a> (2014年05月27日 15:51)
  ---
 RT @RTKcn: 51+ RT @zhangjialong: 张贾龙被解聘的情况说明 <a href="http://zhangjialong.blogspot.com/2014/05/blog-post_23.html">zhangjialong.blogspot.com/2014/05/blog-post_23.html</a> (2014年05月27日 11:37)
@@ -46,8 +50,4 @@ RT @TheMantle: Meet the blogger from #China who discusses the secret police's "t
 RT @jehan_ara: RT @FariehaAziz:[Blogpost] Digital Fortress:From China to #Pakistan by @Ghausia for @BoloBhi <a href="http://bolobhi.org/digital-fortress-from-china-to-pakistan/">bolobhi.org/digital-fortress-from-china-to-pakistan/</a> #Interne… (2014年05月22日 19:10)
  ---
 RT @tomphillipsin: RT @SCMP_News BREAKING: China shuts train station in Lanzhou over suspected bombs <a href="http://www.scmp.com/news/china/article/1517944/china-shuts-train-station-lanzhou-over-suspected-explosives">www.scmp.com/news/china/article/1517944/china-shuts-train-station-lanzhou-over-suspected-explosives</a> (2014年05月22日 18:49)
- ---
-@XHNews your site is down (2014年05月22日 18:18)
- ---
-Note the plural - coordinated attack? RT @XHNews Flights bound for China's Xinjiang land midway for security check <a href="http://news.xinhuanet.com/english/china/2014-05/22/c_133353714.htm">news.xinhuanet.com/english/china/2014-05/22/c_133353714.htm</a> (2014年05月22日 18:16)
  ---
