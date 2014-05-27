@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @jilliancyork: Surveillance is presented as an inevitability by the Swedish government. Time to revolt. #SIF14 (2014年05月27日 16:21)
+ ---
 Non-censorship of Vietnam conflict highlighted on <a href="https://freeweibo.com/">freeweibo.com/</a> today - 越南 barely makes it onto censorship hot list. (2014年05月27日 16:04)
  ---
 Anti-Vietnam chatter allowed to run rampant / uncensored because it's a well-timed distraction from June 4 discussions. (2014年05月27日 16:02)
@@ -48,6 +50,4 @@ Petition: 25 years after Tiananmen ask President Xi Jinping to implement China's
 RT @TheMantle: Meet the blogger from #China who discusses the secret police's "tea chats" by @xinwenfan <a href="http://www.bloomberg.com/news/2013-06-05/china-blogger-who-began-querying-home-prices-taken-to-tea.html?utm_content=buffercede4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.bloomberg.com/news/2013-06-05/china-blogger-who-began-querying-home-prices-taken-to-tea.html</a> | (2014年05月22日 22:57)
  ---
 RT @jehan_ara: RT @FariehaAziz:[Blogpost] Digital Fortress:From China to #Pakistan by @Ghausia for @BoloBhi <a href="http://bolobhi.org/digital-fortress-from-china-to-pakistan/">bolobhi.org/digital-fortress-from-china-to-pakistan/</a> #Interne… (2014年05月22日 19:10)
- ---
-RT @tomphillipsin: RT @SCMP_News BREAKING: China shuts train station in Lanzhou over suspected bombs <a href="http://www.scmp.com/news/china/article/1517944/china-shuts-train-station-lanzhou-over-suspected-explosives">www.scmp.com/news/china/article/1517944/china-shuts-train-station-lanzhou-over-suspected-explosives</a> (2014年05月22日 18:49)
  ---
