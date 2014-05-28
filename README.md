@@ -11,6 +11,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @tordotcom: Cory @Doctorow has a great primer on privacy tools for you, your kids, and your family in an age of online snooping: http://… (2014年05月28日 13:09)
+ ---
+RT @XHNews: #China vows month-long clean up campaign to regulate instant messaging services, targeting illegal, harmful info <a href="http://t.co/b8">t.co/b8</a>… (2014年05月28日 13:03)
+ ---
 孔庆东评论“六四”被新浪微博删号 <a href="http://cn.nytimes.com/china/20140527/c27kongqingdong/">cn.nytimes.com/china/20140527/c27kongqingdong/</a> (2014年05月28日 07:13)
  ---
 RT @rmack: Twitter restricts content in Pakistan for 1st time <a href="https://www.chillingeffects.org/weather.cgi?WeatherID=826&utm_content=buffer228f1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.chillingeffects.org/weather.cgi</a> cc @BoloBhi @sirkup #netfreedom (2014年05月27日 22:57)
@@ -46,8 +50,4 @@ The power struggle behind China's corruption crackdown <a href="http://www.reute
 Sina Weibo Begins Censoring "Tiananmen" and "25 Years Ago" <a href="http://blog.feichangdao.com/2014/05/sina-weibo-begins-censoring-tiananmen.html">blog.feichangdao.com/2014/05/sina-weibo-begins-censoring-tiananmen.html</a> via @wafarris (2014年05月24日 06:57)
  ---
 RT @tomphillipsin: Soldiers with automatic rifles out on Shanghai's Nanjing West Road today.  First time I've seen that. (2014年05月24日 02:03)
- ---
-RT @JoFloto: BBC team in Xinjiang briefly detained by police who deleted footage - including testimony of victims relatives from yesterday'… (2014年05月23日 22:57)
- ---
-Zhou Yongkang used CNPC money to silence victim's family from Mar '12 Ferrari crash - political manoeuvring <a href="http://graphics.thomsonreuters.com//14/05/CHINA-CORRUPTION.pdf">graphics.thomsonreuters.com//14/05/CHINA-CORRUPTION.pdf</a> (2014年05月23日 15:16)
  ---
