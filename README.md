@@ -11,6 +11,12 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @wenyunchao: Remembering Tiananmen: The lessons of history | The Economist <a href="http://www.economist.com/news/china/21603016-our-bureau-chief-leaves-china-he-reflects-crushing-protests-he-witnessed-25-years">www.economist.com/news/china/21603016-our-bureau-chief-leaves-china-he-reflects-crushing-protests-he-witnessed-25-years</a> (2014年05月30日 04:56)
+ ---
+@prchovanec thanks for sharing all of these amazing photos (2014年05月30日 04:55)
+ ---
+RT @prchovanec: May 29, 1989 - Demonstrators march in Tiananmen Square. Banner reads "History on Trial" <a href="https://twitter.com/prchovanec/status/472116755629105152/photo/1">twitter.com/prchovanec/status/472116755629105152/photo/1</a> (2014年05月30日 04:54)
+ ---
 not about censorship but important: Your Princess Is in Another Castle: Misogyny, Entitlement, and Nerds <a href="http://www.thedailybeast.com/articles/2014/05/27/your-princess-is-in-another-castle-misogyny-entitlement-and-nerds.html">www.thedailybeast.com/articles/2014/05/27/your-princess-is-in-another-castle-misogyny-entitlement-and-nerds.html</a> (2014年05月29日 23:37)
  ---
 RT @niubi: Tencent Criticized by China State Media as Some Accounts Limited <a href="http://www.bloomberg.com/news/2014-05-29/tencent-criticized-by-china-state-media-as-some-accounts-limited.html">www.bloomberg.com/news/2014-05-29/tencent-criticized-by-china-state-media-as-some-accounts-limited.html</a> via @BloombergNews (2014年05月29日 23:33)
@@ -44,10 +50,4 @@ RT @CDTimes: We have compiled our best posts from 10 years of commemoration and 
 RT @austinramzy: Sinosphere Blog: Tiananmen Comment Eyed After Professor’s Microblog Vanishes <a href="HTTP://http:////www-nc.nytimes.com/2014/05/26/tiananmen-comment-eyed-after-professors-microblog-vanishes/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&utm_content=buffer54364&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&">http////www-nc.nytimes.com/2014/05/26/tiananmen-comment-eyed-after-professors-microblog-vanishes/</a> (2014年05月26日 22:57)
  ---
 RT @niubi: Proton Mail-The Only Email System The NSA Can't Access <a href="http://www.forbes.com/sites/hollieslade/2014/05/19/the-only-email-system-the-nsa-cant-access/">www.forbes.com/sites/hollieslade/2014/05/19/the-only-email-system-the-nsa-cant-access/</a> says already has 100s of chinese users. when will … (2014年05月26日 19:27)
- ---
-Agree MT @JPBarlow: "Now, in age of Internet, government cannot possibly control all information." - Murong Xuecun <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F05%2F23%2Fopinion%2F23iht-edmurong23.html%3Fhp%26rref%3Dopinion%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年05月24日 10:21)
- ---
-The power struggle behind China's corruption crackdown <a href="http://www.reuters.com/article/2014/05/23/us-china-corruption-special-report-idUSBREA4M00120140523">www.reuters.com/article/2014/05/23/us-china-corruption-special-report-idUSBREA4M00120140523</a> Not posted on Chinese Reuters. (2014年05月24日 07:28)
- ---
-@孔庆东 被封号，自由微博存档，大家看看是因为哪条。 <a href="https://freeweibo.com/weibo/%40%E5%AD%94%E5%BA%86%E4%B8%9C">freeweibo.com/weibo/@孔庆东</a> (2014年05月24日 07:12)
  ---
