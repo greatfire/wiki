@@ -11,6 +11,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+not about censorship but important: Your Princess Is in Another Castle: Misogyny, Entitlement, and Nerds <a href="http://www.thedailybeast.com/articles/2014/05/27/your-princess-is-in-another-castle-misogyny-entitlement-and-nerds.html">www.thedailybeast.com/articles/2014/05/27/your-princess-is-in-another-castle-misogyny-entitlement-and-nerds.html</a> (2014年05月29日 23:37)
+ ---
+RT @niubi: Tencent Criticized by China State Media as Some Accounts Limited <a href="http://www.bloomberg.com/news/2014-05-29/tencent-criticized-by-china-state-media-as-some-accounts-limited.html">www.bloomberg.com/news/2014-05-29/tencent-criticized-by-china-state-media-as-some-accounts-limited.html</a> via @BloombergNews (2014年05月29日 23:33)
+ ---
 RT @tordotcom: Cory @Doctorow has a great primer on privacy tools for you, your kids, and your family in an age of online snooping: http://… (2014年05月28日 13:09)
  ---
 RT @XHNews: #China vows month-long clean up campaign to regulate instant messaging services, targeting illegal, harmful info <a href="http://t.co/b8">t.co/b8</a>… (2014年05月28日 13:03)
@@ -46,8 +50,4 @@ Agree MT @JPBarlow: "Now, in age of Internet, government cannot possibly control
 The power struggle behind China's corruption crackdown <a href="http://www.reuters.com/article/2014/05/23/us-china-corruption-special-report-idUSBREA4M00120140523">www.reuters.com/article/2014/05/23/us-china-corruption-special-report-idUSBREA4M00120140523</a> Not posted on Chinese Reuters. (2014年05月24日 07:28)
  ---
 @孔庆东 被封号，自由微博存档，大家看看是因为哪条。 <a href="https://freeweibo.com/weibo/%40%E5%AD%94%E5%BA%86%E4%B8%9C">freeweibo.com/weibo/@孔庆东</a> (2014年05月24日 07:12)
- ---
-Sina Weibo Begins Censoring "Tiananmen" and "25 Years Ago" <a href="http://blog.feichangdao.com/2014/05/sina-weibo-begins-censoring-tiananmen.html">blog.feichangdao.com/2014/05/sina-weibo-begins-censoring-tiananmen.html</a> via @wafarris (2014年05月24日 06:57)
- ---
-RT @tomphillipsin: Soldiers with automatic rifles out on Shanghai's Nanjing West Road today.  First time I've seen that. (2014年05月24日 02:03)
  ---
