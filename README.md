@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @hancocktom: Government of Kashgar in Xinjiang denies it released a statement saying it would cut off the internet <a href="http://news.sina.com.cn/c/2014-05-28/131130248764.shtml?bsh_bid=416061313&utm_content=buffer88b09&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">news.sina.com.cn/c/2014-05-28/131130248764.shtml</a> (2014年05月30日 06:57)
+ ---
 RT @wenyunchao: Remembering Tiananmen: The lessons of history | The Economist <a href="http://www.economist.com/news/china/21603016-our-bureau-chief-leaves-china-he-reflects-crushing-protests-he-witnessed-25-years">www.economist.com/news/china/21603016-our-bureau-chief-leaves-china-he-reflects-crushing-protests-he-witnessed-25-years</a> (2014年05月30日 04:56)
  ---
 @prchovanec thanks for sharing all of these amazing photos (2014年05月30日 04:55)
@@ -48,6 +50,4 @@ US may block visas for Chinese hackers attending DefCon, Black Hat <a href="http
 RT @CDTimes: We have compiled our best posts from 10 years of commemoration and censorship of the events of 1989: <a href="http://chinadigitaltimes.net/china/1989-top-stories/?utm_content=bufferc5f34&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">chinadigitaltimes.net/china/1989-top-stories/</a> (2014年05月27日 02:03)
  ---
 RT @austinramzy: Sinosphere Blog: Tiananmen Comment Eyed After Professor’s Microblog Vanishes <a href="HTTP://http:////www-nc.nytimes.com/2014/05/26/tiananmen-comment-eyed-after-professors-microblog-vanishes/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&utm_content=buffer54364&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&">http////www-nc.nytimes.com/2014/05/26/tiananmen-comment-eyed-after-professors-microblog-vanishes/</a> (2014年05月26日 22:57)
- ---
-RT @niubi: Proton Mail-The Only Email System The NSA Can't Access <a href="http://www.forbes.com/sites/hollieslade/2014/05/19/the-only-email-system-the-nsa-cant-access/">www.forbes.com/sites/hollieslade/2014/05/19/the-only-email-system-the-nsa-cant-access/</a> says already has 100s of chinese users. when will … (2014年05月26日 19:27)
  ---
