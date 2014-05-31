@@ -13,7 +13,7 @@
 ## 新闻
 RT @hancocktom: Government of Kashgar in Xinjiang denies it released a statement saying it would cut off the internet <a href="http://news.sina.com.cn/c/2014-05-28/131130248764.shtml?bsh_bid=416061313&utm_content=buffer88b09&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">news.sina.com.cn/c/2014-05-28/131130248764.shtml</a> (2014年05月30日 06:57)
  ---
-RT @wenyunchao: Remembering Tiananmen: The lessons of history | The Economist <a href="http://www.economist.com/news/china/21603016-our-bureau-chief-leaves-china-he-reflects-crushing-protests-he-witnessed-25-years">www.economist.com/news/china/21603016-our-bureau-chief-leaves-china-he-reflects-crushing-protests-he-witnessed-25-years</a> (2014年05月30日 04:56)
+RT @wenyunchao: Remembering Tiananmen: The lessons of history | The Economist <a href="http://flip.it/CR4e4">flip.it/CR4e4</a> (2014年05月30日 04:56)
  ---
 @prchovanec thanks for sharing all of these amazing photos (2014年05月30日 04:55)
  ---
