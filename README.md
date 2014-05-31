@@ -21,7 +21,7 @@ RT @prchovanec: May 29, 1989 - Demonstrators march in Tiananmen Square. Banner r
  ---
 not about censorship but important: Your Princess Is in Another Castle: Misogyny, Entitlement, and Nerds <a href="http://www.thedailybeast.com/articles/2014/05/27/your-princess-is-in-another-castle-misogyny-entitlement-and-nerds.html">www.thedailybeast.com/articles/2014/05/27/your-princess-is-in-another-castle-misogyny-entitlement-and-nerds.html</a> (2014年05月29日 23:37)
  ---
-RT @niubi: Tencent Criticized by China State Media as Some Accounts Limited <a href="http://www.bloomberg.com/news/2014-05-29/tencent-criticized-by-china-state-media-as-some-accounts-limited.html">www.bloomberg.com/news/2014-05-29/tencent-criticized-by-china-state-media-as-some-accounts-limited.html</a> via @BloombergNews (2014年05月29日 23:33)
+RT @niubi: Tencent Criticized by China State Media as Some Accounts Limited <a href="http://flip.it/v2Rc6">flip.it/v2Rc6</a> via @BloombergNews (2014年05月29日 23:33)
  ---
 RT @tordotcom: Cory @Doctorow has a great primer on privacy tools for you, your kids, and your family in an age of online snooping: http://… (2014年05月28日 13:09)
  ---
