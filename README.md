@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+RT @yancaiwm: 转通知：鉴于招远事件震惊天下，各网评员在引导舆论时一定要注意技巧，1要把矛头指向围观者，站在道德高度谴责他们麻木冷血，从而减轻政府的责任和压力，2由知名网评员把这股祸水引向宗教，大家随后跟进一箭双雕，只要贴上邪教的标签，就能淡化凶手和官方的利益纠葛，… (2014年06月01日 15:32)
+ ---
 新疆通信管制五周年记 <a href="http://blog.5istar.net/archives/587">blog.5istar.net/archives/587</a> (2014年06月01日 05:52)
  ---
 RT @chengr28: 好吧看来我又错了……刚花了几十分钟观察GFW对Google的TCP协议封锁，应该是这样的：以10分钟为一个周期，前3分钟通讯通畅，后7分钟丢弃所有TCP协议数据包，如此循环。也就是说像 0:00 - 0:03 可以用，0:04 - 0:10 不能用…… (2014年06月01日 03:42)
@@ -48,6 +50,4 @@ Anti-Vietnam chatter allowed to run rampant / uncensored because it's a well-tim
 RT @RTKcn: 51+ RT @zhangjialong: 张贾龙被解聘的情况说明 <a href="http://zhangjialong.blogspot.com/2014/05/blog-post_23.html">zhangjialong.blogspot.com/2014/05/blog-post_23.html</a> (2014年05月27日 11:37)
  ---
 RT @ict4d: "Even For Censorship Savvy China, ICTs Can Cut Through Corruption, Study Finds | TechPresident"  <a href="http://techpresident.com/news/wegov/25072/censorship-savvy-china-icts-corruption?utm_content=bufferb6c20&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">techpresident.com/news/wegov/25072/censorship-savvy-china-icts-corruption</a> (2014年05月27日 10:21)
- ---
-US may block visas for Chinese hackers attending DefCon, Black Hat <a href="http://arstechnica.com/tech-policy/2014/05/us-may-block-visas-for-chinese-hackers-attending-defcon-black-hat/?utm_content=buffere6e3f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">arstechnica.com/tech-policy/2014/05/us-may-block-visas-for-chinese-hackers-attending-defcon-black-hat/</a> (2014年05月27日 06:57)
  ---
