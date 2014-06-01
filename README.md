@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+天安门事件前夕谷歌被封锁; 镜像网站提供不受审查的访问 <a href="https://zh.greatfire.org/node/1030705">zh.greatfire.org/node/1030705</a> (2014年06月02日 05:44)
+ ---
 [Breaking New]All google products are now blocked in China. <a href="https://en.greatfire.org/node/1030705">en.greatfire.org/node/1030705</a> (2014年06月02日 05:30)
  ---
 Google severely disrupted prior to Tiananmen Anniversary; Mirror sites enable uncensored access to information <a href="https://en.greatfire.org/node/1030705">en.greatfire.org/node/1030705</a> (2014年06月02日 05:20)
@@ -48,6 +50,4 @@ RT @jilliancyork: Surveillance is presented as an inevitability by the Swedish g
 Non-censorship of Vietnam conflict highlighted on <a href="https://freeweibo.com/">freeweibo.com/</a> today - 越南 barely makes it onto censorship hot list. (2014年05月27日 16:04)
  ---
 Anti-Vietnam chatter allowed to run rampant / uncensored because it's a well-timed distraction from June 4 discussions. (2014年05月27日 16:02)
- ---
-.@AmyTan the rhyme and reason behind censorship evades Chinese, too <a href="http://www.canberratimes.com.au/act-news/amy-tan-speaks-of-a-new-and-old-china-at-the-nla-20140526-zrols.html">www.canberratimes.com.au/act-news/amy-tan-speaks-of-a-new-and-old-china-at-the-nla-20140526-zrols.html</a> (2014年05月27日 15:51)
  ---
