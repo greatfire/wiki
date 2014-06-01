@@ -11,6 +11,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
 		
 ## 新闻
+Google severely disrupted prior to Tiananmen Anniversary; Mirror sites enable uncensored access to information <a href="https://en.greatfire.org/node/1030705">en.greatfire.org/node/1030705</a> (2014年06月02日 05:20)
+ ---
 RT @yancaiwm: 转通知：鉴于招远事件震惊天下，各网评员在引导舆论时一定要注意技巧，1要把矛头指向围观者，站在道德高度谴责他们麻木冷血，从而减轻政府的责任和压力，2由知名网评员把这股祸水引向宗教，大家随后跟进一箭双雕，只要贴上邪教的标签，就能淡化凶手和官方的利益纠葛，… (2014年06月01日 15:32)
  ---
 新疆通信管制五周年记 <a href="http://blog.5istar.net/archives/587">blog.5istar.net/archives/587</a> (2014年06月01日 05:52)
@@ -48,6 +50,4 @@ Anti-Vietnam chatter allowed to run rampant / uncensored because it's a well-tim
 .@AmyTan the rhyme and reason behind censorship evades Chinese, too <a href="http://www.canberratimes.com.au/act-news/amy-tan-speaks-of-a-new-and-old-china-at-the-nla-20140526-zrols.html">www.canberratimes.com.au/act-news/amy-tan-speaks-of-a-new-and-old-china-at-the-nla-20140526-zrols.html</a> (2014年05月27日 15:51)
  ---
 RT @RTKcn: 51+ RT @zhangjialong: 张贾龙被解聘的情况说明 <a href="http://zhangjialong.blogspot.com/2014/05/blog-post_23.html">zhangjialong.blogspot.com/2014/05/blog-post_23.html</a> (2014年05月27日 11:37)
- ---
-RT @ict4d: "Even For Censorship Savvy China, ICTs Can Cut Through Corruption, Study Finds | TechPresident"  <a href="http://techpresident.com/news/wegov/25072/censorship-savvy-china-icts-corruption?utm_content=bufferb6c20&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">techpresident.com/news/wegov/25072/censorship-savvy-china-icts-corruption</a> (2014年05月27日 10:21)
  ---
