@@ -13,6 +13,10 @@
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
 
 ## 新闻
+RT @VentureBeat: China reportedly blocks Google as Tiananmen anniversary looms <a href="http://venturebeat.com/2014/06/02/china-reportedly-blocks-google-as-tiananmen-anniversary-looms/">venturebeat.com/2014/06/02/china-reportedly-blocks-google-as-tiananmen-anniversary-looms/</a> <a href="https://twitter.com/VentureBeat/status/473513341168926720/photo/1">twitter.com/VentureBeat/status/473513341168926720/photo/1</a> (2014年06月03日 02:26)
+ ---
+RT @marcofangyong: 今天，我们一边反全能神，一边纪念国家民主事业的死难者，一边祝福精忠报国的习帝与康师傅相逢风波亭的美景！ <a href="https://twitter.com/marcofangyong/status/473490873813336064/photo/1">twitter.com/marcofangyong/status/473490873813336064/photo/1</a> (2014年06月03日 02:24)
+ ---
 RT @jonrussell: .@GreatFireChina's collateral freedom project will be of interest to those focused on censorship issues in Thailand http://… (2014年06月03日 00:20)
  ---
 @evacide FYI we just unblocked Google search in China - details about our anti-censorship hack here: <a href="http://us7.campaign-archive2.com/?u=854fca58782082e0cbdf204a0&id=6f3dda1ae7&e=326c493581">us7.campaign-archive2.com/</a> (2014年06月02日 19:16)
@@ -48,8 +52,4 @@ RT @chengr28: 好吧看来我又错了……刚花了几十分钟观察GFW对Goo
 RT @hancocktom: Government of Kashgar in Xinjiang denies it released a statement saying it would cut off the internet <a href="http://news.sina.com.cn/c/2014-05-28/131130248764.shtml?bsh_bid=416061313&utm_content=buffer88b09&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">news.sina.com.cn/c/2014-05-28/131130248764.shtml</a> (2014年05月30日 06:57)
  ---
 RT @wenyunchao: Remembering Tiananmen: The lessons of history | The Economist <a href="http://www.economist.com/news/china/21603016-our-bureau-chief-leaves-china-he-reflects-crushing-protests-he-witnessed-25-years">www.economist.com/news/china/21603016-our-bureau-chief-leaves-china-he-reflects-crushing-protests-he-witnessed-25-years</a> (2014年05月30日 04:56)
- ---
-@prchovanec thanks for sharing all of these amazing photos (2014年05月30日 04:55)
- ---
-RT @prchovanec: May 29, 1989 - Demonstrators march in Tiananmen Square. Banner reads "History on Trial" <a href="https://twitter.com/prchovanec/status/472116755629105152/photo/1">twitter.com/prchovanec/status/472116755629105152/photo/1</a> (2014年05月30日 04:54)
  ---
