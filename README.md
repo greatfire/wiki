@@ -13,11 +13,11 @@
 ## 新闻
 .@chengr28 GFW连Google80端口的明文流量也封锁了。 只封GoAgent没这个必要吧。 (2014年06月02日 05:56)
  ---
-天安门事件前夕谷歌被封锁; 镜像网站提供不受审查的访问 <a href="https://zh.greatfire.org/node/1030705">zh.greatfire.org/node/1030705</a> (2014年06月02日 05:44)
+天安门事件前夕谷歌被封锁; 镜像网站提供不受审查的访问 <a href="https://zh.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access">zh.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access</a> (2014年06月02日 05:44)
  ---
-[Breaking New]All google products are now blocked in China. <a href="https://en.greatfire.org/node/1030705">en.greatfire.org/node/1030705</a> (2014年06月02日 05:30)
+[Breaking New]All google products are now blocked in China. <a href="https://en.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access">en.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access</a> (2014年06月02日 05:30)
  ---
-Google severely disrupted prior to Tiananmen Anniversary; Mirror sites enable uncensored access to information <a href="https://en.greatfire.org/node/1030705">en.greatfire.org/node/1030705</a> (2014年06月02日 05:20)
+Google severely disrupted prior to Tiananmen Anniversary; Mirror sites enable uncensored access to information <a href="https://en.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access">en.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access</a> (2014年06月02日 05:20)
  ---
 RT @yancaiwm: 转通知：鉴于招远事件震惊天下，各网评员在引导舆论时一定要注意技巧，1要把矛头指向围观者，站在道德高度谴责他们麻木冷血，从而减轻政府的责任和压力，2由知名网评员把这股祸水引向宗教，大家随后跟进一箭双雕，只要贴上邪教的标签，就能淡化凶手和官方的利益纠葛，… (2014年06月01日 15:32)
  ---
