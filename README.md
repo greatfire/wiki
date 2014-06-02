@@ -13,6 +13,8 @@
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
 
 ## 新闻
+RT @globaldan: China finds more stuff to block; Hacktivists find more ways to rock. <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F06%2F03%2Fbusiness%2Fchinas-battle-against-google-heats-up.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年06月03日 02:42)
+ ---
 RT @VentureBeat: China reportedly blocks Google as Tiananmen anniversary looms <a href="http://venturebeat.com/2014/06/02/china-reportedly-blocks-google-as-tiananmen-anniversary-looms/">venturebeat.com/2014/06/02/china-reportedly-blocks-google-as-tiananmen-anniversary-looms/</a> <a href="https://twitter.com/VentureBeat/status/473513341168926720/photo/1">twitter.com/VentureBeat/status/473513341168926720/photo/1</a> (2014年06月03日 02:26)
  ---
 RT @marcofangyong: 今天，我们一边反全能神，一边纪念国家民主事业的死难者，一边祝福精忠报国的习帝与康师傅相逢风波亭的美景！ <a href="https://twitter.com/marcofangyong/status/473490873813336064/photo/1">twitter.com/marcofangyong/status/473490873813336064/photo/1</a> (2014年06月03日 02:24)
@@ -50,6 +52,4 @@ RT @yancaiwm: 转通知：鉴于招远事件震惊天下，各网评员在引导
 RT @chengr28: 好吧看来我又错了……刚花了几十分钟观察GFW对Google的TCP协议封锁，应该是这样的：以10分钟为一个周期，前3分钟通讯通畅，后7分钟丢弃所有TCP协议数据包，如此循环。也就是说像 0:00 - 0:03 可以用，0:04 - 0:10 不能用…… (2014年06月01日 03:42)
  ---
 RT @hancocktom: Government of Kashgar in Xinjiang denies it released a statement saying it would cut off the internet <a href="http://news.sina.com.cn/c/2014-05-28/131130248764.shtml?bsh_bid=416061313&utm_content=buffer88b09&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">news.sina.com.cn/c/2014-05-28/131130248764.shtml</a> (2014年05月30日 06:57)
- ---
-RT @wenyunchao: Remembering Tiananmen: The lessons of history | The Economist <a href="http://www.economist.com/news/china/21603016-our-bureau-chief-leaves-china-he-reflects-crushing-protests-he-witnessed-25-years">www.economist.com/news/china/21603016-our-bureau-chief-leaves-china-he-reflects-crushing-protests-he-witnessed-25-years</a> (2014年05月30日 04:56)
  ---
