@@ -11,6 +11,8 @@
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
 
 ## 新闻
+@niubi @mrbaopanrui Apps might not use the same IP. Please try accessing <a href="http://www.google.com.hk">www.google.com.hk</a> on mobile or desktop. (2014年06月02日 12:16)
+ ---
 .@chengr28 GFW连Google80端口的明文流量也封锁了。 只封GoAgent没这个必要吧。 (2014年06月02日 05:56)
  ---
 天安门事件前夕谷歌被封锁; 镜像网站提供不受审查的访问 <a href="https://zh.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access">zh.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access</a> (2014年06月02日 05:44)
@@ -48,6 +50,4 @@ RT @rmack: Twitter restricts content in Pakistan for 1st time <a href="https://w
 RT @avilarenata: It drives me insane when researchers think they can know what people think or want. Assumptions about the South, and what … (2014年05月27日 17:19)
  ---
 RT @jilliancyork: Surveillance is presented as an inevitability by the Swedish government. Time to revolt. #SIF14 (2014年05月27日 16:21)
- ---
-Non-censorship of Vietnam conflict highlighted on <a href="https://freeweibo.com/">freeweibo.com/</a> today - 越南 barely makes it onto censorship hot list. (2014年05月27日 16:04)
  ---
