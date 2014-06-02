@@ -11,6 +11,8 @@
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
 
 ## 新闻
+RT @tomphillipsin: "To claim Chinese are unsuited to or not ready for democracy &amp; freedom is to view them as less than human beings" http:/… (2014年06月02日 14:34)
+ ---
 @niubi @mrbaopanrui Apps might not use the same IP. Please try accessing <a href="http://www.google.com.hk">www.google.com.hk</a> on mobile or desktop. (2014年06月02日 12:16)
  ---
 .@chengr28 GFW连Google80端口的明文流量也封锁了。 只封GoAgent没这个必要吧。 (2014年06月02日 05:56)
@@ -48,6 +50,4 @@ RT @XHNews: #China vows month-long clean up campaign to regulate instant messagi
 RT @rmack: Twitter restricts content in Pakistan for 1st time <a href="https://www.chillingeffects.org/weather.cgi?WeatherID=826&utm_content=buffer228f1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.chillingeffects.org/weather.cgi</a> cc @BoloBhi @sirkup #netfreedom (2014年05月27日 22:57)
  ---
 RT @avilarenata: It drives me insane when researchers think they can know what people think or want. Assumptions about the South, and what … (2014年05月27日 17:19)
- ---
-RT @jilliancyork: Surveillance is presented as an inevitability by the Swedish government. Time to revolt. #SIF14 (2014年05月27日 16:21)
  ---
