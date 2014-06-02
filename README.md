@@ -11,6 +11,8 @@
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
 
 ## 新闻
+RT @pabischoff: 2 days before ‘May 35th’, @GreatFireChina “unblocks” Google search in China <a href="http://www.techinasia.com/2-days-35th-greatfireorg-unblocks-google-search-china/">www.techinasia.com/2-days-35th-greatfireorg-unblocks-google-search-china/</a> via @Techinasia (2014年06月02日 18:10)
+ ---
 @pabischoff @Techinasia once the url is shared, it is unblockable and our @FreeWeibo mirror is now indexed on Google - in time, will spread (2014年06月02日 18:08)
  ---
 We've just unblocked Google search in China <a href="https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html">s3-ap-southeast-1.amazonaws.com/google.cn/index.html</a> (2014年06月02日 17:04)
@@ -48,6 +50,4 @@ not about censorship but important: Your Princess Is in Another Castle: Misogyny
 RT @niubi: Tencent Criticized by China State Media as Some Accounts Limited <a href="http://www.bloomberg.com/news/2014-05-29/tencent-criticized-by-china-state-media-as-some-accounts-limited.html">www.bloomberg.com/news/2014-05-29/tencent-criticized-by-china-state-media-as-some-accounts-limited.html</a> via @BloombergNews (2014年05月29日 23:33)
  ---
 RT @tordotcom: Cory @Doctorow has a great primer on privacy tools for you, your kids, and your family in an age of online snooping: http://… (2014年05月28日 13:09)
- ---
-RT @XHNews: #China vows month-long clean up campaign to regulate instant messaging services, targeting illegal, harmful info <a href="http://t.co/b8">t.co/b8</a>… (2014年05月28日 13:03)
  ---
