@@ -13,6 +13,8 @@
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
 
 ## 新闻
+RT @jonrussell: .@GreatFireChina's collateral freedom project will be of interest to those focused on censorship issues in Thailand http://… (2014年06月03日 00:20)
+ ---
 @evacide FYI we just unblocked Google search in China - details about our anti-censorship hack here: <a href="http://us7.campaign-archive2.com/?u=854fca58782082e0cbdf204a0&id=6f3dda1ae7&e=326c493581">us7.campaign-archive2.com/</a> (2014年06月02日 19:16)
  ---
 RT @McAndrew: Hell of a great hack against censorship. RT @GreatFireChina: We've just unblocked Google search in China <a href="https://t.co/gCKPDZQ">t.co/gCKPDZQ</a>… (2014年06月02日 18:57)
@@ -50,6 +52,4 @@ RT @wenyunchao: Remembering Tiananmen: The lessons of history | The Economist <a
 @prchovanec thanks for sharing all of these amazing photos (2014年05月30日 04:55)
  ---
 RT @prchovanec: May 29, 1989 - Demonstrators march in Tiananmen Square. Banner reads "History on Trial" <a href="https://twitter.com/prchovanec/status/472116755629105152/photo/1">twitter.com/prchovanec/status/472116755629105152/photo/1</a> (2014年05月30日 04:54)
- ---
-not about censorship but important: Your Princess Is in Another Castle: Misogyny, Entitlement, and Nerds <a href="http://www.thedailybeast.com/articles/2014/05/27/your-princess-is-in-another-castle-misogyny-entitlement-and-nerds.html">www.thedailybeast.com/articles/2014/05/27/your-princess-is-in-another-castle-misogyny-entitlement-and-nerds.html</a> (2014年05月29日 23:37)
  ---
