@@ -11,6 +11,8 @@
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
 
 ## 新闻
+@pabischoff @Techinasia once the url is shared, it is unblockable and our @FreeWeibo mirror is now indexed on Google - in time, will spread (2014年06月02日 18:08)
+ ---
 We've just unblocked Google search in China <a href="https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html">s3-ap-southeast-1.amazonaws.com/google.cn/index.html</a> (2014年06月02日 17:04)
  ---
 免翻墙镜像收录，不定期更新 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> (2014年06月02日 16:29)
@@ -48,6 +50,4 @@ RT @niubi: Tencent Criticized by China State Media as Some Accounts Limited <a h
 RT @tordotcom: Cory @Doctorow has a great primer on privacy tools for you, your kids, and your family in an age of online snooping: http://… (2014年05月28日 13:09)
  ---
 RT @XHNews: #China vows month-long clean up campaign to regulate instant messaging services, targeting illegal, harmful info <a href="http://t.co/b8">t.co/b8</a>… (2014年05月28日 13:03)
- ---
-孔庆东评论“六四”被新浪微博删号 <a href="http://cn.nytimes.com/china/20140527/c27kongqingdong/">cn.nytimes.com/china/20140527/c27kongqingdong/</a> (2014年05月28日 07:13)
  ---
