@@ -23,6 +23,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @tanyixiang77: @hu_jia @laoyang945 不止删掉了蜡烛表情，连 蜡烛 这个词都成了屏蔽关键词，在新浪微博输入蜡烛，显示这样一段文字：根据相关法律法规和政策，“蜡烛”搜索结果未予显示！ #宇宙真理教真他妈的自信 <a href="http://t.co/Uv8x">t.co/Uv8x</a>… (2014年06月03日 22:04)
+ ---
 RT @Wang_Wo: 时间 <a href="https://twitter.com/Wang_Wo/status/473793987577659392/photo/1">twitter.com/Wang_Wo/status/473793987577659392/photo/1</a> (2014年06月03日 20:07)
  ---
 @paulmozur they are lucky the whole site was not taken down (2014年06月03日 19:41)
@@ -60,6 +62,4 @@ If you're in China, you can use <a href="https://s3-ap-southeast-1.amazonaws.com
 RT @globaldan: China finds more stuff to block; Hacktivists find more ways to rock. <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F06%2F03%2Fbusiness%2Fchinas-battle-against-google-heats-up.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年06月03日 02:42)
  ---
 RT @VentureBeat: China reportedly blocks Google as Tiananmen anniversary looms <a href="http://venturebeat.com/2014/06/02/china-reportedly-blocks-google-as-tiananmen-anniversary-looms/">venturebeat.com/2014/06/02/china-reportedly-blocks-google-as-tiananmen-anniversary-looms/</a> <a href="https://twitter.com/VentureBeat/status/473513341168926720/photo/1">twitter.com/VentureBeat/status/473513341168926720/photo/1</a> (2014年06月03日 02:26)
- ---
-RT @marcofangyong: 今天，我们一边反全能神，一边纪念国家民主事业的死难者，一边祝福精忠报国的习帝与康师傅相逢风波亭的美景！ <a href="https://twitter.com/marcofangyong/status/473490873813336064/photo/1">twitter.com/marcofangyong/status/473490873813336064/photo/1</a> (2014年06月03日 02:24)
  ---
