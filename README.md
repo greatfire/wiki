@@ -13,6 +13,8 @@
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
 
 ## 新闻
+.@WSJ now blocked in China. Surprised didn't happen earlier as @ChinaRealTime has pushed envelope a few times. <a href="https://en.greatfire.org/wsj.com">en.greatfire.org/wsj.com</a> (2014年06月03日 14:56)
+ ---
 WeChat, Microsoft trade fire over 'killing' of chatbot <a href="http://www.scmp.com/news/china-insider/article/1523295/wechat-removes-microsofts-chatbots-after-privacy-and-foul">www.scmp.com/news/china-insider/article/1523295/wechat-removes-microsofts-chatbots-after-privacy-and-foul</a> (2014年06月03日 12:13)
  ---
 谷歌官方确认其被干扰。 请使用镜像网站 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> 访问。 <a href="https://twitter.com/GreatFireChina/status/473644554747654144/photo/1">twitter.com/GreatFireChina/status/473644554747654144/photo/1</a> (2014年06月03日 09:57)
@@ -50,6 +52,4 @@ RT @tomphillipsin: "To claim Chinese are unsuited to or not ready for democracy 
 .@chengr28 GFW连Google80端口的明文流量也封锁了。 只封GoAgent没这个必要吧。 (2014年06月02日 05:56)
  ---
 天安门事件前夕谷歌被封锁; 镜像网站提供不受审查的访问 <a href="https://zh.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access">zh.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access</a> (2014年06月02日 05:44)
- ---
-[Breaking New]All google products are now blocked in China. <a href="https://en.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access">en.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access</a> (2014年06月02日 05:30)
  ---
