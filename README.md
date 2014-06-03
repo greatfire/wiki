@@ -23,6 +23,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Comparing reactions of Chinese to June 4 to a victim of domestic abuse keeping silent for good of family is wrong on so many levels (2014年06月03日 18:43)
+ ---
 Latest links to uncensored Google search for those in China <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> - adding 1000s of new users each hour (2014年06月03日 18:12)
  ---
 @fryan you were not switched to lingying at any point? If not, then this wld indicate LI is cleansing entire network of anti-China content (2014年06月03日 17:08)
@@ -60,6 +62,4 @@ RT @jonrussell: .@GreatFireChina's collateral freedom project will be of interes
 RT @McAndrew: Hell of a great hack against censorship. RT @GreatFireChina: We've just unblocked Google search in China <a href="https://t.co/gCKPDZQ">t.co/gCKPDZQ</a>… (2014年06月02日 18:57)
  ---
 RT @pabischoff: 2 days before ‘May 35th’, @GreatFireChina “unblocks” Google search in China <a href="http://www.techinasia.com/2-days-35th-greatfireorg-unblocks-google-search-china/">www.techinasia.com/2-days-35th-greatfireorg-unblocks-google-search-china/</a> via @Techinasia (2014年06月02日 18:10)
- ---
-@pabischoff @Techinasia once the url is shared, it is unblockable and our @FreeWeibo mirror is now indexed on Google - in time, will spread (2014年06月02日 18:08)
  ---
