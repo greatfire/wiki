@@ -23,6 +23,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@prchovanec @fryan @KaiserKuo @LinkedIn yes but on <a href="https://www.linkedin.com/">www.linkedin.com/</a> not on <a href="https://www.linkedin.com">www.linkedin.com</a> right? (2014年06月03日 16:45)
+ ---
 RT @paulmozur: This is what LinkedIn signed up for w/ servers in China MT @fryan @LinkedIn censoring my posts on Tiananmen Square. http://t… (2014年06月03日 15:19)
  ---
 华尔街日报被封锁！ <a href="https://zh.greatfire.org/wsj.com">zh.greatfire.org/wsj.com</a> 中英文全被封锁。 估计是因为《“六四”临近 中国严厉打压异见人士》 <a href="http://cn.wsj.com/gb/20140603/bch085553.asp">cn.wsj.com/gb/20140603/bch085553.asp</a> 这篇文章 (2014年06月03日 15:16)
@@ -60,6 +62,4 @@ We've just unblocked Google search in China <a href="https://s3-ap-southeast-1.a
 免翻墙镜像收录，不定期更新 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> (2014年06月02日 16:29)
  ---
 RT @tomphillipsin: "To claim Chinese are unsuited to or not ready for democracy &amp; freedom is to view them as less than human beings" http:/… (2014年06月02日 14:34)
- ---
-@niubi @mrbaopanrui Apps might not use the same IP. Please try accessing <a href="http://www.google.com.hk">www.google.com.hk</a> on mobile or desktop. (2014年06月02日 12:16)
  ---
