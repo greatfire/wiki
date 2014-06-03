@@ -23,6 +23,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@fryan you were not switched to lingying at any point? If not, then this wld indicate LI is cleansing entire network of anti-China content (2014年06月03日 17:08)
+ ---
+@prchovanec @fryan @KaiserKuo @LinkedIn switching lang. or location will not trigger censorship - u will get lingying only if u r in China (2014年06月03日 17:01)
+ ---
 @prchovanec @fryan @KaiserKuo @LinkedIn yes but on <a href="https://www.linkedin.com/">www.linkedin.com/</a> not on <a href="https://www.linkedin.com">www.linkedin.com</a> right? (2014年06月03日 16:45)
  ---
 RT @paulmozur: This is what LinkedIn signed up for w/ servers in China MT @fryan @LinkedIn censoring my posts on Tiananmen Square. http://t… (2014年06月03日 15:19)
@@ -58,8 +62,4 @@ RT @pabischoff: 2 days before ‘May 35th’, @GreatFireChina “unblocks” Goo
 @pabischoff @Techinasia once the url is shared, it is unblockable and our @FreeWeibo mirror is now indexed on Google - in time, will spread (2014年06月02日 18:08)
  ---
 We've just unblocked Google search in China <a href="https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html">s3-ap-southeast-1.amazonaws.com/google.cn/index.html</a> (2014年06月02日 17:04)
- ---
-免翻墙镜像收录，不定期更新 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> (2014年06月02日 16:29)
- ---
-RT @tomphillipsin: "To claim Chinese are unsuited to or not ready for democracy &amp; freedom is to view them as less than human beings" http:/… (2014年06月02日 14:34)
  ---
