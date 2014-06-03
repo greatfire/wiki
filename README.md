@@ -23,6 +23,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @HelenCouchman: I'm unhappy w/ #LinkedIn for removing factual and public news links I had shared. I wasn't even sharing an opinion. #art… (2014年06月03日 19:22)
+ ---
 Comparing reactions of Chinese to June 4 to a victim of domestic abuse keeping silent for good of family is wrong on so many levels (2014年06月03日 18:43)
  ---
 Latest links to uncensored Google search for those in China <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> - adding 1000s of new users each hour (2014年06月03日 18:12)
@@ -60,6 +62,4 @@ RT @jonrussell: .@GreatFireChina's collateral freedom project will be of interes
 @evacide FYI we just unblocked Google search in China - details about our anti-censorship hack here: <a href="http://us7.campaign-archive2.com/?u=854fca58782082e0cbdf204a0&id=6f3dda1ae7&e=326c493581">us7.campaign-archive2.com/</a> (2014年06月02日 19:16)
  ---
 RT @McAndrew: Hell of a great hack against censorship. RT @GreatFireChina: We've just unblocked Google search in China <a href="https://t.co/gCKPDZQ">t.co/gCKPDZQ</a>… (2014年06月02日 18:57)
- ---
-RT @pabischoff: 2 days before ‘May 35th’, @GreatFireChina “unblocks” Google search in China <a href="http://www.techinasia.com/2-days-35th-greatfireorg-unblocks-google-search-china/">www.techinasia.com/2-days-35th-greatfireorg-unblocks-google-search-china/</a> via @Techinasia (2014年06月02日 18:10)
  ---
