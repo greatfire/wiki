@@ -13,6 +13,8 @@
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
 
 ## 新闻
+If you're in China, you can use <a href="https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html">s3-ap-southeast-1.amazonaws.com/google.cn/index.html</a> to access all Google services. Please bookmark this page. (2014年06月03日 09:39)
+ ---
 谷歌免翻墙镜像，墙内可直接搜索敏感词。  <a href="https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html">s3-ap-southeast-1.amazonaws.com/google.cn/index.html</a> 请加入书签。 (2014年06月03日 07:52)
  ---
 RT @globaldan: China finds more stuff to block; Hacktivists find more ways to rock. <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F06%2F03%2Fbusiness%2Fchinas-battle-against-google-heats-up.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年06月03日 02:42)
@@ -50,6 +52,4 @@ Google severely disrupted prior to Tiananmen Anniversary; Mirror sites enable un
 RT @yancaiwm: 转通知：鉴于招远事件震惊天下，各网评员在引导舆论时一定要注意技巧，1要把矛头指向围观者，站在道德高度谴责他们麻木冷血，从而减轻政府的责任和压力，2由知名网评员把这股祸水引向宗教，大家随后跟进一箭双雕，只要贴上邪教的标签，就能淡化凶手和官方的利益纠葛，… (2014年06月01日 15:32)
  ---
 新疆通信管制五周年记 <a href="http://blog.5istar.net/archives/587">blog.5istar.net/archives/587</a> (2014年06月01日 05:52)
- ---
-RT @chengr28: 好吧看来我又错了……刚花了几十分钟观察GFW对Google的TCP协议封锁，应该是这样的：以10分钟为一个周期，前3分钟通讯通畅，后7分钟丢弃所有TCP协议数据包，如此循环。也就是说像 0:00 - 0:03 可以用，0:04 - 0:10 不能用…… (2014年06月01日 03:42)
  ---
