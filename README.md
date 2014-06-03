@@ -13,6 +13,10 @@
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
 
 ## 新闻
+RT @paulmozur: This is what LinkedIn signed up for w/ servers in China MT @fryan @LinkedIn censoring my posts on Tiananmen Square. http://t… (2014年06月03日 15:19)
+ ---
+华尔街日报被封锁！ <a href="https://zh.greatfire.org/wsj.com">zh.greatfire.org/wsj.com</a> 中英文全被封锁。 估计是因为《“六四”临近 中国严厉打压异见人士》 <a href="http://cn.wsj.com/gb/20140603/bch085553.asp">cn.wsj.com/gb/20140603/bch085553.asp</a> 这篇文章 (2014年06月03日 15:16)
+ ---
 .@WSJ now blocked in China. Surprised didn't happen earlier as @ChinaRealTime has pushed envelope a few times. <a href="https://en.greatfire.org/wsj.com">en.greatfire.org/wsj.com</a> (2014年06月03日 14:56)
  ---
 WeChat, Microsoft trade fire over 'killing' of chatbot <a href="http://www.scmp.com/news/china-insider/article/1523295/wechat-removes-microsofts-chatbots-after-privacy-and-foul">www.scmp.com/news/china-insider/article/1523295/wechat-removes-microsofts-chatbots-after-privacy-and-foul</a> (2014年06月03日 12:13)
@@ -48,8 +52,4 @@ We've just unblocked Google search in China <a href="https://s3-ap-southeast-1.a
 RT @tomphillipsin: "To claim Chinese are unsuited to or not ready for democracy &amp; freedom is to view them as less than human beings" http:/… (2014年06月02日 14:34)
  ---
 @niubi @mrbaopanrui Apps might not use the same IP. Please try accessing <a href="http://www.google.com.hk">www.google.com.hk</a> on mobile or desktop. (2014年06月02日 12:16)
- ---
-.@chengr28 GFW连Google80端口的明文流量也封锁了。 只封GoAgent没这个必要吧。 (2014年06月02日 05:56)
- ---
-天安门事件前夕谷歌被封锁; 镜像网站提供不受审查的访问 <a href="https://zh.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access">zh.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access</a> (2014年06月02日 05:44)
  ---
