@@ -13,6 +13,8 @@
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
 
 ## 新闻
+Google confirms it's blocked in China <a href="https://en.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access">en.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access</a> on its transparency report <a href="https://twitter.com/GreatFireChina/status/473641891062222848/photo/1">twitter.com/GreatFireChina/status/473641891062222848/photo/1</a> (2014年06月03日 09:46)
+ ---
 If you're in China, you can use <a href="https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html">s3-ap-southeast-1.amazonaws.com/google.cn/index.html</a> to access all Google services. Please bookmark this page. (2014年06月03日 09:39)
  ---
 谷歌免翻墙镜像，墙内可直接搜索敏感词。  <a href="https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html">s3-ap-southeast-1.amazonaws.com/google.cn/index.html</a> 请加入书签。 (2014年06月03日 07:52)
@@ -50,6 +52,4 @@ RT @tomphillipsin: "To claim Chinese are unsuited to or not ready for democracy 
 Google severely disrupted prior to Tiananmen Anniversary; Mirror sites enable uncensored access to information <a href="https://en.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access">en.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access</a> (2014年06月02日 05:20)
  ---
 RT @yancaiwm: 转通知：鉴于招远事件震惊天下，各网评员在引导舆论时一定要注意技巧，1要把矛头指向围观者，站在道德高度谴责他们麻木冷血，从而减轻政府的责任和压力，2由知名网评员把这股祸水引向宗教，大家随后跟进一箭双雕，只要贴上邪教的标签，就能淡化凶手和官方的利益纠葛，… (2014年06月01日 15:32)
- ---
-新疆通信管制五周年记 <a href="http://blog.5istar.net/archives/587">blog.5istar.net/archives/587</a> (2014年06月01日 05:52)
  ---
