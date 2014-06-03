@@ -23,6 +23,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Latest links to uncensored Google search for those in China <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> - adding 1000s of new users each hour (2014年06月03日 18:12)
+ ---
 @fryan you were not switched to lingying at any point? If not, then this wld indicate LI is cleansing entire network of anti-China content (2014年06月03日 17:08)
  ---
 @prchovanec @fryan @KaiserKuo @LinkedIn switching lang. or location will not trigger censorship - u will get lingying only if u r in China (2014年06月03日 17:01)
@@ -60,6 +62,4 @@ RT @McAndrew: Hell of a great hack against censorship. RT @GreatFireChina: We've
 RT @pabischoff: 2 days before ‘May 35th’, @GreatFireChina “unblocks” Google search in China <a href="http://www.techinasia.com/2-days-35th-greatfireorg-unblocks-google-search-china/">www.techinasia.com/2-days-35th-greatfireorg-unblocks-google-search-china/</a> via @Techinasia (2014年06月02日 18:10)
  ---
 @pabischoff @Techinasia once the url is shared, it is unblockable and our @FreeWeibo mirror is now indexed on Google - in time, will spread (2014年06月02日 18:08)
- ---
-We've just unblocked Google search in China <a href="https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html">s3-ap-southeast-1.amazonaws.com/google.cn/index.html</a> (2014年06月02日 17:04)
  ---
