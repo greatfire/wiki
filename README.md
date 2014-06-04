@@ -22,6 +22,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @arusbridger: The Guardian seems to be unblocked in China. Don't know what we've done right (or wrong) but good news @GreatFireChina :) (2014年06月04日 18:27)
+ ---
 RT @paulmozur: Surprised how little censorship there is on WeChat. Tiananmen posts on moments+messages fine. On Moments people linking to W… (2014年06月04日 18:17)
  ---
 RT @isaac: VPN related UPD ports vastly interfered by #GreatFirewall in China, reported from Twitter CN users (2014年06月04日 17:40)
@@ -60,6 +62,4 @@ htt… (2014年06月04日 15:02)
 @daaitoulaam we did check Skype recently to see if the new JV partner reintroduced snooping and they have not. What's going on on Viber? (2014年06月04日 14:58)
  ---
 @BrianGlucroft @globaldan results diff depends location. We test multi locations might explain discrepancy. Sounds like Henan place to be. (2014年06月04日 14:44)
- ---
-@redcrown01 we are doing just that <a href="https://freeweibo.com/android">freeweibo.com/android</a> (2014年06月04日 14:43)
  ---
