@@ -22,6 +22,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @isaac: VPN related UPD ports vastly interfered by #GreatFirewall in China, reported from Twitter CN users (2014年06月04日 17:40)
+ ---
 RT @panphil: RT @tomgrundy: Websites for the Hong Kong #TAM25 vigil organisers remain offline today due to malicious attacks <a href="http://t.co/rz">t.co/rz</a>… (2014年06月04日 17:38)
  ---
 “Everything A-OK in the Square,” report 4,000 undercover police and journalists <a href="http://chinadailyshow.com/everything-a-ok-in-the-square-report-4000-undercover-police-and-journalists/">chinadailyshow.com/everything-a-ok-in-the-square-report-4000-undercover-police-and-journalists/</a> via @chinadailyshow (2014年06月04日 17:37)
@@ -60,6 +62,4 @@ htt… (2014年06月04日 15:02)
 @redcrown01 we are doing just that <a href="https://freeweibo.com/android">freeweibo.com/android</a> (2014年06月04日 14:43)
  ---
 RT @fryan: Looks like @patrickpoon has also been censored by @LinkedIn. Here's our analysis: <a href="http://www.businessspectator.com.au/article/2014/6/4/china/shadow-tiananmen-linkedin-succumbs-chinas-censorship">www.businessspectator.com.au/article/2014/6/4/china/shadow-tiananmen-linkedin-succumbs-chinas-censorship</a> <a href="https://twitter.com/fryan/status/474056391821234176/photo/1">twitter.com/fryan/status/474056391821234176/photo/1</a> (2014年06月04日 13:16)
- ---
-向华尔街日报致敬！ 主页全是六四内容，已经中英文版一起被全站封锁。  <a href="http://cn.wsj.com/gb/index.asp">cn.wsj.com/gb/index.asp</a> (2014年06月04日 13:13)
  ---
