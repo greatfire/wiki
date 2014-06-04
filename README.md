@@ -22,6 +22,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @badiucao: #六四25周年 #TAM25 维园见 <a href="https://twitter.com/badiucao/status/473979160830808065/photo/1">twitter.com/badiucao/status/473979160830808065/photo/1</a> (2014年06月04日 17:26)
+ ---
+RT @tinssoldier: We're live-blogging the Tiananmen 25th anniversary vigil in Victoria Park and around HK: <a href="http://www.scmp.com/news/hong-kong/article/1525282/tiananmen-square-25th-anniversary-vigil-live-blog">www.scmp.com/news/hong-kong/article/1525282/tiananmen-square-25th-anniversary-vigil-live-blog</a> #HKJune4 (2014年06月04日 17:23)
+ ---
 @GalloVOA there's never rhyme nor reason. It's not like they are self censoring or anything, @taniabranigan has a TAM special report today (2014年06月04日 17:08)
  ---
 Unexpected surprise: @guardian unblocked in China likely around June 1 <a href="https://en.greatfire.org/www.theguardian.com">en.greatfire.org/www.theguardian.com</a> fyi @arusbridger (2014年06月04日 15:53)
@@ -58,8 +62,4 @@ Candle, Tiananmen and 25th anniversary blocked on Sina Weibo today. #Tiananmen89
 .@ReutersChina not blocked; no news about Tiananmen. @FTChinese website not blocked but news about Tiananmen blocked <a href="https://en.greatfire.org/www.ftchinese.com/story/001056554">en.greatfire.org/www.ftchinese.com/story/001056554</a> (2014年06月04日 10:32)
  ---
 .@WSJ China today's headline is Tiananmen incident. But WSJ blocked since June 2. <a href="https://en.greatfire.org/wsj.com">en.greatfire.org/wsj.com</a> Did China know it in advance? (2014年06月04日 10:28)
- ---
-@BrianGlucroft @globaldan looking forward to seeing some of those curiosities (2014年06月04日 01:50)
- ---
-RT @BrianGlucroft: A different experience than reported by @GreatFireChina and @globaldan: Google Blocked in China (Part 10¹⁰⁰) http://t.co… (2014年06月04日 01:50)
  ---
