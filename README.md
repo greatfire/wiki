@@ -22,6 +22,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Unexpected surprise: @guardian unblocked in China likely around June 1 <a href="https://en.greatfire.org/www.theguardian.com">en.greatfire.org/www.theguardian.com</a> fyi @arusbridger (2014年06月04日 15:53)
+ ---
 历史的伤口: The wound in history - 64 Tiananmen-Related Words China Is Blocking Today <a href="http://blogs.wsj.com/chinarealtime/2014/06/04/64-tiananmen-related-words-china-is-blocking-today/">blogs.wsj.com/chinarealtime/2014/06/04/64-tiananmen-related-words-china-is-blocking-today/</a> via @jasonqng (2014年06月04日 15:37)
  ---
 RT @klustout: "June the Fourth." A Hong Kong #TAM vigil in LEGO by photographer Ricky Tse <a href="http://www.picturethiscollection.com/products/detail/RT012JunetheForth/en/">www.picturethiscollection.com/products/detail/RT012JunetheForth/en/</a> <a href="https://twitter.com/klustout/status/474006482216697857/photo/1">twitter.com/klustout/status/474006482216697857/photo/1</a> (2014年06月04日 15:29)
@@ -60,6 +62,4 @@ Candle, Tiananmen and 25th anniversary blocked on Sina Weibo today. #Tiananmen89
 RT @BrianGlucroft: A different experience than reported by @GreatFireChina and @globaldan: Google Blocked in China (Part 10¹⁰⁰) http://t.co… (2014年06月04日 01:50)
  ---
 RT @tanyixiang77: @hu_jia @laoyang945 不止删掉了蜡烛表情，连 蜡烛 这个词都成了屏蔽关键词，在新浪微博输入蜡烛，显示这样一段文字：根据相关法律法规和政策，“蜡烛”搜索结果未予显示！ #宇宙真理教真他妈的自信 <a href="http://t.co/Uv8x">t.co/Uv8x</a>… (2014年06月03日 22:04)
- ---
-RT @Wang_Wo: 时间 <a href="https://twitter.com/Wang_Wo/status/473793987577659392/photo/1">twitter.com/Wang_Wo/status/473793987577659392/photo/1</a> (2014年06月03日 20:07)
  ---
