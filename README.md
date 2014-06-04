@@ -22,6 +22,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+.@whitehouse notes freedom of expression, freedom of the press both in the Chinese constitution <a href="http://www.whitehouse.gov/the-press-office/2014/06/04/statement-press-secretary-25th-anniversary-tiananmen-square">www.whitehouse.gov/the-press-office/2014/06/04/statement-press-secretary-25th-anniversary-tiananmen-square</a> (2014年06月04日 15:17)
+ ---
+RT @GalloVOA: White House: "We call on Chinese authorities to account for those killed, detained, or missing in connection w/ events surrou… (2014年06月04日 15:13)
+ ---
 Is Google the Focus of `Great’ China Firewall? via @BloombergTV <a href="http://www.bloomberg.com/video/is-google-the-focus-of-great-china-firewall-FzxvbmVYTWWcC43CLiUYog.html">www.bloomberg.com/video/is-google-the-focus-of-great-china-firewall-FzxvbmVYTWWcC43CLiUYog.html</a> (2014年06月04日 15:09)
  ---
 RT @peterwsinger: The story here isn't where LinkedIn "accidentally" censored Tiananmen Square content, but its regular policy to do so
@@ -58,8 +62,4 @@ RT @Wang_Wo: 时间 <a href="https://twitter.com/Wang_Wo/status/4737939875776593
 RT @paulmozur: SCMP's great interactive on Tiananmen now inaccessible in China. It stayed up almost all day, longer than I'd expect: http:/… (2014年06月03日 19:40)
  ---
 RT @HelenCouchman: I'm unhappy w/ #LinkedIn for removing factual and public news links I had shared. I wasn't even sharing an opinion. #art… (2014年06月03日 19:22)
- ---
-Comparing reactions of Chinese to June 4 to a victim of domestic abuse keeping silent for good of family is wrong on so many levels (2014年06月03日 18:43)
- ---
-Latest links to uncensored Google search for those in China <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> - adding 1000s of new users each hour (2014年06月03日 18:12)
  ---
