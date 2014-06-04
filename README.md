@@ -22,6 +22,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @aiww: RT @liu_xiaoyuan: 热血青年@aiww <a href="https://twitter.com/liu_xiaoyuan/status/474182141119459329/photo/1">twitter.com/liu_xiaoyuan/status/474182141119459329/photo/1</a> (2014年06月04日 21:53)
+ ---
+RT @aiww: RT @craigxy: RT @paulwsj: June 4, 2014, Hong Kong, 25 years later <a href="https://twitter.com/paulwsj/status/474164571519713281/photo/1">twitter.com/paulwsj/status/474164571519713281/photo/1</a> (2014年06月04日 21:51)
+ ---
 @KevinLewisHK malicious attack or human error or both (2014年06月04日 21:48)
  ---
 RT @wafarris: Today, June 4, 2014, Sina Weibo began censoring searches for "Today." #Tiananmen <a href="https://twitter.com/wafarris/status/474156087482920960/photo/1">twitter.com/wafarris/status/474156087482920960/photo/1</a> (2014年06月04日 20:14)
@@ -57,8 +61,4 @@ Unexpected surprise: @guardian unblocked in China likely around June 1 <a href="
 历史的伤口: The wound in history - 64 Tiananmen-Related Words China Is Blocking Today <a href="http://blogs.wsj.com/chinarealtime/2014/06/04/64-tiananmen-related-words-china-is-blocking-today/">blogs.wsj.com/chinarealtime/2014/06/04/64-tiananmen-related-words-china-is-blocking-today/</a> via @jasonqng (2014年06月04日 15:37)
  ---
 RT @klustout: "June the Fourth." A Hong Kong #TAM vigil in LEGO by photographer Ricky Tse <a href="http://www.picturethiscollection.com/products/detail/RT012JunetheForth/en/">www.picturethiscollection.com/products/detail/RT012JunetheForth/en/</a> <a href="https://twitter.com/klustout/status/474006482216697857/photo/1">twitter.com/klustout/status/474006482216697857/photo/1</a> (2014年06月04日 15:29)
- ---
-Live Blogging the Tiananmen Square Anniversary <a href="HTTP://http:////www-nc.nytimes.com/2014/06/03/live-blogging-the-25-tiananmen-square-anniversary/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&">http////www-nc.nytimes.com/2014/06/03/live-blogging-the-25-tiananmen-square-anniversary/</a> (2014年06月04日 15:24)
- ---
-.@whitehouse notes freedom of expression, freedom of the press both in the Chinese constitution <a href="http://www.whitehouse.gov/the-press-office/2014/06/04/statement-press-secretary-25th-anniversary-tiananmen-square">www.whitehouse.gov/the-press-office/2014/06/04/statement-press-secretary-25th-anniversary-tiananmen-square</a> (2014年06月04日 15:17)
  ---
