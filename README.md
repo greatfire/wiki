@@ -22,6 +22,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@jilliancyork @Max_Fisher @TIMEWorld @Sam_Frizell u could also ask the 600m Chinese who are online to verify that info. (2014年06月05日 00:05)
+ ---
 @BrianGlucroft @Max_Fisher @TIMEWorld @Sam_Frizell this calls for new top 10: Western internet cos complicity working with Chinese censors (2014年06月04日 23:46)
  ---
 @BrianGlucroft @Max_Fisher @TIMEWorld @Sam_Frizell also Wikipedia is acting complicity to censor the Chinese version of its site (2014年06月04日 23:44)
@@ -59,6 +61,4 @@ RT @panphil: RT @tomgrundy: Websites for the Hong Kong #TAM25 vigil organisers r
 RT @mrbaopanrui: Pro-massacre protesters. They exist. <a href="https://twitter.com/mrbaopanrui/status/474110450745892864/photo/1">twitter.com/mrbaopanrui/status/474110450745892864/photo/1</a> (2014年06月04日 17:34)
  ---
 RT @hu_jia: 那一年，你们还没有出生。#90后 #六四25周年 #TAM25 #June4 #八九六四 <a href="https://twitter.com/hu_jia/status/474120675519504384/photo/1">twitter.com/hu_jia/status/474120675519504384/photo/1</a> (2014年06月04日 17:31)
- ---
-RT @badiucao: #六四25周年 #TAM25 维园见 <a href="https://twitter.com/badiucao/status/473979160830808065/photo/1">twitter.com/badiucao/status/473979160830808065/photo/1</a> (2014年06月04日 17:26)
  ---
