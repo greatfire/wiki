@@ -22,6 +22,14 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @panphil: RT @tomgrundy: Websites for the Hong Kong #TAM25 vigil organisers remain offline today due to malicious attacks <a href="http://t.co/rz">t.co/rz</a>… (2014年06月04日 17:38)
+ ---
+“Everything A-OK in the Square,” report 4,000 undercover police and journalists <a href="http://chinadailyshow.com/everything-a-ok-in-the-square-report-4000-undercover-police-and-journalists/">chinadailyshow.com/everything-a-ok-in-the-square-report-4000-undercover-police-and-journalists/</a> via @chinadailyshow (2014年06月04日 17:37)
+ ---
+RT @mrbaopanrui: Pro-massacre protesters. They exist. <a href="https://twitter.com/mrbaopanrui/status/474110450745892864/photo/1">twitter.com/mrbaopanrui/status/474110450745892864/photo/1</a> (2014年06月04日 17:34)
+ ---
+RT @hu_jia: 那一年，你们还没有出生。#90后 #六四25周年 #TAM25 #June4 #八九六四 <a href="https://twitter.com/hu_jia/status/474120675519504384/photo/1">twitter.com/hu_jia/status/474120675519504384/photo/1</a> (2014年06月04日 17:31)
+ ---
 RT @badiucao: #六四25周年 #TAM25 维园见 <a href="https://twitter.com/badiucao/status/473979160830808065/photo/1">twitter.com/badiucao/status/473979160830808065/photo/1</a> (2014年06月04日 17:26)
  ---
 RT @tinssoldier: We're live-blogging the Tiananmen 25th anniversary vigil in Victoria Park and around HK: <a href="http://www.scmp.com/news/hong-kong/article/1525282/tiananmen-square-25th-anniversary-vigil-live-blog">www.scmp.com/news/hong-kong/article/1525282/tiananmen-square-25th-anniversary-vigil-live-blog</a> #HKJune4 (2014年06月04日 17:23)
@@ -54,12 +62,4 @@ htt… (2014年06月04日 15:02)
 RT @fryan: Looks like @patrickpoon has also been censored by @LinkedIn. Here's our analysis: <a href="http://www.businessspectator.com.au/article/2014/6/4/china/shadow-tiananmen-linkedin-succumbs-chinas-censorship">www.businessspectator.com.au/article/2014/6/4/china/shadow-tiananmen-linkedin-succumbs-chinas-censorship</a> <a href="https://twitter.com/fryan/status/474056391821234176/photo/1">twitter.com/fryan/status/474056391821234176/photo/1</a> (2014年06月04日 13:16)
  ---
 向华尔街日报致敬！ 主页全是六四内容，已经中英文版一起被全站封锁。  <a href="http://cn.wsj.com/gb/index.asp">cn.wsj.com/gb/index.asp</a> (2014年06月04日 13:13)
- ---
-南华早报英文版发布了纪念六四专题 <a href="http://multimedia.scmp.com/tiananmen/">multimedia.scmp.com/tiananmen/</a> 已被封锁，暂时没有中文版，但视频图片都是中文的，大家感受下。 (2014年06月04日 12:39)
- ---
-Candle, Tiananmen and 25th anniversary blocked on Sina Weibo today. #Tiananmen89 (2014年06月04日 12:27)
- ---
-.@ReutersChina not blocked; no news about Tiananmen. @FTChinese website not blocked but news about Tiananmen blocked <a href="https://en.greatfire.org/www.ftchinese.com/story/001056554">en.greatfire.org/www.ftchinese.com/story/001056554</a> (2014年06月04日 10:32)
- ---
-.@WSJ China today's headline is Tiananmen incident. But WSJ blocked since June 2. <a href="https://en.greatfire.org/wsj.com">en.greatfire.org/wsj.com</a> Did China know it in advance? (2014年06月04日 10:28)
  ---
