@@ -22,6 +22,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @klustout: "June the Fourth." A Hong Kong #TAM vigil in LEGO by photographer Ricky Tse <a href="http://www.picturethiscollection.com/products/detail/RT012JunetheForth/en/">www.picturethiscollection.com/products/detail/RT012JunetheForth/en/</a> <a href="https://twitter.com/klustout/status/474006482216697857/photo/1">twitter.com/klustout/status/474006482216697857/photo/1</a> (2014年06月04日 15:29)
+ ---
+Live Blogging the Tiananmen Square Anniversary <a href="HTTP://http:////www-nc.nytimes.com/2014/06/03/live-blogging-the-25-tiananmen-square-anniversary/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&">http////www-nc.nytimes.com/2014/06/03/live-blogging-the-25-tiananmen-square-anniversary/</a> (2014年06月04日 15:24)
+ ---
 .@whitehouse notes freedom of expression, freedom of the press both in the Chinese constitution <a href="http://www.whitehouse.gov/the-press-office/2014/06/04/statement-press-secretary-25th-anniversary-tiananmen-square">www.whitehouse.gov/the-press-office/2014/06/04/statement-press-secretary-25th-anniversary-tiananmen-square</a> (2014年06月04日 15:17)
  ---
 RT @GalloVOA: White House: "We call on Chinese authorities to account for those killed, detained, or missing in connection w/ events surrou… (2014年06月04日 15:13)
@@ -58,8 +62,4 @@ RT @tanyixiang77: @hu_jia @laoyang945 不止删掉了蜡烛表情，连 蜡烛 �
 RT @Wang_Wo: 时间 <a href="https://twitter.com/Wang_Wo/status/473793987577659392/photo/1">twitter.com/Wang_Wo/status/473793987577659392/photo/1</a> (2014年06月03日 20:07)
  ---
 @paulmozur they are lucky the whole site was not taken down (2014年06月03日 19:41)
- ---
-RT @paulmozur: SCMP's great interactive on Tiananmen now inaccessible in China. It stayed up almost all day, longer than I'd expect: http:/… (2014年06月03日 19:40)
- ---
-RT @HelenCouchman: I'm unhappy w/ #LinkedIn for removing factual and public news links I had shared. I wasn't even sharing an opinion. #art… (2014年06月03日 19:22)
  ---
