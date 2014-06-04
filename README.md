@@ -22,6 +22,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@arusbridger oddly enough also coincides with the lifting of a block on <a href="http://www.sears.com/">www.sears.com/</a> <a href="https://en.greatfire.org/sears.com">en.greatfire.org/sears.com</a> fyi @Sears (2014年06月04日 19:01)
+ ---
 RT @arusbridger: The Guardian seems to be unblocked in China. Don't know what we've done right (or wrong) but good news @GreatFireChina :) (2014年06月04日 18:27)
  ---
 RT @paulmozur: Surprised how little censorship there is on WeChat. Tiananmen posts on moments+messages fine. On Moments people linking to W… (2014年06月04日 18:17)
@@ -60,6 +62,4 @@ RT @peterwsinger: The story here isn't where LinkedIn "accidentally" censored Ti
 htt… (2014年06月04日 15:02)
  ---
 @daaitoulaam we did check Skype recently to see if the new JV partner reintroduced snooping and they have not. What's going on on Viber? (2014年06月04日 14:58)
- ---
-@BrianGlucroft @globaldan results diff depends location. We test multi locations might explain discrepancy. Sounds like Henan place to be. (2014年06月04日 14:44)
  ---
