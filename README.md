@@ -22,6 +22,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @fryan: Looks like @patrickpoon has also been censored by @LinkedIn. Here's our analysis: <a href="http://www.businessspectator.com.au/article/2014/6/4/china/shadow-tiananmen-linkedin-succumbs-chinas-censorship">www.businessspectator.com.au/article/2014/6/4/china/shadow-tiananmen-linkedin-succumbs-chinas-censorship</a> <a href="https://twitter.com/fryan/status/474056391821234176/photo/1">twitter.com/fryan/status/474056391821234176/photo/1</a> (2014年06月04日 13:16)
+ ---
+向华尔街日报致敬！ 主页全是六四内容，已经中英文版一起被全站封锁。  <a href="http://cn.wsj.com/gb/index.asp">cn.wsj.com/gb/index.asp</a> (2014年06月04日 13:13)
+ ---
 南华早报英文版发布了纪念六四专题 <a href="http://multimedia.scmp.com/tiananmen/">multimedia.scmp.com/tiananmen/</a> 已被封锁，暂时没有中文版，但视频图片都是中文的，大家感受下。 (2014年06月04日 12:39)
  ---
 Candle, Tiananmen and 25th anniversary blocked on Sina Weibo today. #Tiananmen89 (2014年06月04日 12:27)
@@ -57,8 +61,4 @@ Latest links to uncensored Google search for those in China <a href="https://git
 RT @paulmozur: This is what LinkedIn signed up for w/ servers in China MT @fryan @LinkedIn censoring my posts on Tiananmen Square. http://t… (2014年06月03日 15:19)
  ---
 华尔街日报被封锁！ <a href="https://zh.greatfire.org/wsj.com">zh.greatfire.org/wsj.com</a> 中英文全被封锁。 估计是因为《“六四”临近 中国严厉打压异见人士》 <a href="http://cn.wsj.com/gb/20140603/bch085553.asp">cn.wsj.com/gb/20140603/bch085553.asp</a> 这篇文章 (2014年06月03日 15:16)
- ---
-.@WSJ now blocked in China. Surprised didn't happen earlier as @ChinaRealTime has pushed envelope a few times. <a href="https://en.greatfire.org/wsj.com">en.greatfire.org/wsj.com</a> (2014年06月03日 14:56)
- ---
-WeChat, Microsoft trade fire over 'killing' of chatbot <a href="http://www.scmp.com/news/china-insider/article/1523295/wechat-removes-microsofts-chatbots-after-privacy-and-foul">www.scmp.com/news/china-insider/article/1523295/wechat-removes-microsofts-chatbots-after-privacy-and-foul</a> (2014年06月03日 12:13)
  ---
