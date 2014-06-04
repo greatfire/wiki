@@ -22,6 +22,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@BrianGlucroft @globaldan results diff depends location. We test multi locations might explain discrepancy. Sounds like Henan place to be. (2014年06月04日 14:44)
+ ---
+@redcrown01 we are doing just that <a href="https://freeweibo.com/android">freeweibo.com/android</a> (2014年06月04日 14:43)
+ ---
 RT @fryan: Looks like @patrickpoon has also been censored by @LinkedIn. Here's our analysis: <a href="http://www.businessspectator.com.au/article/2014/6/4/china/shadow-tiananmen-linkedin-succumbs-chinas-censorship">www.businessspectator.com.au/article/2014/6/4/china/shadow-tiananmen-linkedin-succumbs-chinas-censorship</a> <a href="https://twitter.com/fryan/status/474056391821234176/photo/1">twitter.com/fryan/status/474056391821234176/photo/1</a> (2014年06月04日 13:16)
  ---
 向华尔街日报致敬！ 主页全是六四内容，已经中英文版一起被全站封锁。  <a href="http://cn.wsj.com/gb/index.asp">cn.wsj.com/gb/index.asp</a> (2014年06月04日 13:13)
@@ -57,8 +61,4 @@ Latest links to uncensored Google search for those in China <a href="https://git
 @prchovanec @fryan @KaiserKuo @LinkedIn switching lang. or location will not trigger censorship - u will get lingying only if u r in China (2014年06月03日 17:01)
  ---
 @prchovanec @fryan @KaiserKuo @LinkedIn yes but on <a href="https://www.linkedin.com/">www.linkedin.com/</a> not on <a href="https://www.linkedin.com">www.linkedin.com</a> right? (2014年06月03日 16:45)
- ---
-RT @paulmozur: This is what LinkedIn signed up for w/ servers in China MT @fryan @LinkedIn censoring my posts on Tiananmen Square. http://t… (2014年06月03日 15:19)
- ---
-华尔街日报被封锁！ <a href="https://zh.greatfire.org/wsj.com">zh.greatfire.org/wsj.com</a> 中英文全被封锁。 估计是因为《“六四”临近 中国严厉打压异见人士》 <a href="http://cn.wsj.com/gb/20140603/bch085553.asp">cn.wsj.com/gb/20140603/bch085553.asp</a> 这篇文章 (2014年06月03日 15:16)
  ---
