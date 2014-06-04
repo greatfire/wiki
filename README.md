@@ -22,6 +22,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+3 great live #TAM25 events/blogs happening now here <a href="https://www.youtube.com/watch?v=tmD_UBGKeYE&mod=e2tw">www.youtube.com/watch</a> here <a href="http://www.scmp.com/news/hong-kong/article/1525282/tiananmen-square-25th-anniversary-vigil-live-blog">www.scmp.com/news/hong-kong/article/1525282/tiananmen-square-25th-anniversary-vigil-live-blog</a> and here <a href="HTTP://http:////www-nc.nytimes.com/2014/06/03/live-blogging-the-25-tiananmen-square-anniversary/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&utm_content=buffer9a6e0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&">http////www-nc.nytimes.com/2014/06/03/live-blogging-the-25-tiananmen-square-anniversary/</a> (2014年06月04日 19:10)
+ ---
 @arusbridger oddly enough also coincides with the lifting of a block on <a href="http://www.sears.com/">www.sears.com/</a> <a href="https://en.greatfire.org/sears.com">en.greatfire.org/sears.com</a> fyi @Sears (2014年06月04日 19:01)
  ---
 RT @arusbridger: The Guardian seems to be unblocked in China. Don't know what we've done right (or wrong) but good news @GreatFireChina :) (2014年06月04日 18:27)
@@ -60,6 +62,4 @@ Is Google the Focus of `Great’ China Firewall? via @BloombergTV <a href="http:
  ---
 RT @peterwsinger: The story here isn't where LinkedIn "accidentally" censored Tiananmen Square content, but its regular policy to do so
 htt… (2014年06月04日 15:02)
- ---
-@daaitoulaam we did check Skype recently to see if the new JV partner reintroduced snooping and they have not. What's going on on Viber? (2014年06月04日 14:58)
  ---
