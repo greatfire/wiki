@@ -1,14 +1,13 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
-* Google 搜索：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html
-* Google 搜索：https://s3.amazonaws.com/google./index.html
 * Google 搜索：https://s3-us-west-2.amazonaws.com/google2/index.html
 * Google 搜索：https://s3-us-west-1.amazonaws.com/google3/index.html
 * Google 搜索：https://s3-eu-west-1.amazonaws.com/google4/index.html
 * Google 搜索：https://s3-ap-northeast-1.amazonaws.com/google5/index.html
 * Google 搜索：https://s3-ap-southeast-2.amazonaws.com/google6/index.html
 * Google 搜索：https://s3-sa-east-1.amazonaws.com/google7/index.html
-    
+* Google 搜索：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html
+* Google 搜索：https://s3.amazonaws.com/google./index.html
 * 自由微博：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html
 * 自由微博：https://s3.amazonaws.com/freeweibo./index.html
 * 中国数字时代：https://s3-ap-southeast-1.amazonaws.com/cdtimes2/index.html
