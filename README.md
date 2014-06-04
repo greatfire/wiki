@@ -22,6 +22,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @wikileaks: WikiLeaks cable documents the run up to #Tiananmen Square confrontation <a href="https://www.wikileaks.org/plusd/cables/89BEIJING14047_a.html">www.wikileaks.org/plusd/cables/89BEIJING14047_a.html</a> (2014年06月04日 22:04)
+ ---
 RT @aiww: RT @liu_xiaoyuan: 热血青年@aiww <a href="https://twitter.com/liu_xiaoyuan/status/474182141119459329/photo/1">twitter.com/liu_xiaoyuan/status/474182141119459329/photo/1</a> (2014年06月04日 21:53)
  ---
 RT @aiww: RT @craigxy: RT @paulwsj: June 4, 2014, Hong Kong, 25 years later <a href="https://twitter.com/paulwsj/status/474164571519713281/photo/1">twitter.com/paulwsj/status/474164571519713281/photo/1</a> (2014年06月04日 21:51)
@@ -59,6 +61,4 @@ RT @tinssoldier: We're live-blogging the Tiananmen 25th anniversary vigil in Vic
 Unexpected surprise: @guardian unblocked in China likely around June 1 <a href="https://en.greatfire.org/www.theguardian.com">en.greatfire.org/www.theguardian.com</a> fyi @arusbridger (2014年06月04日 15:53)
  ---
 历史的伤口: The wound in history - 64 Tiananmen-Related Words China Is Blocking Today <a href="http://blogs.wsj.com/chinarealtime/2014/06/04/64-tiananmen-related-words-china-is-blocking-today/">blogs.wsj.com/chinarealtime/2014/06/04/64-tiananmen-related-words-china-is-blocking-today/</a> via @jasonqng (2014年06月04日 15:37)
- ---
-RT @klustout: "June the Fourth." A Hong Kong #TAM vigil in LEGO by photographer Ricky Tse <a href="http://www.picturethiscollection.com/products/detail/RT012JunetheForth/en/">www.picturethiscollection.com/products/detail/RT012JunetheForth/en/</a> <a href="https://twitter.com/klustout/status/474006482216697857/photo/1">twitter.com/klustout/status/474006482216697857/photo/1</a> (2014年06月04日 15:29)
  ---
