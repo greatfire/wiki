@@ -22,6 +22,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+.@WSJ China today's headline is Tiananmen incident. But WSJ blocked since June 2. <a href="https://en.greatfire.org/wsj.com">en.greatfire.org/wsj.com</a> Did China know it in advance? (2014年06月04日 10:28)
+ ---
 @BrianGlucroft @globaldan looking forward to seeing some of those curiosities (2014年06月04日 01:50)
  ---
 RT @BrianGlucroft: A different experience than reported by @GreatFireChina and @globaldan: Google Blocked in China (Part 10¹⁰⁰) http://t.co… (2014年06月04日 01:50)
@@ -59,6 +61,4 @@ WeChat, Microsoft trade fire over 'killing' of chatbot <a href="http://www.scmp.
 Google confirms it's blocked in China <a href="https://en.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access">en.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access</a> on its transparency report <a href="https://twitter.com/GreatFireChina/status/473641891062222848/photo/1">twitter.com/GreatFireChina/status/473641891062222848/photo/1</a> (2014年06月03日 09:46)
  ---
 If you're in China, you can use <a href="https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html">s3-ap-southeast-1.amazonaws.com/google.cn/index.html</a> to access all Google services. Please bookmark this page. (2014年06月03日 09:39)
- ---
-谷歌免翻墙镜像，墙内可直接搜索敏感词。  <a href="https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html">s3-ap-southeast-1.amazonaws.com/google.cn/index.html</a> 请加入书签。 (2014年06月03日 07:52)
  ---
