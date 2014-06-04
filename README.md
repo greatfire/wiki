@@ -22,6 +22,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @wafarris: Today, June 4, 2014, Sina Weibo began censoring searches for "Today." #Tiananmen <a href="https://twitter.com/wafarris/status/474156087482920960/photo/1">twitter.com/wafarris/status/474156087482920960/photo/1</a> (2014年06月04日 20:14)
+ ---
+RT @LiYuan6: The day that never existed is remembered everywhere except within the Great Fire Wall. Now that's the real border. (2014年06月04日 20:12)
+ ---
 3 great live #TAM25 events/blogs happening now here <a href="https://www.youtube.com/watch?v=tmD_UBGKeYE&mod=e2tw">www.youtube.com/watch</a> here <a href="http://www.scmp.com/news/hong-kong/article/1525282/tiananmen-square-25th-anniversary-vigil-live-blog">www.scmp.com/news/hong-kong/article/1525282/tiananmen-square-25th-anniversary-vigil-live-blog</a> and here <a href="HTTP://http:////www-nc.nytimes.com/2014/06/03/live-blogging-the-25-tiananmen-square-anniversary/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&utm_content=buffer9a6e0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&">http////www-nc.nytimes.com/2014/06/03/live-blogging-the-25-tiananmen-square-anniversary/</a> (2014年06月04日 19:10)
  ---
 @arusbridger oddly enough also coincides with the lifting of a block on <a href="http://www.sears.com/">www.sears.com/</a> <a href="https://en.greatfire.org/sears.com">en.greatfire.org/sears.com</a> fyi @Sears (2014年06月04日 19:01)
@@ -57,9 +61,4 @@ Live Blogging the Tiananmen Square Anniversary <a href="HTTP://http:////www-nc.n
 .@whitehouse notes freedom of expression, freedom of the press both in the Chinese constitution <a href="http://www.whitehouse.gov/the-press-office/2014/06/04/statement-press-secretary-25th-anniversary-tiananmen-square">www.whitehouse.gov/the-press-office/2014/06/04/statement-press-secretary-25th-anniversary-tiananmen-square</a> (2014年06月04日 15:17)
  ---
 RT @GalloVOA: White House: "We call on Chinese authorities to account for those killed, detained, or missing in connection w/ events surrou… (2014年06月04日 15:13)
- ---
-Is Google the Focus of `Great’ China Firewall? via @BloombergTV <a href="http://www.bloomberg.com/video/is-google-the-focus-of-great-china-firewall-FzxvbmVYTWWcC43CLiUYog.html">www.bloomberg.com/video/is-google-the-focus-of-great-china-firewall-FzxvbmVYTWWcC43CLiUYog.html</a> (2014年06月04日 15:09)
- ---
-RT @peterwsinger: The story here isn't where LinkedIn "accidentally" censored Tiananmen Square content, but its regular policy to do so
-htt… (2014年06月04日 15:02)
  ---
