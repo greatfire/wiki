@@ -22,6 +22,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@daaitoulaam we did check Skype recently to see if the new JV partner reintroduced snooping and they have not. What's going on on Viber? (2014年06月04日 14:58)
+ ---
 @BrianGlucroft @globaldan results diff depends location. We test multi locations might explain discrepancy. Sounds like Henan place to be. (2014年06月04日 14:44)
  ---
 @redcrown01 we are doing just that <a href="https://freeweibo.com/android">freeweibo.com/android</a> (2014年06月04日 14:43)
@@ -59,6 +61,4 @@ Latest links to uncensored Google search for those in China <a href="https://git
 @fryan you were not switched to lingying at any point? If not, then this wld indicate LI is cleansing entire network of anti-China content (2014年06月03日 17:08)
  ---
 @prchovanec @fryan @KaiserKuo @LinkedIn switching lang. or location will not trigger censorship - u will get lingying only if u r in China (2014年06月03日 17:01)
- ---
-@prchovanec @fryan @KaiserKuo @LinkedIn yes but on <a href="https://www.linkedin.com/">www.linkedin.com/</a> not on <a href="https://www.linkedin.com">www.linkedin.com</a> right? (2014年06月03日 16:45)
  ---
