@@ -22,6 +22,11 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Is Google the Focus of `Great’ China Firewall? via @BloombergTV <a href="http://www.bloomberg.com/video/is-google-the-focus-of-great-china-firewall-FzxvbmVYTWWcC43CLiUYog.html">www.bloomberg.com/video/is-google-the-focus-of-great-china-firewall-FzxvbmVYTWWcC43CLiUYog.html</a> (2014年06月04日 15:09)
+ ---
+RT @peterwsinger: The story here isn't where LinkedIn "accidentally" censored Tiananmen Square content, but its regular policy to do so
+htt… (2014年06月04日 15:02)
+ ---
 @daaitoulaam we did check Skype recently to see if the new JV partner reintroduced snooping and they have not. What's going on on Viber? (2014年06月04日 14:58)
  ---
 @BrianGlucroft @globaldan results diff depends location. We test multi locations might explain discrepancy. Sounds like Henan place to be. (2014年06月04日 14:44)
@@ -57,8 +62,4 @@ RT @HelenCouchman: I'm unhappy w/ #LinkedIn for removing factual and public news
 Comparing reactions of Chinese to June 4 to a victim of domestic abuse keeping silent for good of family is wrong on so many levels (2014年06月03日 18:43)
  ---
 Latest links to uncensored Google search for those in China <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> - adding 1000s of new users each hour (2014年06月03日 18:12)
- ---
-@fryan you were not switched to lingying at any point? If not, then this wld indicate LI is cleansing entire network of anti-China content (2014年06月03日 17:08)
- ---
-@prchovanec @fryan @KaiserKuo @LinkedIn switching lang. or location will not trigger censorship - u will get lingying only if u r in China (2014年06月03日 17:01)
  ---
