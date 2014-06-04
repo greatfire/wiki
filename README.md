@@ -22,6 +22,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@KevinLewisHK malicious attack or human error or both (2014年06月04日 21:48)
+ ---
 RT @wafarris: Today, June 4, 2014, Sina Weibo began censoring searches for "Today." #Tiananmen <a href="https://twitter.com/wafarris/status/474156087482920960/photo/1">twitter.com/wafarris/status/474156087482920960/photo/1</a> (2014年06月04日 20:14)
  ---
 RT @LiYuan6: The day that never existed is remembered everywhere except within the Great Fire Wall. Now that's the real border. (2014年06月04日 20:12)
@@ -59,6 +61,4 @@ RT @klustout: "June the Fourth." A Hong Kong #TAM vigil in LEGO by photographer 
 Live Blogging the Tiananmen Square Anniversary <a href="HTTP://http:////www-nc.nytimes.com/2014/06/03/live-blogging-the-25-tiananmen-square-anniversary/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&">http////www-nc.nytimes.com/2014/06/03/live-blogging-the-25-tiananmen-square-anniversary/</a> (2014年06月04日 15:24)
  ---
 .@whitehouse notes freedom of expression, freedom of the press both in the Chinese constitution <a href="http://www.whitehouse.gov/the-press-office/2014/06/04/statement-press-secretary-25th-anniversary-tiananmen-square">www.whitehouse.gov/the-press-office/2014/06/04/statement-press-secretary-25th-anniversary-tiananmen-square</a> (2014年06月04日 15:17)
- ---
-RT @GalloVOA: White House: "We call on Chinese authorities to account for those killed, detained, or missing in connection w/ events surrou… (2014年06月04日 15:13)
  ---
