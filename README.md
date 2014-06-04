@@ -22,6 +22,8 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Candle, Tiananmen and 25th anniversary blocked on Sina Weibo today. #Tiananmen89 (2014年06月04日 12:27)
+ ---
 .@ReutersChina not blocked; no news about Tiananmen. @FTChinese website not blocked but news about Tiananmen blocked <a href="https://en.greatfire.org/www.ftchinese.com/story/001056554">en.greatfire.org/www.ftchinese.com/story/001056554</a> (2014年06月04日 10:32)
  ---
 .@WSJ China today's headline is Tiananmen incident. But WSJ blocked since June 2. <a href="https://en.greatfire.org/wsj.com">en.greatfire.org/wsj.com</a> Did China know it in advance? (2014年06月04日 10:28)
@@ -59,6 +61,4 @@ RT @paulmozur: This is what LinkedIn signed up for w/ servers in China MT @fryan
 WeChat, Microsoft trade fire over 'killing' of chatbot <a href="http://www.scmp.com/news/china-insider/article/1523295/wechat-removes-microsofts-chatbots-after-privacy-and-foul">www.scmp.com/news/china-insider/article/1523295/wechat-removes-microsofts-chatbots-after-privacy-and-foul</a> (2014年06月03日 12:13)
  ---
 谷歌官方确认其被干扰。 请使用镜像网站 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> 访问。 <a href="https://twitter.com/GreatFireChina/status/473644554747654144/photo/1">twitter.com/GreatFireChina/status/473644554747654144/photo/1</a> (2014年06月03日 09:57)
- ---
-Google confirms it's blocked in China <a href="https://en.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access">en.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access</a> on its transparency report <a href="https://twitter.com/GreatFireChina/status/473641891062222848/photo/1">twitter.com/GreatFireChina/status/473641891062222848/photo/1</a> (2014年06月03日 09:46)
  ---
