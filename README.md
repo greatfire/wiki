@@ -22,6 +22,10 @@
 * <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@BrianGlucroft @Max_Fisher @TIMEWorld @Sam_Frizell this calls for new top 10: Western internet cos complicity working with Chinese censors (2014年06月04日 23:46)
+ ---
+@BrianGlucroft @Max_Fisher @TIMEWorld @Sam_Frizell also Wikipedia is acting complicity to censor the Chinese version of its site (2014年06月04日 23:44)
+ ---
 RT @simondenyer: HK protest goals: free jailed activists, vindicate 1989 movt, hold perpetrators accountable, end 1party dictatorship, buil… (2014年06月04日 23:09)
  ---
 RT @sinoceros: LinkedIn is censoring posts about Tiananmen Square, even outside mainland China <a href="http://qz.com/216691/linkedin-is-censoring-posts-about-tiananmen-square-even-outside-mainland-china/">qz.com/216691/linkedin-is-censoring-posts-about-tiananmen-square-even-outside-mainland-china/</a> (2014年06月04日 22:10)
@@ -57,8 +61,4 @@ RT @mrbaopanrui: Pro-massacre protesters. They exist. <a href="https://twitter.c
 RT @hu_jia: 那一年，你们还没有出生。#90后 #六四25周年 #TAM25 #June4 #八九六四 <a href="https://twitter.com/hu_jia/status/474120675519504384/photo/1">twitter.com/hu_jia/status/474120675519504384/photo/1</a> (2014年06月04日 17:31)
  ---
 RT @badiucao: #六四25周年 #TAM25 维园见 <a href="https://twitter.com/badiucao/status/473979160830808065/photo/1">twitter.com/badiucao/status/473979160830808065/photo/1</a> (2014年06月04日 17:26)
- ---
-RT @tinssoldier: We're live-blogging the Tiananmen 25th anniversary vigil in Victoria Park and around HK: <a href="http://www.scmp.com/news/hong-kong/article/1525282/tiananmen-square-25th-anniversary-vigil-live-blog">www.scmp.com/news/hong-kong/article/1525282/tiananmen-square-25th-anniversary-vigil-live-blog</a> #HKJune4 (2014年06月04日 17:23)
- ---
-@GalloVOA there's never rhyme nor reason. It's not like they are self censoring or anything, @taniabranigan has a TAM special report today (2014年06月04日 17:08)
  ---
