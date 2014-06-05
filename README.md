@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @pdmteam: #PDF14 starts in an hour! Tune in to our livestream at 9am EST to follow along, if you couldn't make it in person! http://t.co… (2014年06月05日 20:05)
+ ---
 Tor Challenge <a href="https://www.eff.org/torchallenge/">www.eff.org/torchallenge/</a> (2014年06月05日 19:04)
  ---
 RT @niubi: Avoiding Censors, Tiananmen Protestors Get Creative On Instagram...still unblocked <a href="http://www.pixable.com/article/avoiding-censors-tiananmen-protestors-get-creative-instagram/">www.pixable.com/article/avoiding-censors-tiananmen-protestors-get-creative-instagram/</a> (2014年06月05日 18:37)
@@ -60,6 +62,4 @@ RT @wafarris: Today, June 4, 2014, Sina Weibo began censoring searches for "Toda
 RT @LiYuan6: The day that never existed is remembered everywhere except within the Great Fire Wall. Now that's the real border. (2014年06月04日 20:12)
  ---
 3 great live #TAM25 events/blogs happening now here <a href="https://www.youtube.com/watch?v=tmD_UBGKeYE&mod=e2tw">www.youtube.com/watch</a> here <a href="http://www.scmp.com/news/hong-kong/article/1525282/tiananmen-square-25th-anniversary-vigil-live-blog">www.scmp.com/news/hong-kong/article/1525282/tiananmen-square-25th-anniversary-vigil-live-blog</a> and here <a href="HTTP://http:////www-nc.nytimes.com/2014/06/03/live-blogging-the-25-tiananmen-square-anniversary/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&utm_content=buffer9a6e0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&">http////www-nc.nytimes.com/2014/06/03/live-blogging-the-25-tiananmen-square-anniversary/</a> (2014年06月04日 19:10)
- ---
-@arusbridger oddly enough also coincides with the lifting of a block on <a href="http://www.sears.com/">www.sears.com/</a> <a href="https://en.greatfire.org/sears.com">en.greatfire.org/sears.com</a> fyi @Sears (2014年06月04日 19:01)
  ---
