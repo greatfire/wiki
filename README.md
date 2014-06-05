@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @anxiaostudio: Authoritarian states keep the net open to give citizens false sense that they have freedom of speech. But repercussions a… (2014年06月06日 00:24)
+ ---
 cumulation of micro aggressions and oppressions on platforms like Weibo eventually leads to internalization. @anxiaostudio at #PDF14 (2014年06月06日 00:16)
  ---
 @aiww 晚安 h/t @anxiaostudio #PDF14 (2014年06月06日 00:13)
@@ -60,6 +62,4 @@ RT @sinoceros: LinkedIn is censoring posts about Tiananmen Square, even outside 
 RT @wikileaks: WikiLeaks cable documents the run up to #Tiananmen Square confrontation <a href="https://www.wikileaks.org/plusd/cables/89BEIJING14047_a.html">www.wikileaks.org/plusd/cables/89BEIJING14047_a.html</a> (2014年06月04日 22:04)
  ---
 RT @aiww: RT @liu_xiaoyuan: 热血青年@aiww <a href="https://twitter.com/liu_xiaoyuan/status/474182141119459329/photo/1">twitter.com/liu_xiaoyuan/status/474182141119459329/photo/1</a> (2014年06月04日 21:53)
- ---
-RT @aiww: RT @craigxy: RT @paulwsj: June 4, 2014, Hong Kong, 25 years later <a href="https://twitter.com/paulwsj/status/474164571519713281/photo/1">twitter.com/paulwsj/status/474164571519713281/photo/1</a> (2014年06月04日 21:51)
  ---
