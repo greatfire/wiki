@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+4 ways Snowden changed world – and why fight's not over <a href="http://www.theguardian.com/commentisfree/2014/jun/05/what-snowden-revealed-changed-nsa-reform?CMP=twt_gu">www.theguardian.com/commentisfree/2014/jun/05/what-snowden-revealed-changed-nsa-reform</a> @trevortimm listen to both 2day <a href="http://personaldemocracy.com/conferences/nyc/2014">personaldemocracy.com/conferences/nyc/2014</a> #pdf14 (2014年06月05日 21:00)
+ ---
 Taken aback at sheer volume of never-seen-before #TAM25 photos and videos - one day we'll see what lurks in shoeboxes under beds in Beijing (2014年06月05日 20:47)
  ---
 RT @pdmteam: #PDF14 starts in an hour! Tune in to our livestream at 9am EST to follow along, if you couldn't make it in person! http://t.co… (2014年06月05日 20:05)
@@ -60,6 +62,4 @@ RT @aiww: RT @craigxy: RT @paulwsj: June 4, 2014, Hong Kong, 25 years later <a h
 @KevinLewisHK malicious attack or human error or both (2014年06月04日 21:48)
  ---
 RT @wafarris: Today, June 4, 2014, Sina Weibo began censoring searches for "Today." #Tiananmen <a href="https://twitter.com/wafarris/status/474156087482920960/photo/1">twitter.com/wafarris/status/474156087482920960/photo/1</a> (2014年06月04日 20:14)
- ---
-RT @LiYuan6: The day that never existed is remembered everywhere except within the Great Fire Wall. Now that's the real border. (2014年06月04日 20:12)
  ---
