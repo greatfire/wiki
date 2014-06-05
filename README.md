@@ -1,5 +1,6 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
+* Google 搜索：http://sinaapp.co
 * Google 搜索：https://s3-us-west-2.amazonaws.com/google2/index.html
 * Google 搜索：https://s3-us-west-1.amazonaws.com/google3/index.html
 * Google 搜索：https://s3-eu-west-1.amazonaws.com/google4/index.html
@@ -19,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
 
 ## 订阅 email
-* <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
+* <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
 RT @YaxueCao: Careful when ppl talk abt public sentiment in China. Without open n free debate abt public affairs, there's no public anythin… (2014年06月05日 04:20)
