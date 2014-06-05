@@ -23,6 +23,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+cumulation of micro aggressions and oppressions on platforms like Weibo eventually leads to internalization. @anxiaostudio at #PDF14 (2014年06月06日 00:16)
+ ---
+@aiww 晚安 h/t @anxiaostudio #PDF14 (2014年06月06日 00:13)
+ ---
 4 ways Snowden changed world – and why fight's not over <a href="http://www.theguardian.com/commentisfree/2014/jun/05/what-snowden-revealed-changed-nsa-reform?CMP=twt_gu">www.theguardian.com/commentisfree/2014/jun/05/what-snowden-revealed-changed-nsa-reform</a> @trevortimm listen to both 2day <a href="http://personaldemocracy.com/conferences/nyc/2014">personaldemocracy.com/conferences/nyc/2014</a> #pdf14 (2014年06月05日 21:00)
  ---
 Taken aback at sheer volume of never-seen-before #TAM25 photos and videos - one day we'll see what lurks in shoeboxes under beds in Beijing (2014年06月05日 20:47)
@@ -58,8 +62,4 @@ RT @wikileaks: WikiLeaks cable documents the run up to #Tiananmen Square confron
 RT @aiww: RT @liu_xiaoyuan: 热血青年@aiww <a href="https://twitter.com/liu_xiaoyuan/status/474182141119459329/photo/1">twitter.com/liu_xiaoyuan/status/474182141119459329/photo/1</a> (2014年06月04日 21:53)
  ---
 RT @aiww: RT @craigxy: RT @paulwsj: June 4, 2014, Hong Kong, 25 years later <a href="https://twitter.com/paulwsj/status/474164571519713281/photo/1">twitter.com/paulwsj/status/474164571519713281/photo/1</a> (2014年06月04日 21:51)
- ---
-@KevinLewisHK malicious attack or human error or both (2014年06月04日 21:48)
- ---
-RT @wafarris: Today, June 4, 2014, Sina Weibo began censoring searches for "Today." #Tiananmen <a href="https://twitter.com/wafarris/status/474156087482920960/photo/1">twitter.com/wafarris/status/474156087482920960/photo/1</a> (2014年06月04日 20:14)
  ---
