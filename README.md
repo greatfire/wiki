@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Taken aback at sheer volume of never-seen-before #TAM25 photos and videos - one day we'll see what lurks in shoeboxes under beds in Beijing (2014年06月05日 20:47)
+ ---
 RT @pdmteam: #PDF14 starts in an hour! Tune in to our livestream at 9am EST to follow along, if you couldn't make it in person! http://t.co… (2014年06月05日 20:05)
  ---
 Tor Challenge <a href="https://www.eff.org/torchallenge/">www.eff.org/torchallenge/</a> (2014年06月05日 19:04)
@@ -60,6 +62,4 @@ RT @aiww: RT @craigxy: RT @paulwsj: June 4, 2014, Hong Kong, 25 years later <a h
 RT @wafarris: Today, June 4, 2014, Sina Weibo began censoring searches for "Today." #Tiananmen <a href="https://twitter.com/wafarris/status/474156087482920960/photo/1">twitter.com/wafarris/status/474156087482920960/photo/1</a> (2014年06月04日 20:14)
  ---
 RT @LiYuan6: The day that never existed is remembered everywhere except within the Great Fire Wall. Now that's the real border. (2014年06月04日 20:12)
- ---
-3 great live #TAM25 events/blogs happening now here <a href="https://www.youtube.com/watch?v=tmD_UBGKeYE&mod=e2tw">www.youtube.com/watch</a> here <a href="http://www.scmp.com/news/hong-kong/article/1525282/tiananmen-square-25th-anniversary-vigil-live-blog">www.scmp.com/news/hong-kong/article/1525282/tiananmen-square-25th-anniversary-vigil-live-blog</a> and here <a href="HTTP://http:////www-nc.nytimes.com/2014/06/03/live-blogging-the-25-tiananmen-square-anniversary/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&utm_content=buffer9a6e0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&">http////www-nc.nytimes.com/2014/06/03/live-blogging-the-25-tiananmen-square-anniversary/</a> (2014年06月04日 19:10)
  ---
