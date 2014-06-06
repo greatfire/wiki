@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @rmack: Are Internet and telecom companies living up to their digital responsibilities? We want to hear from you! <a href="http://weeklywonk.newamerica.net/articles/ranking-digital-rights/">weeklywonk.newamerica.net/articles/ranking-digital-rights/</a>… (2014年06月06日 15:20)
+ ---
 RT @dspencer47: Read my article on corporate collusion in the #Chinese #Firewall, referencing @GreatFireChina report @HuffPostUK - http://t… (2014年06月06日 14:28)
  ---
 LinkedIn under fire for censoring Tiananmen Square posts <a href="http://www.theguardian.com/technology/2014/jun/04/linkedin-tiananmen-posts-china-censorship">www.theguardian.com/technology/2014/jun/04/linkedin-tiananmen-posts-china-censorship</a> (2014年06月06日 12:40)
@@ -60,6 +62,4 @@ RT @TheOnion: Chinese Citizens Observe 25-Year Moment Of Silence For Tiananmen S
 @jilliancyork @Max_Fisher @TIMEWorld @Sam_Frizell u could also ask the 600m Chinese who are online to verify that info. (2014年06月05日 00:05)
  ---
 @BrianGlucroft @Max_Fisher @TIMEWorld @Sam_Frizell this calls for new top 10: Western internet cos complicity working with Chinese censors (2014年06月04日 23:46)
- ---
-@BrianGlucroft @Max_Fisher @TIMEWorld @Sam_Frizell also Wikipedia is acting complicity to censor the Chinese version of its site (2014年06月04日 23:44)
  ---
