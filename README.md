@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+GoAgent vulnerabilities: CA cert with known private key, TLS MITM <a href="http://seclists.org/fulldisclosure/2014/Jun/9">seclists.org/fulldisclosure/2014/Jun/9</a> GoAgent漏洞可能导致中间人攻击 <a href="http://www.freebuf.com/vuls/35936.html">www.freebuf.com/vuls/35936.html</a> @phuslu (2014年06月06日 12:25)
+ ---
 Spoiler alert. @emilydparker book title comes from @mranti discovery of #TAM25 truth from online research and discussion #PDF14 (2014年06月06日 00:36)
  ---
 RT @anxiaostudio: Authoritarian states keep the net open to give citizens false sense that they have freedom of speech. But repercussions a… (2014年06月06日 00:24)
@@ -60,6 +62,4 @@ RT @TheOnion: Chinese Citizens Observe 25-Year Moment Of Silence For Tiananmen S
 RT @simondenyer: HK protest goals: free jailed activists, vindicate 1989 movt, hold perpetrators accountable, end 1party dictatorship, buil… (2014年06月04日 23:09)
  ---
 RT @sinoceros: LinkedIn is censoring posts about Tiananmen Square, even outside mainland China <a href="http://qz.com/216691/linkedin-is-censoring-posts-about-tiananmen-square-even-outside-mainland-china/">qz.com/216691/linkedin-is-censoring-posts-about-tiananmen-square-even-outside-mainland-china/</a> (2014年06月04日 22:10)
- ---
-RT @wikileaks: WikiLeaks cable documents the run up to #Tiananmen Square confrontation <a href="https://www.wikileaks.org/plusd/cables/89BEIJING14047_a.html">www.wikileaks.org/plusd/cables/89BEIJING14047_a.html</a> (2014年06月04日 22:04)
  ---
