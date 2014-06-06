@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @dspencer47: Read my article on corporate collusion in the #Chinese #Firewall, referencing @GreatFireChina report @HuffPostUK - http://t… (2014年06月06日 14:28)
+ ---
 LinkedIn under fire for censoring Tiananmen Square posts <a href="http://www.theguardian.com/technology/2014/jun/04/linkedin-tiananmen-posts-china-censorship">www.theguardian.com/technology/2014/jun/04/linkedin-tiananmen-posts-china-censorship</a> (2014年06月06日 12:40)
  ---
 GoAgent vulnerabilities: CA cert with known private key, TLS MITM <a href="http://seclists.org/fulldisclosure/2014/Jun/9">seclists.org/fulldisclosure/2014/Jun/9</a> GoAgent漏洞可能导致中间人攻击 <a href="http://www.freebuf.com/vuls/35936.html">www.freebuf.com/vuls/35936.html</a> @phuslu (2014年06月06日 12:25)
@@ -60,6 +62,4 @@ RT @TheOnion: Chinese Citizens Observe 25-Year Moment Of Silence For Tiananmen S
 @BrianGlucroft @Max_Fisher @TIMEWorld @Sam_Frizell this calls for new top 10: Western internet cos complicity working with Chinese censors (2014年06月04日 23:46)
  ---
 @BrianGlucroft @Max_Fisher @TIMEWorld @Sam_Frizell also Wikipedia is acting complicity to censor the Chinese version of its site (2014年06月04日 23:44)
- ---
-RT @simondenyer: HK protest goals: free jailed activists, vindicate 1989 movt, hold perpetrators accountable, end 1party dictatorship, buil… (2014年06月04日 23:09)
  ---
