@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @EnzorZ: 一个逻辑+判断：首先共党不会放弃任何舆论阵地，其次中文推特圈影响力实则不小，是外媒了解中国的一个重要信息源。国内微博那套审核删帖做法搞不成，疯狂放五毛狗不起作用，那么就一定会放几个隐藏五毛来搅水和收集信息。只要仔细观察下活跃的账户里，哪几个最像，基本八九… (2014年06月07日 08:14)
+ ---
 WSJ unblocked in China. <a href="https://en.greatfire.org/cn.wsj.com">en.greatfire.org/cn.wsj.com</a> (2014年06月07日 07:54)
  ---
 RT @goldkorn: Today I learned from @TommasoLombardi that WeChat and WeiXin 微信 have different code, not just different language interface (2014年06月06日 21:41)
@@ -60,6 +62,4 @@ RT @niubi: Avoiding Censors, Tiananmen Protestors Get Creative On Instagram...st
 Google uncensored in China by Internet Freedom group <a href="http://www.dailydot.com/politics/chinese-internet-freedom-unlock-google-tiananmen-square/">www.dailydot.com/politics/chinese-internet-freedom-unlock-google-tiananmen-square/</a> #Politics via @dailydot (2014年06月05日 15:53)
  ---
 RT @YaxueCao: Careful when ppl talk abt public sentiment in China. Without open n free debate abt public affairs, there's no public anythin… (2014年06月05日 04:20)
- ---
-RT @TheOnion: Chinese Citizens Observe 25-Year Moment Of Silence For Tiananmen Square Massacre <a href="http://www.theonion.com/articles/chinese-citizens-observe-25year-moment-of-silence,36197/?utm_source=Twitter&utm_medium=SocialMarketing&utm_campaign=Default:1:Default">www.theonion.com/articles/chinese-citizens-observe-25year-moment-of-silence,36197/</a> <a href="https://twitter.com/TheOnion/status/474234434087305218/photo/1">twitter.com/TheOnion/status/474234434087305218/photo/1</a> (2014年06月05日 01:14)
  ---
