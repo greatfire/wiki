@@ -55,7 +55,7 @@ Taken aback at sheer volume of never-seen-before #TAM25 photos and videos - one 
  ---
 RT @pdmteam: #PDF14 starts in an hour! Tune in to our livestream at 9am EST to follow along, if you couldn't make it in person! http://t.co… (2014年06月05日 20:05)
  ---
-Tor Challenge <a href="https://www.eff.org/torchallenge/">www.eff.org/torchallenge/</a> (2014年06月05日 19:04)
+Tor Challenge <a href="http://flip.it/Zoh9U">flip.it/Zoh9U</a> (2014年06月05日 19:04)
  ---
 RT @niubi: Avoiding Censors, Tiananmen Protestors Get Creative On Instagram...still unblocked <a href="http://www.pixable.com/article/avoiding-censors-tiananmen-protestors-get-creative-instagram/">www.pixable.com/article/avoiding-censors-tiananmen-protestors-get-creative-instagram/</a> (2014年06月05日 18:37)
  ---
