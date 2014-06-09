@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Google and WSJ are still blocked in China as of today. The block was implemented in the end of May.  <a href="https://en.greatfire.org/search/alexa-top-1000-domains">en.greatfire.org/search/alexa-top-1000-domains</a> (2014年06月10日 07:11)
+ ---
 中国Twitter用户因发布伪基站文章被拘留 <a href="http://www.solidot.org/story?sid=39861">www.solidot.org/story</a> (2014年06月10日 06:48)
  ---
 RT @RFITB: 下午脑洞开了一下 写了个六四事件25周年·伪基站计划设想 <a href="https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1dVKJEvRk2meACO4oVRgR5OrvkkoRgTKP8Mysrw8ZNzk%2Fedit%3Fusp%3Dsharing&followup=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1dVKJEvRk2meACO4oVRgR5OrvkkoRgTKP8Mysrw8ZNzk%2Fedit%3Fusp%3Dsharing&ltmpl=docs">accounts.google.com/ServiceLogin</a> 不知能否实现…个人能力有限 如果觉得这个设想可行的话还请帮忙扩散 @backtotiananmen @wenyunchao @cddm0011 @ro… (2014年06月10日 06:45)
@@ -60,6 +62,4 @@ Taken aback at sheer volume of never-seen-before #TAM25 photos and videos - one 
 RT @pdmteam: #PDF14 starts in an hour! Tune in to our livestream at 9am EST to follow along, if you couldn't make it in person! http://t.co… (2014年06月05日 20:05)
  ---
 Tor Challenge <a href="https://www.eff.org/torchallenge/">www.eff.org/torchallenge/</a> (2014年06月05日 19:04)
- ---
-RT @niubi: Avoiding Censors, Tiananmen Protestors Get Creative On Instagram...still unblocked <a href="http://www.pixable.com/article/avoiding-censors-tiananmen-protestors-get-creative-instagram/">www.pixable.com/article/avoiding-censors-tiananmen-protestors-get-creative-instagram/</a> (2014年06月05日 18:37)
  ---
