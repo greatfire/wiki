@@ -23,6 +23,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+中国Twitter用户因发布伪基站文章被拘留 <a href="http://www.solidot.org/story?sid=39861">www.solidot.org/story</a> (2014年06月10日 06:48)
+ ---
+RT @RFITB: 下午脑洞开了一下 写了个六四事件25周年·伪基站计划设想 <a href="https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1dVKJEvRk2meACO4oVRgR5OrvkkoRgTKP8Mysrw8ZNzk%2Fedit%3Fusp%3Dsharing&followup=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1dVKJEvRk2meACO4oVRgR5OrvkkoRgTKP8Mysrw8ZNzk%2Fedit%3Fusp%3Dsharing&ltmpl=docs">accounts.google.com/ServiceLogin</a> 不知能否实现…个人能力有限 如果觉得这个设想可行的话还请帮忙扩散 @backtotiananmen @wenyunchao @cddm0011 @ro… (2014年06月10日 06:45)
+ ---
 RT @RTKcn: 18+ RT @phuslu: 做人就要较真，追查到底为什么不给我访问谷歌。 <a href="http://www.v2ex.com/t/116225?r=phuslu">www.v2ex.com/t/116225</a> #google (2014年06月08日 09:48)
  ---
 RT @EnzorZ: 一个逻辑+判断：首先共党不会放弃任何舆论阵地，其次中文推特圈影响力实则不小，是外媒了解中国的一个重要信息源。国内微博那套审核删帖做法搞不成，疯狂放五毛狗不起作用，那么就一定会放几个隐藏五毛来搅水和收集信息。只要仔细观察下活跃的账户里，哪几个最像，基本八九… (2014年06月07日 08:14)
@@ -58,8 +62,4 @@ RT @pdmteam: #PDF14 starts in an hour! Tune in to our livestream at 9am EST to f
 Tor Challenge <a href="https://www.eff.org/torchallenge/">www.eff.org/torchallenge/</a> (2014年06月05日 19:04)
  ---
 RT @niubi: Avoiding Censors, Tiananmen Protestors Get Creative On Instagram...still unblocked <a href="http://www.pixable.com/article/avoiding-censors-tiananmen-protestors-get-creative-instagram/">www.pixable.com/article/avoiding-censors-tiananmen-protestors-get-creative-instagram/</a> (2014年06月05日 18:37)
- ---
-Google uncensored in China by Internet Freedom group <a href="http://www.dailydot.com/politics/chinese-internet-freedom-unlock-google-tiananmen-square/">www.dailydot.com/politics/chinese-internet-freedom-unlock-google-tiananmen-square/</a> #Politics via @dailydot (2014年06月05日 15:53)
- ---
-RT @YaxueCao: Careful when ppl talk abt public sentiment in China. Without open n free debate abt public affairs, there's no public anythin… (2014年06月05日 04:20)
  ---
