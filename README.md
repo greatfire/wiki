@@ -23,6 +23,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @oiax: Google logo for Graphic Design class. Based on the Great Firewall of China. <a href="http://timmci.deviantart.com/art/Google-Logo-257847090">timmci.deviantart.com/art/Google-Logo-257847090</a> via @deviantART <a href="http://t.co/oE">t.co/oE</a>… (2014年06月10日 19:05)
+ ---
+RT @VOAStevenson: Chinese Web Publisher Avoids Great Firewall With Help of Amazon <a href="http://www.voanews.com/content/chinese-web-publisher-avoids-great-firewall-with-help-of-amazon/1932480.html">www.voanews.com/content/chinese-web-publisher-avoids-great-firewall-with-help-of-amazon/1932480.html</a> #China Valli VOA (2014年06月10日 19:02)
+ ---
 RT @evacide: A safe, toothless Twitter that bows to government censorship already exists. It's called Weibo. We don't need another one. (2014年06月10日 18:54)
  ---
 MT @wang_maya: Pseudo base stations and a plan to send SMS en mass 2 cellphones to commemorate 6.4 <a href="http://chinachange.org/2014/06/09/young-chinese-twitter-user-arrested-for-teaching-a-method-to-spread-illegal-information/">chinachange.org/2014/06/09/young-chinese-twitter-user-arrested-for-teaching-a-method-to-spread-illegal-information/</a> (2014年06月10日 18:25)
@@ -58,8 +62,4 @@ GoAgent vulnerabilities: CA cert with known private key, TLS MITM <a href="http:
 Spoiler alert. @emilydparker book title comes from @mranti discovery of #TAM25 truth from online research and discussion #PDF14 (2014年06月06日 00:36)
  ---
 RT @anxiaostudio: Authoritarian states keep the net open to give citizens false sense that they have freedom of speech. But repercussions a… (2014年06月06日 00:24)
- ---
-cumulation of micro aggressions and oppressions on platforms like Weibo eventually leads to internalization. @anxiaostudio at #PDF14 (2014年06月06日 00:16)
- ---
-@aiww 晚安 h/t @anxiaostudio #PDF14 (2014年06月06日 00:13)
  ---
