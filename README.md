@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@roanmartigan @sanverde Air France is not blocked. <a href="https://en.greatfire.org/www.airfrance.com.cn">en.greatfire.org/www.airfrance.com.cn</a> The root domain cannot be resolved outside of China either. (2014年06月10日 12:06)
+ ---
 Google and WSJ are still blocked in China as of today. The block was implemented in the end of May.  <a href="https://en.greatfire.org/search/alexa-top-1000-domains">en.greatfire.org/search/alexa-top-1000-domains</a> (2014年06月10日 07:11)
  ---
 中国Twitter用户因发布伪基站文章被拘留 <a href="http://www.solidot.org/story?sid=39861">www.solidot.org/story</a> (2014年06月10日 06:48)
@@ -60,6 +62,4 @@ cumulation of micro aggressions and oppressions on platforms like Weibo eventual
 Taken aback at sheer volume of never-seen-before #TAM25 photos and videos - one day we'll see what lurks in shoeboxes under beds in Beijing (2014年06月05日 20:47)
  ---
 RT @pdmteam: #PDF14 starts in an hour! Tune in to our livestream at 9am EST to follow along, if you couldn't make it in person! http://t.co… (2014年06月05日 20:05)
- ---
-Tor Challenge <a href="https://www.eff.org/torchallenge/">www.eff.org/torchallenge/</a> (2014年06月05日 19:04)
  ---
