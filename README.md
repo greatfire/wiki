@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+MT @wang_maya: Pseudo base stations and a plan to send SMS en mass 2 cellphones to commemorate 6.4 <a href="http://chinachange.org/2014/06/09/young-chinese-twitter-user-arrested-for-teaching-a-method-to-spread-illegal-information/">chinachange.org/2014/06/09/young-chinese-twitter-user-arrested-for-teaching-a-method-to-spread-illegal-information/</a> (2014年06月10日 18:25)
+ ---
 6月4日的中国Google流量。 Google免翻墙镜像 sinaapp.co <a href="https://twitter.com/GreatFireChina/status/476215072696840192/photo/1">twitter.com/GreatFireChina/status/476215072696840192/photo/1</a> (2014年06月10日 12:11)
  ---
 @roanmartigan @sanverde Air France is not blocked. <a href="https://en.greatfire.org/www.airfrance.com.cn">en.greatfire.org/www.airfrance.com.cn</a> The root domain cannot be resolved outside of China either. (2014年06月10日 12:06)
@@ -60,6 +62,4 @@ cumulation of micro aggressions and oppressions on platforms like Weibo eventual
 @aiww 晚安 h/t @anxiaostudio #PDF14 (2014年06月06日 00:13)
  ---
 4 ways Snowden changed world – and why fight's not over <a href="http://www.theguardian.com/commentisfree/2014/jun/05/what-snowden-revealed-changed-nsa-reform?CMP=twt_gu">www.theguardian.com/commentisfree/2014/jun/05/what-snowden-revealed-changed-nsa-reform</a> @trevortimm listen to both 2day <a href="http://personaldemocracy.com/conferences/nyc/2014">personaldemocracy.com/conferences/nyc/2014</a> #pdf14 (2014年06月05日 21:00)
- ---
-Taken aback at sheer volume of never-seen-before #TAM25 photos and videos - one day we'll see what lurks in shoeboxes under beds in Beijing (2014年06月05日 20:47)
  ---
