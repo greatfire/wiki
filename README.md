@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Google likely the most visited foreign-based internet property from China which is why the continued block is so significant. (2014年06月11日 16:11)
+ ---
 .@BrianGlucroft google.cn redirects to blocked com.hk domain, maps &amp; translate .cn work, but .com blocked. Likely forgotten legacy issue (2014年06月11日 15:51)
  ---
 做人就要较真，追查到底为什么不给我访问谷歌。 大家都去投诉 <a href="http://www.v2ex.com/t/116225">www.v2ex.com/t/116225</a> 此外，转发sinaapp.co到墙内！ (2014年06月11日 12:47)
@@ -60,6 +62,4 @@ RT @heresrohit: This was among the images deleted on #weibo yesterday ... <a hre
 RT @rmack: Are Internet and telecom companies living up to their digital responsibilities? We want to hear from you! <a href="http://weeklywonk.newamerica.net/articles/ranking-digital-rights/">weeklywonk.newamerica.net/articles/ranking-digital-rights/</a>… (2014年06月06日 15:20)
  ---
 RT @dspencer47: Read my article on corporate collusion in the #Chinese #Firewall, referencing @GreatFireChina report @HuffPostUK - http://t… (2014年06月06日 14:28)
- ---
-LinkedIn under fire for censoring Tiananmen Square posts <a href="http://www.theguardian.com/technology/2014/jun/04/linkedin-tiananmen-posts-china-censorship">www.theguardian.com/technology/2014/jun/04/linkedin-tiananmen-posts-china-censorship</a> (2014年06月06日 12:40)
  ---
