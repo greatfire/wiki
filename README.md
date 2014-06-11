@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+做人就要较真，追查到底为什么不给我访问谷歌。 大家都去投诉 <a href="http://www.v2ex.com/t/116225">www.v2ex.com/t/116225</a> 此外，转发sinaapp.co到墙内！ (2014年06月11日 12:47)
+ ---
 How strict is China's block on Google? Every single product of Google is blocked! <a href="https://www.google.com/intl/en/about/products/">www.google.com/intl/en/about/products/</a> <a href="https://en.greatfire.org/search/google-sites">en.greatfire.org/search/google-sites</a> (2014年06月11日 12:30)
  ---
 RT @oiax: Google logo for Graphic Design class. Based on the Great Firewall of China. <a href="http://timmci.deviantart.com/art/Google-Logo-257847090">timmci.deviantart.com/art/Google-Logo-257847090</a> via @deviantART <a href="http://t.co/oE">t.co/oE</a>… (2014年06月10日 19:05)
@@ -60,6 +62,4 @@ RT @dspencer47: Read my article on corporate collusion in the #Chinese #Firewall
 LinkedIn under fire for censoring Tiananmen Square posts <a href="http://www.theguardian.com/technology/2014/jun/04/linkedin-tiananmen-posts-china-censorship">www.theguardian.com/technology/2014/jun/04/linkedin-tiananmen-posts-china-censorship</a> (2014年06月06日 12:40)
  ---
 GoAgent vulnerabilities: CA cert with known private key, TLS MITM <a href="http://seclists.org/fulldisclosure/2014/Jun/9">seclists.org/fulldisclosure/2014/Jun/9</a> GoAgent漏洞可能导致中间人攻击 <a href="http://www.freebuf.com/vuls/35936.html">www.freebuf.com/vuls/35936.html</a> @phuslu (2014年06月06日 12:25)
- ---
-Spoiler alert. @emilydparker book title comes from @mranti discovery of #TAM25 truth from online research and discussion #PDF14 (2014年06月06日 00:36)
  ---
