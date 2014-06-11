@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @farwestchina: Buses here in Urumqi are now showing PSAs for bomb detection &amp; what to do during a terrorist attack #China #Xinjiang http… (2014年06月11日 23:58)
+ ---
 @SanNuvola it's a sad state of affairs no matter which way you cut it (2014年06月11日 19:37)
  ---
 Google likely the most visited foreign-based internet property from China which is why the continued block is so significant. (2014年06月11日 16:11)
@@ -60,6 +62,4 @@ RT @goldkorn: Today I learned from @TommasoLombardi that WeChat and WeiXin 微�
 RT @niubi: “@shizhao: 从gmail发往国内邮箱或者从国内邮箱发往gmail的邮件都无法收到，是怎么回事？” Chinese email services can't send to or relieve from gmail? (2014年06月06日 17:00)
  ---
 RT @heresrohit: This was among the images deleted on #weibo yesterday ... <a href="https://twitter.com/heresrohit/status/474650668675117057/photo/1">twitter.com/heresrohit/status/474650668675117057/photo/1</a> (2014年06月06日 15:34)
- ---
-RT @rmack: Are Internet and telecom companies living up to their digital responsibilities? We want to hear from you! <a href="http://weeklywonk.newamerica.net/articles/ranking-digital-rights/">weeklywonk.newamerica.net/articles/ranking-digital-rights/</a>… (2014年06月06日 15:20)
  ---
