@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+How strict is China's block on Google? Every single product of Google is blocked! <a href="https://www.google.com/intl/en/about/products/">www.google.com/intl/en/about/products/</a> <a href="https://en.greatfire.org/search/google-sites">en.greatfire.org/search/google-sites</a> (2014年06月11日 12:30)
+ ---
 RT @oiax: Google logo for Graphic Design class. Based on the Great Firewall of China. <a href="http://timmci.deviantart.com/art/Google-Logo-257847090">timmci.deviantart.com/art/Google-Logo-257847090</a> via @deviantART <a href="http://t.co/oE">t.co/oE</a>… (2014年06月10日 19:05)
  ---
 RT @VOAStevenson: Chinese Web Publisher Avoids Great Firewall With Help of Amazon <a href="http://www.voanews.com/content/chinese-web-publisher-avoids-great-firewall-with-help-of-amazon/1932480.html">www.voanews.com/content/chinese-web-publisher-avoids-great-firewall-with-help-of-amazon/1932480.html</a> #China Valli VOA (2014年06月10日 19:02)
@@ -60,6 +62,4 @@ LinkedIn under fire for censoring Tiananmen Square posts <a href="http://www.the
 GoAgent vulnerabilities: CA cert with known private key, TLS MITM <a href="http://seclists.org/fulldisclosure/2014/Jun/9">seclists.org/fulldisclosure/2014/Jun/9</a> GoAgent漏洞可能导致中间人攻击 <a href="http://www.freebuf.com/vuls/35936.html">www.freebuf.com/vuls/35936.html</a> @phuslu (2014年06月06日 12:25)
  ---
 Spoiler alert. @emilydparker book title comes from @mranti discovery of #TAM25 truth from online research and discussion #PDF14 (2014年06月06日 00:36)
- ---
-RT @anxiaostudio: Authoritarian states keep the net open to give citizens false sense that they have freedom of speech. But repercussions a… (2014年06月06日 00:24)
  ---
