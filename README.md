@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @YaxueCao: A Letter to the Newton (Massachusetts) Community by @ZhouFengSuo &amp; @YaxueCao <a href="http://chinachange.org/2014/06/11/a-letter-to-the-newton-massachusetts-community/">chinachange.org/2014/06/11/a-letter-to-the-newton-massachusetts-community/</a> @GhostZodick @BostonGlobe… (2014年06月12日 00:09)
+ ---
 RT @farwestchina: Buses here in Urumqi are now showing PSAs for bomb detection &amp; what to do during a terrorist attack #China #Xinjiang http… (2014年06月11日 23:58)
  ---
 @SanNuvola it's a sad state of affairs no matter which way you cut it (2014年06月11日 19:37)
@@ -60,6 +62,4 @@ RT @EnzorZ: 一个逻辑+判断：首先共党不会放弃任何舆论阵地，�
 RT @goldkorn: Today I learned from @TommasoLombardi that WeChat and WeiXin 微信 have different code, not just different language interface (2014年06月06日 21:41)
  ---
 RT @niubi: “@shizhao: 从gmail发往国内邮箱或者从国内邮箱发往gmail的邮件都无法收到，是怎么回事？” Chinese email services can't send to or relieve from gmail? (2014年06月06日 17:00)
- ---
-RT @heresrohit: This was among the images deleted on #weibo yesterday ... <a href="https://twitter.com/heresrohit/status/474650668675117057/photo/1">twitter.com/heresrohit/status/474650668675117057/photo/1</a> (2014年06月06日 15:34)
  ---
