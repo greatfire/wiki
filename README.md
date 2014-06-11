@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@SanNuvola it's a sad state of affairs no matter which way you cut it (2014年06月11日 19:37)
+ ---
 Google likely the most visited foreign-based internet property from China which is why the continued block is so significant. (2014年06月11日 16:11)
  ---
 .@BrianGlucroft google.cn redirects to blocked com.hk domain, maps &amp; translate .cn work, but .com blocked. Likely forgotten legacy issue (2014年06月11日 15:51)
@@ -60,6 +62,4 @@ RT @niubi: “@shizhao: 从gmail发往国内邮箱或者从国内邮箱发往gma
 RT @heresrohit: This was among the images deleted on #weibo yesterday ... <a href="https://twitter.com/heresrohit/status/474650668675117057/photo/1">twitter.com/heresrohit/status/474650668675117057/photo/1</a> (2014年06月06日 15:34)
  ---
 RT @rmack: Are Internet and telecom companies living up to their digital responsibilities? We want to hear from you! <a href="http://weeklywonk.newamerica.net/articles/ranking-digital-rights/">weeklywonk.newamerica.net/articles/ranking-digital-rights/</a>… (2014年06月06日 15:20)
- ---
-RT @dspencer47: Read my article on corporate collusion in the #Chinese #Firewall, referencing @GreatFireChina report @HuffPostUK - http://t… (2014年06月06日 14:28)
  ---
