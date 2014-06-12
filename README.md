@@ -27,6 +27,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@jonrussell @TommasoLombardi @losheng check here: <a href="https://lanternforum.greatfire.org/">lanternforum.greatfire.org/</a> also here but not updated: <a href="https://en.greatfire.org/vpns-proxies">en.greatfire.org/vpns-proxies</a> (2014年06月12日 18:03)
+ ---
+Today over 100k Chinese will use Google search w/o a VPN or circumvention tool. Not bad for a 9-day-old site! <a href="https://s3-ap-southeast-2.amazonaws.com/google6/index.html">s3-ap-southeast-2.amazonaws.com/google6/index.html</a> (2014年06月12日 18:00)
+ ---
 Mass protest on Weibo on Google being blocked in China NOW. Our Google Mirror is reposted thousands of times. <a href="https://s3-ap-northeast-1.amazonaws.com/google5/index.html">s3-ap-northeast-1.amazonaws.com/google5/index.html</a> (2014年06月12日 15:40)
  ---
 大家看看自由微博主页。我们第一次占领了自己的首页，没有抗争就没有自由。 有微博账号都去抗议Google封锁 <a href="https://freeweibo.com/">freeweibo.com/</a> (2014年06月12日 14:40)
@@ -64,8 +68,4 @@ RT @oiax: Google logo for Graphic Design class. Based on the Great Firewall of C
 RT @VOAStevenson: Chinese Web Publisher Avoids Great Firewall With Help of Amazon <a href="http://www.voanews.com/content/chinese-web-publisher-avoids-great-firewall-with-help-of-amazon/1932480.html">www.voanews.com/content/chinese-web-publisher-avoids-great-firewall-with-help-of-amazon/1932480.html</a> #China Valli VOA (2014年06月10日 19:02)
  ---
 RT @evacide: A safe, toothless Twitter that bows to government censorship already exists. It's called Weibo. We don't need another one. (2014年06月10日 18:54)
- ---
-MT @wang_maya: Pseudo base stations and a plan to send SMS en mass 2 cellphones to commemorate 6.4 <a href="http://chinachange.org/2014/06/09/young-chinese-twitter-user-arrested-for-teaching-a-method-to-spread-illegal-information/">chinachange.org/2014/06/09/young-chinese-twitter-user-arrested-for-teaching-a-method-to-spread-illegal-information/</a> (2014年06月10日 18:25)
- ---
-6月4日的中国Google流量。 Google免翻墙镜像 sinaapp.co <a href="https://twitter.com/GreatFireChina/status/476215072696840192/photo/1">twitter.com/GreatFireChina/status/476215072696840192/photo/1</a> (2014年06月10日 12:11)
  ---
