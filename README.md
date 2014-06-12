@@ -1,7 +1,6 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
 * Google 搜索：http://chetxia.co
-* Google 搜索：http://eibo.co
 * Google 搜索：http://luxtarget.co
 * Google 搜索：http://1kapp.co
 * Google 搜索：http://sinaapp.co
