@@ -23,6 +23,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @MyDF: 永远无法封锁的Gooogle搜索镜像
+架设在亚马逊的云服务器，请记住域名短网址：
+sinaapp点co (2014年06月12日 11:46)
+ ---
+GAE服务器部分故障 <a href="https://groups.google.com/forum/#!topic/google-appengine-downtime-notify/c6O7WFGuJT0">groups.google.com/forum/</a> (2014年06月12日 11:45)
+ ---
 RT @RTKcn: 21+ RT @omegaleeV: 所有內地安卓市場都把 Instagram 下架了，知乎匿名人士爆料原因：傳播十四世達賴喇嘛的相關圖像。 #貴國G點多 (2014年06月12日 06:53)
  ---
 RT @EFF: Good news—the NSA will no longer get mandatory input on encryption standards if the amended FIRST Act passes. <a href="https://t.co/tdyWFto">t.co/tdyWFto</a>… (2014年06月12日 06:40)
@@ -58,8 +64,4 @@ MT @wang_maya: Pseudo base stations and a plan to send SMS en mass 2 cellphones 
 @roanmartigan @sanverde Air France is not blocked. <a href="https://en.greatfire.org/www.airfrance.com.cn">en.greatfire.org/www.airfrance.com.cn</a> The root domain cannot be resolved outside of China either. (2014年06月10日 12:06)
  ---
 Google and WSJ are still blocked in China as of today. The block was implemented in the end of May.  <a href="https://en.greatfire.org/search/alexa-top-1000-domains">en.greatfire.org/search/alexa-top-1000-domains</a> (2014年06月10日 07:11)
- ---
-中国Twitter用户因发布伪基站文章被拘留 <a href="http://www.solidot.org/story?sid=39861">www.solidot.org/story</a> (2014年06月10日 06:48)
- ---
-RT @RFITB: 下午脑洞开了一下 写了个六四事件25周年·伪基站计划设想 <a href="https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1dVKJEvRk2meACO4oVRgR5OrvkkoRgTKP8Mysrw8ZNzk%2Fedit%3Fusp%3Dsharing&followup=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1dVKJEvRk2meACO4oVRgR5OrvkkoRgTKP8Mysrw8ZNzk%2Fedit%3Fusp%3Dsharing&ltmpl=docs">accounts.google.com/ServiceLogin</a> 不知能否实现…个人能力有限 如果觉得这个设想可行的话还请帮忙扩散 @backtotiananmen @wenyunchao @cddm0011 @ro… (2014年06月10日 06:45)
  ---
