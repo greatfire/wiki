@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @anthrax0: GFW封sinaapp.co误伤SAE <a href="http://sinaapp.com">sinaapp.com</a>，墙外访问一切SAE上的站都RST了~ @GreatFireChina @chinagfw @zuola (2014年06月13日 03:20)
+ ---
 RT @niubi: SIIO's Ren Xianliang: promote objective, rational internet ecology 4 internet new media  任贤良：推动网络新媒体形成客观理性的网络生态 <a href="http://t.co/HYc5">t.co/HYc5</a>… (2014年06月12日 19:19)
  ---
 RT @luluyilun: ‘Tank Man’ Googled in China as hackers bypass censors <a href="http://www.bloomberg.com/news/2014-06-12/-tank-man-googled-in-china-as-hackers-bypass-censors.html">www.bloomberg.com/news/2014-06-12/-tank-man-googled-in-china-as-hackers-bypass-censors.html</a> via @BloombergNews (2014年06月12日 19:15)
@@ -65,6 +67,4 @@ Google likely the most visited foreign-based internet property from China which 
 做人就要较真，追查到底为什么不给我访问谷歌。 大家都去投诉 <a href="http://www.v2ex.com/t/116225">www.v2ex.com/t/116225</a> 此外，转发sinaapp.co到墙内！ (2014年06月11日 12:47)
  ---
 How strict is China's block on Google? Every single product of Google is blocked! <a href="https://www.google.com/intl/en/about/products/">www.google.com/intl/en/about/products/</a> <a href="https://en.greatfire.org/search/google-sites">en.greatfire.org/search/google-sites</a> (2014年06月11日 12:30)
- ---
-RT @oiax: Google logo for Graphic Design class. Based on the Great Firewall of China. <a href="http://timmci.deviantart.com/art/Google-Logo-257847090">timmci.deviantart.com/art/Google-Logo-257847090</a> via @deviantART <a href="http://t.co/oE">t.co/oE</a>… (2014年06月10日 19:05)
  ---
