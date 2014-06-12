@@ -27,6 +27,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @niubi: SIIO's Ren Xianliang: promote objective, rational internet ecology 4 internet new media  任贤良：推动网络新媒体形成客观理性的网络生态 <a href="http://t.co/HYc5">t.co/HYc5</a>… (2014年06月12日 19:19)
+ ---
+RT @luluyilun: ‘Tank Man’ Googled in China as hackers bypass censors <a href="http://www.bloomberg.com/news/2014-06-12/-tank-man-googled-in-china-as-hackers-bypass-censors.html">www.bloomberg.com/news/2014-06-12/-tank-man-googled-in-china-as-hackers-bypass-censors.html</a> via @BloombergNews (2014年06月12日 19:15)
+ ---
 @jonrussell @TommasoLombardi @losheng check here: <a href="https://lanternforum.greatfire.org/">lanternforum.greatfire.org/</a> also here but not updated: <a href="https://en.greatfire.org/vpns-proxies">en.greatfire.org/vpns-proxies</a> (2014年06月12日 18:03)
  ---
 Today over 100k Chinese will use Google search w/o a VPN or circumvention tool. Not bad for a 9-day-old site! <a href="https://s3-ap-southeast-2.amazonaws.com/google6/index.html">s3-ap-southeast-2.amazonaws.com/google6/index.html</a> (2014年06月12日 18:00)
@@ -64,8 +68,4 @@ Google likely the most visited foreign-based internet property from China which 
 How strict is China's block on Google? Every single product of Google is blocked! <a href="https://www.google.com/intl/en/about/products/">www.google.com/intl/en/about/products/</a> <a href="https://en.greatfire.org/search/google-sites">en.greatfire.org/search/google-sites</a> (2014年06月11日 12:30)
  ---
 RT @oiax: Google logo for Graphic Design class. Based on the Great Firewall of China. <a href="http://timmci.deviantart.com/art/Google-Logo-257847090">timmci.deviantart.com/art/Google-Logo-257847090</a> via @deviantART <a href="http://t.co/oE">t.co/oE</a>… (2014年06月10日 19:05)
- ---
-RT @VOAStevenson: Chinese Web Publisher Avoids Great Firewall With Help of Amazon <a href="http://www.voanews.com/content/chinese-web-publisher-avoids-great-firewall-with-help-of-amazon/1932480.html">www.voanews.com/content/chinese-web-publisher-avoids-great-firewall-with-help-of-amazon/1932480.html</a> #China Valli VOA (2014年06月10日 19:02)
- ---
-RT @evacide: A safe, toothless Twitter that bows to government censorship already exists. It's called Weibo. We don't need another one. (2014年06月10日 18:54)
  ---
