@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+.@Arctosia 新镜像域名 baidustatic.co (百度) alicdn.co (淘宝) gtimg.co (腾讯) aspnetcdn.co (微软) 1kapp.co (新浪) GFW敢不敢全部封锁？ (2014年06月13日 08:45)
+ ---
 新浪自打耳光。 根据相关法律法规和政策<a href="http://sinaapp.com">sinaapp.com</a>搜索结果未予显示。封锁镜像sinaapp.co把自己封了。此外，国外访问新浪云计算全部被GFW反向重置。 笑死了。新镜像luxtarget.co (2014年06月13日 03:31)
  ---
 RT @anthrax0: GFW封sinaapp.co误伤SAE <a href="http://sinaapp.com">sinaapp.com</a>，墙外访问一切SAE上的站都RST了~ @GreatFireChina @chinagfw @zuola (2014年06月13日 03:20)
@@ -65,6 +67,4 @@ RT @farwestchina: Buses here in Urumqi are now showing PSAs for bomb detection &
 Google likely the most visited foreign-based internet property from China which is why the continued block is so significant. (2014年06月11日 16:11)
  ---
 .@BrianGlucroft google.cn redirects to blocked com.hk domain, maps &amp; translate .cn work, but .com blocked. Likely forgotten legacy issue (2014年06月11日 15:51)
- ---
-做人就要较真，追查到底为什么不给我访问谷歌。 大家都去投诉 <a href="http://www.v2ex.com/t/116225">www.v2ex.com/t/116225</a> 此外，转发sinaapp.co到墙内！ (2014年06月11日 12:47)
  ---
