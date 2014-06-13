@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@thenanfang @cosmopolitanvan @MissXQ @PaulCarsten one small point - it's not a spoof, hoax or deception - it works as Google normally would (2014年06月13日 18:39)
+ ---
 RT @LYF610400210: 哈哈哈哈哈哈哈……“相关法规”@GreatFireChina <a href="https://twitter.com/LYF610400210/status/477377789297823745/photo/1">twitter.com/LYF610400210/status/477377789297823745/photo/1</a> (2014年06月13日 17:33)
  ---
 胜利！ GFW迫于压力对sinaapp.co解封。可以用以下几种方法转发到国内。 sinaapp点co   <a href="http://sinaapp.com">sinaapp.com</a> 访问后去掉m。新浪app点co 新浪=sina  大家自己发挥创造力：） (2014年06月13日 16:50)
@@ -65,6 +67,4 @@ GAE服务器部分故障 <a href="https://groups.google.com/forum/#!topic/google
 RT @RTKcn: 21+ RT @omegaleeV: 所有內地安卓市場都把 Instagram 下架了，知乎匿名人士爆料原因：傳播十四世達賴喇嘛的相關圖像。 #貴國G點多 (2014年06月12日 06:53)
  ---
 RT @EFF: Good news—the NSA will no longer get mandatory input on encryption standards if the amended FIRST Act passes. <a href="https://t.co/tdyWFto">t.co/tdyWFto</a>… (2014年06月12日 06:40)
- ---
-@BrianGlucroft The first two .cn are hosted on Chinese servers; .com are blocked. The last one will redirect to HK domain that is blocked. (2014年06月12日 02:08)
  ---
