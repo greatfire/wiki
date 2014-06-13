@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Google mirror call on Chinese people to fight the GFW. That's us! <a href="http://www.thenanfang.com/blog/google-is-calling-on-chinese-people-to-fight-the-gfw/">www.thenanfang.com/blog/google-is-calling-on-chinese-people-to-fight-the-gfw/</a> (2014年06月13日 13:03)
+ ---
 @felixonmars 后面这个GFW还没屏蔽。搞了这么多百度新浪的域名，估计GFW头痛不敢屏蔽了 (2014年06月13日 12:48)
  ---
 Behind the Great Firewall: What it's really like to log on from China <a href="http://www.networkworld.com/article/2362051/access-control/behind-the-great-firewall-what-its-really-like-to-log-on-from-china.html">www.networkworld.com/article/2362051/access-control/behind-the-great-firewall-what-its-really-like-to-log-on-from-china.html</a> (2014年06月13日 12:44)
@@ -65,6 +67,4 @@ Web giants encrypt their services—but leaks remain <a href="http://arstechnica
 RT @YaxueCao: A Letter to the Newton (Massachusetts) Community by @ZhouFengSuo &amp; @YaxueCao <a href="http://chinachange.org/2014/06/11/a-letter-to-the-newton-massachusetts-community/">chinachange.org/2014/06/11/a-letter-to-the-newton-massachusetts-community/</a> @GhostZodick @BostonGlobe… (2014年06月12日 00:09)
  ---
 RT @farwestchina: Buses here in Urumqi are now showing PSAs for bomb detection &amp; what to do during a terrorist attack #China #Xinjiang http… (2014年06月11日 23:58)
- ---
-@SanNuvola it's a sad state of affairs no matter which way you cut it (2014年06月11日 19:37)
  ---
