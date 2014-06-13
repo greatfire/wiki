@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+New outbreak in guerrilla war Internet activists have been waging against “The Great Firewall” <a href="http://www.csmonitor.com/World/Asia-Pacific/2014/0613/A-great-workaround-for-China-s-Great-Firewall">www.csmonitor.com/World/Asia-Pacific/2014/0613/A-great-workaround-for-China-s-Great-Firewall</a> via @peterfordcsm (2014年06月13日 20:35)
+ ---
 RT @Edourdoo: Chinese netizens protest blockade of Google in the country 
 Solidot | 网民大规模抗议Google被封锁 <a href="http://www.solidot.org/story?sid=39919">www.solidot.org/story</a> (2014年06月13日 18:44)
  ---
@@ -66,6 +68,4 @@ RT @MyDF: 永远无法封锁的Gooogle搜索镜像
 sinaapp点co (2014年06月12日 11:46)
  ---
 GAE服务器部分故障 <a href="https://groups.google.com/forum/#!topic/google-appengine-downtime-notify/c6O7WFGuJT0">groups.google.com/forum/</a> (2014年06月12日 11:45)
- ---
-RT @RTKcn: 21+ RT @omegaleeV: 所有內地安卓市場都把 Instagram 下架了，知乎匿名人士爆料原因：傳播十四世達賴喇嘛的相關圖像。 #貴國G點多 (2014年06月12日 06:53)
  ---
