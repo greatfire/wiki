@@ -26,6 +26,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@felixonmars 后面这个GFW还没屏蔽。搞了这么多百度新浪的域名，估计GFW头痛不敢屏蔽了 (2014年06月13日 12:48)
+ ---
+Behind the Great Firewall: What it's really like to log on from China <a href="http://www.networkworld.com/article/2362051/access-control/behind-the-great-firewall-what-its-really-like-to-log-on-from-china.html">www.networkworld.com/article/2362051/access-control/behind-the-great-firewall-what-its-really-like-to-log-on-from-china.html</a> (2014年06月13日 12:44)
+ ---
 .@Arctosia 新镜像域名 baidustatic.co (百度) alicdn.co (淘宝) gtimg.co (腾讯) aspnetcdn.co (微软) 1kapp.co (新浪) GFW敢不敢全部封锁？ (2014年06月13日 08:45)
  ---
 新浪自打耳光。 根据相关法律法规和政策<a href="http://sinaapp.com">sinaapp.com</a>搜索结果未予显示。封锁镜像sinaapp.co把自己封了。此外，国外访问新浪云计算全部被GFW反向重置。 笑死了。新镜像luxtarget.co (2014年06月13日 03:31)
@@ -63,8 +67,4 @@ RT @YaxueCao: A Letter to the Newton (Massachusetts) Community by @ZhouFengSuo &
 RT @farwestchina: Buses here in Urumqi are now showing PSAs for bomb detection &amp; what to do during a terrorist attack #China #Xinjiang http… (2014年06月11日 23:58)
  ---
 @SanNuvola it's a sad state of affairs no matter which way you cut it (2014年06月11日 19:37)
- ---
-Google likely the most visited foreign-based internet property from China which is why the continued block is so significant. (2014年06月11日 16:11)
- ---
-.@BrianGlucroft google.cn redirects to blocked com.hk domain, maps &amp; translate .cn work, but .com blocked. Likely forgotten legacy issue (2014年06月11日 15:51)
  ---
