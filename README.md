@@ -26,6 +26,9 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @Edourdoo: Chinese netizens protest blockade of Google in the country 
+Solidot | 网民大规模抗议Google被封锁 <a href="http://www.solidot.org/story?sid=39919">www.solidot.org/story</a> (2014年06月13日 18:44)
+ ---
 @thenanfang @cosmopolitanvan @MissXQ @PaulCarsten one small point - it's not a spoof, hoax or deception - it works as Google normally would (2014年06月13日 18:39)
  ---
 RT @LYF610400210: 哈哈哈哈哈哈哈……“相关法规”@GreatFireChina <a href="https://twitter.com/LYF610400210/status/477377789297823745/photo/1">twitter.com/LYF610400210/status/477377789297823745/photo/1</a> (2014年06月13日 17:33)
@@ -65,6 +68,4 @@ sinaapp点co (2014年06月12日 11:46)
 GAE服务器部分故障 <a href="https://groups.google.com/forum/#!topic/google-appengine-downtime-notify/c6O7WFGuJT0">groups.google.com/forum/</a> (2014年06月12日 11:45)
  ---
 RT @RTKcn: 21+ RT @omegaleeV: 所有內地安卓市場都把 Instagram 下架了，知乎匿名人士爆料原因：傳播十四世達賴喇嘛的相關圖像。 #貴國G點多 (2014年06月12日 06:53)
- ---
-RT @EFF: Good news—the NSA will no longer get mandatory input on encryption standards if the amended FIRST Act passes. <a href="https://t.co/tdyWFto">t.co/tdyWFto</a>… (2014年06月12日 06:40)
  ---
