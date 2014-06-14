@@ -59,7 +59,7 @@ RT @niubi: SIIO's Ren Xianliang: promote objective, rational internet ecology 4 
  ---
 RT @luluyilun: ‘Tank Man’ Googled in China as hackers bypass censors <a href="http://www.bloomberg.com/news/2014-06-12/-tank-man-googled-in-china-as-hackers-bypass-censors.html">www.bloomberg.com/news/2014-06-12/-tank-man-googled-in-china-as-hackers-bypass-censors.html</a> via @BloombergNews (2014年06月12日 19:15)
  ---
-@jonrussell @TommasoLombardi @losheng check here: <a href="https://lanternforum.greatfire.org/">lanternforum.greatfire.org/</a> also here but not updated: <a href="https://en.greatfire.org/vpns-proxies">en.greatfire.org/vpns-proxies</a> (2014年06月12日 18:03)
+@jonrussell @TommasoLombardi @losheng check here: <a href="https://lanternforum.greatfire.org/">lanternforum.greatfire.org/</a> also here but not updated: <a href="https://en.greatfire.org/category/vpns-proxies">en.greatfire.org/category/vpns-proxies</a> (2014年06月12日 18:03)
  ---
 Today over 100k Chinese will use Google search w/o a VPN or circumvention tool. Not bad for a 9-day-old site! <a href="https://s3-ap-southeast-2.amazonaws.com/google6/index.html">s3-ap-southeast-2.amazonaws.com/google6/index.html</a> (2014年06月12日 18:00)
  ---
