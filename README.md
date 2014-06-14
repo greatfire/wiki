@@ -1,5 +1,9 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
+* Google 搜索：http://chetxia.co
+* Google 搜索：http://luxtarget.co
+* Google 搜索：http://1kapp.co
+* Google 搜索：http://sinaapp.co
 * Google 搜索：https://s3-us-west-2.amazonaws.com/google2/index.html
 * Google 搜索：https://s3-us-west-1.amazonaws.com/google3/index.html
 * Google 搜索：https://s3-eu-west-1.amazonaws.com/google4/index.html
@@ -19,46 +23,49 @@
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
 
 ## 订阅 email
-* <a href="https://greatfire.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
+* <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-RT @YaxueCao: Careful when ppl talk abt public sentiment in China. Without open n free debate abt public affairs, there's no public anythin… (2014年06月05日 04:20)
+RT @phuslu: 【转】Google这次是绝对要彻底的say bye了。连大楼都不租了。据说要撤到一个小office。目前Google AJAX CDN，Google Ads这些无关痛痒的网址也都沦陷了。貌似只剩下一个analytics的js没被墙。http://t.co… (2014年06月14日 02:43)
  ---
-RT @TheOnion: Chinese Citizens Observe 25-Year Moment Of Silence For Tiananmen Square Massacre <a href="http://www.theonion.com/articles/chinese-citizens-observe-25year-moment-of-silence,36197/?utm_source=Twitter&utm_medium=SocialMarketing&utm_campaign=Default:1:Default">www.theonion.com/articles/chinese-citizens-observe-25year-moment-of-silence,36197/</a> <a href="https://twitter.com/TheOnion/status/474234434087305218/photo/1">twitter.com/TheOnion/status/474234434087305218/photo/1</a> (2014年06月05日 01:14)
+New outbreak in guerrilla war Internet activists have been waging against “The Great Firewall” <a href="http://www.csmonitor.com/World/Asia-Pacific/2014/0613/A-great-workaround-for-China-s-Great-Firewall">www.csmonitor.com/World/Asia-Pacific/2014/0613/A-great-workaround-for-China-s-Great-Firewall</a> via @peterfordcsm (2014年06月13日 20:35)
  ---
-@jilliancyork @Max_Fisher @TIMEWorld @Sam_Frizell that's not what their own transparency report says. And we say severely disrupted. (2014年06月05日 00:12)
+RT @Edourdoo: Chinese netizens protest blockade of Google in the country 
+Solidot | 网民大规模抗议Google被封锁 <a href="http://www.solidot.org/story?sid=39919">www.solidot.org/story</a> (2014年06月13日 18:44)
  ---
-@jilliancyork @Max_Fisher @TIMEWorld @Sam_Frizell never got asked to comment on that story - they just used our site to test I assume (2014年06月05日 00:11)
+@thenanfang @cosmopolitanvan @MissXQ @PaulCarsten one small point - it's not a spoof, hoax or deception - it works as Google normally would (2014年06月13日 18:39)
  ---
-@jilliancyork @Max_Fisher @TIMEWorld @Sam_Frizell u could also ask the 600m Chinese who are online to verify that info. (2014年06月05日 00:05)
+RT @LYF610400210: 哈哈哈哈哈哈哈……“相关法规”@GreatFireChina <a href="https://twitter.com/LYF610400210/status/477377789297823745/photo/1">twitter.com/LYF610400210/status/477377789297823745/photo/1</a> (2014年06月13日 17:33)
  ---
-@BrianGlucroft @Max_Fisher @TIMEWorld @Sam_Frizell this calls for new top 10: Western internet cos complicity working with Chinese censors (2014年06月04日 23:46)
+胜利！ GFW迫于压力对sinaapp.co解封。可以用以下几种方法转发到国内。 sinaapp点co   <a href="http://sinaapp.com">sinaapp.com</a> 访问后去掉m。新浪app点co 新浪=sina  大家自己发挥创造力：） (2014年06月13日 16:50)
  ---
-@BrianGlucroft @Max_Fisher @TIMEWorld @Sam_Frizell also Wikipedia is acting complicity to censor the Chinese version of its site (2014年06月04日 23:44)
+#没有抗争就没有自由 已经成为自由微博上最热门的搜索了。<a href="https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html?u=weibo/%E6%B2%A1%E6%9C%89%E6%8A%97%E4%BA%89%E5%B0%B1%E6%B2%A1%E6%9C%89%E8%87%AA%E7%94%B1?censored">s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html</a> 请大家复制到墙内 (2014年06月13日 13:50)
  ---
-RT @simondenyer: HK protest goals: free jailed activists, vindicate 1989 movt, hold perpetrators accountable, end 1party dictatorship, buil… (2014年06月04日 23:09)
+Google mirror call on Chinese people to fight the GFW. That's us! <a href="http://www.thenanfang.com/blog/google-is-calling-on-chinese-people-to-fight-the-gfw/">www.thenanfang.com/blog/google-is-calling-on-chinese-people-to-fight-the-gfw/</a> (2014年06月13日 13:03)
  ---
-RT @sinoceros: LinkedIn is censoring posts about Tiananmen Square, even outside mainland China <a href="http://qz.com/216691/linkedin-is-censoring-posts-about-tiananmen-square-even-outside-mainland-china/">qz.com/216691/linkedin-is-censoring-posts-about-tiananmen-square-even-outside-mainland-china/</a> (2014年06月04日 22:10)
+@felixonmars 后面这个GFW还没屏蔽。搞了这么多百度新浪的域名，估计GFW头痛不敢屏蔽了 (2014年06月13日 12:48)
  ---
-RT @wikileaks: WikiLeaks cable documents the run up to #Tiananmen Square confrontation <a href="https://www.wikileaks.org/plusd/cables/89BEIJING14047_a.html">www.wikileaks.org/plusd/cables/89BEIJING14047_a.html</a> (2014年06月04日 22:04)
+Behind the Great Firewall: What it's really like to log on from China <a href="http://www.networkworld.com/article/2362051/access-control/behind-the-great-firewall-what-its-really-like-to-log-on-from-china.html">www.networkworld.com/article/2362051/access-control/behind-the-great-firewall-what-its-really-like-to-log-on-from-china.html</a> (2014年06月13日 12:44)
  ---
-RT @aiww: RT @liu_xiaoyuan: 热血青年@aiww <a href="https://twitter.com/liu_xiaoyuan/status/474182141119459329/photo/1">twitter.com/liu_xiaoyuan/status/474182141119459329/photo/1</a> (2014年06月04日 21:53)
+.@Arctosia 新镜像域名 baidustatic.co (百度) alicdn.co (淘宝) gtimg.co (腾讯) aspnetcdn.co (微软) 1kapp.co (新浪) GFW敢不敢全部封锁？ (2014年06月13日 08:45)
  ---
-RT @aiww: RT @craigxy: RT @paulwsj: June 4, 2014, Hong Kong, 25 years later <a href="https://twitter.com/paulwsj/status/474164571519713281/photo/1">twitter.com/paulwsj/status/474164571519713281/photo/1</a> (2014年06月04日 21:51)
+新浪自打耳光。 根据相关法律法规和政策<a href="http://sinaapp.com">sinaapp.com</a>搜索结果未予显示。封锁镜像sinaapp.co把自己封了。此外，国外访问新浪云计算全部被GFW反向重置。 笑死了。新镜像luxtarget.co (2014年06月13日 03:31)
  ---
-@KevinLewisHK malicious attack or human error or both (2014年06月04日 21:48)
+RT @anthrax0: GFW封sinaapp.co误伤SAE <a href="http://sinaapp.com">sinaapp.com</a>，墙外访问一切SAE上的站都RST了~ @GreatFireChina @chinagfw @zuola (2014年06月13日 03:20)
  ---
-RT @wafarris: Today, June 4, 2014, Sina Weibo began censoring searches for "Today." #Tiananmen <a href="https://twitter.com/wafarris/status/474156087482920960/photo/1">twitter.com/wafarris/status/474156087482920960/photo/1</a> (2014年06月04日 20:14)
+RT @niubi: SIIO's Ren Xianliang: promote objective, rational internet ecology 4 internet new media  任贤良：推动网络新媒体形成客观理性的网络生态 <a href="http://t.co/HYc5">t.co/HYc5</a>… (2014年06月12日 19:19)
  ---
-RT @LiYuan6: The day that never existed is remembered everywhere except within the Great Fire Wall. Now that's the real border. (2014年06月04日 20:12)
+RT @luluyilun: ‘Tank Man’ Googled in China as hackers bypass censors <a href="http://www.bloomberg.com/news/2014-06-12/-tank-man-googled-in-china-as-hackers-bypass-censors.html">www.bloomberg.com/news/2014-06-12/-tank-man-googled-in-china-as-hackers-bypass-censors.html</a> via @BloombergNews (2014年06月12日 19:15)
  ---
-3 great live #TAM25 events/blogs happening now here <a href="https://www.youtube.com/watch?v=tmD_UBGKeYE&mod=e2tw">www.youtube.com/watch</a> here <a href="http://www.scmp.com/news/hong-kong/article/1525282/tiananmen-square-25th-anniversary-vigil-live-blog">www.scmp.com/news/hong-kong/article/1525282/tiananmen-square-25th-anniversary-vigil-live-blog</a> and here <a href="HTTP://http:////www-nc.nytimes.com/2014/06/03/live-blogging-the-25-tiananmen-square-anniversary/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_r=6&utm_content=buffer9a6e0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&">http////www-nc.nytimes.com/2014/06/03/live-blogging-the-25-tiananmen-square-anniversary/</a> (2014年06月04日 19:10)
+@jonrussell @TommasoLombardi @losheng check here: <a href="https://lanternforum.greatfire.org/">lanternforum.greatfire.org/</a> also here but not updated: <a href="https://en.greatfire.org/vpns-proxies">en.greatfire.org/vpns-proxies</a> (2014年06月12日 18:03)
  ---
-@arusbridger oddly enough also coincides with the lifting of a block on <a href="http://www.sears.com/">www.sears.com/</a> <a href="https://en.greatfire.org/sears.com">en.greatfire.org/sears.com</a> fyi @Sears (2014年06月04日 19:01)
+Today over 100k Chinese will use Google search w/o a VPN or circumvention tool. Not bad for a 9-day-old site! <a href="https://s3-ap-southeast-2.amazonaws.com/google6/index.html">s3-ap-southeast-2.amazonaws.com/google6/index.html</a> (2014年06月12日 18:00)
  ---
-RT @arusbridger: The Guardian seems to be unblocked in China. Don't know what we've done right (or wrong) but good news @GreatFireChina :) (2014年06月04日 18:27)
+Mass protest on Weibo on Google being blocked in China NOW. Our Google Mirror is reposted thousands of times. <a href="https://s3-ap-northeast-1.amazonaws.com/google5/index.html">s3-ap-northeast-1.amazonaws.com/google5/index.html</a> (2014年06月12日 15:40)
  ---
-RT @paulmozur: Surprised how little censorship there is on WeChat. Tiananmen posts on moments+messages fine. On Moments people linking to W… (2014年06月04日 18:17)
+大家看看自由微博主页。我们第一次占领了自己的首页，没有抗争就没有自由。 有微博账号都去抗议Google封锁 <a href="https://freeweibo.com/">freeweibo.com/</a> (2014年06月12日 14:40)
  ---
-RT @isaac: VPN related UPD ports vastly interfered by #GreatFirewall in China, reported from Twitter CN users (2014年06月04日 17:40)
+RT @MyDF: 永远无法封锁的Gooogle搜索镜像
+架设在亚马逊的云服务器，请记住域名短网址：
+sinaapp点co (2014年06月12日 11:46)
  ---
