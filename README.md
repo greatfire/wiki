@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @JulieMakLAT: China's crackdown on Google services now 2 weeks old and counting. <a href="http://www.latimes.com/business/la-fi-0614-google-china-20140614-story.html">www.latimes.com/business/la-fi-0614-google-china-20140614-story.html</a> (2014年06月14日 14:15)
+ ---
 RT @phuslu: 【转】Google这次是绝对要彻底的say bye了。连大楼都不租了。据说要撤到一个小office。目前Google AJAX CDN，Google Ads这些无关痛痒的网址也都沦陷了。貌似只剩下一个analytics的js没被墙。http://t.co… (2014年06月14日 02:43)
  ---
 New outbreak in guerrilla war Internet activists have been waging against “The Great Firewall” <a href="http://www.csmonitor.com/World/Asia-Pacific/2014/0613/A-great-workaround-for-China-s-Great-Firewall">www.csmonitor.com/World/Asia-Pacific/2014/0613/A-great-workaround-for-China-s-Great-Firewall</a> via @peterfordcsm (2014年06月13日 20:35)
@@ -64,8 +66,4 @@ Today over 100k Chinese will use Google search w/o a VPN or circumvention tool. 
 Mass protest on Weibo on Google being blocked in China NOW. Our Google Mirror is reposted thousands of times. <a href="https://s3-ap-northeast-1.amazonaws.com/google5/index.html">s3-ap-northeast-1.amazonaws.com/google5/index.html</a> (2014年06月12日 15:40)
  ---
 大家看看自由微博主页。我们第一次占领了自己的首页，没有抗争就没有自由。 有微博账号都去抗议Google封锁 <a href="https://freeweibo.com/">freeweibo.com/</a> (2014年06月12日 14:40)
- ---
-RT @MyDF: 永远无法封锁的Gooogle搜索镜像
-架设在亚马逊的云服务器，请记住域名短网址：
-sinaapp点co (2014年06月12日 11:46)
  ---
