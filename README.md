@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+《苹果日报》称北京迫使大客户撤广告 <a href="http://cn.nytimes.com/china/20140612/c12chinamedia/">cn.nytimes.com/china/20140612/c12chinamedia/</a> (2014年06月15日 12:27)
+ ---
 RT @hnjhj: 长期以来，网友们对于祸国殃民的GFW无非抱以两种心态：或望墙心叹或找办法绕开。暂时还没有专门机构通过研究和利用GFW的规则对其发起主动攻势的。大胆猜测，这将是接下来的趋势。 (2014年06月15日 03:38)
  ---
 RT @JulieMakLAT: China's crackdown on Google services now 2 weeks old and counting. <a href="http://www.latimes.com/business/la-fi-0614-google-china-20140614-story.html">www.latimes.com/business/la-fi-0614-google-china-20140614-story.html</a> (2014年06月14日 14:15)
@@ -64,6 +66,4 @@ RT @luluyilun: ‘Tank Man’ Googled in China as hackers bypass censors <a href
 @jonrussell @TommasoLombardi @losheng check here: <a href="https://lanternforum.greatfire.org/">lanternforum.greatfire.org/</a> also here but not updated: <a href="https://en.greatfire.org/vpns-proxies">en.greatfire.org/vpns-proxies</a> (2014年06月12日 18:03)
  ---
 Today over 100k Chinese will use Google search w/o a VPN or circumvention tool. Not bad for a 9-day-old site! <a href="https://s3-ap-southeast-2.amazonaws.com/google6/index.html">s3-ap-southeast-2.amazonaws.com/google6/index.html</a> (2014年06月12日 18:00)
- ---
-Mass protest on Weibo on Google being blocked in China NOW. Our Google Mirror is reposted thousands of times. <a href="https://s3-ap-northeast-1.amazonaws.com/google5/index.html">s3-ap-northeast-1.amazonaws.com/google5/index.html</a> (2014年06月12日 15:40)
  ---
