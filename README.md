@@ -26,6 +26,18 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @conradhackett: Press Freedom 2014:
+1 Finland
+11 Estonia
+18 Canada
+33 UK
+46 US
+47 Haiti
+148 Russia
+154 Turkey
+164 S Arabia
+175 China htt… (2014年06月16日 16:31)
+ ---
 打败互联网审查，打败GFW－－Google镜像背后的秘密 <a href="https://s3-ap-southeast-2.amazonaws.com/google6/defeat-gfw.html">s3-ap-southeast-2.amazonaws.com/google6/defeat-gfw.html</a> (2014年06月16日 15:45)
  ---
 Just desserts! U messed w/ karma when U took @FreeWeibo down from app store: China cracks down on Apple <a href="http://www.techinasia.com/china-cracks-apples-imessage-national-web-cleanup-continues/">www.techinasia.com/china-cracks-apples-imessage-national-web-cleanup-continues/</a> h/t @niubi (2014年06月16日 13:04)
@@ -64,6 +76,4 @@ Behind the Great Firewall: What it's really like to log on from China <a href="h
 RT @anthrax0: GFW封sinaapp.co误伤SAE <a href="http://sinaapp.com">sinaapp.com</a>，墙外访问一切SAE上的站都RST了~ @GreatFireChina @chinagfw @zuola (2014年06月13日 03:20)
  ---
 RT @niubi: SIIO's Ren Xianliang: promote objective, rational internet ecology 4 internet new media  任贤良：推动网络新媒体形成客观理性的网络生态 <a href="http://t.co/HYc5">t.co/HYc5</a>… (2014年06月12日 19:19)
- ---
-RT @luluyilun: ‘Tank Man’ Googled in China as hackers bypass censors <a href="http://www.bloomberg.com/news/2014-06-12/-tank-man-googled-in-china-as-hackers-bypass-censors.html">www.bloomberg.com/news/2014-06-12/-tank-man-googled-in-china-as-hackers-bypass-censors.html</a> via @BloombergNews (2014年06月12日 19:15)
  ---
