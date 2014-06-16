@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @RTKcn: 21+ RT @kgen: 这次 Google 事件发生后，国内的反应，这图真是太精准了！ <a href="https://twitter.com/kgen/status/478433106450325504/photo/1">twitter.com/kgen/status/478433106450325504/photo/1</a> (2014年06月17日 02:52)
+ ---
 RT @conradhackett: Press Freedom 2014:
 1 Finland
 11 Estonia
@@ -74,6 +76,4 @@ Behind the Great Firewall: What it's really like to log on from China <a href="h
 新浪自打耳光。 根据相关法律法规和政策<a href="http://sinaapp.com">sinaapp.com</a>搜索结果未予显示。封锁镜像sinaapp.co把自己封了。此外，国外访问新浪云计算全部被GFW反向重置。 笑死了。新镜像luxtarget.co (2014年06月13日 03:31)
  ---
 RT @anthrax0: GFW封sinaapp.co误伤SAE <a href="http://sinaapp.com">sinaapp.com</a>，墙外访问一切SAE上的站都RST了~ @GreatFireChina @chinagfw @zuola (2014年06月13日 03:20)
- ---
-RT @niubi: SIIO's Ren Xianliang: promote objective, rational internet ecology 4 internet new media  任贤良：推动网络新媒体形成客观理性的网络生态 <a href="http://t.co/HYc5">t.co/HYc5</a>… (2014年06月12日 19:19)
  ---
