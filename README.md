@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Just desserts! U messed w/ karma when U took @FreeWeibo down from app store: China cracks down on Apple <a href="http://www.techinasia.com/china-cracks-apples-imessage-national-web-cleanup-continues/">www.techinasia.com/china-cracks-apples-imessage-national-web-cleanup-continues/</a> h/t @niubi (2014年06月16日 13:04)
+ ---
 《苹果日报》称北京迫使大客户撤广告 <a href="http://cn.nytimes.com/china/20140612/c12chinamedia/">cn.nytimes.com/china/20140612/c12chinamedia/</a> (2014年06月15日 12:27)
  ---
 RT @hnjhj: 长期以来，网友们对于祸国殃民的GFW无非抱以两种心态：或望墙心叹或找办法绕开。暂时还没有专门机构通过研究和利用GFW的规则对其发起主动攻势的。大胆猜测，这将是接下来的趋势。 (2014年06月15日 03:38)
@@ -64,6 +66,4 @@ RT @niubi: SIIO's Ren Xianliang: promote objective, rational internet ecology 4 
 RT @luluyilun: ‘Tank Man’ Googled in China as hackers bypass censors <a href="http://www.bloomberg.com/news/2014-06-12/-tank-man-googled-in-china-as-hackers-bypass-censors.html">www.bloomberg.com/news/2014-06-12/-tank-man-googled-in-china-as-hackers-bypass-censors.html</a> via @BloombergNews (2014年06月12日 19:15)
  ---
 @jonrussell @TommasoLombardi @losheng check here: <a href="https://lanternforum.greatfire.org/">lanternforum.greatfire.org/</a> also here but not updated: <a href="https://en.greatfire.org/vpns-proxies">en.greatfire.org/vpns-proxies</a> (2014年06月12日 18:03)
- ---
-Today over 100k Chinese will use Google search w/o a VPN or circumvention tool. Not bad for a 9-day-old site! <a href="https://s3-ap-southeast-2.amazonaws.com/google6/index.html">s3-ap-southeast-2.amazonaws.com/google6/index.html</a> (2014年06月12日 18:00)
  ---
