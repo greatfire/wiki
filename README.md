@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Chinese-Made Smartphone Comes With Spyware, Security Firm Says <a href="http://blogs.wsj.com/digits/2014/06/17/chinese-made-smartphone-comes-with-spyware-security-firm-says/">blogs.wsj.com/digits/2014/06/17/chinese-made-smartphone-comes-with-spyware-security-firm-says/</a> (2014年06月18日 06:01)
+ ---
 Want to make your very own FreeGoogle? Fully accessible in China w/o the use of circumvention tools? Now you can: <a href="https://github.com/greatfire/freegoogle">github.com/greatfire/freegoogle</a> (2014年06月17日 17:41)
  ---
 RT @RTKcn: 21+ RT @kgen: 这次 Google 事件发生后，国内的反应，这图真是太精准了！ <a href="https://twitter.com/kgen/status/478433106450325504/photo/1">twitter.com/kgen/status/478433106450325504/photo/1</a> (2014年06月17日 02:52)
@@ -74,6 +76,4 @@ Google mirror call on Chinese people to fight the GFW. That's us! <a href="http:
 Behind the Great Firewall: What it's really like to log on from China <a href="http://www.networkworld.com/article/2362051/access-control/behind-the-great-firewall-what-its-really-like-to-log-on-from-china.html">www.networkworld.com/article/2362051/access-control/behind-the-great-firewall-what-its-really-like-to-log-on-from-china.html</a> (2014年06月13日 12:44)
  ---
 .@Arctosia 新镜像域名 baidustatic.co (百度) alicdn.co (淘宝) gtimg.co (腾讯) aspnetcdn.co (微软) 1kapp.co (新浪) GFW敢不敢全部封锁？ (2014年06月13日 08:45)
- ---
-新浪自打耳光。 根据相关法律法规和政策<a href="http://sinaapp.com">sinaapp.com</a>搜索结果未予显示。封锁镜像sinaapp.co把自己封了。此外，国外访问新浪云计算全部被GFW反向重置。 笑死了。新镜像luxtarget.co (2014年06月13日 03:31)
  ---
