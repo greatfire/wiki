@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+高级五毛党伪造推特转推，阻止推友进行六四纪念 <a href="https://zh.greatfire.org/blog/2014/jun/wumao-liusi">zh.greatfire.org/blog/2014/jun/wumao-liusi</a> (2014年06月18日 14:39)
+ ---
 RT @RTKcn: 21+ RT @lvv2_com: 五毛行为规范  <a href="http://redian.today/t/212796">redian.today/t/212796</a> <a href="https://twitter.com/lvv2_com/status/478806605711298560/photo/1">twitter.com/lvv2_com/status/478806605711298560/photo/1</a> (2014年06月18日 14:00)
  ---
 RT @ghoulr: 我去，居然有一个来自哈工大的曲径企业版申请，翻墙目的是科研，这，校长已经把自己人坑成马了啊 (2014年06月18日 12:07)
@@ -74,6 +76,4 @@ RT @LYF610400210: 哈哈哈哈哈哈哈……“相关法规”@GreatFireChina <
 胜利！ GFW迫于压力对sinaapp.co解封。可以用以下几种方法转发到国内。 sinaapp点co   <a href="http://sinaapp.com">sinaapp.com</a> 访问后去掉m。新浪app点co 新浪=sina  大家自己发挥创造力：） (2014年06月13日 16:50)
  ---
 #没有抗争就没有自由 已经成为自由微博上最热门的搜索了。<a href="https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html?u=weibo/%E6%B2%A1%E6%9C%89%E6%8A%97%E4%BA%89%E5%B0%B1%E6%B2%A1%E6%9C%89%E8%87%AA%E7%94%B1?censored">s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html</a> 请大家复制到墙内 (2014年06月13日 13:50)
- ---
-Google mirror call on Chinese people to fight the GFW. That's us! <a href="http://www.thenanfang.com/blog/google-is-calling-on-chinese-people-to-fight-the-gfw/">www.thenanfang.com/blog/google-is-calling-on-chinese-people-to-fight-the-gfw/</a> (2014年06月13日 13:03)
  ---
