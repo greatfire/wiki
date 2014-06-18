@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @RTKcn: 20+ RT @MerlotN: 网络媒体在中国从出身开始就是苟延残喘，这下算是死透了 <a href="https://twitter.com/MerlotN/status/479195768771719168/photo/1">twitter.com/MerlotN/status/479195768771719168/photo/1</a> (2014年06月19日 03:04)
+ ---
 RT @GVChinese: Just Google It? Not In China, Where Google Remains Blocked: Google search, Gmail and Google Scholar are only a... http://t.c… (2014年06月18日 23:10)
  ---
 高级五毛党伪造推特转推，阻止推友进行六四纪念 <a href="https://zh.greatfire.org/blog/2014/jun/wumao-liusi">zh.greatfire.org/blog/2014/jun/wumao-liusi</a> (2014年06月18日 14:39)
@@ -74,6 +76,4 @@ Solidot | 网民大规模抗议Google被封锁 <a href="http://www.solidot.org/s
 @thenanfang @cosmopolitanvan @MissXQ @PaulCarsten one small point - it's not a spoof, hoax or deception - it works as Google normally would (2014年06月13日 18:39)
  ---
 RT @LYF610400210: 哈哈哈哈哈哈哈……“相关法规”@GreatFireChina <a href="https://twitter.com/LYF610400210/status/477377789297823745/photo/1">twitter.com/LYF610400210/status/477377789297823745/photo/1</a> (2014年06月13日 17:33)
- ---
-胜利！ GFW迫于压力对sinaapp.co解封。可以用以下几种方法转发到国内。 sinaapp点co   <a href="http://sinaapp.com">sinaapp.com</a> 访问后去掉m。新浪app点co 新浪=sina  大家自己发挥创造力：） (2014年06月13日 16:50)
  ---
