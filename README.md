@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @RTKcn: 21+ RT @lvv2_com: 五毛行为规范  <a href="http://redian.today/t/212796">redian.today/t/212796</a> <a href="https://twitter.com/lvv2_com/status/478806605711298560/photo/1">twitter.com/lvv2_com/status/478806605711298560/photo/1</a> (2014年06月18日 14:00)
+ ---
 RT @ghoulr: 我去，居然有一个来自哈工大的曲径企业版申请，翻墙目的是科研，这，校长已经把自己人坑成马了啊 (2014年06月18日 12:07)
  ---
 《苹果日报》港台网站被黑客攻击无法登录 <a href="http://www.nanzao.com/sc/hk/29897/ping-guo-ri-bao-gang-tai-wang-zhan-bei-hei-ke-gong-ji-wu-fa-deng-lu">www.nanzao.com/sc/hk/29897/ping-guo-ri-bao-gang-tai-wang-zhan-bei-hei-ke-gong-ji-wu-fa-deng-lu</a> 今天报纸上有这个 <a href="https://twitter.com/GreatFireChina/status/479112913333288960/photo/1">twitter.com/GreatFireChina/status/479112913333288960/photo/1</a> (2014年06月18日 12:06)
@@ -74,6 +76,4 @@ RT @LYF610400210: 哈哈哈哈哈哈哈……“相关法规”@GreatFireChina <
 #没有抗争就没有自由 已经成为自由微博上最热门的搜索了。<a href="https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html?u=weibo/%E6%B2%A1%E6%9C%89%E6%8A%97%E4%BA%89%E5%B0%B1%E6%B2%A1%E6%9C%89%E8%87%AA%E7%94%B1?censored">s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html</a> 请大家复制到墙内 (2014年06月13日 13:50)
  ---
 Google mirror call on Chinese people to fight the GFW. That's us! <a href="http://www.thenanfang.com/blog/google-is-calling-on-chinese-people-to-fight-the-gfw/">www.thenanfang.com/blog/google-is-calling-on-chinese-people-to-fight-the-gfw/</a> (2014年06月13日 13:03)
- ---
-@felixonmars 后面这个GFW还没屏蔽。搞了这么多百度新浪的域名，估计GFW头痛不敢屏蔽了 (2014年06月13日 12:48)
  ---
