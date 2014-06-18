@@ -26,6 +26,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @ghoulr: 我去，居然有一个来自哈工大的曲径企业版申请，翻墙目的是科研，这，校长已经把自己人坑成马了啊 (2014年06月18日 12:07)
+ ---
+《苹果日报》港台网站被黑客攻击无法登录 <a href="http://www.nanzao.com/sc/hk/29897/ping-guo-ri-bao-gang-tai-wang-zhan-bei-hei-ke-gong-ji-wu-fa-deng-lu">www.nanzao.com/sc/hk/29897/ping-guo-ri-bao-gang-tai-wang-zhan-bei-hei-ke-gong-ji-wu-fa-deng-lu</a> 今天报纸上有这个 <a href="https://twitter.com/GreatFireChina/status/479112913333288960/photo/1">twitter.com/GreatFireChina/status/479112913333288960/photo/1</a> (2014年06月18日 12:06)
+ ---
 Chinese-Made Smartphone Comes With Spyware, Security Firm Says <a href="http://blogs.wsj.com/digits/2014/06/17/chinese-made-smartphone-comes-with-spyware-security-firm-says/">blogs.wsj.com/digits/2014/06/17/chinese-made-smartphone-comes-with-spyware-security-firm-says/</a> (2014年06月18日 06:01)
  ---
 Want to make your very own FreeGoogle? Fully accessible in China w/o the use of circumvention tools? Now you can: <a href="https://github.com/greatfire/freegoogle">github.com/greatfire/freegoogle</a> (2014年06月17日 17:41)
@@ -72,8 +76,4 @@ RT @LYF610400210: 哈哈哈哈哈哈哈……“相关法规”@GreatFireChina <
 Google mirror call on Chinese people to fight the GFW. That's us! <a href="http://www.thenanfang.com/blog/google-is-calling-on-chinese-people-to-fight-the-gfw/">www.thenanfang.com/blog/google-is-calling-on-chinese-people-to-fight-the-gfw/</a> (2014年06月13日 13:03)
  ---
 @felixonmars 后面这个GFW还没屏蔽。搞了这么多百度新浪的域名，估计GFW头痛不敢屏蔽了 (2014年06月13日 12:48)
- ---
-Behind the Great Firewall: What it's really like to log on from China <a href="http://www.networkworld.com/article/2362051/access-control/behind-the-great-firewall-what-its-really-like-to-log-on-from-china.html">www.networkworld.com/article/2362051/access-control/behind-the-great-firewall-what-its-really-like-to-log-on-from-china.html</a> (2014年06月13日 12:44)
- ---
-.@Arctosia 新镜像域名 baidustatic.co (百度) alicdn.co (淘宝) gtimg.co (腾讯) aspnetcdn.co (微软) 1kapp.co (新浪) GFW敢不敢全部封锁？ (2014年06月13日 08:45)
  ---
