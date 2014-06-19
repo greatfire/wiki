@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Facebook is down for everyone at the moment (2014年06月19日 16:23)
+ ---
 Reports that Instagram being pulled from Android stores in China in relation to pics of the Dalai Lama (2014年06月19日 15:57)
  ---
 Dropbox is now completely blocked in China <a href="https://en.greatfire.org/https/www.dropbox.com">en.greatfire.org/https/www.dropbox.com</a> Another victim after China's block on Google (2014年06月19日 13:48)
@@ -73,6 +75,4 @@ RT @conradhackett: Press Freedom 2014:
 打败互联网审查，打败GFW－－Google镜像背后的秘密 <a href="https://s3-ap-southeast-2.amazonaws.com/google6/defeat-gfw.html">s3-ap-southeast-2.amazonaws.com/google6/defeat-gfw.html</a> (2014年06月16日 15:45)
  ---
 Just desserts! U messed w/ karma when U took @FreeWeibo down from app store: China cracks down on Apple <a href="http://www.techinasia.com/china-cracks-apples-imessage-national-web-cleanup-continues/">www.techinasia.com/china-cracks-apples-imessage-national-web-cleanup-continues/</a> h/t @niubi (2014年06月16日 13:04)
- ---
-《苹果日报》称北京迫使大客户撤广告 <a href="http://cn.nytimes.com/china/20140612/c12chinamedia/">cn.nytimes.com/china/20140612/c12chinamedia/</a> (2014年06月15日 12:27)
  ---
