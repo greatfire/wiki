@@ -26,6 +26,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+GFW对stackoverflow进行IP封锁。 这个纯技术的论坛都能封锁，GFW再封锁Google之后已经无所顾忌了吧。 <a href="https://zh.greatfire.org/https/stackoverflow.com">zh.greatfire.org/https/stackoverflow.com</a> (2014年06月20日 05:47)
+ ---
+<a href="http://stackoverflow.com">stackoverflow.com</a> blocked in China today! <a href="https://en.greatfire.org/https/stackoverflow.com">en.greatfire.org/https/stackoverflow.com</a> GFW wants to piss off all developers in China? (2014年06月20日 05:41)
+ ---
 RT @tatamama: 今天facebook 服务器被攻击的前一刻，全世界流量监控动画 ，GFW在发射导弹啊～～～
 <a href="https://www.facebook.com/unsupportedbrowser">www.facebook.com/unsupportedbrowser</a> (2014年06月20日 05:26)
  ---
@@ -62,8 +66,4 @@ RT @ghoulr: 我去，居然有一个来自哈工大的曲径企业版申请，�
 《苹果日报》港台网站被黑客攻击无法登录 <a href="http://www.nanzao.com/sc/hk/29897/ping-guo-ri-bao-gang-tai-wang-zhan-bei-hei-ke-gong-ji-wu-fa-deng-lu">www.nanzao.com/sc/hk/29897/ping-guo-ri-bao-gang-tai-wang-zhan-bei-hei-ke-gong-ji-wu-fa-deng-lu</a> 今天报纸上有这个 <a href="https://twitter.com/GreatFireChina/status/479112913333288960/photo/1">twitter.com/GreatFireChina/status/479112913333288960/photo/1</a> (2014年06月18日 12:06)
  ---
 Chinese-Made Smartphone Comes With Spyware, Security Firm Says <a href="http://blogs.wsj.com/digits/2014/06/17/chinese-made-smartphone-comes-with-spyware-security-firm-says/">blogs.wsj.com/digits/2014/06/17/chinese-made-smartphone-comes-with-spyware-security-firm-says/</a> (2014年06月18日 06:01)
- ---
-Want to make your very own FreeGoogle? Fully accessible in China w/o the use of circumvention tools? Now you can: <a href="https://github.com/greatfire/freegoogle">github.com/greatfire/freegoogle</a> (2014年06月17日 17:41)
- ---
-RT @RTKcn: 21+ RT @kgen: 这次 Google 事件发生后，国内的反应，这图真是太精准了！ <a href="https://twitter.com/kgen/status/478433106450325504/photo/1">twitter.com/kgen/status/478433106450325504/photo/1</a> (2014年06月17日 02:52)
  ---
