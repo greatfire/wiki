@@ -26,6 +26,9 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @tatamama: 今天facebook 服务器被攻击的前一刻，全世界流量监控动画 ，GFW在发射导弹啊～～～
+<a href="https://www.facebook.com/unsupportedbrowser">www.facebook.com/unsupportedbrowser</a> (2014年06月20日 05:26)
+ ---
 @daithaigilbert @ProfWoodward we're actually at <a href="https://en.greatfire.org/">en.greatfire.org/</a>  we also say Dropbox is blocked <a href="https://en.greatfire.org/dl.dropbox.com">en.greatfire.org/dl.dropbox.com</a> (2014年06月19日 20:58)
  ---
 @GreatFireChina it's back - with a vengeance (2014年06月19日 16:30)
@@ -63,16 +66,4 @@ Chinese-Made Smartphone Comes With Spyware, Security Firm Says <a href="http://b
 Want to make your very own FreeGoogle? Fully accessible in China w/o the use of circumvention tools? Now you can: <a href="https://github.com/greatfire/freegoogle">github.com/greatfire/freegoogle</a> (2014年06月17日 17:41)
  ---
 RT @RTKcn: 21+ RT @kgen: 这次 Google 事件发生后，国内的反应，这图真是太精准了！ <a href="https://twitter.com/kgen/status/478433106450325504/photo/1">twitter.com/kgen/status/478433106450325504/photo/1</a> (2014年06月17日 02:52)
- ---
-RT @conradhackett: Press Freedom 2014:
-1 Finland
-11 Estonia
-18 Canada
-33 UK
-46 US
-47 Haiti
-148 Russia
-154 Turkey
-164 S Arabia
-175 China htt… (2014年06月16日 16:31)
  ---
