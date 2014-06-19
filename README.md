@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @caoegg: 中国人真是厉害。他屏蔽你，你默默的找翻墙工具，然后翻出去嘲笑那些不会的，然后那些花钱翻墙的再嘲笑那些免费翻墙的连这么点钱都不舍得，真是绝妙的场景。 (2014年06月19日 11:44)
+ ---
 貌似很多网民把我们当作GFW总部了，强烈要求我们解封Google。在这里转发给GFW，希望你们看看Google被封给科研，IT，外贸人员带来的严重后果。 @suoluo Google镜像1kapp.co <a href="https://twitter.com/GreatFireChina/status/479424967097188352/photo/1">twitter.com/GreatFireChina/status/479424967097188352/photo/1</a> (2014年06月19日 08:46)
  ---
 看看GFW封锁Google造成的经济后果吧 <a href="https://twitter.com/GreatFireChina/status/479341647348895744/photo/1">twitter.com/GreatFireChina/status/479341647348895744/photo/1</a> (2014年06月19日 03:15)
@@ -73,7 +75,4 @@ RT @JulieMakLAT: China's crackdown on Google services now 2 weeks old and counti
 RT @phuslu: 【转】Google这次是绝对要彻底的say bye了。连大楼都不租了。据说要撤到一个小office。目前Google AJAX CDN，Google Ads这些无关痛痒的网址也都沦陷了。貌似只剩下一个analytics的js没被墙。http://t.co… (2014年06月14日 02:43)
  ---
 New outbreak in guerrilla war Internet activists have been waging against “The Great Firewall” <a href="http://www.csmonitor.com/World/Asia-Pacific/2014/0613/A-great-workaround-for-China-s-Great-Firewall">www.csmonitor.com/World/Asia-Pacific/2014/0613/A-great-workaround-for-China-s-Great-Firewall</a> via @peterfordcsm (2014年06月13日 20:35)
- ---
-RT @Edourdoo: Chinese netizens protest blockade of Google in the country 
-Solidot | 网民大规模抗议Google被封锁 <a href="http://www.solidot.org/story?sid=39919">www.solidot.org/story</a> (2014年06月13日 18:44)
  ---
