@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@daithaigilbert @ProfWoodward we're actually at <a href="https://en.greatfire.org/">en.greatfire.org/</a>  we also say Dropbox is blocked <a href="https://en.greatfire.org/dl.dropbox.com">en.greatfire.org/dl.dropbox.com</a> (2014年06月19日 20:58)
+ ---
 @GreatFireChina it's back - with a vengeance (2014年06月19日 16:30)
  ---
 Facebook is down for everyone at the moment (2014年06月19日 16:23)
@@ -73,6 +75,4 @@ RT @conradhackett: Press Freedom 2014:
 154 Turkey
 164 S Arabia
 175 China htt… (2014年06月16日 16:31)
- ---
-打败互联网审查，打败GFW－－Google镜像背后的秘密 <a href="https://s3-ap-southeast-2.amazonaws.com/google6/defeat-gfw.html">s3-ap-southeast-2.amazonaws.com/google6/defeat-gfw.html</a> (2014年06月16日 15:45)
  ---
