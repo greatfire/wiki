@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Prepare for a "century of humiliation" - Beijing’s recent crackdown on Google “a digital seal-off” - <a href="http://offbeatchina.com/chinese-netizens-call-beijings-google-crackdown-a-digital-seal-off">offbeatchina.com/chinese-netizens-call-beijings-google-crackdown-a-digital-seal-off</a> h/t @niubi (2014年06月19日 13:24)
+ ---
 RT @caoegg: 中国人真是厉害。他屏蔽你，你默默的找翻墙工具，然后翻出去嘲笑那些不会的，然后那些花钱翻墙的再嘲笑那些免费翻墙的连这么点钱都不舍得，真是绝妙的场景。 (2014年06月19日 11:44)
  ---
 貌似很多网民把我们当作GFW总部了，强烈要求我们解封Google。在这里转发给GFW，希望你们看看Google被封给科研，IT，外贸人员带来的严重后果。 @suoluo Google镜像1kapp.co <a href="https://twitter.com/GreatFireChina/status/479424967097188352/photo/1">twitter.com/GreatFireChina/status/479424967097188352/photo/1</a> (2014年06月19日 08:46)
@@ -73,6 +75,4 @@ RT @hnjhj: 长期以来，网友们对于祸国殃民的GFW无非抱以两种心
 RT @JulieMakLAT: China's crackdown on Google services now 2 weeks old and counting. <a href="http://www.latimes.com/business/la-fi-0614-google-china-20140614-story.html">www.latimes.com/business/la-fi-0614-google-china-20140614-story.html</a> (2014年06月14日 14:15)
  ---
 RT @phuslu: 【转】Google这次是绝对要彻底的say bye了。连大楼都不租了。据说要撤到一个小office。目前Google AJAX CDN，Google Ads这些无关痛痒的网址也都沦陷了。貌似只剩下一个analytics的js没被墙。http://t.co… (2014年06月14日 02:43)
- ---
-New outbreak in guerrilla war Internet activists have been waging against “The Great Firewall” <a href="http://www.csmonitor.com/World/Asia-Pacific/2014/0613/A-great-workaround-for-China-s-Great-Firewall">www.csmonitor.com/World/Asia-Pacific/2014/0613/A-great-workaround-for-China-s-Great-Firewall</a> via @peterfordcsm (2014年06月13日 20:35)
  ---
