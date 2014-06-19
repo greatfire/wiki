@@ -26,6 +26,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Dropbox is now completely blocked in China <a href="https://en.greatfire.org/https/www.dropbox.com">en.greatfire.org/https/www.dropbox.com</a> Another victim after China's block on Google (2014年06月19日 13:48)
+ ---
+RT @jeremyshih: 18日晚間，著名雲端儲存服務 Dropbox 遭遇封殺。「牆」越來越高，遭遇封殺的都是基礎工具類服務，完全不存在任何意識問題。然而，一切資訊的自由流通都是它們的噩夢，因此只能繼續孱弱地生存在恐懼之中。歷史和現實早已證明：魔高一尺，道高一丈。逆歷史… (2014年06月19日 13:45)
+ ---
 Prepare for a "century of humiliation" - Beijing’s recent crackdown on Google “a digital seal-off” - <a href="http://offbeatchina.com/chinese-netizens-call-beijings-google-crackdown-a-digital-seal-off">offbeatchina.com/chinese-netizens-call-beijings-google-crackdown-a-digital-seal-off</a> h/t @niubi (2014年06月19日 13:24)
  ---
 RT @caoegg: 中国人真是厉害。他屏蔽你，你默默的找翻墙工具，然后翻出去嘲笑那些不会的，然后那些花钱翻墙的再嘲笑那些免费翻墙的连这么点钱都不舍得，真是绝妙的场景。 (2014年06月19日 11:44)
@@ -71,8 +75,4 @@ Just desserts! U messed w/ karma when U took @FreeWeibo down from app store: Chi
 《苹果日报》称北京迫使大客户撤广告 <a href="http://cn.nytimes.com/china/20140612/c12chinamedia/">cn.nytimes.com/china/20140612/c12chinamedia/</a> (2014年06月15日 12:27)
  ---
 RT @hnjhj: 长期以来，网友们对于祸国殃民的GFW无非抱以两种心态：或望墙心叹或找办法绕开。暂时还没有专门机构通过研究和利用GFW的规则对其发起主动攻势的。大胆猜测，这将是接下来的趋势。 (2014年06月15日 03:38)
- ---
-RT @JulieMakLAT: China's crackdown on Google services now 2 weeks old and counting. <a href="http://www.latimes.com/business/la-fi-0614-google-china-20140614-story.html">www.latimes.com/business/la-fi-0614-google-china-20140614-story.html</a> (2014年06月14日 14:15)
- ---
-RT @phuslu: 【转】Google这次是绝对要彻底的say bye了。连大楼都不租了。据说要撤到一个小office。目前Google AJAX CDN，Google Ads这些无关痛痒的网址也都沦陷了。貌似只剩下一个analytics的js没被墙。http://t.co… (2014年06月14日 02:43)
  ---
