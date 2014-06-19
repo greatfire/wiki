@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Reports that Instagram being pulled from Android stores in China in relation to pics of the Dalai Lama (2014年06月19日 15:57)
+ ---
 Dropbox is now completely blocked in China <a href="https://en.greatfire.org/https/www.dropbox.com">en.greatfire.org/https/www.dropbox.com</a> Another victim after China's block on Google (2014年06月19日 13:48)
  ---
 RT @jeremyshih: 18日晚間，著名雲端儲存服務 Dropbox 遭遇封殺。「牆」越來越高，遭遇封殺的都是基礎工具類服務，完全不存在任何意識問題。然而，一切資訊的自由流通都是它們的噩夢，因此只能繼續孱弱地生存在恐懼之中。歷史和現實早已證明：魔高一尺，道高一丈。逆歷史… (2014年06月19日 13:45)
@@ -73,6 +75,4 @@ RT @conradhackett: Press Freedom 2014:
 Just desserts! U messed w/ karma when U took @FreeWeibo down from app store: China cracks down on Apple <a href="http://www.techinasia.com/china-cracks-apples-imessage-national-web-cleanup-continues/">www.techinasia.com/china-cracks-apples-imessage-national-web-cleanup-continues/</a> h/t @niubi (2014年06月16日 13:04)
  ---
 《苹果日报》称北京迫使大客户撤广告 <a href="http://cn.nytimes.com/china/20140612/c12chinamedia/">cn.nytimes.com/china/20140612/c12chinamedia/</a> (2014年06月15日 12:27)
- ---
-RT @hnjhj: 长期以来，网友们对于祸国殃民的GFW无非抱以两种心态：或望墙心叹或找办法绕开。暂时还没有专门机构通过研究和利用GFW的规则对其发起主动攻势的。大胆猜测，这将是接下来的趋势。 (2014年06月15日 03:38)
  ---
