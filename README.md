@@ -36,7 +36,7 @@ RT @GVChinese: Just Google It? Not In China, Where Google Remains Blocked: Googl
  ---
 高级五毛党伪造推特转推，阻止推友进行六四纪念 <a href="https://zh.greatfire.org/blog/2014/jun/wumao-liusi">zh.greatfire.org/blog/2014/jun/wumao-liusi</a> (2014年06月18日 14:39)
  ---
-RT @RTKcn: 21+ RT @lvv2_com: 五毛行为规范  <a href="http://redian.today/t/212796">redian.today/t/212796</a> <a href="https://twitter.com/lvv2_com/status/478806605711298560/photo/1">twitter.com/lvv2_com/status/478806605711298560/photo/1</a> (2014年06月18日 14:00)
+RT @RTKcn: 21+ RT @lvv2_com: 五毛行为规范  <a href="http://redian.today/t/212796">redian.today/t/212796</a> <a href="https://twitter.com/rediantoday/status/478806605711298560">twitter.com/rediantoday/status/478806605711298560</a> (2014年06月18日 14:00)
  ---
 RT @ghoulr: 我去，居然有一个来自哈工大的曲径企业版申请，翻墙目的是科研，这，校长已经把自己人坑成马了啊 (2014年06月18日 12:07)
  ---
