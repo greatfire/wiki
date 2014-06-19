@@ -26,6 +26,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+貌似很多网民把我们当作GFW总部了，强烈要求我们解封Google。在这里转发给GFW，希望你们看看Google被封给科研，IT，外贸人员带来的严重后果。 @suoluo Google镜像1kapp.co <a href="https://twitter.com/GreatFireChina/status/479424967097188352/photo/1">twitter.com/GreatFireChina/status/479424967097188352/photo/1</a> (2014年06月19日 08:46)
+ ---
 看看GFW封锁Google造成的经济后果吧 <a href="https://twitter.com/GreatFireChina/status/479341647348895744/photo/1">twitter.com/GreatFireChina/status/479341647348895744/photo/1</a> (2014年06月19日 03:15)
  ---
 RT @RTKcn: 20+ RT @MerlotN: 网络媒体在中国从出身开始就是苟延残喘，这下算是死透了 <a href="https://twitter.com/MerlotN/status/479195768771719168/photo/1">twitter.com/MerlotN/status/479195768771719168/photo/1</a> (2014年06月19日 03:04)
@@ -74,6 +76,4 @@ New outbreak in guerrilla war Internet activists have been waging against “The
  ---
 RT @Edourdoo: Chinese netizens protest blockade of Google in the country 
 Solidot | 网民大规模抗议Google被封锁 <a href="http://www.solidot.org/story?sid=39919">www.solidot.org/story</a> (2014年06月13日 18:44)
- ---
-@thenanfang @cosmopolitanvan @MissXQ @PaulCarsten one small point - it's not a spoof, hoax or deception - it works as Google normally would (2014年06月13日 18:39)
  ---
