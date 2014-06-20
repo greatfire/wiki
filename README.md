@@ -22,6 +22,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @fightcensorship: 真理部通知：删除“新华社评令政策落马：朝里有人也不灵”。凤凰网、新浪、网易都已删除。人民网中新网还在：<a href="http://www.chinanews.com/gn/2014/06-20/6301299.shtml">www.chinanews.com/gn/2014/06-20/6301299.shtml</a> “ <a href="https://twitter.com/fightcensorship/status/479807741457100800/photo/1">twitter.com/fightcensorship/status/479807741457100800/photo/1</a> (2014年06月20日 13:44)
+ ---
 GFW对stackoverflow进行IP封锁。 这个纯技术的论坛都能封锁，GFW再封锁Google之后已经无所顾忌了吧。 <a href="https://zh.greatfire.org/https/stackoverflow.com">zh.greatfire.org/https/stackoverflow.com</a> (2014年06月20日 05:47)
  ---
 <a href="http://stackoverflow.com">stackoverflow.com</a> blocked in China today! <a href="https://en.greatfire.org/https/stackoverflow.com">en.greatfire.org/https/stackoverflow.com</a> GFW wants to piss off all developers in China? (2014年06月20日 05:41)
@@ -60,6 +62,4 @@ RT @RTKcn: 21+ RT @lvv2_com: 五毛行为规范  <a href="http://redian.today/t/
 RT @ghoulr: 我去，居然有一个来自哈工大的曲径企业版申请，翻墙目的是科研，这，校长已经把自己人坑成马了啊 (2014年06月18日 12:07)
  ---
 《苹果日报》港台网站被黑客攻击无法登录 <a href="http://www.nanzao.com/sc/hk/29897/ping-guo-ri-bao-gang-tai-wang-zhan-bei-hei-ke-gong-ji-wu-fa-deng-lu">www.nanzao.com/sc/hk/29897/ping-guo-ri-bao-gang-tai-wang-zhan-bei-hei-ke-gong-ji-wu-fa-deng-lu</a> 今天报纸上有这个 <a href="https://twitter.com/GreatFireChina/status/479112913333288960/photo/1">twitter.com/GreatFireChina/status/479112913333288960/photo/1</a> (2014年06月18日 12:06)
- ---
-Chinese-Made Smartphone Comes With Spyware, Security Firm Says <a href="http://blogs.wsj.com/digits/2014/06/17/chinese-made-smartphone-comes-with-spyware-security-firm-says/">blogs.wsj.com/digits/2014/06/17/chinese-made-smartphone-comes-with-spyware-security-firm-says/</a> (2014年06月18日 06:01)
  ---
