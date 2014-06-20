@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+老外使用无人机拍摄故宫，北海公园等，被问话。 空中拍摄的视屏 <a href="https://www.youtube.com/watch?v=A8I5Z01OKvw#t=34">www.youtube.com/watch</a>  故事全文(英文) <a href="http://www.stuckincustoms.com/2014/06/19/dji-quadcopter-china-detention">www.stuckincustoms.com/2014/06/19/dji-quadcopter-china-detention</a> (2014年06月20日 15:59)
+ ---
 RT @fightcensorship: 真理部通知：删除“新华社评令政策落马：朝里有人也不灵”。凤凰网、新浪、网易都已删除。人民网中新网还在：<a href="http://www.chinanews.com/gn/2014/06-20/6301299.shtml">www.chinanews.com/gn/2014/06-20/6301299.shtml</a> “ <a href="https://twitter.com/fightcensorship/status/479807741457100800/photo/1">twitter.com/fightcensorship/status/479807741457100800/photo/1</a> (2014年06月20日 13:44)
  ---
 GFW对stackoverflow进行IP封锁。 这个纯技术的论坛都能封锁，GFW再封锁Google之后已经无所顾忌了吧。 <a href="https://zh.greatfire.org/https/stackoverflow.com">zh.greatfire.org/https/stackoverflow.com</a> (2014年06月20日 05:47)
@@ -59,6 +61,4 @@ RT @GVChinese: Just Google It? Not In China, Where Google Remains Blocked: Googl
 RT @RTKcn: 21+ RT @lvv2_com: 五毛行为规范  <a href="http://redian.today/t/212796">redian.today/t/212796</a> <a href="https://twitter.com/rediantoday/status/478806605711298560">twitter.com/rediantoday/status/478806605711298560</a> (2014年06月18日 14:00)
  ---
 RT @ghoulr: 我去，居然有一个来自哈工大的曲径企业版申请，翻墙目的是科研，这，校长已经把自己人坑成马了啊 (2014年06月18日 12:07)
- ---
-《苹果日报》港台网站被黑客攻击无法登录 <a href="http://www.nanzao.com/sc/hk/29897/ping-guo-ri-bao-gang-tai-wang-zhan-bei-hei-ke-gong-ji-wu-fa-deng-lu">www.nanzao.com/sc/hk/29897/ping-guo-ri-bao-gang-tai-wang-zhan-bei-hei-ke-gong-ji-wu-fa-deng-lu</a> 今天报纸上有这个 <a href="https://twitter.com/GreatFireChina/status/479112913333288960/photo/1">twitter.com/GreatFireChina/status/479112913333288960/photo/1</a> (2014年06月18日 12:06)
  ---
