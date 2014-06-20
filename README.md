@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @virushuo: cloudflare是个可信的公司。帮了香港大概他们以后不可能做中国业务了，估计也得被墙吧。嗯，这次是人家公司愿意这么做的，希望不要又跳出来聪明人怪香港人用Cloudflare绑架了普通用户。 (2014年06月21日 02:00)
+ ---
 Stack Overflow IP已经解封了 <a href="https://zh.greatfire.org/198.252.206.140">zh.greatfire.org/198.252.206.140</a> (2014年06月21日 01:58)
  ---
 RT @charlesmok: Experts have observed massive attacks on .hk DNS root servers, and the rate of .hk domain resolution has been affected coll… (2014年06月20日 17:55)
@@ -59,6 +61,4 @@ RT @caoegg: 中国人真是厉害。他屏蔽你，你默默的找翻墙工具�
 RT @RTKcn: 20+ RT @MerlotN: 网络媒体在中国从出身开始就是苟延残喘，这下算是死透了 <a href="https://twitter.com/MerlotN/status/479195768771719168/photo/1">twitter.com/MerlotN/status/479195768771719168/photo/1</a> (2014年06月19日 03:04)
  ---
 RT @GVChinese: Just Google It? Not In China, Where Google Remains Blocked: Google search, Gmail and Google Scholar are only a... http://t.c… (2014年06月18日 23:10)
- ---
-高级五毛党伪造推特转推，阻止推友进行六四纪念 <a href="https://zh.greatfire.org/blog/2014/jun/wumao-liusi">zh.greatfire.org/blog/2014/jun/wumao-liusi</a> (2014年06月18日 14:39)
  ---
