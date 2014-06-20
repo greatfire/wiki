@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Stack Overflow IP已经解封了 <a href="https://zh.greatfire.org/198.252.206.140">zh.greatfire.org/198.252.206.140</a> (2014年06月21日 01:58)
+ ---
 RT @charlesmok: Experts have observed massive attacks on .hk DNS root servers, and the rate of .hk domain resolution has been affected coll… (2014年06月20日 17:55)
  ---
 老外使用无人机拍摄故宫，北海公园等，被问话。 空中拍摄的视屏 <a href="https://www.youtube.com/watch?v=A8I5Z01OKvw#t=34">www.youtube.com/watch</a>  故事全文(英文) <a href="http://www.stuckincustoms.com/2014/06/19/dji-quadcopter-china-detention">www.stuckincustoms.com/2014/06/19/dji-quadcopter-china-detention</a> (2014年06月20日 15:59)
@@ -59,6 +61,4 @@ RT @RTKcn: 20+ RT @MerlotN: 网络媒体在中国从出身开始就是苟延残�
 RT @GVChinese: Just Google It? Not In China, Where Google Remains Blocked: Google search, Gmail and Google Scholar are only a... http://t.c… (2014年06月18日 23:10)
  ---
 高级五毛党伪造推特转推，阻止推友进行六四纪念 <a href="https://zh.greatfire.org/blog/2014/jun/wumao-liusi">zh.greatfire.org/blog/2014/jun/wumao-liusi</a> (2014年06月18日 14:39)
- ---
-RT @RTKcn: 21+ RT @lvv2_com: 五毛行为规范  <a href="http://redian.today/t/212796">redian.today/t/212796</a> <a href="https://twitter.com/rediantoday/status/478806605711298560">twitter.com/rediantoday/status/478806605711298560</a> (2014年06月18日 14:00)
  ---
