@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @appledaily_hk: 逾40萬人無懼北京政府和特區政府聯手炮轟，以及黑客瘋狂攻擊，以破紀錄的民間投票人數，透過電子平台投票為真普選發聲，截至午夜12時，人數已經突破40萬，錄得404,834人投票。和平佔中發起人對參與全民投票的人數破紀錄表示鼓舞，坦... ht… (2014年06月21日 07:36)
+ ---
 Hong Kong Democracy Poll Hit by Cyberattack <a href="http://online.wsj.com/articles/hong-kong-democracy-poll-is-hit-by-cyberattack-1403258663?mod=ST1">online.wsj.com/articles/hong-kong-democracy-poll-is-hit-by-cyberattack-1403258663</a> (2014年06月21日 02:27)
  ---
 RT @eastdakota: Battling 300Gbps+ attack right now. Knew it was coming so well prepared. Helluva story someday. <a href="https://twitter.com/eastdakota/status/479812898315706368/photo/1">twitter.com/eastdakota/status/479812898315706368/photo/1</a> (2014年06月21日 02:23)
@@ -58,6 +60,4 @@ RT @caoegg: 中国人真是厉害。他屏蔽你，你默默的找翻墙工具�
 貌似很多网民把我们当作GFW总部了，强烈要求我们解封Google。在这里转发给GFW，希望你们看看Google被封给科研，IT，外贸人员带来的严重后果。 @suoluo Google镜像1kapp.co <a href="https://twitter.com/GreatFireChina/status/479424967097188352/photo/1">twitter.com/GreatFireChina/status/479424967097188352/photo/1</a> (2014年06月19日 08:46)
  ---
 看看GFW封锁Google造成的经济后果吧 <a href="https://twitter.com/GreatFireChina/status/479341647348895744/photo/1">twitter.com/GreatFireChina/status/479341647348895744/photo/1</a> (2014年06月19日 03:15)
- ---
-RT @RTKcn: 20+ RT @MerlotN: 网络媒体在中国从出身开始就是苟延残喘，这下算是死透了 <a href="https://twitter.com/MerlotN/status/479195768771719168/photo/1">twitter.com/MerlotN/status/479195768771719168/photo/1</a> (2014年06月19日 03:04)
  ---
