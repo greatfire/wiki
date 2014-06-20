@@ -39,9 +39,6 @@ GFW对stackoverflow进行IP封锁。 这个纯技术的论坛都能封锁，GFW�
  ---
 <a href="http://stackoverflow.com">stackoverflow.com</a> blocked in China today! <a href="https://en.greatfire.org/https/stackoverflow.com">en.greatfire.org/https/stackoverflow.com</a> GFW wants to piss off all developers in China? (2014年06月20日 05:41)
  ---
-RT @tatamama: 今天facebook 服务器被攻击的前一刻，全世界流量监控动画 ，GFW在发射导弹啊～～～
-<a href="https://www.facebook.com/unsupportedbrowser">www.facebook.com/unsupportedbrowser</a> (2014年06月20日 05:26)
- ---
 @daithaigilbert @ProfWoodward we're actually at <a href="https://en.greatfire.org/">en.greatfire.org/</a>  we also say Dropbox is blocked <a href="https://en.greatfire.org/dl.dropbox.com">en.greatfire.org/dl.dropbox.com</a> (2014年06月19日 20:58)
  ---
 @GreatFireChina it's back - with a vengeance (2014年06月19日 16:30)
@@ -61,4 +58,6 @@ RT @caoegg: 中国人真是厉害。他屏蔽你，你默默的找翻墙工具�
 貌似很多网民把我们当作GFW总部了，强烈要求我们解封Google。在这里转发给GFW，希望你们看看Google被封给科研，IT，外贸人员带来的严重后果。 @suoluo Google镜像1kapp.co <a href="https://twitter.com/GreatFireChina/status/479424967097188352/photo/1">twitter.com/GreatFireChina/status/479424967097188352/photo/1</a> (2014年06月19日 08:46)
  ---
 看看GFW封锁Google造成的经济后果吧 <a href="https://twitter.com/GreatFireChina/status/479341647348895744/photo/1">twitter.com/GreatFireChina/status/479341647348895744/photo/1</a> (2014年06月19日 03:15)
+ ---
+RT @RTKcn: 20+ RT @MerlotN: 网络媒体在中国从出身开始就是苟延残喘，这下算是死透了 <a href="https://twitter.com/MerlotN/status/479195768771719168/photo/1">twitter.com/MerlotN/status/479195768771719168/photo/1</a> (2014年06月19日 03:04)
  ---
