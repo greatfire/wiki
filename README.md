@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+我只是来打酱油的，说中国人带着有色眼镜，谁又没有带着有色眼镜看中国？没有身临其境就没有发言权，各位切记。 (2014年06月21日 10:02)
+ ---
 RT @appledaily_hk: 逾40萬人無懼北京政府和特區政府聯手炮轟，以及黑客瘋狂攻擊，以破紀錄的民間投票人數，透過電子平台投票為真普選發聲，截至午夜12時，人數已經突破40萬，錄得404,834人投票。和平佔中發起人對參與全民投票的人數破紀錄表示鼓舞，坦... ht… (2014年06月21日 07:36)
  ---
 Hong Kong Democracy Poll Hit by Cyberattack <a href="http://online.wsj.com/articles/hong-kong-democracy-poll-is-hit-by-cyberattack-1403258663?mod=ST1">online.wsj.com/articles/hong-kong-democracy-poll-is-hit-by-cyberattack-1403258663</a> (2014年06月21日 02:27)
