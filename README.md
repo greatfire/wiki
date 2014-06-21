@@ -41,7 +41,7 @@ RT @fightcensorship: 真理部通知：删除“新华社评令政策落马：�
  ---
 GFW对stackoverflow进行IP封锁。 这个纯技术的论坛都能封锁，GFW再封锁Google之后已经无所顾忌了吧。 <a href="https://zh.greatfire.org/https/stackoverflow.com">zh.greatfire.org/https/stackoverflow.com</a> (2014年06月20日 05:47)
  ---
-<a href="http://stackoverflow.com">stackoverflow.com</a> blocked in China today! <a href="https://en.greatfire.org/https/stackoverflow.com">en.greatfire.org/https/stackoverflow.com</a> GFW wants to piss off all developers in China? (2014年06月20日 05:41)
+<a href="http://t.co/qbNpNSFI2n">t.co/qbNpNSFI2n</a> blocked in China today! <a href="https://en.greatfire.org/https/stackoverflow.com">en.greatfire.org/https/stackoverflow.com</a> GFW wants to piss off all developers in China? (2014年06月20日 05:41)
  ---
 @daithaigilbert @ProfWoodward we're actually at <a href="https://en.greatfire.org/">en.greatfire.org/</a>  we also say Dropbox is blocked <a href="https://en.greatfire.org/dl.dropbox.com">en.greatfire.org/dl.dropbox.com</a> (2014年06月19日 20:58)
  ---
