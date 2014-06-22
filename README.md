@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @caoegg: 收到工信部电话，就我投诉的Google服务问题反馈，回答说会反映到联通公司，我说我知道这不是他们的原因，对方说那你也知道这可能是国家屏蔽的，我说我反应是希望你们能帮助解决，对方说你太高看我们的能力了，我们也只能给你向运营商反馈，国家屏蔽他们也没办法。 (2014年06月22日 08:50)
+ ---
 RT @phuslu: 谁说向运营商投诉无法访问 google 没有用 <a href="http://www.v2ex.com/t/118820?r=phuslu">www.v2ex.com/t/118820</a> #google (2014年06月22日 08:48)
  ---
 @eastdakota Will you write a technical analysis of the attack against #popvote ? (2014年06月21日 10:24)
@@ -58,6 +60,4 @@ Dropbox is now completely blocked in China <a href="https://en.greatfire.org/htt
 RT @jeremyshih: 18日晚間，著名雲端儲存服務 Dropbox 遭遇封殺。「牆」越來越高，遭遇封殺的都是基礎工具類服務，完全不存在任何意識問題。然而，一切資訊的自由流通都是它們的噩夢，因此只能繼續孱弱地生存在恐懼之中。歷史和現實早已證明：魔高一尺，道高一丈。逆歷史… (2014年06月19日 13:45)
  ---
 Prepare for a "century of humiliation" - Beijing’s recent crackdown on Google “a digital seal-off” - <a href="http://offbeatchina.com/chinese-netizens-call-beijings-google-crackdown-a-digital-seal-off">offbeatchina.com/chinese-netizens-call-beijings-google-crackdown-a-digital-seal-off</a> h/t @niubi (2014年06月19日 13:24)
- ---
-RT @caoegg: 中国人真是厉害。他屏蔽你，你默默的找翻墙工具，然后翻出去嘲笑那些不会的，然后那些花钱翻墙的再嘲笑那些免费翻墙的连这么点钱都不舍得，真是绝妙的场景。 (2014年06月19日 11:44)
  ---
