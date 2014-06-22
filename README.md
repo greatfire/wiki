@@ -7,6 +7,7 @@
 * Google 搜索：https://s3-ap-southeast-2.amazonaws.com/google6/index.html
 * Google 搜索：https://s3-sa-east-1.amazonaws.com/google7/index.html
 * Google 搜索：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html
+* Google 搜索：https://startpage.com
 * 自由微博：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html
 * 自由微博：https://s3.amazonaws.com/freeweibo./index.html
 * 中国数字时代：https://s3-ap-southeast-1.amazonaws.com/cdtimes2/index.html
