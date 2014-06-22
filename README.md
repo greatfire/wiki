@@ -22,6 +22,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @zhangweiguo: 【香港占中公投投票人数已近70万】组织者在周日首次开放了15个实体票站，吸引了48047人到场投票。另外，有205664人通过网站投票，439643人通过手机应用程式投票。公投是在周五（6月20日）开始的，将一直持续到6月29日结束。 http… (2014年06月23日 06:15)
+ ---
 RT @caoegg: 收到工信部电话，就我投诉的Google服务问题反馈，回答说会反映到联通公司，我说我知道这不是他们的原因，对方说那你也知道这可能是国家屏蔽的，我说我反应是希望你们能帮助解决，对方说你太高看我们的能力了，我们也只能给你向运营商反馈，国家屏蔽他们也没办法。 (2014年06月22日 08:50)
  ---
 RT @phuslu: 谁说向运营商投诉无法访问 google 没有用 <a href="http://www.v2ex.com/t/118820?r=phuslu">www.v2ex.com/t/118820</a> #google (2014年06月22日 08:48)
@@ -59,6 +61,4 @@ Reports that Instagram being pulled from Android stores in China in relation to 
 Dropbox is now completely blocked in China <a href="https://en.greatfire.org/https/www.dropbox.com">en.greatfire.org/https/www.dropbox.com</a> Another victim after China's block on Google (2014年06月19日 13:48)
  ---
 RT @jeremyshih: 18日晚間，著名雲端儲存服務 Dropbox 遭遇封殺。「牆」越來越高，遭遇封殺的都是基礎工具類服務，完全不存在任何意識問題。然而，一切資訊的自由流通都是它們的噩夢，因此只能繼續孱弱地生存在恐懼之中。歷史和現實早已證明：魔高一尺，道高一丈。逆歷史… (2014年06月19日 13:45)
- ---
-Prepare for a "century of humiliation" - Beijing’s recent crackdown on Google “a digital seal-off” - <a href="http://offbeatchina.com/chinese-netizens-call-beijings-google-crackdown-a-digital-seal-off">offbeatchina.com/chinese-netizens-call-beijings-google-crackdown-a-digital-seal-off</a> h/t @niubi (2014年06月19日 13:24)
  ---
