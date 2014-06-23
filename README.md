@@ -38,7 +38,7 @@ RT @eastdakota: Battling 300Gbps+ attack right now. Knew it was coming so well p
  ---
 RT @virushuo: cloudflare是个可信的公司。帮了香港大概他们以后不可能做中国业务了，估计也得被墙吧。嗯，这次是人家公司愿意这么做的，希望不要又跳出来聪明人怪香港人用Cloudflare绑架了普通用户。 (2014年06月21日 02:00)
  ---
-Stack Overflow IP已经解封了 <a href="https://t.co/jtT8H1lsrP">t.co/jtT8H1lsrP</a> (2014年06月21日 01:58)
+Stack Overflow IP已经解封了 <a href="https://zh.greatfire.org/198.252.206.140">zh.greatfire.org/198.252.206.140</a> (2014年06月21日 01:58)
  ---
 RT @charlesmok: Experts have observed massive attacks on .hk DNS root servers, and the rate of .hk domain resolution has been affected coll… (2014年06月20日 17:55)
  ---
