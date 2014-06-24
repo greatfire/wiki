@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
 * Google 搜索 #1：https://s3-us-west-2.amazonaws.com/google2/index.html
-* Google 搜索 #2：https://s3-ap-southeast-2.amazonaws.com/google6/index.html
+* Google 搜索 #2：https://s3-ap-northeast-1.amazonaws.com/google5/index.html
 * Google 搜索 #3：https://s3-us-west-1.amazonaws.com/google3/index.html
 * 自由微博 #1：https://s3-ap-southeast-2.amazonaws.com/freeweibo7/index.html
 * 自由微博 #2：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html
 * 自由微博 #3：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html
-* 中国数字时代 #1：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html
-* 中国数字时代 #2：https://s3-ap-southeast-1.amazonaws.com/cdtimes2/index.html
-* 中国数字时代 #3：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html
-* 泡泡（未经审查的网络报道） #1：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
-* 泡泡（未经审查的网络报道） #2：https://s3-ap-northeast-1.amazonaws.com/pao-pao6/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
+* 中国数字时代 #1：https://s3-ap-southeast-1.amazonaws.com/cdtimes2/index.html
+* 中国数字时代 #2：https://s3-eu-west-1.amazonaws.com/cdtimes4/index.html
+* 中国数字时代 #3：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html
+* 泡泡（未经审查的网络报道） #1：https://s3-ap-southeast-1.amazonaws.com/pao-pao5/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-northeast-1.amazonaws.com/pao-pao6/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+我的手机墓志铭 <a href="http://www.williamlong.info/archives/3896.html">www.williamlong.info/archives/3896.html</a> 没一个程序能打开，呵呵。 <a href="https://twitter.com/GreatFireChina/status/481316481905745920/photo/1">twitter.com/GreatFireChina/status/481316481905745920/photo/1</a> (2014年06月24日 14:02)
+ ---
 RT @mranti: 广电撤销新浪视频拍照、禁止电视盒子，都是借着审查的大旗争夺网络管理权，是审查者内战（Civil War among Censors），大家反对广电夺权不代表网络管理部门就好，而是"he's son of bitch, but he's our son o… (2014年06月24日 12:40)
  ---
 RT @zhangweiguo: 【香港占中公投投票人数已近70万】组织者在周日首次开放了15个实体票站，吸引了48047人到场投票。另外，有205664人通过网站投票，439643人通过手机应用程式投票。公投是在周五（6月20日）开始的，将一直持续到6月29日结束。 http… (2014年06月23日 06:15)
@@ -58,6 +60,4 @@ GFW对stackoverflow进行IP封锁。 这个纯技术的论坛都能封锁，GFW�
 Facebook is down for everyone at the moment (2014年06月19日 16:23)
  ---
 Reports that Instagram being pulled from Android stores in China in relation to pics of the Dalai Lama (2014年06月19日 15:57)
- ---
-Dropbox is now completely blocked in China <a href="https://en.greatfire.org/https/www.dropbox.com">en.greatfire.org/https/www.dropbox.com</a> Another victim after China's block on Google (2014年06月19日 13:48)
  ---
