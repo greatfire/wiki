@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
 * Google 搜索 #1：https://s3-sa-east-1.amazonaws.com/google7/index.html
-* Google 搜索 #2：https://s3-us-west-1.amazonaws.com/google3/index.html
+* Google 搜索 #2：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html
 * Google 搜索 #3：https://s3-ap-southeast-2.amazonaws.com/google6/index.html
 * 自由微博 #1：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html
-* 自由微博 #2：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html
-* 自由微博 #3：https://s3-us-west-1.amazonaws.com/freeweibo3/index.html
-* 中国数字时代 #1：https://s3-ap-southeast-1.amazonaws.com/cdtimes5/index.html
-* 中国数字时代 #2：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html
-* 中国数字时代 #3：https://s3-eu-west-1.amazonaws.com/cdtimes4/index.html
-* 泡泡（未经审查的网络报道） #1：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
-* 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-ap-northeast-1.amazonaws.com/pao-pao6/index.html
+* 自由微博 #2：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html
+* 自由微博 #3：https://s3-ap-southeast-1.amazonaws.com/freeweibo5/index.html
+* 中国数字时代 #1：https://s3-ap-southeast-1.amazonaws.com/cdtimes2/index.html
+* 中国数字时代 #2：https://s3-eu-west-1.amazonaws.com/cdtimes4/index.html
+* 中国数字时代 #3：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html
+* 泡泡（未经审查的网络报道） #1：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @netizenrights: The Diminishing Returns of Tricking #China’s Censors <a href="http://www.technologyreview.com/view/528521/the-diminishing-returns-of-tricking-chinas-online-censors/">www.technologyreview.com/view/528521/the-diminishing-returns-of-tricking-chinas-online-censors/</a> @jasonqng for @techreview #Censorship (2014年06月24日 18:38)
+ ---
 我的手机墓志铭 <a href="http://www.williamlong.info/archives/3896.html">www.williamlong.info/archives/3896.html</a> 没一个程序能打开，呵呵。 <a href="https://twitter.com/GreatFireChina/status/481316481905745920/photo/1">twitter.com/GreatFireChina/status/481316481905745920/photo/1</a> (2014年06月24日 14:02)
  ---
 RT @mranti: 广电撤销新浪视频拍照、禁止电视盒子，都是借着审查的大旗争夺网络管理权，是审查者内战（Civil War among Censors），大家反对广电夺权不代表网络管理部门就好，而是"he's son of bitch, but he's our son o… (2014年06月24日 12:40)
@@ -58,6 +60,4 @@ GFW对stackoverflow进行IP封锁。 这个纯技术的论坛都能封锁，GFW�
 @GreatFireChina it's back - with a vengeance (2014年06月19日 16:30)
  ---
 Facebook is down for everyone at the moment (2014年06月19日 16:23)
- ---
-Reports that Instagram being pulled from Android stores in China in relation to pics of the Dalai Lama (2014年06月19日 15:57)
  ---
