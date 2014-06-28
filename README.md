@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
-* Google 搜索 #1：https://s3-ap-southeast-2.amazonaws.com/google6/index.html
-* Google 搜索 #2：https://s3-us-west-2.amazonaws.com/google2/index.html
-* Google 搜索 #3：https://s3-sa-east-1.amazonaws.com/google7/index.html
-* 自由微博 #1：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html
+* Google 搜索 #1：https://s3-sa-east-1.amazonaws.com/google7/index.html
+* Google 搜索 #2：https://s3-ap-northeast-1.amazonaws.com/google5/index.html
+* Google 搜索 #3：https://s3-ap-southeast-2.amazonaws.com/google6/index.html
+* 自由微博 #1：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html
 * 自由微博 #2：https://s3-sa-east-1.amazonaws.com/freeweibo8/index.html
-* 自由微博 #3：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html
-* 中国数字时代 #1：https://s3-eu-west-1.amazonaws.com/cdtimes4/index.html
-* 中国数字时代 #2：https://s3-ap-southeast-1.amazonaws.com/cdtimes2/index.html
+* 自由微博 #3：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html
+* 中国数字时代 #1：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html
+* 中国数字时代 #2：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html
 * 中国数字时代 #3：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html
-* 泡泡（未经审查的网络报道） #1：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
-* 泡泡（未经审查的网络报道） #2：https://s3-ap-northeast-1.amazonaws.com/pao-pao6/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
+* 泡泡（未经审查的网络报道） #1：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-us-west-2.amazonaws.com/pao-pao9/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -32,32 +32,4 @@ RT @RTKcn: 18+ RT @janlay: Mac 微信不光 log 繁多，还会记录键盘。�
 推特上五毛说“622公投是闹剧”，并且伪造RT次数导致被中文锐推客收录。账号有100多人fo，大部分也都是五毛。 五毛账号举例 <a href="https://twitter.com/brandon09081/status/481634058259009536">twitter.com/brandon09081/status/481634058259009536</a> (2014年06月25日 12:12)
  ---
 RT @netizenrights: The Diminishing Returns of Tricking #China’s Censors <a href="http://www.technologyreview.com/view/528521/the-diminishing-returns-of-tricking-chinas-online-censors/">www.technologyreview.com/view/528521/the-diminishing-returns-of-tricking-chinas-online-censors/</a> @jasonqng for @techreview #Censorship (2014年06月24日 18:38)
- ---
-我的手机墓志铭 <a href="http://www.williamlong.info/archives/3896.html">www.williamlong.info/archives/3896.html</a> 没一个程序能打开，呵呵。 <a href="https://twitter.com/GreatFireChina/status/481316481905745920/photo/1">twitter.com/GreatFireChina/status/481316481905745920/photo/1</a> (2014年06月24日 14:02)
- ---
-RT @mranti: 广电撤销新浪视频拍照、禁止电视盒子，都是借着审查的大旗争夺网络管理权，是审查者内战（Civil War among Censors），大家反对广电夺权不代表网络管理部门就好，而是"he's son of bitch, but he's our son o… (2014年06月24日 12:40)
- ---
-RT @zhangweiguo: 【香港占中公投投票人数已近70万】组织者在周日首次开放了15个实体票站，吸引了48047人到场投票。另外，有205664人通过网站投票，439643人通过手机应用程式投票。公投是在周五（6月20日）开始的，将一直持续到6月29日结束。 http… (2014年06月23日 06:15)
- ---
-RT @caoegg: 收到工信部电话，就我投诉的Google服务问题反馈，回答说会反映到联通公司，我说我知道这不是他们的原因，对方说那你也知道这可能是国家屏蔽的，我说我反应是希望你们能帮助解决，对方说你太高看我们的能力了，我们也只能给你向运营商反馈，国家屏蔽他们也没办法。 (2014年06月22日 08:50)
- ---
-RT @phuslu: 谁说向运营商投诉无法访问 google 没有用 <a href="http://www.v2ex.com/t/118820?r=phuslu">www.v2ex.com/t/118820</a> #google (2014年06月22日 08:48)
- ---
-@eastdakota Will you write a technical analysis of the attack against #popvote ? (2014年06月21日 10:24)
- ---
-RT @appledaily_hk: 逾40萬人無懼北京政府和特區政府聯手炮轟，以及黑客瘋狂攻擊，以破紀錄的民間投票人數，透過電子平台投票為真普選發聲，截至午夜12時，人數已經突破40萬，錄得404,834人投票。和平佔中發起人對參與全民投票的人數破紀錄表示鼓舞，坦... ht… (2014年06月21日 07:36)
- ---
-Hong Kong Democracy Poll Hit by Cyberattack <a href="http://online.wsj.com/articles/hong-kong-democracy-poll-is-hit-by-cyberattack-1403258663?mod=ST1">online.wsj.com/articles/hong-kong-democracy-poll-is-hit-by-cyberattack-1403258663</a> (2014年06月21日 02:27)
- ---
-RT @eastdakota: Battling 300Gbps+ attack right now. Knew it was coming so well prepared. Helluva story someday. <a href="https://twitter.com/eastdakota/status/479812898315706368/photo/1">twitter.com/eastdakota/status/479812898315706368/photo/1</a> (2014年06月21日 02:23)
- ---
-RT @virushuo: cloudflare是个可信的公司。帮了香港大概他们以后不可能做中国业务了，估计也得被墙吧。嗯，这次是人家公司愿意这么做的，希望不要又跳出来聪明人怪香港人用Cloudflare绑架了普通用户。 (2014年06月21日 02:00)
- ---
-Stack Overflow IP已经解封了 <a href="https://zh.greatfire.org/198.252.206.140">zh.greatfire.org/198.252.206.140</a> (2014年06月21日 01:58)
- ---
-RT @charlesmok: Experts have observed massive attacks on .hk DNS root servers, and the rate of .hk domain resolution has been affected coll… (2014年06月20日 17:55)
- ---
-老外使用无人机拍摄故宫，北海公园等，被问话。 空中拍摄的视屏 <a href="https://www.youtube.com/watch?v=A8I5Z01OKvw#t=34">www.youtube.com/watch</a>  故事全文(英文) <a href="http://www.stuckincustoms.com/2014/06/19/dji-quadcopter-china-detention">www.stuckincustoms.com/2014/06/19/dji-quadcopter-china-detention</a> (2014年06月20日 15:59)
- ---
-RT @fightcensorship: 真理部通知：删除“新华社评令政策落马：朝里有人也不灵”。凤凰网、新浪、网易都已删除。人民网中新网还在：<a href="http://www.chinanews.com/gn/2014/06-20/6301299.shtml">www.chinanews.com/gn/2014/06-20/6301299.shtml</a> “ <a href="https://twitter.com/fightcensorship/status/479807741457100800/photo/1">twitter.com/fightcensorship/status/479807741457100800/photo/1</a> (2014年06月20日 13:44)
  ---
