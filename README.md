@@ -33,3 +33,19 @@ RT @RTKcn: 18+ RT @janlay: Mac 微信不光 log 繁多，还会记录键盘。�
  ---
 RT @netizenrights: The Diminishing Returns of Tricking #China’s Censors <a href="http://www.technologyreview.com/view/528521/the-diminishing-returns-of-tricking-chinas-online-censors/">www.technologyreview.com/view/528521/the-diminishing-returns-of-tricking-chinas-online-censors/</a> @jasonqng for @techreview #Censorship (2014年06月24日 18:38)
  ---
+我的手机墓志铭 <a href="http://www.williamlong.info/archives/3896.html">www.williamlong.info/archives/3896.html</a> 没一个程序能打开，呵呵。 <a href="https://twitter.com/GreatFireChina/status/481316481905745920/photo/1">twitter.com/GreatFireChina/status/481316481905745920/photo/1</a> (2014年06月24日 14:02)
+ ---
+RT @mranti: 广电撤销新浪视频拍照、禁止电视盒子，都是借着审查的大旗争夺网络管理权，是审查者内战（Civil War among Censors），大家反对广电夺权不代表网络管理部门就好，而是"he's son of bitch, but he's our son o… (2014年06月24日 12:40)
+ ---
+RT @zhangweiguo: 【香港占中公投投票人数已近70万】组织者在周日首次开放了15个实体票站，吸引了48047人到场投票。另外，有205664人通过网站投票，439643人通过手机应用程式投票。公投是在周五（6月20日）开始的，将一直持续到6月29日结束。 http… (2014年06月23日 06:15)
+ ---
+RT @caoegg: 收到工信部电话，就我投诉的Google服务问题反馈，回答说会反映到联通公司，我说我知道这不是他们的原因，对方说那你也知道这可能是国家屏蔽的，我说我反应是希望你们能帮助解决，对方说你太高看我们的能力了，我们也只能给你向运营商反馈，国家屏蔽他们也没办法。 (2014年06月22日 08:50)
+ ---
+RT @phuslu: 谁说向运营商投诉无法访问 google 没有用 <a href="http://www.v2ex.com/t/118820?r=phuslu">www.v2ex.com/t/118820</a> #google (2014年06月22日 08:48)
+ ---
+@eastdakota Will you write a technical analysis of the attack against #popvote ? (2014年06月21日 10:24)
+ ---
+RT @appledaily_hk: 逾40萬人無懼北京政府和特區政府聯手炮轟，以及黑客瘋狂攻擊，以破紀錄的民間投票人數，透過電子平台投票為真普選發聲，截至午夜12時，人數已經突破40萬，錄得404,834人投票。和平佔中發起人對參與全民投票的人數破紀錄表示鼓舞，坦... ht… (2014年06月21日 07:36)
+ ---
+Hong Kong Democracy Poll Hit by Cyberattack <a href="http://online.wsj.com/articles/hong-kong-democracy-poll-is-hit-by-cyberattack-1403258663?mod=ST1">online.wsj.com/articles/hong-kong-democracy-poll-is-hit-by-cyberattack-1403258663</a> (2014年06月21日 02:27)
+ ---
