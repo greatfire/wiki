@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
-* Google 搜索 #1：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html
-* Google 搜索 #2：https://s3-us-west-1.amazonaws.com/google3/index.html
-* Google 搜索 #3：https://s3-ap-northeast-1.amazonaws.com/google5/index.html
-* 自由微博 #1：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html
+* Google 搜索 #1：https://s3-eu-west-1.amazonaws.com/google4/index.html
+* Google 搜索 #2：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html
+* Google 搜索 #3：https://s3-us-west-2.amazonaws.com/google2/index.html
+* 自由微博 #1：https://s3-us-west-1.amazonaws.com/freeweibo3/index.html
 * 自由微博 #2：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html
-* 自由微博 #3：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html
-* 中国数字时代 #1：https://s3-us-west-2.amazonaws.com/cdtimes9/index.html
-* 中国数字时代 #2：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html
-* 中国数字时代 #3：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html
-* 泡泡（未经审查的网络报道） #1：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
-* 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
+* 自由微博 #3：https://s3-sa-east-1.amazonaws.com/freeweibo8/index.html
+* 中国数字时代 #1：https://s3-ap-southeast-1.amazonaws.com/cdtimes2/index.html
+* 中国数字时代 #2：https://s3-us-west-2.amazonaws.com/cdtimes9/index.html
+* 中国数字时代 #3：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html
+* 泡泡（未经审查的网络报道） #1：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @VOAStevenson: I'm sorry, shortwave listeners of China Focus, that we were not allowed to say goodbye to you on the air. <a href="http://t.co/E2p">t.co/E2p</a>… (2014年06月30日 15:10)
+ ---
 RT @cjoh: In the wake of both the Snowden stuff and the Cuba twitter stuff, the Facebook "transmission of anger" experiment is terrifying. (2014年06月30日 14:49)
  ---
 Chinese authorities likely taking note: Facebook changes mood of masses through "emotional contagion" <a href="http://www.theguardian.com/technology/2014/jun/29/facebook-users-emotions-news-feeds">www.theguardian.com/technology/2014/jun/29/facebook-users-emotions-news-feeds</a> @Robert_Booth (2014年06月30日 14:48)
@@ -58,6 +60,4 @@ RT @eastdakota: Battling 300Gbps+ attack right now. Knew it was coming so well p
 RT @virushuo: cloudflare是个可信的公司。帮了香港大概他们以后不可能做中国业务了，估计也得被墙吧。嗯，这次是人家公司愿意这么做的，希望不要又跳出来聪明人怪香港人用Cloudflare绑架了普通用户。 (2014年06月21日 02:00)
  ---
 Stack Overflow IP已经解封了 <a href="https://zh.greatfire.org/198.252.206.140">zh.greatfire.org/198.252.206.140</a> (2014年06月21日 01:58)
- ---
-RT @charlesmok: Experts have observed massive attacks on .hk DNS root servers, and the rate of .hk domain resolution has been affected coll… (2014年06月20日 17:55)
  ---
