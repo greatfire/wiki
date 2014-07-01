@@ -3,15 +3,15 @@
 * Google 搜索 #1：https://s3-us-west-2.amazonaws.com/google2/index.html
 * Google 搜索 #2：https://s3-ap-northeast-1.amazonaws.com/google5/index.html
 * Google 搜索 #3：https://s3-ap-southeast-2.amazonaws.com/google6/index.html
-* 自由微博 #1：https://s3-ap-southeast-2.amazonaws.com/freeweibo7/index.html
-* 自由微博 #2：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html
-* 自由微博 #3：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html
-* 中国数字时代 #1：https://s3-us-west-2.amazonaws.com/cdtimes9/index.html
-* 中国数字时代 #2：https://s3-eu-west-1.amazonaws.com/cdtimes4/index.html
-* 中国数字时代 #3：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html
-* 泡泡（未经审查的网络报道） #1：https://s3-ap-northeast-1.amazonaws.com/pao-pao6/index.html
-* 泡泡（未经审查的网络报道） #2：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
+* 自由微博 #1：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html
+* 自由微博 #2：https://s3-sa-east-1.amazonaws.com/freeweibo8/index.html
+* 自由微博 #3：https://s3-ap-southeast-2.amazonaws.com/freeweibo7/index.html
+* 中国数字时代 #1：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html
+* 中国数字时代 #2：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html
+* 中国数字时代 #3：https://s3-us-west-2.amazonaws.com/cdtimes9/index.html
+* 泡泡（未经审查的网络报道） #1：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @jasonqng: Check out @UAAUHRP report on online repression of Uyghurs in China. Quotes from activists+netizens esp eye-opening http://t.c… (2014年07月01日 14:56)
+ ---
 Hence censorship: "People exposed to fewer emotional posts were less expressive overall over following days" <a href="http://www.pnas.org/content/111/24/8788.full">www.pnas.org/content/111/24/8788.full</a> (2014年06月30日 15:23)
  ---
 RT @VOAStevenson: I'm sorry, shortwave listeners of China Focus, that we were not allowed to say goodbye to you on the air. <a href="http://t.co/E2p">t.co/E2p</a>… (2014年06月30日 15:10)
@@ -58,6 +60,4 @@ RT @appledaily_hk: 逾40萬人無懼北京政府和特區政府聯手炮轟，�
 Hong Kong Democracy Poll Hit by Cyberattack <a href="http://online.wsj.com/articles/hong-kong-democracy-poll-is-hit-by-cyberattack-1403258663?mod=ST1">online.wsj.com/articles/hong-kong-democracy-poll-is-hit-by-cyberattack-1403258663</a> (2014年06月21日 02:27)
  ---
 RT @eastdakota: Battling 300Gbps+ attack right now. Knew it was coming so well prepared. Helluva story someday. <a href="https://twitter.com/eastdakota/status/479812898315706368/photo/1">twitter.com/eastdakota/status/479812898315706368/photo/1</a> (2014年06月21日 02:23)
- ---
-RT @virushuo: cloudflare是个可信的公司。帮了香港大概他们以后不可能做中国业务了，估计也得被墙吧。嗯，这次是人家公司愿意这么做的，希望不要又跳出来聪明人怪香港人用Cloudflare绑架了普通用户。 (2014年06月21日 02:00)
  ---
