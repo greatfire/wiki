@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
-* Google 搜索 #1：https://s3-ap-northeast-1.amazonaws.com/google5/index.html
-* Google 搜索 #2：https://s3-sa-east-1.amazonaws.com/google7/index.html
-* Google 搜索 #3：https://s3-us-west-1.amazonaws.com/google3/index.html
-* 自由微博 #1：https://s3-us-west-1.amazonaws.com/freeweibo3/index.html
-* 自由微博 #2：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html
-* 自由微博 #3：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html
-* 中国数字时代 #1：https://s3-us-west-2.amazonaws.com/cdtimes9/index.html
-* 中国数字时代 #2：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html
-* 中国数字时代 #3：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html
+* Google 搜索 #1：https://s3-sa-east-1.amazonaws.com/google7/index.html
+* Google 搜索 #2：https://s3-ap-northeast-1.amazonaws.com/google5/index.html
+* Google 搜索 #3：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html
+* 自由微博 #1：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html
+* 自由微博 #2：https://s3-sa-east-1.amazonaws.com/freeweibo8/index.html
+* 自由微博 #3：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html
+* 中国数字时代 #1：https://s3-ap-southeast-1.amazonaws.com/cdtimes2/index.html
+* 中国数字时代 #2：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html
+* 中国数字时代 #3：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html
 * 泡泡（未经审查的网络报道） #1：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
-* 泡泡（未经审查的网络报道） #2：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-us-west-2.amazonaws.com/pao-pao9/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @horwitzjosh: 1st question: Why? Better question: Why not WhatsApp? &gt;&gt; Japanese chat app Line appears to be blocked in China http://t.co… (2014年07月02日 14:35)
+ ---
 RT @JoyceLauNews: I've gotten 2 warnings, but my Weibo account is still up (for now) after posting these @SCMP_News photos <a href="http://t.co/c4lm">t.co/c4lm</a>… (2014年07月01日 22:51)
  ---
 RT @vshih2: “@joannachiu: Live feed of #July1HK pro-democracy march here: <a href="http://new.livestream.com/socreclive/events/3147315">new.livestream.com/socreclive/events/3147315</a> <a href="https://twitter.com/joannachiu/status/483874235954126848/photo/1">twitter.com/joannachiu/status/483874235954126848/photo/1</a>” I am proud 2b HKer… (2014年07月01日 15:48)
@@ -58,6 +60,4 @@ RT @caoegg: 收到工信部电话，就我投诉的Google服务问题反馈，�
 RT @phuslu: 谁说向运营商投诉无法访问 google 没有用 <a href="http://www.v2ex.com/t/118820?r=phuslu">www.v2ex.com/t/118820</a> #google (2014年06月22日 08:48)
  ---
 @eastdakota Will you write a technical analysis of the attack against #popvote ? (2014年06月21日 10:24)
- ---
-RT @appledaily_hk: 逾40萬人無懼北京政府和特區政府聯手炮轟，以及黑客瘋狂攻擊，以破紀錄的民間投票人數，透過電子平台投票為真普選發聲，截至午夜12時，人數已經突破40萬，錄得404,834人投票。和平佔中發起人對參與全民投票的人數破紀錄表示鼓舞，坦... ht… (2014年06月21日 07:36)
  ---
