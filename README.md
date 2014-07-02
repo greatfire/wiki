@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
-* Google 搜索 #1：https://s3-ap-northeast-1.amazonaws.com/google5/index.html
-* Google 搜索 #2：https://s3-us-west-2.amazonaws.com/google2/index.html
-* Google 搜索 #3：https://s3-sa-east-1.amazonaws.com/google7/index.html
-* 自由微博 #1：https://s3-ap-southeast-2.amazonaws.com/freeweibo7/index.html
-* 自由微博 #2：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html
-* 自由微博 #3：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html
-* 中国数字时代 #1：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html
-* 中国数字时代 #2：https://s3-eu-west-1.amazonaws.com/cdtimes4/index.html
-* 中国数字时代 #3：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html
+* Google 搜索 #1：https://s3-us-west-1.amazonaws.com/google3/index.html
+* Google 搜索 #2：https://s3-eu-west-1.amazonaws.com/google4/index.html
+* Google 搜索 #3：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html
+* 自由微博 #1：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html
+* 自由微博 #2：https://s3-us-west-1.amazonaws.com/freeweibo3/index.html
+* 自由微博 #3：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html
+* 中国数字时代 #1：https://s3-ap-southeast-1.amazonaws.com/cdtimes2/index.html
+* 中国数字时代 #2：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html
+* 中国数字时代 #3：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html
 * 泡泡（未经审查的网络报道） #1：https://s3-us-west-2.amazonaws.com/pao-pao9/index.html
-* 泡泡（未经审查的网络报道） #2：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@jonrussell yep (2014年07月02日 15:56)
+ ---
 Block of LINE warning signal to foreign net firms w/ eye on China. Working w/authorities = fingers get burned. <a href="https://citizenlab.org/2013/12/asia-chats-line-responds/">citizenlab.org/2013/12/asia-chats-line-responds/</a> (2014年07月02日 15:15)
  ---
 RT @horwitzjosh: 1st question: Why? Better question: Why not WhatsApp? &gt;&gt; Japanese chat app Line appears to be blocked in China http://t.co… (2014年07月02日 14:35)
@@ -58,6 +60,4 @@ RT @mranti: 广电撤销新浪视频拍照、禁止电视盒子，都是借着�
 RT @zhangweiguo: 【香港占中公投投票人数已近70万】组织者在周日首次开放了15个实体票站，吸引了48047人到场投票。另外，有205664人通过网站投票，439643人通过手机应用程式投票。公投是在周五（6月20日）开始的，将一直持续到6月29日结束。 http… (2014年06月23日 06:15)
  ---
 RT @caoegg: 收到工信部电话，就我投诉的Google服务问题反馈，回答说会反映到联通公司，我说我知道这不是他们的原因，对方说那你也知道这可能是国家屏蔽的，我说我反应是希望你们能帮助解决，对方说你太高看我们的能力了，我们也只能给你向运营商反馈，国家屏蔽他们也没办法。 (2014年06月22日 08:50)
- ---
-RT @phuslu: 谁说向运营商投诉无法访问 google 没有用 <a href="http://www.v2ex.com/t/118820?r=phuslu">www.v2ex.com/t/118820</a> #google (2014年06月22日 08:48)
  ---
