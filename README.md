@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
-* Google 搜索 #1：https://s3-eu-west-1.amazonaws.com/google4/index.html
-* Google 搜索 #2：https://s3-us-west-1.amazonaws.com/google3/index.html
+* Google 搜索 #1：https://s3-us-west-2.amazonaws.com/google2/index.html
+* Google 搜索 #2：https://s3-sa-east-1.amazonaws.com/google7/index.html
 * Google 搜索 #3：https://s3-ap-southeast-2.amazonaws.com/google6/index.html
-* 自由微博 #1：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html
-* 自由微博 #2：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html
-* 自由微博 #3：https://s3-ap-southeast-2.amazonaws.com/freeweibo7/index.html
-* 中国数字时代 #1：https://s3-us-west-2.amazonaws.com/cdtimes9/index.html
-* 中国数字时代 #2：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html
-* 中国数字时代 #3：https://s3-ap-southeast-1.amazonaws.com/cdtimes2/index.html
-* 泡泡（未经审查的网络报道） #1：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
-* 泡泡（未经审查的网络报道） #2：https://s3-us-west-2.amazonaws.com/pao-pao9/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
+* 自由微博 #1：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html
+* 自由微博 #2：https://s3-ap-southeast-2.amazonaws.com/freeweibo7/index.html
+* 自由微博 #3：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html
+* 中国数字时代 #1：https://s3-eu-west-1.amazonaws.com/cdtimes4/index.html
+* 中国数字时代 #2：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html
+* 中国数字时代 #3：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html
+* 泡泡（未经审查的网络报道） #1：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-northeast-1.amazonaws.com/pao-pao6/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+微软云网盘(OneDrive),连我(Line),Flickr已经全部被GFW屏蔽 (2014年07月03日 23:46)
+ ---
 RT @PaulCarsten: "This is not a technical malfunction" - Line, Kakao, Flickr all down in China, govt's grip getting tighter: <a href="http://t.co/Js">t.co/Js</a>… (2014年07月03日 23:01)
  ---
 RT @SCMP_News: Weibo saw stricter censorship during Hong Kong July 1 rally than on Tiananmen anniversary <a href="http://www.scmp.com/news/china-insider/article/1545652/chinas-government-pursues-more-censorship-july-1-it-did-june-4">www.scmp.com/news/china-insider/article/1545652/chinas-government-pursues-more-censorship-july-1-it-did-june-4</a> (2014年07月03日 17:47)
@@ -58,6 +60,4 @@ RT @VOAStevenson: I'm sorry, shortwave listeners of China Focus, that we were no
 RT @cjoh: In the wake of both the Snowden stuff and the Cuba twitter stuff, the Facebook "transmission of anger" experiment is terrifying. (2014年06月30日 14:49)
  ---
 Chinese authorities likely taking note: Facebook changes mood of masses through "emotional contagion" <a href="http://www.theguardian.com/technology/2014/jun/29/facebook-users-emotions-news-feeds">www.theguardian.com/technology/2014/jun/29/facebook-users-emotions-news-feeds</a> @Robert_Booth (2014年06月30日 14:48)
- ---
-Google镜像短链接修复了 https://<a href="https://sinaapp.co">sinaapp.co</a> 一定要输入https:// (2014年06月27日 04:49)
  ---
