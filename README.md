@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
-* Google 搜索 #1：https://mirrors-static/AmazonS3/google2/index.html
-* Google 搜索 #2：https://mirrors-static/AmazonS3/google6/index.html
-* Google 搜索 #3：https://mirrors-static/AmazonS3/google7/index.html
-* 自由微博 #1：https://mirrors-static/AmazonS3/freeweibo8/index.html
-* 自由微博 #2：https://mirrors-static/AmazonS3/freeweibo2/index.html
-* 自由微博 #3：https://mirrors-static/AmazonS3/freeweibo3/index.html
+* Google 搜索 #1：https://mirrors-static/AmazonS3/google6/index.html
+* Google 搜索 #2：https://mirrors-static/AmazonS3/google3/index.html
+* Google 搜索 #3：https://mirrors-static/AmazonS3/google.cn/index.html
+* 自由微博 #1：https://mirrors-static/AmazonS3/freeweibo7/index.html
+* 自由微博 #2：https://mirrors-static/AmazonS3/freeweibo3/index.html
+* 自由微博 #3：https://mirrors-static/AmazonS3/freeweibo9/index.html
 * 中国数字时代 #1：https://mirrors-static/AmazonS3/cdtimes2/index.html
-* 中国数字时代 #2：https://mirrors-static/AmazonS3/cdtimes8/index.html
+* 中国数字时代 #2：https://mirrors-static/AmazonS3/cdtimes9/index.html
 * 中国数字时代 #3：https://mirrors-static/AmazonS3/cdtimes3/index.html
-* 泡泡（未经审查的网络报道） #1：https://mirrors-static/AmazonS3/pao-pao6/index.html
-* 泡泡（未经审查的网络报道） #2：https://mirrors-static/AmazonS3/pao-pao2/index.html
-* 泡泡（未经审查的网络报道） #3：https://mirrors-static/AmazonS3/pao-pao8/index.html
+* 泡泡（未经审查的网络报道） #1：https://mirrors-static/AmazonS3/pao-pao9/index.html
+* 泡泡（未经审查的网络报道） #2：https://mirrors-static/AmazonS3/pao-pao8/index.html
+* 泡泡（未经审查的网络报道） #3：https://mirrors-static/AmazonS3/pao-pao3/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
