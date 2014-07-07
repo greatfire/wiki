@@ -1,16 +1,16 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
-* Google 搜索 #1：https://mirrors-static/AmazonS3/google6/index.html
+* Google 搜索 #1：https://mirrors-static/AmazonS3/google7/index.html
 * Google 搜索 #2：https://mirrors-static/AmazonS3/google.cn/index.html
-* Google 搜索 #3：https://mirrors-static/AmazonS3/google2/index.html
-* 自由微博 #1：https://mirrors-static/AmazonS3/freeweibo8/index.html
-* 自由微博 #2：https://mirrors-static/AmazonS3/freeweibo6/index.html
+* Google 搜索 #3：https://mirrors-static/AmazonS3/google5/index.html
+* 自由微博 #1：https://mirrors-static/AmazonS3/freeweibo7/index.html
+* 自由微博 #2：https://mirrors-static/AmazonS3/freeweibo8/index.html
 * 自由微博 #3：https://mirrors-static/AmazonS3/freeweibo4/index.html
-* 中国数字时代 #1：https://mirrors-static/AmazonS3/cdtimes7/index.html
-* 中国数字时代 #2：https://mirrors-static/AmazonS3/cdtimes6/index.html
-* 中国数字时代 #3：https://mirrors-static/AmazonS3/cdtimes4/index.html
-* 泡泡（未经审查的网络报道） #1：https://mirrors-static/AmazonS3/pao-pao8/index.html
-* 泡泡（未经审查的网络报道） #2：https://mirrors-static/AmazonS3/pao-pao3/index.html
+* 中国数字时代 #1：https://mirrors-static/AmazonS3/cdtimes6/index.html
+* 中国数字时代 #2：https://mirrors-static/AmazonS3/cdtimes4/index.html
+* 中国数字时代 #3：https://mirrors-static/AmazonS3/cdtimes8/index.html
+* 泡泡（未经审查的网络报道） #1：https://mirrors-static/AmazonS3/pao-pao4/index.html
+* 泡泡（未经审查的网络报道） #2：https://mirrors-static/AmazonS3/pao-pao2/index.html
 * 泡泡（未经审查的网络报道） #3：https://mirrors-static/AmazonS3/pao-pao6/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
@@ -29,7 +29,7 @@ Google block set to continue <a href="http://www.globaltimes.cn/content/866061.s
  ---
 feedly (RSS  app), is blocked in China.  <a href="https://en.greatfire.org/https/feedly.com">en.greatfire.org/https/feedly.com</a> (2014年07月06日 04:18)
  ---
-RT @oSoft_co: <a href="https://osoft.co/twitter.com/i/guest">osoft.co/twitter.com/i/guest</a> "偶哨客",免翻墙推特代理网站.用来试验.co域名是否会被GFW污染,如果被污染是否会影响 -download.microsoft.com 而导致全国windows系统无法自动更新安全补丁,大家尽情玩 … (2014年07月05日 22:35)
+RT @oSoft_co: <a href="https://osoft.co/twitter.com/signup">osoft.co/twitter.com/signup</a> "偶哨客",免翻墙推特代理网站.用来试验.co域名是否会被GFW污染,如果被污染是否会影响 -download.microsoft.com 而导致全国windows系统无法自动更新安全补丁,大家尽情玩 … (2014年07月05日 22:35)
  ---
 RT @ioerror: We have published several new #NSA stories today: <a href="http://www.tagesschau.de/inland/nsa-xkeyscore-100.html">www.tagesschau.de/inland/nsa-xkeyscore-100.html</a> <a href="http://daserste.ndr.de/panorama/archiv/2014/Quellcode-entschluesselt-Beweis-fuer-NSA-Spionage-in-Deutschland,nsa224.html">daserste.ndr.de/panorama/archiv/2014/Quellcode-entschluesselt-Beweis-fuer-NSA-Spionage-in-Deutschland,nsa224.html</a> More information coming soon. … (2014年07月05日 00:24)
  ---
