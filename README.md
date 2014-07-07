@@ -2,16 +2,16 @@
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d1sqgq1dhttqzi.cloudfront.net
 * Google 搜索 #2：https://s3-ap-northeast-1.amazonaws.com/google5/index.html
-* Google 搜索 #3：https://s3-ap-southeast-2.amazonaws.com/google6/index.html        
+* Google 搜索 #3：https://s3-us-west-1.amazonaws.com/google3/index.html        
 * 自由微博 #1：https://d1cu9wx6nqideu.cloudfront.net
 * 自由微博 #2：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html
-* 自由微博 #3：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html        
+* 自由微博 #3：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html        
 * 中国数字时代 #1：https://d1pfm164fxq997.cloudfront.net
-* 中国数字时代 #2：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html
-* 中国数字时代 #3：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html        
+* 中国数字时代 #2：https://s3-us-west-2.amazonaws.com/cdtimes9/index.html
+* 中国数字时代 #3：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d30ip61xnq91x5.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-ap-northeast-1.amazonaws.com/pao-pao6/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
