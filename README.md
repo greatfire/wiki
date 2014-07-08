@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
-* Google 搜索 #2：https://s3-ap-southeast-2.amazonaws.com/google6/index.html
-* Google 搜索 #3：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html        
+* Google 搜索 #2：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html
+* Google 搜索 #3：https://s3-ap-southeast-2.amazonaws.com/google6/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
-* 自由微博 #2：https://s3-ap-southeast-2.amazonaws.com/freeweibo7/index.html
-* 自由微博 #3：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html        
+* 自由微博 #2：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html
+* 自由微博 #3：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
 * 中国数字时代 #2：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html
-* 中国数字时代 #3：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html        
+* 中国数字时代 #3：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Apple forced to changed its customer support number in China because it referred to the Tiananmen incident? <a href="https://web.archive.org/web/20130406172440/https://www.apple.com.cn/retail/sanlitun/">web.archive.org/web/20130406172440/https://www.apple.com.cn/retail/sanlitun/</a> (2014年07月09日 06:55)
+ ---
 苹果 iCloud 和 iMessage 服务疑在新疆遭到屏蔽后解除 <a href="http://www.solidot.org/story?sid=40230">www.solidot.org/story</a> 这样下去估计明年就被会被完全屏蔽了。 (2014年07月09日 06:15)
  ---
 国内DNS服务器，能防止DNS污染 <a href="http://onedns.net/">onedns.net/</a>  112.124.47.27 (2014年07月09日 04:20)
@@ -58,6 +60,4 @@ RT @ioerror: We have published several new #NSA stories today: <a href="http://w
 微软云网盘(OneDrive),连我(Line),Flickr已经全部被GFW屏蔽 (2014年07月03日 23:46)
  ---
 RT @PaulCarsten: "This is not a technical malfunction" - Line, Kakao, Flickr all down in China, govt's grip getting tighter: <a href="http://t.co/Js">t.co/Js</a>… (2014年07月03日 23:01)
- ---
-RT @SCMP_News: Weibo saw stricter censorship during Hong Kong July 1 rally than on Tiananmen anniversary <a href="http://www.scmp.com/news/china-insider/article/1545652/chinas-government-pursues-more-censorship-july-1-it-did-june-4">www.scmp.com/news/china-insider/article/1545652/chinas-government-pursues-more-censorship-july-1-it-did-june-4</a> (2014年07月03日 17:47)
  ---
