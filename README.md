@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d1sx02acsgxd43.cloudfront.net
-* Google 搜索 #2：https://s3-sa-east-1.amazonaws.com/google7/index.html
-* Google 搜索 #3：https://s3-eu-west-1.amazonaws.com/google4/index.html        
+* Google 搜索 #2：https://s3-us-west-2.amazonaws.com/google2/index.html
+* Google 搜索 #3：https://s3-ap-southeast-2.amazonaws.com/google6/index.html        
 * 自由微博 #1：https://d1le8hvmoskgw4.cloudfront.net
-* 自由微博 #2：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html
-* 自由微博 #3：https://s3-sa-east-1.amazonaws.com/freeweibo8/index.html        
+* 自由微博 #2：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html
+* 自由微博 #3：https://s3-us-west-1.amazonaws.com/freeweibo3/index.html        
 * 中国数字时代 #1：https://dzzmfcniebk42.cloudfront.net
 * 中国数字时代 #2：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html
-* 中国数字时代 #3：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html        
+* 中国数字时代 #3：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html        
 * 泡泡（未经审查的网络报道） #1：https://dbz699d0ttsvg.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-us-west-2.amazonaws.com/pao-pao9/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-northeast-1.amazonaws.com/pao-pao6/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+NSA targets the privacy-conscious <a href="http://daserste.ndr.de/panorama/aktuell/nsa230_page-1.html">daserste.ndr.de/panorama/aktuell/nsa230_page-1.html</a> (2014年07月09日 02:00)
+ ---
 7月5日，知名作家慕容雪村发表《投案书》抗议当局。7月8日，他接到北京警方传唤。在前往派出所之前，慕容雪村接受了德国之声专访。 <a href="http://www.dw.de/%E6%85%95%E5%AE%B9%E9%9B%AA%E6%9D%91%E5%88%9B%E9%80%A0%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AF%B9%E8%AF%9D%E7%A9%BA%E9%97%B4/a-17767050">www.dw.de/慕容雪村创造真正的对话空间/a-17767050</a> (2014年07月08日 22:43)
  ---
 RT @feamster: Encore #censorship measurement tool (@srburnet) in @NetworkWorld: <a href="http://www.networkworld.com/article/2450108/security0/open-source-tool-could-sniff-out-most-heavily-censored-websites-georgia-tech-nsf-google.html">www.networkworld.com/article/2450108/security0/open-source-tool-could-sniff-out-most-heavily-censored-websites-georgia-tech-nsf-google.html</a>  Add a line to your website, measure… (2014年07月08日 16:52)
@@ -58,6 +60,4 @@ RT @SCMP_News: Weibo saw stricter censorship during Hong Kong July 1 rally than 
 Just a matter of time now before Instagram gets blocked in China? Or is it too big to be blocked? <a href="https://en.greatfire.org/instagram.com/dalailama">en.greatfire.org/instagram.com/dalailama</a> (2014年07月03日 16:55)
  ---
 @TommasoLombardi @horwitzjosh like SnapChat? (2014年07月03日 16:51)
- ---
-@TommasoLombardi @horwitzjosh but only those with "local" operations. WhatsApp seemingly unaffected at the moment. (2014年07月03日 16:34)
  ---
