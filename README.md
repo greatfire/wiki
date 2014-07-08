@@ -1,16 +1,16 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
-* Google 搜索 #1：https://d3e5e3yhaz7lob.cloudfront.net
-* Google 搜索 #2：https://s3-us-west-2.amazonaws.com/google2/index.html
+* Google 搜索 #1：https://df8edhvffodzs.cloudfront.net
+* Google 搜索 #2：https://s3-ap-northeast-1.amazonaws.com/google5/index.html
 * Google 搜索 #3：https://s3-ap-southeast-2.amazonaws.com/google6/index.html        
-* 自由微博 #1：https://dvpawo0n68i3d.cloudfront.net
+* 自由微博 #1：https://d1qr40mwekmvtv.cloudfront.net
 * 自由微博 #2：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html
 * 自由微博 #3：https://s3-ap-southeast-2.amazonaws.com/freeweibo7/index.html        
-* 中国数字时代 #1：https://djj4xrprsftu0.cloudfront.net
-* 中国数字时代 #2：https://s3-us-west-2.amazonaws.com/cdtimes9/index.html
-* 中国数字时代 #3：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html        
-* 泡泡（未经审查的网络报道） #1：https://d220q86av4svw9.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
+* 中国数字时代 #1：https://d18arzisshz9gs.cloudfront.net
+* 中国数字时代 #2：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html
+* 中国数字时代 #3：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html        
+* 泡泡（未经审查的网络报道） #1：https://d2fox803u9potj.cloudfront.net
+* 泡泡（未经审查的网络报道） #2：https://s3-ap-northeast-1.amazonaws.com/pao-pao6/index.html
 * 泡泡（未经审查的网络报道） #3：https://s3-us-west-2.amazonaws.com/pao-pao9/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+"Cuz the police always got somethin stupid to say" Internet User Jailed 5 Days for Saying "Police Really Suck" <a href="http://blog.feichangdao.com/2014/07/internet-user-jailed-five-days-for.html">blog.feichangdao.com/2014/07/internet-user-jailed-five-days-for.html</a> (2014年07月08日 16:30)
+ ---
 Will Chinese soon have to apply for a permit to access the world wide web? <a href="http://chinachange.org/2014/07/03/the-advent-of-a-national-lan-in-china/">chinachange.org/2014/07/03/the-advent-of-a-national-lan-in-china/</a> via @chinachange_org (2014年07月08日 16:17)
  ---
 RT @wenyunchao: 呃哦，试验失败。 <a href="https://twitter.com/wenyunchao/status/486386297075163137/photo/1">twitter.com/wenyunchao/status/486386297075163137/photo/1</a> (2014年07月08日 15:00)
@@ -58,6 +60,4 @@ Just a matter of time now before Instagram gets blocked in China? Or is it too b
 @TommasoLombardi @horwitzjosh I don't think so. LINE practices complicit self-censorship so should not get blocked <a href="https://citizenlab.org/2013/12/asia-chats-line-responds/">citizenlab.org/2013/12/asia-chats-line-responds/</a> (2014年07月03日 16:20)
  ---
 @jwongsg we don't test apps the way that we test websites but they site is not blocked <a href="https://en.greatfire.org/www.whatsapp.com">en.greatfire.org/www.whatsapp.com</a> (2014年07月03日 16:19)
- ---
-@sandsfish @jasonqng @Techinasia @Adam_Senft @Herdict @berkmancenter Sands you mean just for LINE or in general? Many apps blocked in China (2014年07月03日 16:17)
  ---
