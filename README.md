@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
-* Google 搜索 #2：https://s3-ap-northeast-1.amazonaws.com/google5/index.html
+* Google 搜索 #2：https://s3-us-west-1.amazonaws.com/google3/index.html
 * Google 搜索 #3：https://s3-ap-southeast-2.amazonaws.com/google6/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
-* 自由微博 #2：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html
-* 自由微博 #3：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html        
+* 自由微博 #2：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html
+* 自由微博 #3：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-us-west-2.amazonaws.com/cdtimes9/index.html
-* 中国数字时代 #3：https://s3-ap-southeast-1.amazonaws.com/cdtimes2/index.html        
+* 中国数字时代 #2：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html
+* 中国数字时代 #3：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @niubi: Seems a bit aggressive for linkedin china to block links to content that contains links to content that is politically "objectio… (2014年07月10日 00:34)
+ ---
+RT @niubi: Re-read linkedin support response, pretty clear they r scanning content linked 2 &amp; then censoring. <a href="https://twitter.com/niubi/status/486779210657439744/photo/1">twitter.com/niubi/status/486779210657439744/photo/1</a> (2014年07月10日 00:33)
+ ---
 Feedly,Dropbox,Onedrive, Line, Kakaotalk and Google are all blocked in China. An avalanche of censorship in June even in Chinese standards. (2014年07月09日 13:10)
  ---
 Feedly HTTPS version blocked in China <a href="https://en.greatfire.org/https/feedly.com">en.greatfire.org/https/feedly.com</a> (2014年07月09日 12:55)
@@ -56,8 +60,4 @@ Non-targets far outnumber targets in NSA data collection <a href="http://www.was
 RT @hawkyeee: 在新浪微博发了份「投案书」。在推上备个份。 <a href="https://twitter.com/hawkyeee/status/485661353181327360/photo/1">twitter.com/hawkyeee/status/485661353181327360/photo/1</a> (2014年07月07日 08:46)
  ---
 Google block set to continue <a href="http://www.globaltimes.cn/content/866061.shtml">www.globaltimes.cn/content/866061.shtml</a>  from @globaltimesnews State controlled media sometimes has decent reportings too (2014年07月07日 08:43)
- ---
-feedly (RSS  app), is blocked in China.  <a href="https://en.greatfire.org/https/feedly.com">en.greatfire.org/https/feedly.com</a> (2014年07月06日 04:18)
- ---
-RT @oSoft_co: <a href="https://osoft.co/twitter.com/i/guest">osoft.co/twitter.com/i/guest</a> "偶哨客",免翻墙推特代理网站.用来试验.co域名是否会被GFW污染,如果被污染是否会影响 -download.microsoft.com 而导致全国windows系统无法自动更新安全补丁,大家尽情玩 … (2014年07月05日 22:35)
  ---
