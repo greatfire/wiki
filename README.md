@@ -2,16 +2,16 @@
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
 * Google 搜索 #2：https://s3-ap-northeast-1.amazonaws.com/google5/index.html
-* Google 搜索 #3：https://s3-us-west-1.amazonaws.com/google3/index.html        
+* Google 搜索 #3：https://s3-us-west-2.amazonaws.com/google2/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
-* 自由微博 #2：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html
-* 自由微博 #3：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html        
+* 自由微博 #2：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html
+* 自由微博 #3：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html
-* 中国数字时代 #3：https://s3-us-west-2.amazonaws.com/cdtimes9/index.html        
+* 中国数字时代 #2：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html
+* 中国数字时代 #3：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Feedly HTTPS version blocked in China <a href="https://en.greatfire.org/https/feedly.com">en.greatfire.org/https/feedly.com</a> (2014年07月09日 12:55)
+ ---
 苹果在去年4月（被迫？）修改了客服号码。 原号码是64198900，恰是六四事件的日期。 <a href="https://web.archive.org/web/20130406172440/https://www.apple.com.cn/retail/sanlitun/">web.archive.org/web/20130406172440/https://www.apple.com.cn/retail/sanlitun/</a> (2014年07月09日 06:57)
  ---
 Apple forced to changed its customer support number in China because it referred to the Tiananmen incident? <a href="https://web.archive.org/web/20130406172440/https://www.apple.com.cn/retail/sanlitun/">web.archive.org/web/20130406172440/https://www.apple.com.cn/retail/sanlitun/</a> (2014年07月09日 06:55)
@@ -58,6 +60,4 @@ feedly (RSS  app), is blocked in China.  <a href="https://en.greatfire.org/https
 RT @oSoft_co: <a href="https://osoft.co/twitter.com/i/guest">osoft.co/twitter.com/i/guest</a> "偶哨客",免翻墙推特代理网站.用来试验.co域名是否会被GFW污染,如果被污染是否会影响 -download.microsoft.com 而导致全国windows系统无法自动更新安全补丁,大家尽情玩 … (2014年07月05日 22:35)
  ---
 RT @ioerror: We have published several new #NSA stories today: <a href="http://www.tagesschau.de/inland/nsa-xkeyscore-100.html">www.tagesschau.de/inland/nsa-xkeyscore-100.html</a> <a href="http://daserste.ndr.de/panorama/archiv/2014/Quellcode-entschluesselt-Beweis-fuer-NSA-Spionage-in-Deutschland,nsa224.html">daserste.ndr.de/panorama/archiv/2014/Quellcode-entschluesselt-Beweis-fuer-NSA-Spionage-in-Deutschland,nsa224.html</a> More information coming soon. … (2014年07月05日 00:24)
- ---
-微软云网盘(OneDrive),连我(Line),Flickr已经全部被GFW屏蔽 (2014年07月03日 23:46)
  ---
