@@ -2,15 +2,15 @@
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
 * Google 搜索 #2：https://s3-ap-southeast-2.amazonaws.com/google6/index.html
-* Google 搜索 #3：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html        
+* Google 搜索 #3：https://s3-us-west-2.amazonaws.com/google2/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
-* 自由微博 #2：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html
-* 自由微博 #3：https://s3-us-west-1.amazonaws.com/freeweibo3/index.html        
+* 自由微博 #2：https://s3-us-west-1.amazonaws.com/freeweibo3/index.html
+* 自由微博 #3：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-eu-west-1.amazonaws.com/cdtimes4/index.html
-* 中国数字时代 #3：https://s3-us-west-2.amazonaws.com/cdtimes9/index.html        
+* 中国数字时代 #2：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html
+* 中国数字时代 #3：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
 * 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @YourAnonNews: This Wired article about @headhntr is pretty cool <a href="http://www.wired.com/2014/07/morgan-marquis-boire-first-look-media/">www.wired.com/2014/07/morgan-marquis-boire-first-look-media/</a> (2014年07月10日 01:13)
+ ---
 RT @sophie_beach: Murong Xuecun detained <a href="http://chinadigitaltimes.net/2014/07/murong-xuecun-detained-tiananmen-square-event/">chinadigitaltimes.net/2014/07/murong-xuecun-detained-tiananmen-square-event/</a> Woeser house arrest <a href="http://chinadigitaltimes.net/2014/07/tibetan-writer-woeser-house-arrest-kerry-visit/">chinadigitaltimes.net/2014/07/tibetan-writer-woeser-house-arrest-kerry-visit/</a> Li Chengpeng “wiped offline” htt… (2014年07月10日 00:49)
  ---
 RT @getlantern: Donating to our @Indiegogo helps provide un-censored internet to people around the world! <a href="https://www.indiegogo.com/projects/fund-internet-freedom-with-lantern">www.indiegogo.com/projects/fund-internet-freedom-with-lantern</a> Help us sp… (2014年07月10日 00:48)
@@ -58,6 +60,4 @@ Will Chinese soon have to apply for a permit to access the world wide web? <a hr
 RT @wenyunchao: 呃哦，试验失败。 <a href="https://twitter.com/wenyunchao/status/486386297075163137/photo/1">twitter.com/wenyunchao/status/486386297075163137/photo/1</a> (2014年07月08日 15:00)
  ---
 Merkel in China: "Believe in power of law rather than law of the powerful." <a href="http://www.bloomberg.com/news/2014-07-08/merkel-extols-open-free-society-to-chinese-students.html">www.bloomberg.com/news/2014-07-08/merkel-extols-open-free-society-to-chinese-students.html</a> (2014年07月08日 14:58)
- ---
-@李承鹏 <a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E6%89%BF%E9%B9%8F">freeweibo.com/weibo/@李承鹏</a> 被微博封号，环球时报评销号是“注定发生”。 (2014年07月08日 11:11)
  ---
