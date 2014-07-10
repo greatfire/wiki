@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
-* Google 搜索 #2：https://s3-ap-southeast-2.amazonaws.com/google6/index.html
-* Google 搜索 #3：https://s3-us-west-2.amazonaws.com/google2/index.html        
+* Google 搜索 #2：https://s3-us-west-2.amazonaws.com/google2/index.html
+* Google 搜索 #3：https://s3-ap-northeast-1.amazonaws.com/google5/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
-* 自由微博 #2：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html
-* 自由微博 #3：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html        
+* 自由微博 #2：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html
+* 自由微博 #3：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-eu-west-1.amazonaws.com/cdtimes4/index.html
-* 中国数字时代 #3：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html        
+* 中国数字时代 #2：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html
+* 中国数字时代 #3：https://s3-ap-southeast-1.amazonaws.com/cdtimes2/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-northeast-1.amazonaws.com/pao-pao6/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @Techinasia: Tests reveal Line and Kakao disruptions in China mirror the government's block on Facebook <a href="http://www.techinasia.com/tests-reveal-line-and-kakao-disruptions-in-china-mirror-the-governments-block-on-facebook/">www.techinasia.com/tests-reveal-line-and-kakao-disruptions-in-china-mirror-the-governments-block-on-facebook/</a> (2014年07月10日 17:24)
+ ---
 RT @jason5ng32: Instagram 从国内安卓市场下架因为有达赖和香港七一游行的照片。猜测极有可能是公安部门下达的命令，因为网络审查相关部门一贯的做事风格是直接封锁，而不是下达行政命令，而新闻办和宣传部门是无法对非媒体互联网企业直接下达命令的，所以，公安部门的可… (2014年07月10日 05:42)
  ---
 RT @YourAnonNews: This Wired article about @headhntr is pretty cool <a href="http://www.wired.com/2014/07/morgan-marquis-boire-first-look-media/">www.wired.com/2014/07/morgan-marquis-boire-first-look-media/</a> (2014年07月10日 01:13)
@@ -58,6 +60,4 @@ RT @feamster: Encore #censorship measurement tool (@srburnet) in @NetworkWorld: 
 "Cuz the police always got somethin stupid to say" Internet User Jailed 5 Days for Saying "Police Really Suck" <a href="http://blog.feichangdao.com/2014/07/internet-user-jailed-five-days-for.html">blog.feichangdao.com/2014/07/internet-user-jailed-five-days-for.html</a> (2014年07月08日 16:30)
  ---
 Will Chinese soon have to apply for a permit to access the world wide web? <a href="http://chinachange.org/2014/07/03/the-advent-of-a-national-lan-in-china/">chinachange.org/2014/07/03/the-advent-of-a-national-lan-in-china/</a> via @chinachange_org (2014年07月08日 16:17)
- ---
-RT @wenyunchao: 呃哦，试验失败。 <a href="https://twitter.com/wenyunchao/status/486386297075163137/photo/1">twitter.com/wenyunchao/status/486386297075163137/photo/1</a> (2014年07月08日 15:00)
  ---
