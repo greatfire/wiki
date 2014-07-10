@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
-* Google 搜索 #2：https://s3-us-west-1.amazonaws.com/google3/index.html
-* Google 搜索 #3：https://s3-ap-northeast-1.amazonaws.com/google5/index.html        
+* Google 搜索 #2：https://s3-us-west-2.amazonaws.com/google2/index.html
+* Google 搜索 #3：https://s3-us-west-1.amazonaws.com/google3/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
-* 自由微博 #2：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html
-* 自由微博 #3：https://s3-ap-southeast-2.amazonaws.com/freeweibo7/index.html        
+* 自由微博 #2：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html
+* 自由微博 #3：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html
-* 中国数字时代 #3：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html        
+* 中国数字时代 #2：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html
+* 中国数字时代 #3：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-ap-northeast-1.amazonaws.com/pao-pao6/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,9 +21,9 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-@paulmozur @niubi our tests don't show this. There have been anamolies from the start but for most people on most platforms - still blocked (2014年07月10日 21:11)
+RT @headhntr: During Thailand's 2014 coup, @citizenlab monitored the fluctuations of state Internet censorship. Results here: https://t.co/… (2014年07月10日 21:23)
  ---
-Wikipedia improves user protection everywhere except China. Why are they endangering / targeting Chinese? <a href="https://www.eff.org/deeplinks/2014/07/forward-secrecy-brings-better-long-term-privacy-wikipedia">www.eff.org/deeplinks/2014/07/forward-secrecy-brings-better-long-term-privacy-wikipedia</a> (2014年07月10日 17:32)
+@paulmozur @niubi our tests don't show this. There have been anamolies from the start but for most people on most platforms - still blocked (2014年07月10日 21:11)
  ---
 RT @Techinasia: Tests reveal Line and Kakao disruptions in China mirror the government's block on Facebook <a href="http://www.techinasia.com/tests-reveal-line-and-kakao-disruptions-in-china-mirror-the-governments-block-on-facebook/">www.techinasia.com/tests-reveal-line-and-kakao-disruptions-in-china-mirror-the-governments-block-on-facebook/</a> (2014年07月10日 17:24)
  ---
