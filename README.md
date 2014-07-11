@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
-* Google 搜索 #2：https://s3-eu-west-1.amazonaws.com/google4/index.html
-* Google 搜索 #3：https://s3-ap-northeast-1.amazonaws.com/google5/index.html        
+* Google 搜索 #2：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html
+* Google 搜索 #3：https://s3-eu-west-1.amazonaws.com/google4/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
-* 自由微博 #2：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html
-* 自由微博 #3：https://s3-ap-southeast-2.amazonaws.com/freeweibo7/index.html        
+* 自由微博 #2：https://s3-us-west-1.amazonaws.com/freeweibo3/index.html
+* 自由微博 #3：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html
-* 中国数字时代 #3：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html        
+* 中国数字时代 #2：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html
+* 中国数字时代 #3：https://s3-eu-west-1.amazonaws.com/cdtimes4/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-ap-northeast-1.amazonaws.com/pao-pao6/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,14 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Google仍然被封锁，昨天解封估计是GFW故障。 免翻墙镜像更新了 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> (2014年07月11日 13:09)
+ ---
+Google stays blocked in China <a href="https://en.greatfire.org/https/www.google.com.hk">en.greatfire.org/https/www.google.com.hk</a> Yesterday's temporally unblock was probably a glitch of GFW. (2014年07月11日 13:03)
+ ---
+<a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> 获取新Google镜像 @jinxray (2014年07月11日 12:58)
+ ---
+Justice declines to pursue allegations that CIA monitored Senate Intel staff <a href="http://www.mcclatchydc.com/2014/07/10/232923/justice-declines-to-pursue-allegations.html">www.mcclatchydc.com/2014/07/10/232923/justice-declines-to-pursue-allegations.html</a> (2014年07月11日 12:56)
+ ---
 Meet the Muslim-American Leaders the FBI and NSA Have Been Spying On <a href="https://firstlook.org/theintercept/article/2014/07/09/under-surveillance/">firstlook.org/theintercept/article/2014/07/09/under-surveillance/</a> (2014年07月11日 09:00)
  ---
 RT @mchobits: 至今总结：严厉批评社科院“意识形态问题”——国内媒体记者不得私自进行批评报道——屏蔽Google所有服务——出台文件严禁媒体从业者泄密——Line, Instagram等境外SNS应用相继无法访问——电视盒子不得预装任何第三方操作系统——新闻从业者不… (2014年07月11日 08:09)
@@ -52,12 +60,4 @@ Feedly,Dropbox,Onedrive, Line, Kakaotalk and Google are all blocked in China. An
 Feedly HTTPS version blocked in China <a href="https://en.greatfire.org/https/feedly.com">en.greatfire.org/https/feedly.com</a> (2014年07月09日 12:55)
  ---
 苹果在去年4月（被迫？）修改了客服号码。 原号码是64198900，恰是六四事件的日期。 <a href="https://web.archive.org/web/20130406172440/https://www.apple.com.cn/retail/sanlitun/">web.archive.org/web/20130406172440/https://www.apple.com.cn/retail/sanlitun/</a> (2014年07月09日 06:57)
- ---
-Apple forced to changed its customer support number in China because it referred to the Tiananmen incident? <a href="https://web.archive.org/web/20130406172440/https://www.apple.com.cn/retail/sanlitun/">web.archive.org/web/20130406172440/https://www.apple.com.cn/retail/sanlitun/</a> (2014年07月09日 06:55)
- ---
-苹果 iCloud 和 iMessage 服务疑在新疆遭到屏蔽后解除 <a href="http://www.solidot.org/story?sid=40230">www.solidot.org/story</a> 这样下去估计明年就被会被完全屏蔽了。 (2014年07月09日 06:15)
- ---
-国内DNS服务器，能防止DNS污染 <a href="http://onedns.net/">onedns.net/</a>  112.124.47.27 (2014年07月09日 04:20)
- ---
-NSA targets the privacy-conscious <a href="http://daserste.ndr.de/panorama/aktuell/nsa230_page-1.html">daserste.ndr.de/panorama/aktuell/nsa230_page-1.html</a> (2014年07月09日 02:00)
  ---
