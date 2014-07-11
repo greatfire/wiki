@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
-* Google 搜索 #2：https://s3-us-west-1.amazonaws.com/google3/index.html
-* Google 搜索 #3：https://s3-ap-northeast-1.amazonaws.com/google5/index.html        
+* Google 搜索 #2：https://s3-us-west-2.amazonaws.com/google2/index.html
+* Google 搜索 #3：https://s3-sa-east-1.amazonaws.com/google7/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
-* 自由微博 #2：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html
-* 自由微博 #3：https://s3-sa-east-1.amazonaws.com/freeweibo8/index.html        
+* 自由微博 #2：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html
+* 自由微博 #3：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html
-* 中国数字时代 #3：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html        
+* 中国数字时代 #2：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html
+* 中国数字时代 #3：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -53,7 +53,7 @@ Feedly HTTPS version blocked in China <a href="https://en.greatfire.org/https/fe
  ---
 苹果在去年4月（被迫？）修改了客服号码。 原号码是64198900，恰是六四事件的日期。 <a href="https://web.archive.org/web/20130406172440/https://www.apple.com.cn/retail/sanlitun/">web.archive.org/web/20130406172440/https://www.apple.com.cn/retail/sanlitun/</a> (2014年07月09日 06:57)
  ---
-Apple forced to changed its customer support number in China because it referred to the Tiananmen incident? <a href="https://web.archive.org/web/20130405210357/http://www.apple.com.cn/retail/sanlitun/">web.archive.org/web/20130405210357/http://www.apple.com.cn/retail/sanlitun/</a> (2014年07月09日 06:55)
+Apple forced to changed its customer support number in China because it referred to the Tiananmen incident? <a href="https://web.archive.org/web/20130406172440/https://www.apple.com.cn/retail/sanlitun/">web.archive.org/web/20130406172440/https://www.apple.com.cn/retail/sanlitun/</a> (2014年07月09日 06:55)
  ---
 苹果 iCloud 和 iMessage 服务疑在新疆遭到屏蔽后解除 <a href="http://www.solidot.org/story?sid=40230">www.solidot.org/story</a> 这样下去估计明年就被会被完全屏蔽了。 (2014年07月09日 06:15)
  ---
