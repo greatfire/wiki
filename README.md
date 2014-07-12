@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
-* Google 搜索 #2：https://s3-ap-northeast-1.amazonaws.com/google5/index.html
-* Google 搜索 #3：https://s3-eu-west-1.amazonaws.com/google4/index.html        
+* Google 搜索 #2：https://s3-ap-southeast-2.amazonaws.com/google6/index.html
+* Google 搜索 #3：https://s3-us-west-2.amazonaws.com/google2/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
-* 自由微博 #2：https://s3-us-west-1.amazonaws.com/freeweibo3/index.html
-* 自由微博 #3：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html        
+* 自由微博 #2：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html
+* 自由微博 #3：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html
+* 中国数字时代 #2：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html
 * 中国数字时代 #3：https://s3-eu-west-1.amazonaws.com/cdtimes4/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-northeast-1.amazonaws.com/pao-pao6/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Lantern墙内下载地址 <a href="https://mega.co.nz/#!chUQ0BSS!X-S4IuDGLCq7NlX36pIue_y80ylr_iCXsSpQYKHjq_o">mega.co.nz/</a> 欢迎反馈使用情况到 <a href="https://lanternforum.greatfire.org/viewforum.php?f=1">lanternforum.greatfire.org/viewforum.php</a> (2014年07月12日 13:21)
+ ---
 Lantern已经开放下载了，无须邀请. <a href="https://getlantern.org/#zh_CN">getlantern.org/</a> (2014年07月12日 13:11)
  ---
 RT @paopaonet: 互联网观察家Vergil制作了一份特别的日历，记载了今年五六月频繁发生的互联网管制事件。始于四月初开始的净网行动，初始阶段时主要对国内各种服务供应商特别是云存储商的清理和整顿。<a href="https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html?u=article/129">s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html</a> http://t.co/… (2014年07月12日 01:35)
@@ -59,6 +61,4 @@ RT @YourAnonNews: This Wired article about @headhntr is pretty cool <a href="htt
 RT @sophie_beach: Murong Xuecun detained <a href="http://chinadigitaltimes.net/2014/07/murong-xuecun-detained-tiananmen-square-event/">chinadigitaltimes.net/2014/07/murong-xuecun-detained-tiananmen-square-event/</a> Woeser house arrest <a href="http://chinadigitaltimes.net/2014/07/tibetan-writer-woeser-house-arrest-kerry-visit/">chinadigitaltimes.net/2014/07/tibetan-writer-woeser-house-arrest-kerry-visit/</a> Li Chengpeng “wiped offline” htt… (2014年07月10日 00:49)
  ---
 RT @getlantern: Donating to our @Indiegogo helps provide un-censored internet to people around the world! <a href="https://www.indiegogo.com/projects/fund-internet-freedom-with-lantern">www.indiegogo.com/projects/fund-internet-freedom-with-lantern</a> Help us sp… (2014年07月10日 00:48)
- ---
-This why @instagram disappeared from Android app stores? <a href="http://instagram.com/dalailama">instagram.com/dalailama</a> This why it still works? <a href="http://instagram.com/xijinpingofficial/">instagram.com/xijinpingofficial/</a> (2014年07月10日 00:39)
  ---
