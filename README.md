@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
-* Google 搜索 #2：https://s3-ap-southeast-2.amazonaws.com/google6/index.html
-* Google 搜索 #3：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html        
+* Google 搜索 #2：https://s3-us-west-1.amazonaws.com/google3/index.html
+* Google 搜索 #3：https://s3-sa-east-1.amazonaws.com/google7/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
-* 自由微博 #2：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html
-* 自由微博 #3：https://s3-us-west-1.amazonaws.com/freeweibo3/index.html        
+* 自由微博 #2：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html
+* 自由微博 #3：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-eu-west-1.amazonaws.com/cdtimes4/index.html
-* 中国数字时代 #3：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html        
+* 中国数字时代 #2：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html
+* 中国数字时代 #3：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-us-west-2.amazonaws.com/pao-pao9/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+全平台翻墙指南（PC＋安卓＋iOS+Mac+Linux）[2014.7更新] <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=15&p=26#p26">lanternforum.greatfire.org/viewtopic.php</a> (2014年07月14日 09:02)
+ ---
 Bank of China-CCTV drama may reveal power struggle in Beijing <a href="http://www.scmp.com/business/banking-finance/article/1553552/bank-china-cctv-drama-may-reveal-power-struggle-beijing">www.scmp.com/business/banking-finance/article/1553552/bank-china-cctv-drama-may-reveal-power-struggle-beijing</a> (2014年07月14日 08:16)
  ---
 How 160,000 intercepted communications led to our latest NSA story <a href="http://www.washingtonpost.com/world/national-security/your-questions-answered-about-the-posts-recent-investigation-of-nsa-surveillance/2014/07/11/43d743e6-0908-11e4-8a6a-19355c7e870a_story.html">www.washingtonpost.com/world/national-security/your-questions-answered-about-the-posts-recent-investigation-of-nsa-surveillance/2014/07/11/43d743e6-0908-11e4-8a6a-19355c7e870a_story.html</a> (2014年07月14日 03:55)
@@ -59,6 +61,4 @@ China’s monthlong block of Google hits businesses <a href="http://rt.com/busin
 RT @headhntr: During Thailand's 2014 coup, @citizenlab monitored the fluctuations of state Internet censorship. Results here: https://t.co/… (2014年07月10日 21:23)
  ---
 RT @Techinasia: Tests reveal Line and Kakao disruptions in China mirror the government's block on Facebook <a href="http://www.techinasia.com/tests-reveal-line-and-kakao-disruptions-in-china-mirror-the-governments-block-on-facebook/">www.techinasia.com/tests-reveal-line-and-kakao-disruptions-in-china-mirror-the-governments-block-on-facebook/</a> (2014年07月10日 17:24)
- ---
-RT @jason5ng32: Instagram 从国内安卓市场下架因为有达赖和香港七一游行的照片。猜测极有可能是公安部门下达的命令，因为网络审查相关部门一贯的做事风格是直接封锁，而不是下达行政命令，而新闻办和宣传部门是无法对非媒体互联网企业直接下达命令的，所以，公安部门的可… (2014年07月10日 05:42)
  ---
