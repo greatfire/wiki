@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
-* Google 搜索 #2：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html
-* Google 搜索 #3：https://s3-us-west-1.amazonaws.com/google3/index.html        
+* Google 搜索 #2：https://s3-us-west-1.amazonaws.com/google3/index.html
+* Google 搜索 #3：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
-* 自由微博 #2：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html
-* 自由微博 #3：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html        
+* 自由微博 #2：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html
+* 自由微博 #3：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html
-* 中国数字时代 #3：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html        
+* 中国数字时代 #2：https://s3-ap-southeast-1.amazonaws.com/cdtimes2/index.html
+* 中国数字时代 #3：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-us-west-2.amazonaws.com/pao-pao9/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-us-west-2.amazonaws.com/pao-pao9/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Unusual if true - Chinese authorities tell Korean embassy that they will unblock Kakao by end of July <a href="http://www.koreaherald.com/view.php?ud=20140714000824">www.koreaherald.com/view.php</a> (2014年07月15日 17:33)
+ ---
 RT @fightcensorship: 淘宝网上的定位追踪器都能通过手机、电脑网页、微信和短信，对目标进行实时监控定位，经纬度、运动方向、速度、停留时间，国保的专业定位追踪器就更不要说了，大家真的要小心了，别总是大喇喇地什么也不在乎。<a href="http://news.xinhuanet.com/local/2014-07/14/c_126746935.htm?utm_source=twitterfeed&utm_medium=twitter">news.xinhuanet.com/local/2014-07/14/c_126746935.htm</a> (2014年07月15日 10:49)
  ---
 RT @fightcensorship: 限时提供免费Steganos Online Shield VPN一年使用期，每月2GB流量。只要到下面的网址，输入你的邮件地址，它会将软件下载地址和激活码发送给你。<a href="https://www.steganos.com/specials/?m=cbe&p=sos">www.steganos.com/specials/</a> 如图所示激活。 http… (2014年07月15日 10:41)
@@ -59,6 +61,4 @@ GFW把公民一家老小吃饭穿衣的能力都夺走了。已经有许多公�
 GFW是维稳还是在为民众全面爆发做准备？ <a href="https://twitter.com/GreatFireChina/status/487467065679175680/photo/1">twitter.com/GreatFireChina/status/487467065679175680/photo/1</a> (2014年07月11日 13:22)
  ---
 Google仍然被封锁，昨天解封估计是GFW故障。 免翻墙镜像更新了 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> (2014年07月11日 13:09)
- ---
-Google stays blocked in China <a href="https://en.greatfire.org/https/www.google.com.hk">en.greatfire.org/https/www.google.com.hk</a> Yesterday's temporally unblock was probably a glitch of GFW. (2014年07月11日 13:03)
  ---
