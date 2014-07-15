@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
-* Google 搜索 #2：https://s3-sa-east-1.amazonaws.com/google7/index.html
-* Google 搜索 #3：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html        
+* Google 搜索 #2：https://s3-ap-southeast-2.amazonaws.com/google6/index.html
+* Google 搜索 #3：https://s3-sa-east-1.amazonaws.com/google7/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
 * 自由微博 #2：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html
-* 自由微博 #3：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html        
+* 自由微博 #3：https://s3-us-west-1.amazonaws.com/freeweibo3/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html
-* 中国数字时代 #3：https://s3-ap-southeast-1.amazonaws.com/cdtimes2/index.html        
+* 中国数字时代 #2：https://s3-eu-west-1.amazonaws.com/cdtimes4/index.html
+* 中国数字时代 #3：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
 * 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @fightcensorship: 限时提供免费Steganos Online Shield VPN一年使用期，每月2GB流量。只要到下面的网址，输入你的邮件地址，它会将软件下载地址和激活码发送给你。<a href="https://www.steganos.com/specials/?m=cbe&p=sos">www.steganos.com/specials/</a> 如图所示激活。 http… (2014年07月15日 10:41)
+ ---
 RT @ggreenwald: NEW: Hacking online polls and other tactics GCHQ uses to manipulate the internet  <a href="https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/">firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/</a> (2014年07月15日 06:54)
  ---
 Apple denies iPhones are ‘a national security threat’ to China <a href="http://www.theguardian.com/technology/2014/jul/14/apple-denies-iphone-national-security-threat-location-tracking-china">www.theguardian.com/technology/2014/jul/14/apple-denies-iphone-national-security-threat-location-tracking-china</a> (2014年07月15日 06:20)
@@ -59,6 +61,4 @@ Google仍然被封锁，昨天解封估计是GFW故障。 免翻墙镜像更新�
 Google stays blocked in China <a href="https://en.greatfire.org/https/www.google.com.hk">en.greatfire.org/https/www.google.com.hk</a> Yesterday's temporally unblock was probably a glitch of GFW. (2014年07月11日 13:03)
  ---
 <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> 获取新Google镜像 @jinxray (2014年07月11日 12:58)
- ---
-Justice declines to pursue allegations that CIA monitored Senate Intel staff <a href="http://www.mcclatchydc.com/2014/07/10/232923/justice-declines-to-pursue-allegations.html">www.mcclatchydc.com/2014/07/10/232923/justice-declines-to-pursue-allegations.html</a> (2014年07月11日 12:56)
  ---
