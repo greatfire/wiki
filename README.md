@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
-* Google 搜索 #2：https://s3-eu-west-1.amazonaws.com/google4/index.html
-* Google 搜索 #3：https://s3-us-west-2.amazonaws.com/google2/index.html        
+* Google 搜索 #2：https://s3-sa-east-1.amazonaws.com/google7/index.html
+* Google 搜索 #3：https://s3-ap-northeast-1.amazonaws.com/google5/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
-* 自由微博 #2：https://s3-sa-east-1.amazonaws.com/freeweibo8/index.html
-* 自由微博 #3：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html        
+* 自由微博 #2：https://s3-us-west-1.amazonaws.com/freeweibo3/index.html
+* 自由微博 #3：https://s3-ap-southeast-2.amazonaws.com/freeweibo7/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-us-west-2.amazonaws.com/cdtimes9/index.html
-* 中国数字时代 #3：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html        
+* 中国数字时代 #2：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html
+* 中国数字时代 #3：https://s3-eu-west-1.amazonaws.com/cdtimes4/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-us-west-2.amazonaws.com/pao-pao9/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-ap-northeast-1.amazonaws.com/pao-pao6/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Shutterstock, a website providing stock photography, is newly in China this month. <a href="https://en.greatfire.org/shutterstock.com">en.greatfire.org/shutterstock.com</a> (2014年07月16日 01:34)
+ ---
 按照"工业和信息化部政府信息公开申请办理方法"申请关于封锁 google 的政府信息公开 <a href="https://freeweibo.com/weibo/3732268864071914">freeweibo.com/weibo/3732268864071914</a> (2014年07月15日 23:25)
  ---
 RT @samuel_wade: The Global Times Phenomenon <a href="http://chinadigitaltimes.net/2014/07/global-times-phenomenon/">chinadigitaltimes.net/2014/07/global-times-phenomenon/</a> Starring @ChinaChange_org, @GreatFireChina and @BeijingPalmer (2014年07月15日 22:37)
@@ -58,6 +60,4 @@ Lantern已经开放下载了，无须邀请. <a href="https://getlantern.org/#zh
 RT @paopaonet: 互联网观察家Vergil制作了一份特别的日历，记载了今年五六月频繁发生的互联网管制事件。始于四月初开始的净网行动，初始阶段时主要对国内各种服务供应商特别是云存储商的清理和整顿。<a href="https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html?u=article/129">s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html</a> http://t.co/… (2014年07月12日 01:35)
  ---
 After short revival, Google service disruptions in China return <a href="http://www.reuters.com/article/2014/07/11/us-google-china-idUSKBN0FG07720140711">www.reuters.com/article/2014/07/11/us-google-china-idUSKBN0FG07720140711</a> Google search traffic <a href="https://twitter.com/GreatFireChina/status/487625891443257345/photo/1">twitter.com/GreatFireChina/status/487625891443257345/photo/1</a> (2014年07月11日 23:54)
- ---
-After short revival, Google service disruptions in China return <a href="http://uk.reuters.com/article/2014/07/11/us-google-china-idUKKBN0FG07720140711">uk.reuters.com/article/2014/07/11/us-google-china-idUKKBN0FG07720140711</a> via @reuters (2014年07月11日 16:29)
  ---
