@@ -1,16 +1,16 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
-* Google 搜索 #2：https://s3-us-west-1.amazonaws.com/google3/index.html
+* Google 搜索 #2：https://s3-eu-west-1.amazonaws.com/google4/index.html
 * Google 搜索 #3：https://s3-ap-southeast-2.amazonaws.com/google6/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
-* 自由微博 #2：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html
-* 自由微博 #3：https://s3-ap-southeast-2.amazonaws.com/freeweibo7/index.html        
+* 自由微博 #2：https://s3-us-west-1.amazonaws.com/freeweibo3/index.html
+* 自由微博 #3：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-us-west-2.amazonaws.com/cdtimes9/index.html
+* 中国数字时代 #2：https://s3-ap-southeast-1.amazonaws.com/cdtimes2/index.html
 * 中国数字时代 #3：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-us-west-2.amazonaws.com/pao-pao9/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-ap-northeast-1.amazonaws.com/pao-pao6/index.html
 * 泡泡（未经审查的网络报道） #3：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @getlantern: Want to help defeat #internetcensorship today? Download Lantern to give others access to the uncensored internet! http://t.… (2014年07月17日 07:38)
+ ---
 RT @zemao: 还让不让人活了！【广电总局下达互联网电视最严整改令：商业网站境外剧一周内必须下线】①境外引进影视剧、微电影要求必须在一周内下线；②推出不同版本EPG必须向总局报备。③未经批准的终端产品不允许推向市场。④立即停止与某正查处企业的合作。http://t.co/… (2014年07月16日 12:43)
  ---
 Shutterstock, a website providing stock photography, is newly blocked in China this month. <a href="https://en.greatfire.org/shutterstock.com">en.greatfire.org/shutterstock.com</a> (2014年07月16日 01:52)
@@ -58,6 +60,4 @@ RT @jason5ng32: 央视在黑苹果的报道中，采访了他们iOS客户端的�
 Lantern墙内下载地址 <a href="https://mega.co.nz/#!chUQ0BSS!X-S4IuDGLCq7NlX36pIue_y80ylr_iCXsSpQYKHjq_o">mega.co.nz/</a> 欢迎反馈使用情况到 <a href="https://lanternforum.greatfire.org/viewforum.php?f=1">lanternforum.greatfire.org/viewforum.php</a> (2014年07月12日 13:21)
  ---
 Lantern已经开放下载了，无须邀请. <a href="https://getlantern.org/#zh_CN">getlantern.org/</a> (2014年07月12日 13:11)
- ---
-RT @paopaonet: 互联网观察家Vergil制作了一份特别的日历，记载了今年五六月频繁发生的互联网管制事件。始于四月初开始的净网行动，初始阶段时主要对国内各种服务供应商特别是云存储商的清理和整顿。<a href="https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html?u=article/129">s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html</a> http://t.co/… (2014年07月12日 01:35)
  ---
