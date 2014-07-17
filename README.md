@@ -2,16 +2,16 @@
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
 * Google 搜索 #2：https://s3-sa-east-1.amazonaws.com/google7/index.html
-* Google 搜索 #3：https://s3-ap-northeast-1.amazonaws.com/google5/index.html        
+* Google 搜索 #3：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
-* 自由微博 #2：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html
-* 自由微博 #3：https://s3-sa-east-1.amazonaws.com/freeweibo8/index.html        
+* 自由微博 #2：https://s3-ap-southeast-2.amazonaws.com/freeweibo7/index.html
+* 自由微博 #3：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html
-* 中国数字时代 #3：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html        
+* 中国数字时代 #2：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html
+* 中国数字时代 #3：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-us-west-1.amazonaws.com/pao-pao3/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Inside a Beijing Interrogation Room <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F07%2F18%2Fopinion%2Fmurong-xuecun-inside-a-beijing-interrogation-room.html%3Fref%3Dasia%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年07月18日 00:33)
+ ---
 RT @arusbridger: I interviewed Edward Snowden with @ewenmacaskill in Moscow last week. Here's the film.Text  tomorrow <a href="http://www.theguardian.com/world/video/2014/jul/17/edward-snowden-video-interview">www.theguardian.com/world/video/2014/jul/17/edward-snowden-video-interview</a> (2014年07月17日 22:12)
  ---
 RT @getlantern: Want to help defeat #internetcensorship today? Download Lantern to give others access to the uncensored internet! http://t.… (2014年07月17日 07:38)
@@ -58,6 +60,4 @@ Bank of China-CCTV drama may reveal power struggle in Beijing <a href="http://ww
 How 160,000 intercepted communications led to our latest NSA story <a href="http://www.washingtonpost.com/world/national-security/your-questions-answered-about-the-posts-recent-investigation-of-nsa-surveillance/2014/07/11/43d743e6-0908-11e4-8a6a-19355c7e870a_story.html">www.washingtonpost.com/world/national-security/your-questions-answered-about-the-posts-recent-investigation-of-nsa-surveillance/2014/07/11/43d743e6-0908-11e4-8a6a-19355c7e870a_story.html</a> (2014年07月14日 03:55)
  ---
 RT @jason5ng32: 央视在黑苹果的报道中，采访了他们iOS客户端的工作人员，这位工作人员的iMac用虚拟机运行着XP，正在用QQ聊天，她表示“不懂”iPhone为什么收集位置信息。我只庆幸我们的iOS工程师不姓李。 <a href="https://twitter.com/jason5ng32/status/488150719942254593/photo/1">twitter.com/jason5ng32/status/488150719942254593/photo/1</a> (2014年07月13日 12:49)
- ---
-Lantern墙内下载地址 <a href="https://mega.co.nz/#!chUQ0BSS!X-S4IuDGLCq7NlX36pIue_y80ylr_iCXsSpQYKHjq_o">mega.co.nz/</a> 欢迎反馈使用情况到 <a href="https://lanternforum.greatfire.org/viewforum.php?f=1">lanternforum.greatfire.org/viewforum.php</a> (2014年07月12日 13:21)
  ---
