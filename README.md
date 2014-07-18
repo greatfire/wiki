@@ -2,16 +2,16 @@
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
 * Google 搜索 #2：https://s3-eu-west-1.amazonaws.com/google4/index.html
-* Google 搜索 #3：https://s3-ap-northeast-1.amazonaws.com/google5/index.html        
+* Google 搜索 #3：https://s3-ap-southeast-2.amazonaws.com/google6/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
 * 自由微博 #2：https://s3-ap-southeast-2.amazonaws.com/freeweibo7/index.html
-* 自由微博 #3：https://s3-sa-east-1.amazonaws.com/freeweibo8/index.html        
+* 自由微博 #3：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-eu-west-1.amazonaws.com/cdtimes4/index.html
-* 中国数字时代 #3：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html        
+* 中国数字时代 #2：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html
+* 中国数字时代 #3：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
 * 泡泡（未经审查的网络报道） #2：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+2014年7月16日，网友“吴洪波”在微博上发文称：今天上午在秦皇岛长寿山景区遇到贾庆林，和蔼可亲的河北老乡。//这竟然上了头条新闻，随便一个用户发微博，没有任何认证和媒体确认，能上中央媒体，以为所有微博用户都是SB么？ <a href="https://freeweibo.com/weibo/3733590942234146">freeweibo.com/weibo/3733590942234146</a> (2014年07月18日 11:50)
+ ---
 南方都市报微博发表［公交纵火者的人生轨迹］<a href="https://freeweibo.com/weibo/3733430724191704">freeweibo.com/weibo/3733430724191704</a> 原文以及新浪等转载均被删除 (2014年07月18日 11:39)
  ---
 【公交纵火者的人生轨迹】小学辍学，来穗打工，学艺赚钱，返乡买房…这是25岁前，湖南衡南人欧长生的人生轨迹，极其普通。为什么后来他又怨天尤人，兄弟反目，赌博借钱，公交纵火走上不归路？南都记者连日来走访广州301公交纵火嫌犯的父亲等人。<a href="https://webcache.googleusercontent.com/search?q=cache:QKsJRdRABM4J:mp.weixin.qq.com/s%3F__biz%3DMTk1MjIwODAwMQ%3D%3D%26mid%3D200792575%26idx%3D1%26sn%3D5d83daae3a4947e91ca48d990813af14+&cd=1&hl=en&ct=clnk&gl=us">webcache.googleusercontent.com/search</a> (2014年07月18日 11:37)
@@ -58,6 +60,4 @@ Apple denies iPhones are ‘a national security threat’ to China <a href="http
 VPN use on the rise, thanks to the block on Google <a href="http://www.globaltimes.cn/content/870320.shtml?utm_content=bufferd1187&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">www.globaltimes.cn/content/870320.shtml</a> via @globaltimesnews (2014年07月14日 20:33)
  ---
 What @globaltimesnews has in common with @WalkingDead_AMC <a href="http://chinachange.org/2014/07/13/the-phenomenon-of-the-global-times/">chinachange.org/2014/07/13/the-phenomenon-of-the-global-times/</a> (2014年07月14日 15:54)
- ---
-全平台翻墙指南（PC＋安卓＋iOS+Mac+Linux）[2014.7更新] <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=15&p=26#p26">lanternforum.greatfire.org/viewtopic.php</a> (2014年07月14日 09:02)
  ---
