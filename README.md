@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
-* Google 搜索 #2：https://s3-ap-northeast-1.amazonaws.com/google5/index.html
-* Google 搜索 #3：https://s3-us-west-1.amazonaws.com/google3/index.html        
+* Google 搜索 #2：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html
+* Google 搜索 #3：https://s3-us-west-2.amazonaws.com/google2/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
-* 自由微博 #2：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html
-* 自由微博 #3：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html        
+* 自由微博 #2：https://s3-ap-southeast-2.amazonaws.com/freeweibo7/index.html
+* 自由微博 #3：https://s3-sa-east-1.amazonaws.com/freeweibo8/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html
-* 中国数字时代 #3：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html        
+* 中国数字时代 #2：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html
+* 中国数字时代 #3：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-us-west-2.amazonaws.com/pao-pao9/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-us-west-2.amazonaws.com/pao-pao9/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-northeast-1.amazonaws.com/pao-pao6/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -23,7 +23,7 @@
 ## 新闻
 China shuts down 31 websites temporarily as crackdown on 'rumour mongers' continues <a href="http://www.scmp.com/news/china/article/1556200/china-shuts-down-31-websites-temporarily-crackdown-rumour-mongers">www.scmp.com/news/china/article/1556200/china-shuts-down-31-websites-temporarily-crackdown-rumour-mongers</a> via @SCMP_News #censorship (2014年07月19日 00:05)
  ---
-"What, exactly, does the public have a right to know? And who gets to decide?" <a href="http://flip.it/cxYAv">flip.it/cxYAv</a> (2014年07月18日 23:42)
+"What, exactly, does the public have a right to know? And who gets to decide?" <a href="http://www.foreignpolicy.com/articles/2014/07/17/china_censorship_cenci_translation">www.foreignpolicy.com/articles/2014/07/17/china_censorship_cenci_translation</a> (2014年07月18日 23:42)
  ---
 他的姓氏以"江"开头，经常戴着一副黑框眼镜 。他和一个年龄相差悬殊的女人保持了十几年的不正常关系。他知识水平很高，和记者朋友官府要员谈笑风生。他和一个姓毛的人从事相同的工作。因他而死的人数不胜数。他虽然已退居二线，但发生事端时，他依旧垂帘听政，幕后操作。他，就是江户川柯南。 (2014年07月18日 19:55)
  ---
