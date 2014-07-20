@@ -2,16 +2,16 @@
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
 * Google 搜索 #2：https://s3-eu-west-1.amazonaws.com/google4/index.html
-* Google 搜索 #3：https://s3-us-west-1.amazonaws.com/google3/index.html        
+* Google 搜索 #3：https://s3-us-west-2.amazonaws.com/google2/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
-* 自由微博 #2：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html
-* 自由微博 #3：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html        
+* 自由微博 #2：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html
+* 自由微博 #3：https://s3-ap-southeast-2.amazonaws.com/freeweibo7/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-us-west-2.amazonaws.com/cdtimes9/index.html
-* 中国数字时代 #3：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html        
+* 中国数字时代 #2：https://s3-ap-southeast-1.amazonaws.com/cdtimes2/index.html
+* 中国数字时代 #3：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-us-west-2.amazonaws.com/pao-pao9/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Why is there a packet sniffer running on 600 million  personal iOS devices instead of moved to the developer mount?   <a href="http://www.zdziarski.com/blog/wp-content/uploads/2014/07/iOS_Backdoors_Attack_Points_Surveillance_Mechanisms.pdf">www.zdziarski.com/blog/wp-content/uploads/2014/07/iOS_Backdoors_Attack_Points_Surveillance_Mechanisms.pdf</a> (2014年07月21日 00:23)
+ ---
 RT @PhelimKine: #China govt tightens its chokehold on journalists notes @MalcolmMoore <a href="http://www.telegraph.co.uk/news/worldnews/asia/china/10971707/Advice-for-journalists-in-China-Hire-a-lawyer.html">www.telegraph.co.uk/news/worldnews/asia/china/10971707/Advice-for-journalists-in-China-Hire-a-lawyer.html</a> #censorship #hypocrisy http://… (2014年07月20日 15:25)
  ---
 RT @hacklib: #Snowden calls for #hopex hackers: "shift the ground of technical literacy"-"we don't want a high priesthood of technology" @h… (2014年07月20日 15:20)
@@ -58,6 +60,4 @@ RT @getlantern: Want to help defeat #internetcensorship today? Download Lantern 
 RT @zemao: 还让不让人活了！【广电总局下达互联网电视最严整改令：商业网站境外剧一周内必须下线】①境外引进影视剧、微电影要求必须在一周内下线；②推出不同版本EPG必须向总局报备。③未经批准的终端产品不允许推向市场。④立即停止与某正查处企业的合作。http://t.co/… (2014年07月16日 12:43)
  ---
 Shutterstock, a website providing stock photography, is newly blocked in China this month. <a href="https://en.greatfire.org/shutterstock.com">en.greatfire.org/shutterstock.com</a> (2014年07月16日 01:52)
- ---
-按照"工业和信息化部政府信息公开申请办理方法"申请关于封锁 google 的政府信息公开 <a href="https://freeweibo.com/weibo/3732268864071914">freeweibo.com/weibo/3732268864071914</a> (2014年07月15日 23:25)
  ---
