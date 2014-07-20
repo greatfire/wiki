@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
-* Google 搜索 #2：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html
-* Google 搜索 #3：https://s3-sa-east-1.amazonaws.com/google7/index.html        
+* Google 搜索 #2：https://s3-eu-west-1.amazonaws.com/google4/index.html
+* Google 搜索 #3：https://s3-us-west-2.amazonaws.com/google2/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
 * 自由微博 #2：https://s3-ap-northeast-1.amazonaws.com/freeweibo6/index.html
-* 自由微博 #3：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html        
+* 自由微博 #3：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html
-* 中国数字时代 #3：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html        
+* 中国数字时代 #2：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html
+* 中国数字时代 #3：https://s3-eu-west-1.amazonaws.com/cdtimes4/index.html        
 * 泡泡（未经审查的网络报道） #1：https://d314smqit31aca.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-us-west-2.amazonaws.com/pao-pao9/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-ap-northeast-1.amazonaws.com/pao-pao6/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+The otherwise great security of iOS has been compromised…by Apple…by design <a href="http://www.zdziarski.com/blog/wp-content/uploads/2014/07/iOS_Backdoors_Attack_Points_Surveillance_Mechanisms.pdf">www.zdziarski.com/blog/wp-content/uploads/2014/07/iOS_Backdoors_Attack_Points_Surveillance_Mechanisms.pdf</a> h/t @niubi (2014年07月20日 15:03)
+ ---
 Baidu Launches Brazilian Search Engine - Apparently With Chinese Political Censorship <a href="http://blog.feichangdao.com/2014/07/baidu-launches-brazilian-search-engine.html">blog.feichangdao.com/2014/07/baidu-launches-brazilian-search-engine.html</a> via @wafarris (2014年07月20日 14:57)
  ---
 I, spy: Edward Snowden in exile <a href="http://www.theguardian.com/world/2014/jul/18/-sp-edward-snowden-interview-rusbridger-macaskill?CMP=twt_gu">www.theguardian.com/world/2014/jul/18/-sp-edward-snowden-interview-rusbridger-macaskill</a> (2014年07月19日 12:43)
@@ -58,6 +60,4 @@ Shutterstock, a website providing stock photography, is newly blocked in China t
 RT @samuel_wade: The Global Times Phenomenon <a href="http://chinadigitaltimes.net/2014/07/global-times-phenomenon/">chinadigitaltimes.net/2014/07/global-times-phenomenon/</a> Starring @ChinaChange_org, @GreatFireChina and @BeijingPalmer (2014年07月15日 22:37)
  ---
 RT @appcarteblanche: Read NYT, Guardian, Yahoo!, FreeWeibo and more with the Carte Blanche app! #china <a href="https://itunes.apple.com/us/app/carte-blanche/id889706609">itunes.apple.com/us/app/carte-blanche/id889706609</a> (2014年07月15日 19:30)
- ---
-Unusual if true - Chinese authorities tell Korean embassy that they will unblock Kakao by end of July <a href="http://www.koreaherald.com/view.php?ud=20140714000824">www.koreaherald.com/view.php</a> (2014年07月15日 17:33)
  ---
