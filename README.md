@@ -1,17 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
-* Google 搜索 #2：https://s3-us-west-2.amazonaws.com/google2/index.html
-* Google 搜索 #3：https://s3-ap-southeast-1.amazonaws.com/google.cn/index.html        
+* Google 搜索 #2：https://s3-ap-northeast-1.amazonaws.com/google5/index.html
+* Google 搜索 #3：https://s3-us-west-2.amazonaws.com/google2/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
-* 自由微博 #2：https://s3-eu-west-1.amazonaws.com/freeweibo4/index.html
-* 自由微博 #3：https://s3-sa-east-1.amazonaws.com/freeweibo8/index.html        
+* 自由微博 #2：https://s3-sa-east-1.amazonaws.com/freeweibo8/index.html
+* 自由微博 #3：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html
-* 中国数字时代 #3：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html        
+* 中国数字时代 #2：https://s3-sa-east-1.amazonaws.com/cdtimes8/index.html
+* 中国数字时代 #3：https://s3-us-west-2.amazonaws.com/cdtimes9/index.html        
 * 泡泡（未经审查的网络报道） #1：https://dm3a8dsjmaqu2.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-us-west-2.amazonaws.com/pao-pao9/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-ap-southeast-2.amazonaws.com/pao-pao7/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Brazilians, do not use Baidu Brazil, unless you want to experience China's censorship first hand.  <a href="http://br.baidu.com/s?wd=free%20tibet">br.baidu.com/s</a> (2014年07月21日 08:37)
+ ---
 @niubi "China falun gong" is not a sensitive word even on <a href="http://baidu.com">baidu.com</a> . The censorship is caused by GFW. (2014年07月21日 08:26)
  ---
 免翻墙阅读被屏蔽的新闻 iOS客户端 <a href="https://itunes.apple.com/cn/app/carte-blanche/id889706609?l=cn&ls=1&mt=8">itunes.apple.com/cn/app/carte-blanche/id889706609</a> (2014年07月21日 08:19)
@@ -58,6 +60,4 @@ China shuts down 31 websites temporarily as crackdown on 'rumour mongers' contin
 南方都市报微博发表［公交纵火者的人生轨迹］<a href="https://freeweibo.com/weibo/3733430724191704">freeweibo.com/weibo/3733430724191704</a> 原文以及新浪等转载均被删除 (2014年07月18日 11:39)
  ---
 【公交纵火者的人生轨迹】小学辍学，来穗打工，学艺赚钱，返乡买房…这是25岁前，湖南衡南人欧长生的人生轨迹，极其普通。为什么后来他又怨天尤人，兄弟反目，赌博借钱，公交纵火走上不归路？南都记者连日来走访广州301公交纵火嫌犯的父亲等人。<a href="https://webcache.googleusercontent.com/search?q=cache:QKsJRdRABM4J:mp.weixin.qq.com/s%3F__biz%3DMTk1MjIwODAwMQ%3D%3D%26mid%3D200792575%26idx%3D1%26sn%3D5d83daae3a4947e91ca48d990813af14+&cd=1&hl=en&ct=clnk&gl=us">webcache.googleusercontent.com/search</a> (2014年07月18日 11:37)
- ---
-RT @Aaronzhou: 今天作业老师又要儿子背这首诗，于是老子怒了，写了一段话在诗上，叫儿子说，老师要检查你背诵，你就说爸爸不让我背，让我给你看这个！ <a href="https://twitter.com/Aaronzhou/status/334649314456526848/photo/1">twitter.com/Aaronzhou/status/334649314456526848/photo/1</a> (2014年07月18日 11:21)
  ---
