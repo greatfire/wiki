@@ -1,16 +1,16 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
-* Google 搜索 #2：https://s3-ap-northeast-1.amazonaws.com/google5/index.html
-* Google 搜索 #3：https://s3-sa-east-1.amazonaws.com/google7/index.html        
+* Google 搜索 #2：https://s3-us-west-2.amazonaws.com/google2/index.html
+* Google 搜索 #3：https://s3-us-west-1.amazonaws.com/google3/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
 * 自由微博 #2：https://s3-sa-east-1.amazonaws.com/freeweibo8/index.html
-* 自由微博 #3：https://s3-ap-southeast-2.amazonaws.com/freeweibo7/index.html        
+* 自由微博 #3：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-ap-northeast-1.amazonaws.com/cdtimes6/index.html
-* 中国数字时代 #3：https://s3-eu-west-1.amazonaws.com/cdtimes4/index.html        
+* 中国数字时代 #2：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html
+* 中国数字时代 #3：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html        
 * 泡泡（未经审查的网络报道） #1：https://dm3a8dsjmaqu2.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-us-west-2.amazonaws.com/pao-pao9/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
 * 泡泡（未经审查的网络报道） #3：https://s3-sa-east-1.amazonaws.com/pao-pao8/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @boy1573: 无需修改Hosts,只需把电脑的DNS设置为: 112.124.47.27 ... 就可以使用HTTPS的方式连接Google..Gmail..Facebook等网站..twitter除外...适用于所有浏览器..别问我是谁, 我不是雷锋...转给小伙… (2014年07月22日 01:16)
+ ---
 RT @paopaonet: （泡泡网特约撰稿）《马航灾难中的中国冷漠症》就在马航空难引发国人热议乌克兰局势，并直接将普京掌控的俄罗斯指为幕后元凶时，为俄辩护的声音出现了。它们攻击那些对俄罗斯的正常指控，并且使用了幼稚的阴谋论，汇集成一句话就是：这是美国人干的。https://… (2014年07月22日 01:02)
  ---
 Brazilians, do not use Baidu Brazil, unless you want to experience China's censorship first hand.  <a href="http://br.baidu.com/s?wd=free%20tibet">br.baidu.com/s</a> (2014年07月21日 08:37)
@@ -58,6 +60,4 @@ China shuts down 31 websites temporarily as crackdown on 'rumour mongers' contin
 韩国媒体报道。中国外交官告诉韩国外交官中国封锁了Line和KaokaoTalk，但封锁在本月内就会结束。中国还简略告诉韩国封锁原因，但韩国外交官因为情况敏感，说不能披露中国提供的原因。 <a href="http://www.koreaherald.com/view.php?ud=20140714000824">www.koreaherald.com/view.php</a> (2014年07月18日 12:05)
  ---
 2014年7月16日，网友“吴洪波”在微博上发文称：今天上午在秦皇岛长寿山景区遇到贾庆林，和蔼可亲的河北老乡。//这竟然上了头条新闻，随便一个用户发微博，没有任何认证和媒体确认，能上中央媒体，以为所有微博用户都是SB么？ <a href="https://freeweibo.com/weibo/3733590942234146">freeweibo.com/weibo/3733590942234146</a> (2014年07月18日 11:50)
- ---
-南方都市报微博发表［公交纵火者的人生轨迹］<a href="https://freeweibo.com/weibo/3733430724191704">freeweibo.com/weibo/3733430724191704</a> 原文以及新浪等转载均被删除 (2014年07月18日 11:39)
  ---
