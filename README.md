@@ -2,16 +2,16 @@
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://d2522tws4pjc2c.cloudfront.net
 * Google 搜索 #2：https://s3-eu-west-1.amazonaws.com/google4/index.html
-* Google 搜索 #3：https://s3-ap-southeast-2.amazonaws.com/google6/index.html        
+* Google 搜索 #3：https://s3-us-west-1.amazonaws.com/google3/index.html        
 * 自由微博 #1：https://dyd6yjagxcvio.cloudfront.net
-* 自由微博 #2：https://s3-us-west-2.amazonaws.com/freeweibo9/index.html
+* 自由微博 #2：https://s3-us-west-1.amazonaws.com/freeweibo3/index.html
 * 自由微博 #3：https://s3-ap-southeast-1.amazonaws.com/freeweibo2/index.html        
 * 中国数字时代 #1：https://d8vp5mbry9zys.cloudfront.net
-* 中国数字时代 #2：https://s3-eu-west-1.amazonaws.com/cdtimes4/index.html
-* 中国数字时代 #3：https://s3-us-west-1.amazonaws.com/cdtimes3/index.html        
+* 中国数字时代 #2：https://s3-ap-southeast-2.amazonaws.com/cdtimes7/index.html
+* 中国数字时代 #3：https://s3-ap-southeast-1.amazonaws.com/cdtimes2/index.html        
 * 泡泡（未经审查的网络报道） #1：https://dm3a8dsjmaqu2.cloudfront.net
-* 泡泡（未经审查的网络报道） #2：https://s3-ap-northeast-1.amazonaws.com/pao-pao6/index.html
-* 泡泡（未经审查的网络报道） #3：https://s3-eu-west-1.amazonaws.com/pao-pao4/index.html
+* 泡泡（未经审查的网络报道） #2：https://s3-ap-southeast-1.amazonaws.com/pao-pao2/index.html
+* 泡泡（未经审查的网络报道） #3：https://s3-us-west-2.amazonaws.com/pao-pao9/index.html
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -21,9 +21,11 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @nytchinese: 《纽约时报》报道大量冒用他人身份的Twitter账户，力挺中国在少数民族地区的政策后仅数小时，Twitter官方迅速删除了一批此类账户。By @AndrewJacobsNYT <a href="http://cn.nytimes.com/china/20140723/c23twitter/">cn.nytimes.com/china/20140723/c23twitter/</a> (2014年07月23日 20:36)
+ ---
 RT @RTKcn: 20+ RT @rediantoday: 北京报纸上的新闻。情报员，在你身边！(haitaode) <a href="http://redian.today/t/215190">redian.today/t/215190</a> <a href="https://twitter.com/rediantoday/status/491598111513780224/photo/1">twitter.com/rediantoday/status/491598111513780224/photo/1</a> (2014年07月23日 11:10)
  ---
-@81gz @liuhaijun  请直接向工信部申请信息公开。 见【工业和信息化部政府信息公开申请办理方法】<a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1494759712%2FBdxsyh5i2&_rand=1406118917.2854">passport.weibo.com/visitor/visitor</a> (2014年07月22日 12:23)
+@81gz @liuhaijun  请直接向工信部申请信息公开。 见【工业和信息化部政府信息公开申请办理方法】<a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1494759712%2FBdxsyh5i2&_rand=1406119235.9049">passport.weibo.com/visitor/visitor</a> (2014年07月22日 12:23)
  ---
 有网民向工业和信息化部提出了“公开其批准互联网接入服务提供者中断与 <a href="http://www.google.com">www.google.com</a> 等7个网站互联互通的公文“的政府信息公开申请。  请有意提供公益法律援助的律师与申请人联系，联系电子邮件100008071535507@facebook.com (2014年07月22日 11:30)
  ---
@@ -58,6 +60,4 @@ RT @hacklib: #Snowden calls for #hopex hackers: "shift the ground of technical l
 The otherwise great security of iOS has been compromised…by Apple…by design <a href="http://www.zdziarski.com/blog/wp-content/uploads/2014/07/iOS_Backdoors_Attack_Points_Surveillance_Mechanisms.pdf">www.zdziarski.com/blog/wp-content/uploads/2014/07/iOS_Backdoors_Attack_Points_Surveillance_Mechanisms.pdf</a> h/t @niubi (2014年07月20日 15:03)
  ---
 Baidu Launches Brazilian Search Engine - Apparently With Chinese Political Censorship <a href="http://blog.feichangdao.com/2014/07/baidu-launches-brazilian-search-engine.html">blog.feichangdao.com/2014/07/baidu-launches-brazilian-search-engine.html</a> via @wafarris (2014年07月20日 14:57)
- ---
-I, spy: Edward Snowden in exile <a href="http://www.theguardian.com/world/2014/jul/18/-sp-edward-snowden-interview-rusbridger-macaskill?CMP=twt_gu">www.theguardian.com/world/2014/jul/18/-sp-edward-snowden-interview-rusbridger-macaskill</a> (2014年07月19日 12:43)
  ---
