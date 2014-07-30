@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+权力日趋集中，中国式反腐的不归路 <a href="http://cn.nytimes.com/china/20140730/cc30duanhongqing/">cn.nytimes.com/china/20140730/cc30duanhongqing/</a> (2014年07月31日 07:20)
+ ---
 RT @whispersystems: Signal. Free, worldwide, encrypted voice calls for iPhone: <a href="https://whispersystems.org/blog/signal/">whispersystems.org/blog/signal/</a> (2014年07月31日 07:11)
  ---
 Microsoft, the ‘Guardian Warriors’ and China’s Cybersecurity Fears <a href="http://blogs.wsj.com/digits/2014/07/29/microsoft-the-guardian-warriors-and-chinas-cybersecurity-fears/">blogs.wsj.com/digits/2014/07/29/microsoft-the-guardian-warriors-and-chinas-cybersecurity-fears/</a> via @chinarealtime (2014年07月30日 23:32)
@@ -51,13 +53,11 @@ RT @nytchinese: 《纽约时报》报道大量冒用他人身份的Twitter账户
  ---
 RT @RTKcn: 20+ RT @rediantoday: 北京报纸上的新闻。情报员，在你身边！(haitaode) <a href="http://redian.today/t/215190">redian.today/t/215190</a> <a href="https://twitter.com/rediantoday/status/491598111513780224/photo/1">twitter.com/rediantoday/status/491598111513780224/photo/1</a> (2014年07月23日 11:10)
  ---
-@81gz @liuhaijun  请直接向工信部申请信息公开。 见【工业和信息化部政府信息公开申请办理方法】<a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1494759712%2FBdxsyh5i2&_rand=1406762444.6976">passport.weibo.com/visitor/visitor</a> (2014年07月22日 12:23)
+@81gz @liuhaijun  请直接向工信部申请信息公开。 见【工业和信息化部政府信息公开申请办理方法】<a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1494759712%2FBdxsyh5i2&_rand=1406762816.4561">passport.weibo.com/visitor/visitor</a> (2014年07月22日 12:23)
  ---
 有网民向工业和信息化部提出了“公开其批准互联网接入服务提供者中断与 <a href="http://www.google.com">www.google.com</a> 等7个网站互联互通的公文“的政府信息公开申请。  请有意提供公益法律援助的律师与申请人联系，联系电子邮件100008071535507@facebook.com (2014年07月22日 11:30)
  ---
 阿里巴巴上市背后的“红二代”赢家 <a href="http://cn.nytimes.com/business/20140721/c21alibaba/">cn.nytimes.com/business/20140721/c21alibaba/</a> (2014年07月22日 09:31)
  ---
 慕容雪村:我在北京被“喝茶”  <a href="http://cn.nytimes.com/opinion/20140721/c21murong/">cn.nytimes.com/opinion/20140721/c21murong/</a> (2014年07月22日 09:30)
- ---
-RT @oiax: goagent 3.1.19 正式版, 减少卡顿现象。出现路由器断流的现象，请适当调低 [gae]window 的值。下载 <a href="https://nodeload.github.com/goagent/goagent/legacy.zip/3.0">nodeload.github.com/goagent/goagent/legacy.zip/3.0</a> (2014年07月22日 01:22)
  ---
