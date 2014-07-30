@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @whispersystems: Signal. Free, worldwide, encrypted voice calls for iPhone: <a href="https://whispersystems.org/blog/signal/">whispersystems.org/blog/signal/</a> (2014年07月31日 07:11)
+ ---
 Microsoft, the ‘Guardian Warriors’ and China’s Cybersecurity Fears <a href="http://blogs.wsj.com/digits/2014/07/29/microsoft-the-guardian-warriors-and-chinas-cybersecurity-fears/">blogs.wsj.com/digits/2014/07/29/microsoft-the-guardian-warriors-and-chinas-cybersecurity-fears/</a> via @chinarealtime (2014年07月30日 23:32)
  ---
 RT @luozhiorg: 人渣就是这样炼成的。看看2012年的司马夹头和今天的司马夹头。 <a href="https://twitter.com/luozhiorg/status/494089498334994434/photo/1">twitter.com/luozhiorg/status/494089498334994434/photo/1</a> (2014年07月30日 07:01)
@@ -49,7 +51,7 @@ RT @nytchinese: 《纽约时报》报道大量冒用他人身份的Twitter账户
  ---
 RT @RTKcn: 20+ RT @rediantoday: 北京报纸上的新闻。情报员，在你身边！(haitaode) <a href="http://redian.today/t/215190">redian.today/t/215190</a> <a href="https://twitter.com/rediantoday/status/491598111513780224/photo/1">twitter.com/rediantoday/status/491598111513780224/photo/1</a> (2014年07月23日 11:10)
  ---
-@81gz @liuhaijun  请直接向工信部申请信息公开。 见【工业和信息化部政府信息公开申请办理方法】<a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1494759712%2FBdxsyh5i2&_rand=1406761919.1795">passport.weibo.com/visitor/visitor</a> (2014年07月22日 12:23)
+@81gz @liuhaijun  请直接向工信部申请信息公开。 见【工业和信息化部政府信息公开申请办理方法】<a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1494759712%2FBdxsyh5i2&_rand=1406762444.6976">passport.weibo.com/visitor/visitor</a> (2014年07月22日 12:23)
  ---
 有网民向工业和信息化部提出了“公开其批准互联网接入服务提供者中断与 <a href="http://www.google.com">www.google.com</a> 等7个网站互联互通的公文“的政府信息公开申请。  请有意提供公益法律援助的律师与申请人联系，联系电子邮件100008071535507@facebook.com (2014年07月22日 11:30)
  ---
@@ -58,6 +60,4 @@ RT @RTKcn: 20+ RT @rediantoday: 北京报纸上的新闻。情报员，在你身
 慕容雪村:我在北京被“喝茶”  <a href="http://cn.nytimes.com/opinion/20140721/c21murong/">cn.nytimes.com/opinion/20140721/c21murong/</a> (2014年07月22日 09:30)
  ---
 RT @oiax: goagent 3.1.19 正式版, 减少卡顿现象。出现路由器断流的现象，请适当调低 [gae]window 的值。下载 <a href="https://nodeload.github.com/goagent/goagent/legacy.zip/3.0">nodeload.github.com/goagent/goagent/legacy.zip/3.0</a> (2014年07月22日 01:22)
- ---
-RT @boy1573: 无需修改Hosts,只需把电脑的DNS设置为: 112.124.47.27 ... 就可以使用HTTPS的方式连接Google..Gmail..Facebook等网站..twitter除外...适用于所有浏览器..别问我是谁, 我不是雷锋...转给小伙… (2014年07月22日 01:16)
  ---
