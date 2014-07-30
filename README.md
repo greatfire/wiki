@@ -1,13 +1,17 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
 * Google 搜索 #1：https://dw08mc3xofzls.cloudfront.net        
-* Google 搜索 #2：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/        
+* Google 搜索 #2：https://865ba.azurewebsites.net        
+* Google 搜索 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/        
 * 自由微博 #1：https://d3b3tktz50pcrm.cloudfront.net        
-* 自由微博 #2：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/        
+* 自由微博 #2：https://c63c.azurewebsites.net        
+* 自由微博 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/        
 * 中国数字时代 #1：https://d1uz00bpusdjlj.cloudfront.net        
-* 中国数字时代 #2：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
+* 中国数字时代 #2：https://d8f7f.azurewebsites.net        
+* 中国数字时代 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
 * 泡泡（未经审查的网络报道） #1：https://d74gk9mefwlhs.cloudfront.net        
-* 泡泡（未经审查的网络报道） #2：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/
+* 泡泡（未经审查的网络报道） #2：https://8fc55.azurewebsites.net        
+* 泡泡（未经审查的网络报道） #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
 
@@ -43,7 +47,7 @@ RT @nytchinese: 《纽约时报》报道大量冒用他人身份的Twitter账户
  ---
 RT @RTKcn: 20+ RT @rediantoday: 北京报纸上的新闻。情报员，在你身边！(haitaode) <a href="http://redian.today/t/215190">redian.today/t/215190</a> <a href="https://twitter.com/rediantoday/status/491598111513780224/photo/1">twitter.com/rediantoday/status/491598111513780224/photo/1</a> (2014年07月23日 11:10)
  ---
-@81gz @liuhaijun  请直接向工信部申请信息公开。 见【工业和信息化部政府信息公开申请办理方法】<a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1494759712%2FBdxsyh5i2&_rand=1406715312.6846">passport.weibo.com/visitor/visitor</a> (2014年07月22日 12:23)
+@81gz @liuhaijun  请直接向工信部申请信息公开。 见【工业和信息化部政府信息公开申请办理方法】<a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1494759712%2FBdxsyh5i2&_rand=1406715617.249">passport.weibo.com/visitor/visitor</a> (2014年07月22日 12:23)
  ---
 有网民向工业和信息化部提出了“公开其批准互联网接入服务提供者中断与 <a href="http://www.google.com">www.google.com</a> 等7个网站互联互通的公文“的政府信息公开申请。  请有意提供公益法律援助的律师与申请人联系，联系电子邮件100008071535507@facebook.com (2014年07月22日 11:30)
  ---
