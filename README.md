@@ -49,11 +49,11 @@ The fix-it man and the censored Ferrari: Inside Xi Jinping's purge of China's oi
  ---
 RT @AndrewJacobsNYT: how China snuffed out Uyghur-language internet in Xinjiang, by @putbolchi @gregfay  <a href="http://thediplomat.com/2014/07/how-china-dismantled-the-uyghur-internet/">thediplomat.com/2014/07/how-china-dismantled-the-uyghur-internet/</a> (2014年07月24日 21:39)
  ---
-RT @nytchinese: 《纽约时报》报道大量冒用他人身份的Twitter账户，力挺中国在少数民族地区的政策后仅数小时，Twitter官方迅速删除了一批此类账户。By @AndrewJacobsNYT <a href="http://cn.nytimes.com/china/20140723/c23twitter/">cn.nytimes.com/china/20140723/c23twitter/</a> (2014年07月23日 20:36)
+RT @nytchinese: 《纽约时报》报道大量冒用他人身份的Twitter账户，力挺中国在少数民族地区的政策后仅数小时，Twitter官方迅速删除了一批此类账户。By @AndrewJacobsNYT <a href="http://cn.nytimes.com/china/20140723/c23twitter/zh-hant/">cn.nytimes.com/china/20140723/c23twitter/zh-hant/</a> (2014年07月23日 20:36)
  ---
 RT @RTKcn: 20+ RT @rediantoday: 北京报纸上的新闻。情报员，在你身边！(haitaode) <a href="http://redian.today/t/215190">redian.today/t/215190</a> <a href="https://twitter.com/rediantoday/status/491598111513780224/photo/1">twitter.com/rediantoday/status/491598111513780224/photo/1</a> (2014年07月23日 11:10)
  ---
-@81gz @liuhaijun  请直接向工信部申请信息公开。 见【工业和信息化部政府信息公开申请办理方法】<a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1494759712%2FBdxsyh5i2&_rand=1406823110.1528">passport.weibo.com/visitor/visitor</a> (2014年07月22日 12:23)
+@81gz @liuhaijun  请直接向工信部申请信息公开。 见【工业和信息化部政府信息公开申请办理方法】<a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1494759712%2FBdxsyh5i2&_rand=1406823470.2229">passport.weibo.com/visitor/visitor</a> (2014年07月22日 12:23)
  ---
 有网民向工业和信息化部提出了“公开其批准互联网接入服务提供者中断与 <a href="http://www.google.com">www.google.com</a> 等7个网站互联互通的公文“的政府信息公开申请。  请有意提供公益法律援助的律师与申请人联系，联系电子邮件100008071535507@facebook.com (2014年07月22日 11:30)
  ---
