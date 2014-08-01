@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @linlis: 朋友圈来的：温州全市有线电视被黑了……哈哈 <a href="https://twitter.com/linlis/status/495187391313752064/photo/1">twitter.com/linlis/status/495187391313752064/photo/1</a> (2014年08月02日 06:20)
+ ---
 V for Vendetta in China: Wenzhou TV network hacked to display anti-censorship content,etc  <a href="https://freeweibo.com/weibo/%E6%B8%A9%E5%B7%9E">freeweibo.com/weibo/温州</a> (2014年08月02日 06:18)
  ---
 RT @Stariver: 财新关于周的文章很用心，概括一下中心思想：周是一个淳朴用功的孩子，经过努力逐渐掌握了核心领导权力，但是没能抵抗住诱惑，最终成为人民的罪人。这说明党的干部选拔制度是好的，干部的主流是好的，评价机制是好的，反腐决心是坚定的，效果是有目共睹的。大家一起来感… (2014年08月01日 10:13)
@@ -58,6 +60,4 @@ RT @AndrewJacobsNYT: how China snuffed out Uyghur-language internet in Xinjiang,
 RT @nytchinese: 《纽约时报》报道大量冒用他人身份的Twitter账户，力挺中国在少数民族地区的政策后仅数小时，Twitter官方迅速删除了一批此类账户。By @AndrewJacobsNYT <a href="http://cn.nytimes.com/china/20140723/c23twitter/">cn.nytimes.com/china/20140723/c23twitter/</a> (2014年07月23日 20:36)
  ---
 RT @RTKcn: 20+ RT @rediantoday: 北京报纸上的新闻。情报员，在你身边！(haitaode) <a href="http://redian.today/t/215190">redian.today/t/215190</a> <a href="https://twitter.com/rediantoday/status/491598111513780224/photo/1">twitter.com/rediantoday/status/491598111513780224/photo/1</a> (2014年07月23日 11:10)
- ---
-@81gz @liuhaijun  请直接向工信部申请信息公开。 见【工业和信息化部政府信息公开申请办理方法】<a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1494759712%2FBdxsyh5i2&_rand=1406931616.0287">passport.weibo.com/visitor/visitor</a> (2014年07月22日 12:23)
  ---
