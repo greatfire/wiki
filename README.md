@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+V for Vendetta in China: Wenzhou TV network hacked to display anti-censorship content,etc  <a href="https://freeweibo.com/weibo/%E6%B8%A9%E5%B7%9E">freeweibo.com/weibo/温州</a> (2014年08月02日 06:18)
+ ---
 RT @Stariver: 财新关于周的文章很用心，概括一下中心思想：周是一个淳朴用功的孩子，经过努力逐渐掌握了核心领导权力，但是没能抵抗住诱惑，最终成为人民的罪人。这说明党的干部选拔制度是好的，干部的主流是好的，评价机制是好的，反腐决心是坚定的，效果是有目共睹的。大家一起来感… (2014年08月01日 10:13)
  ---
 Alipaybsm.exe是个有意思的东西 <a href="http://blog.superliufa.com/2014/07/Alipaybsm-RawSocket.html">blog.superliufa.com/2014/07/Alipaybsm-RawSocket.html</a> (2014年08月01日 04:21)
@@ -57,7 +59,5 @@ RT @nytchinese: 《纽约时报》报道大量冒用他人身份的Twitter账户
  ---
 RT @RTKcn: 20+ RT @rediantoday: 北京报纸上的新闻。情报员，在你身边！(haitaode) <a href="http://redian.today/t/215190">redian.today/t/215190</a> <a href="https://twitter.com/rediantoday/status/491598111513780224/photo/1">twitter.com/rediantoday/status/491598111513780224/photo/1</a> (2014年07月23日 11:10)
  ---
-@81gz @liuhaijun  请直接向工信部申请信息公开。 见【工业和信息化部政府信息公开申请办理方法】<a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1494759712%2FBdxsyh5i2&_rand=1406931313.6883">passport.weibo.com/visitor/visitor</a> (2014年07月22日 12:23)
- ---
-有网民向工业和信息化部提出了“公开其批准互联网接入服务提供者中断与 <a href="http://www.google.com">www.google.com</a> 等7个网站互联互通的公文“的政府信息公开申请。  请有意提供公益法律援助的律师与申请人联系，联系电子邮件100008071535507@facebook.com (2014年07月22日 11:30)
+@81gz @liuhaijun  请直接向工信部申请信息公开。 见【工业和信息化部政府信息公开申请办理方法】<a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1494759712%2FBdxsyh5i2&_rand=1406931616.0287">passport.weibo.com/visitor/visitor</a> (2014年07月22日 12:23)
  ---
