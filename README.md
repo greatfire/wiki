@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Apple Responds to backdoor the claim, Contributes Little <a href="http://www.zdziarski.com/blog/?p=3447">www.zdziarski.com/blog/</a> (2014年08月02日 07:04)
+ ---
 人民网称周永康是“石化系统，与江泽民，薄熙来熟识” <a href="http://www.people.com.cn/mediafile/pic/20140731/57/16574568494653927757.jpg">www.people.com.cn/mediafile/pic/20140731/57/16574568494653927757.jpg</a> (2014年08月02日 06:27)
  ---
 Jiang Zemin appears in people's daily's online report about Zhou Yongkang <a href="http://www.people.com.cn/mediafile/pic/20140731/57/16574568494653927757.jpg">www.people.com.cn/mediafile/pic/20140731/57/16574568494653927757.jpg</a> (2014年08月02日 06:25)
@@ -58,6 +60,4 @@ RT @wgkala: #主場新聞 突然宣布停止營運，台灣中央研究院法律
 谷歌新镜像<a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a>  泡泡新镜像 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 无法被屏蔽 (2014年07月26日 23:50)
  ---
 The fix-it man and the censored Ferrari: Inside Xi Jinping's purge of China's oil mandarins <a href="http://www.reuters.com/article/2014/07/24/china-purge-cnpc-idUSL4N0PS1ZE20140724">www.reuters.com/article/2014/07/24/china-purge-cnpc-idUSL4N0PS1ZE20140724</a> via @reuters (2014年07月25日 15:44)
- ---
-RT @AndrewJacobsNYT: how China snuffed out Uyghur-language internet in Xinjiang, by @putbolchi @gregfay  <a href="http://thediplomat.com/2014/07/how-china-dismantled-the-uyghur-internet/">thediplomat.com/2014/07/how-china-dismantled-the-uyghur-internet/</a> (2014年07月24日 21:39)
  ---
