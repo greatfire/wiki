@@ -51,8 +51,6 @@ RT @luozhiorg: 人渣就是这样炼成的。看看2012年的司马夹头和今�
  ---
 LOL. Looks like Sina forgot to renew their domain. Sina cloud is inaccessible now. #sinaapp (2014年07月29日 11:11)
  ---
-[Breaking News] Sina App Engine -sinaapp.com inaccessible due to bogus DNS record. <a href="https://en.greatfire.org/sinaapp.com">en.greatfire.org/sinaapp.com</a> (2014年07月29日 10:59)
- ---
 @hnjhj @rediantoday 此为PS的，原图是法轮 <a href="https://freeweibo.com/weibo/3736160699990422">freeweibo.com/weibo/3736160699990422</a> (2014年07月28日 08:12)
  ---
 Sina Weibo Censors Searches About Alibaba's IPO and China's Princelings <a href="http://blog.feichangdao.com/2014/07/sina-weibo-censors-searches-about.html">blog.feichangdao.com/2014/07/sina-weibo-censors-searches-about.html</a> (2014年07月27日 12:47)
@@ -60,4 +58,6 @@ Sina Weibo Censors Searches About Alibaba's IPO and China's Princelings <a href=
 RT @wgkala: #主場新聞 突然宣布停止營運，台灣中央研究院法律學研究所黃國昌表示，關站顯示香港自由被 #中共 異化的速度十分驚人，但台灣「不能退卻」應團結起來，共同捍衛民主自由；台大新聞所教授彭文正也提醒台灣，應以香港為鏡，「看看香港，想想自己」  http://t.… (2014年07月27日 01:35)
  ---
 谷歌新镜像<a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a>  泡泡新镜像 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 无法被屏蔽 (2014年07月26日 23:50)
+ ---
+The fix-it man and the censored Ferrari: Inside Xi Jinping's purge of China's oil mandarins <a href="http://www.reuters.com/article/2014/07/24/china-purge-cnpc-idUSL4N0PS1ZE20140724">www.reuters.com/article/2014/07/24/china-purge-cnpc-idUSL4N0PS1ZE20140724</a> via @reuters (2014年07月25日 15:44)
  ---
