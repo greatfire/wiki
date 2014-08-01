@@ -21,6 +21,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+人民网称周永康是“石化系统，与江泽民，薄熙来熟识” <a href="http://www.people.com.cn/mediafile/pic/20140731/57/16574568494653927757.jpg">www.people.com.cn/mediafile/pic/20140731/57/16574568494653927757.jpg</a> (2014年08月02日 06:27)
+ ---
+Jiang Zemin appears in people's daily's online report about Zhou Yongkang <a href="http://www.people.com.cn/mediafile/pic/20140731/57/16574568494653927757.jpg">www.people.com.cn/mediafile/pic/20140731/57/16574568494653927757.jpg</a> (2014年08月02日 06:25)
+ ---
 RT @linlis: 朋友圈来的：温州全市有线电视被黑了……哈哈 <a href="https://twitter.com/linlis/status/495187391313752064/photo/1">twitter.com/linlis/status/495187391313752064/photo/1</a> (2014年08月02日 06:20)
  ---
 V for Vendetta in China: Wenzhou TV network hacked to display anti-censorship content,etc  <a href="https://freeweibo.com/weibo/%E6%B8%A9%E5%B7%9E">freeweibo.com/weibo/温州</a> (2014年08月02日 06:18)
@@ -56,8 +60,4 @@ RT @wgkala: #主場新聞 突然宣布停止營運，台灣中央研究院法律
 The fix-it man and the censored Ferrari: Inside Xi Jinping's purge of China's oil mandarins <a href="http://www.reuters.com/article/2014/07/24/china-purge-cnpc-idUSL4N0PS1ZE20140724">www.reuters.com/article/2014/07/24/china-purge-cnpc-idUSL4N0PS1ZE20140724</a> via @reuters (2014年07月25日 15:44)
  ---
 RT @AndrewJacobsNYT: how China snuffed out Uyghur-language internet in Xinjiang, by @putbolchi @gregfay  <a href="http://thediplomat.com/2014/07/how-china-dismantled-the-uyghur-internet/">thediplomat.com/2014/07/how-china-dismantled-the-uyghur-internet/</a> (2014年07月24日 21:39)
- ---
-RT @nytchinese: 《纽约时报》报道大量冒用他人身份的Twitter账户，力挺中国在少数民族地区的政策后仅数小时，Twitter官方迅速删除了一批此类账户。By @AndrewJacobsNYT <a href="http://cn.nytimes.com/china/20140723/c23twitter/">cn.nytimes.com/china/20140723/c23twitter/</a> (2014年07月23日 20:36)
- ---
-RT @RTKcn: 20+ RT @rediantoday: 北京报纸上的新闻。情报员，在你身边！(haitaode) <a href="http://redian.today/t/215190">redian.today/t/215190</a> <a href="https://twitter.com/rediantoday/status/491598111513780224/photo/1">twitter.com/rediantoday/status/491598111513780224/photo/1</a> (2014年07月23日 11:10)
  ---
