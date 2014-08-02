@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @lonely520: ssh91开始启动shadowsocks普及计划，为少量使用的用户提供只需18元一年的稳定shadowsocks付费账号<a href="http://my.8ke.in/cart.php?gid=19">my.8ke.in/cart.php</a>，同时免费账号会继续长期提供，如您或者您的朋友需要，请不吝转推 (2014年08月02日 10:21)
+ ---
 RT @programthink: “如何翻墙”系列：fqrouter——安卓系统翻墙利器（免ROOT）
 <a href="http://program-think.blogspot.com/2014/07/gfw-fqrouter.html">program-think.blogspot.com/2014/07/gfw-fqrouter.html</a> (2014年08月02日 08:22)
  ---
@@ -59,6 +61,4 @@ LOL. Looks like Sina forgot to renew their domain. Sina cloud is inaccessible no
 Sina Weibo Censors Searches About Alibaba's IPO and China's Princelings <a href="http://blog.feichangdao.com/2014/07/sina-weibo-censors-searches-about.html">blog.feichangdao.com/2014/07/sina-weibo-censors-searches-about.html</a> (2014年07月27日 12:47)
  ---
 RT @wgkala: #主場新聞 突然宣布停止營運，台灣中央研究院法律學研究所黃國昌表示，關站顯示香港自由被 #中共 異化的速度十分驚人，但台灣「不能退卻」應團結起來，共同捍衛民主自由；台大新聞所教授彭文正也提醒台灣，應以香港為鏡，「看看香港，想想自己」  http://t.… (2014年07月27日 01:35)
- ---
-谷歌新镜像<a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a>  泡泡新镜像 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 无法被屏蔽 (2014年07月26日 23:50)
  ---
