@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @kemc: The War of Words in China - great piece by @AndrewJacobsNYT <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F08%2F03%2Fsunday-review%2Fthe-war-of-words-in-china.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年08月04日 01:52)
+ ---
 RT @headhntr: Epic, sprawling profile -- Inside @CitizenLab, the “Hacker Hothouse” protecting you from Big Brother <a href="http://arstechnica.com/security/2014/07/inside-citizen-lab-the-hacker-hothouse-protecting-you-from-big-brother/">arstechnica.com/security/2014/07/inside-citizen-lab-the-hacker-hothouse-protecting-you-from-big-brother/</a> b… (2014年08月04日 01:40)
  ---
 RT @jack980517: LINE set up a CN server <a href="http://www.lianwo8.com">www.lianwo8.com</a> to continue their svc in CN. The APK file provided on CN site is much older.… (2014年08月04日 01:32)
@@ -59,6 +61,4 @@ Microsoft, the ‘Guardian Warriors’ and China’s Cybersecurity Fears <a href
 RT @luozhiorg: 人渣就是这样炼成的。看看2012年的司马夹头和今天的司马夹头。 <a href="https://twitter.com/luozhiorg/status/494089498334994434/photo/1">twitter.com/luozhiorg/status/494089498334994434/photo/1</a> (2014年07月30日 07:01)
  ---
 新浪头条新闻原文转载人民网评论被删除了，人民网原文还在。<a href="https://freeweibo.com/weibo/%E6%89%93%E6%8E%89%E5%A4%A7%E8%80%81%E8%99%8E%E5%91%A8%E6%B0%B8%E5%BA%B7%E4%B8%8D%E6%98%AF%E5%8F%8D%E8%85%90%E5%8F%A5%E5%8F%B7">freeweibo.com/weibo/打掉大老虎周永康不是反腐句号</a> (2014年07月30日 06:34)
- ---
-新浪云服务 -sinaapp.com 域名忘记续费被Godaddy暂停，跳转到Godaddy的IP，这个IP还是被GFW屏蔽的。任何新浪云用户都无法访问，中国用户连空白页都看不到。 <a href="https://zh.greatfire.org/sinaapp.com">zh.greatfire.org/sinaapp.com</a> (2014年07月29日 11:34)
  ---
