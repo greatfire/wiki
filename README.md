@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+"China detains 1,530 in telecom spam crackdown" <a href="http://www.ecns.cn/business/2014/03-26/106525.shtml">www.ecns.cn/business/2014/03-26/106525.shtml</a> (2014年08月04日 05:09)
+ ---
 RT @kemc: The War of Words in China - great piece by @AndrewJacobsNYT <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F08%2F03%2Fsunday-review%2Fthe-war-of-words-in-china.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年08月04日 01:52)
  ---
 RT @headhntr: Epic, sprawling profile -- Inside @CitizenLab, the “Hacker Hothouse” protecting you from Big Brother <a href="http://arstechnica.com/security/2014/07/inside-citizen-lab-the-hacker-hothouse-protecting-you-from-big-brother/">arstechnica.com/security/2014/07/inside-citizen-lab-the-hacker-hothouse-protecting-you-from-big-brother/</a> b… (2014年08月04日 01:40)
@@ -59,6 +61,4 @@ RT @whispersystems: Signal. Free, worldwide, encrypted voice calls for iPhone: <
 Microsoft, the ‘Guardian Warriors’ and China’s Cybersecurity Fears <a href="http://blogs.wsj.com/digits/2014/07/29/microsoft-the-guardian-warriors-and-chinas-cybersecurity-fears/">blogs.wsj.com/digits/2014/07/29/microsoft-the-guardian-warriors-and-chinas-cybersecurity-fears/</a> via @chinarealtime (2014年07月30日 23:32)
  ---
 RT @luozhiorg: 人渣就是这样炼成的。看看2012年的司马夹头和今天的司马夹头。 <a href="https://twitter.com/luozhiorg/status/494089498334994434/photo/1">twitter.com/luozhiorg/status/494089498334994434/photo/1</a> (2014年07月30日 07:01)
- ---
-新浪头条新闻原文转载人民网评论被删除了，人民网原文还在。<a href="https://freeweibo.com/weibo/%E6%89%93%E6%8E%89%E5%A4%A7%E8%80%81%E8%99%8E%E5%91%A8%E6%B0%B8%E5%BA%B7%E4%B8%8D%E6%98%AF%E5%8F%8D%E8%85%90%E5%8F%A5%E5%8F%B7">freeweibo.com/weibo/打掉大老虎周永康不是反腐句号</a> (2014年07月30日 06:34)
  ---
