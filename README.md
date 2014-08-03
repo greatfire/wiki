@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @jack980517: LINE set up a CN server <a href="http://www.lianwo8.com">www.lianwo8.com</a> to continue their svc in CN. The APK file provided on CN site is much older.… (2014年08月04日 01:32)
+ ---
 RT @niubi: "Chinese Communist Party-Backed Tech Giants Bring Censorship 2 Global Stage-TechCrunch" on baidu censoring in Brazil  http://t.c… (2014年08月03日 22:57)
  ---
 RT @fangongheike: 2014年8月1日夜，反共友军攻克温州中广有线电视频道。我们特此向黑客友军发祝贺！<a href="http://www.fangongheike.com/2014/08/blog-post.html">www.fangongheike.com/2014/08/blog-post.html</a> <a href="https://twitter.com/fangongheike/status/495199164868096000/photo/1">twitter.com/fangongheike/status/495199164868096000/photo/1</a> (2014年08月02日 12:26)
@@ -59,6 +61,4 @@ RT @luozhiorg: 人渣就是这样炼成的。看看2012年的司马夹头和今�
 新浪云服务 -sinaapp.com 域名忘记续费被Godaddy暂停，跳转到Godaddy的IP，这个IP还是被GFW屏蔽的。任何新浪云用户都无法访问，中国用户连空白页都看不到。 <a href="https://zh.greatfire.org/sinaapp.com">zh.greatfire.org/sinaapp.com</a> (2014年07月29日 11:34)
  ---
 LOL. Looks like Sina forgot to renew their domain. Sina cloud is inaccessible now. #sinaapp (2014年07月29日 11:11)
- ---
-@hnjhj @rediantoday 此为PS的，原图是法轮 <a href="https://freeweibo.com/weibo/3736160699990422">freeweibo.com/weibo/3736160699990422</a> (2014年07月28日 08:12)
  ---
