@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @niubi: "Chinese Communist Party-Backed Tech Giants Bring Censorship 2 Global Stage-TechCrunch" on baidu censoring in Brazil  http://t.c… (2014年08月03日 22:57)
+ ---
 RT @fangongheike: 2014年8月1日夜，反共友军攻克温州中广有线电视频道。我们特此向黑客友军发祝贺！<a href="http://www.fangongheike.com/2014/08/blog-post.html">www.fangongheike.com/2014/08/blog-post.html</a> <a href="https://twitter.com/fangongheike/status/495199164868096000/photo/1">twitter.com/fangongheike/status/495199164868096000/photo/1</a> (2014年08月02日 12:26)
  ---
 RT @lonely520: ssh91开始启动shadowsocks普及计划，为少量使用的用户提供只需18元一年的稳定shadowsocks付费账号<a href="http://my.8ke.in/cart.php?gid=19">my.8ke.in/cart.php</a>，同时免费账号会继续长期提供，如您或者您的朋友需要，请不吝转推 (2014年08月02日 10:21)
@@ -59,6 +61,4 @@ RT @luozhiorg: 人渣就是这样炼成的。看看2012年的司马夹头和今�
 LOL. Looks like Sina forgot to renew their domain. Sina cloud is inaccessible now. #sinaapp (2014年07月29日 11:11)
  ---
 @hnjhj @rediantoday 此为PS的，原图是法轮 <a href="https://freeweibo.com/weibo/3736160699990422">freeweibo.com/weibo/3736160699990422</a> (2014年07月28日 08:12)
- ---
-Sina Weibo Censors Searches About Alibaba's IPO and China's Princelings <a href="http://blog.feichangdao.com/2014/07/sina-weibo-censors-searches-about.html">blog.feichangdao.com/2014/07/sina-weibo-censors-searches-about.html</a> (2014年07月27日 12:47)
  ---
