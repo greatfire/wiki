@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China Tells Microsoft Not to Interfere With Inquiry <a href="http://cn.nytimes.com/business/20140805/c05microsoft/en-us/">cn.nytimes.com/business/20140805/c05microsoft/en-us/</a> (2014年08月06日 04:57)
+ ---
 RT @jasonqng: Need Chinese censored/sensitive keywords? Here you go <a href="http://blockedonweibo.tumblr.com/post/93798187187/list-chinese-keywords-censorship-testing-sensitive-conte#note-container">blockedonweibo.tumblr.com/post/93798187187/list-chinese-keywords-censorship-testing-sensitive-conte</a> 8.807 with translations/tags @citizenlab @GreatF… (2014年08月05日 17:31)
  ---
 RT @bbcchinese: 报道郭美美，官媒“游街示众”引质疑: 贺卫方在接受BBC中文网采访时说，“郭美美本人已经丧失了人身自由。这种情况下，只有警方才能透露和她相关的犯罪证据，而这些权利都不应该是一个媒体行使的。” <a href="http://www.bbc.co.uk/zhongwen/simp/china_watch/2014/08/140804_guomeimei_controversy.shtml">www.bbc.co.uk/zhongwen/simp/china_watch/2014/08/140804_guomeimei_controversy.shtml</a> (2014年08月05日 10:58)
@@ -59,6 +61,4 @@ V for Vendetta in China: Wenzhou TV network hacked to display anti-censorship co
 RT @Stariver: 财新关于周的文章很用心，概括一下中心思想：周是一个淳朴用功的孩子，经过努力逐渐掌握了核心领导权力，但是没能抵抗住诱惑，最终成为人民的罪人。这说明党的干部选拔制度是好的，干部的主流是好的，评价机制是好的，反腐决心是坚定的，效果是有目共睹的。大家一起来感… (2014年08月01日 10:13)
  ---
 Alipaybsm.exe是个有意思的东西 <a href="http://blog.superliufa.com/2014/07/Alipaybsm-RawSocket.html">blog.superliufa.com/2014/07/Alipaybsm-RawSocket.html</a> (2014年08月01日 04:21)
- ---
-权力日趋集中，中国式反腐的不归路 <a href="http://cn.nytimes.com/china/20140730/cc30duanhongqing/">cn.nytimes.com/china/20140730/cc30duanhongqing/</a> (2014年07月31日 07:20)
  ---
