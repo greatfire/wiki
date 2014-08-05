@@ -21,6 +21,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @bbcchinese: 报道郭美美，官媒“游街示众”引质疑: 贺卫方在接受BBC中文网采访时说，“郭美美本人已经丧失了人身自由。这种情况下，只有警方才能透露和她相关的犯罪证据，而这些权利都不应该是一个媒体行使的。” <a href="http://www.bbc.co.uk/zhongwen/simp/china_watch/2014/08/140804_guomeimei_controversy.shtml">www.bbc.co.uk/zhongwen/simp/china_watch/2014/08/140804_guomeimei_controversy.shtml</a> (2014年08月05日 10:58)
+ ---
+RT @RTKcn: 19+ RT @ugihubub: 官媒「起底」郭美美網民指全是謊言 - 信報財經新聞: <a href="http://www2.hkej.com/instantnews/current/article/408373/%E3%80%90%E7%89%B9%E7%A8%BF%E3%80%91%E5%AE%98%E5%AA%92%E3%80%8C%E8%B5%B7%E5%BA%95%E3%80%8D%E9%83%AD%E7%BE%8E%E7%BE%8E+%E7%B6%B2%E6%B0%91%E6%8C%87%E5%85%A8%E6%98%AF%E8%AC%8A%E8%A8%80">www2.hkej.com/instantnews/current/article/408373/【特稿】官媒「起底」郭美美 網民指全是謊言</a> (2014年08月05日 10:57)
+ ---
 What's deleted: <a href="https://freeweibo.com/weibo/%E9%83%AD%E7%BE%8E%E7%BE%8E?censored">freeweibo.com/weibo/郭美美</a> b/c heavy media takedown of Guo Meimei angers netizens <a href="http://offbeatchina.com/heavy-media-takedown-of-guo-meimei-angers-chinese-netizens">offbeatchina.com/heavy-media-takedown-of-guo-meimei-angers-chinese-netizens</a>  h/t @niubi (2014年08月04日 19:47)
  ---
 "China detains 1,530 in telecom spam crackdown" <a href="http://www.ecns.cn/business/2014/03-26/106525.shtml">www.ecns.cn/business/2014/03-26/106525.shtml</a> (2014年08月04日 05:09)
@@ -57,8 +61,4 @@ Alipaybsm.exe是个有意思的东西 <a href="http://blog.superliufa.com/2014/0
 权力日趋集中，中国式反腐的不归路 <a href="http://cn.nytimes.com/china/20140730/cc30duanhongqing/">cn.nytimes.com/china/20140730/cc30duanhongqing/</a> (2014年07月31日 07:20)
  ---
 RT @whispersystems: Signal. Free, worldwide, encrypted voice calls for iPhone: <a href="https://whispersystems.org/blog/signal/">whispersystems.org/blog/signal/</a> (2014年07月31日 07:11)
- ---
-Microsoft, the ‘Guardian Warriors’ and China’s Cybersecurity Fears <a href="http://blogs.wsj.com/digits/2014/07/29/microsoft-the-guardian-warriors-and-chinas-cybersecurity-fears/">blogs.wsj.com/digits/2014/07/29/microsoft-the-guardian-warriors-and-chinas-cybersecurity-fears/</a> via @chinarealtime (2014年07月30日 23:32)
- ---
-RT @luozhiorg: 人渣就是这样炼成的。看看2012年的司马夹头和今天的司马夹头。 <a href="https://twitter.com/luozhiorg/status/494089498334994434/photo/1">twitter.com/luozhiorg/status/494089498334994434/photo/1</a> (2014年07月30日 07:01)
  ---
