@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+176,000 official government microblog accounts "occupy weibo" <a href="http://thediplomat.com/2014/08/how-weibo-is-changing-local-governance-in-china/?allpages=yes">thediplomat.com/2014/08/how-weibo-is-changing-local-governance-in-china/</a> h/t @niubi (2014年08月06日 22:17)
+ ---
 .@jasonqng @KaiserKuo Kaiser any comment on why the censorship stopped? <a href="http://blog.feichangdao.com/2014/08/baidu-apparently-stop-censoring-non.html">blog.feichangdao.com/2014/08/baidu-apparently-stop-censoring-non.html</a> (2014年08月06日 21:29)
  ---
 RT @niubi: "Baidu Apparently Stop Censoring Non-Chinese Character Search Terms on its Brazilian Search Engine" <a href="http://blog.feichangdao.com/2014/08/baidu-apparently-stop-censoring-non.html">blog.feichangdao.com/2014/08/baidu-apparently-stop-censoring-non.html</a> (2014年08月06日 21:25)
@@ -59,6 +61,4 @@ Apple Responds to backdoor the claim, Contributes Little <a href="http://www.zdz
 人民网称周永康是“石化系统，与江泽民，薄熙来熟识” <a href="http://www.people.com.cn/mediafile/pic/20140731/57/16574568494653927757.jpg">www.people.com.cn/mediafile/pic/20140731/57/16574568494653927757.jpg</a> (2014年08月02日 06:27)
  ---
 Jiang Zemin appears in people's daily's online report about Zhou Yongkang <a href="http://www.people.com.cn/mediafile/pic/20140731/57/16574568494653927757.jpg">www.people.com.cn/mediafile/pic/20140731/57/16574568494653927757.jpg</a> (2014年08月02日 06:25)
- ---
-RT @linlis: 朋友圈来的：温州全市有线电视被黑了……哈哈 <a href="https://twitter.com/linlis/status/495187391313752064/photo/1">twitter.com/linlis/status/495187391313752064/photo/1</a> (2014年08月02日 06:20)
  ---
