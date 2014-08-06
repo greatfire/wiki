@@ -6,7 +6,7 @@
 * 自由微博 #1：https://d1kl2nxuhvyo5l.cloudfront.net        
 * 自由微博 #2：https://55457b.azurewebsites.net        
 * 自由微博 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/        
-* 中国数字时代 #1：https://d11lbbkcs3g91b.cloudfront.net        
+* 中国数字时代 #1：https://dbqp7za7bcbph.cloudfront.net        
 * 中国数字时代 #2：https://3ced.azurewebsites.net        
 * 中国数字时代 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
 * 泡泡（未经审查的网络报道） #1：https://d74gk9mefwlhs.cloudfront.net        
