@@ -21,8 +21,6 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-全平台翻墙指南（PC＋安卓＋iOS+Mac+Linux）[2014.8更新] <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/?u=viewtopic.php?f=1&t=15">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月07日 00:55)
- ---
 Two months ago, after the Chinese authorities blocked Google, we unblocked it. It remains unblocked: <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> (2014年08月07日 00:38)
  ---
 176,000 official government microblog accounts "occupy weibo" <a href="http://thediplomat.com/2014/08/how-weibo-is-changing-local-governance-in-china/?allpages=yes">thediplomat.com/2014/08/how-weibo-is-changing-local-governance-in-china/</a> h/t @niubi (2014年08月06日 22:17)
@@ -61,4 +59,6 @@ RT @programthink: “如何翻墙”系列：fqrouter——安卓系统翻墙利
 .@williamlong 如果苹果只是debug，不需要输出具体短信等内容。关闭发送日志到苹果，这些后门还是会运行。而且苹果应该在iOS上加入选项，可以删除信任的电脑。这些后门要物理接触。iPhone还是比其他任何大陆的手机安全和隐私多了，国内手机/软件 有联网上传的报告。 (2014年08月02日 07:18)
  ---
 Apple Responds to backdoor the claim, Contributes Little <a href="http://www.zdziarski.com/blog/?p=3447">www.zdziarski.com/blog/</a> (2014年08月02日 07:04)
+ ---
+人民网称周永康是“石化系统，与江泽民，薄熙来熟识” <a href="http://www.people.com.cn/mediafile/pic/20140731/57/16574568494653927757.jpg">www.people.com.cn/mediafile/pic/20140731/57/16574568494653927757.jpg</a> (2014年08月02日 06:27)
  ---
