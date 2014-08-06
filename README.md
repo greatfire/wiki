@@ -4,9 +4,9 @@
 * Google 搜索 #2：https://865ba.azurewebsites.net        
 * Google 搜索 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/        
 * 自由微博 #1：https://d1kl2nxuhvyo5l.cloudfront.net        
-* 自由微博 #2：https://        
+* 自由微博 #2：https://a3189.azurewebsites.net        
 * 自由微博 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/        
-* 中国数字时代 #1：https://d26x0s61rqh9vu.cloudfront.net        
+* 中国数字时代 #1：https://d2a4c07rfxlhf8.cloudfront.net        
 * 中国数字时代 #2：https://aac4.azurewebsites.net        
 * 中国数字时代 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
 * 泡泡（未经审查的网络报道） #1：https://d74gk9mefwlhs.cloudfront.net        
@@ -31,7 +31,7 @@ RT @RTKcn: 19+ RT @ugihubub: 官媒「起底」郭美美網民指全是謊言 - 
  ---
 What's deleted: <a href="https://freeweibo.com/weibo/%E9%83%AD%E7%BE%8E%E7%BE%8E?censored">freeweibo.com/weibo/郭美美</a> b/c heavy media takedown of Guo Meimei angers netizens <a href="http://offbeatchina.com/heavy-media-takedown-of-guo-meimei-angers-chinese-netizens">offbeatchina.com/heavy-media-takedown-of-guo-meimei-angers-chinese-netizens</a>  h/t @niubi (2014年08月04日 19:47)
  ---
-"China detains 1,530 in telecom spam crackdown" <a href="http://www.readability.com/~/cnh5lnkc">www.readability.com/~/cnh5lnkc</a> (2014年08月04日 05:09)
+"China detains 1,530 in telecom spam crackdown" <a href="http://www.ecns.cn/business/2014/03-26/106525.shtml">www.ecns.cn/business/2014/03-26/106525.shtml</a> (2014年08月04日 05:09)
  ---
 RT @kemc: The War of Words in China - great piece by @AndrewJacobsNYT <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F08%2F03%2Fsunday-review%2Fthe-war-of-words-in-china.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年08月04日 01:52)
  ---
