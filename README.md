@@ -43,7 +43,7 @@ What's deleted: <a href="https://freeweibo.com/weibo/%E9%83%AD%E7%BE%8E%E7%BE%8E
  ---
 "China detains 1,530 in telecom spam crackdown" <a href="http://www.ecns.cn/business/2014/03-26/106525.shtml">www.ecns.cn/business/2014/03-26/106525.shtml</a> (2014年08月04日 05:09)
  ---
-RT @kemc: The War of Words in China - great piece by @AndrewJacobsNYT <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F08%2F03%2Fsunday-review%2Fthe-war-of-words-in-china.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年08月04日 01:52)
+RT @kemc: The War of Words in China - great piece by @AndrewJacobsNYT <a href="http://flip.it/SL9gp">flip.it/SL9gp</a> (2014年08月04日 01:52)
  ---
 RT @headhntr: Epic, sprawling profile -- Inside @CitizenLab, the “Hacker Hothouse” protecting you from Big Brother <a href="http://arstechnica.com/security/2014/07/inside-citizen-lab-the-hacker-hothouse-protecting-you-from-big-brother/">arstechnica.com/security/2014/07/inside-citizen-lab-the-hacker-hothouse-protecting-you-from-big-brother/</a> b… (2014年08月04日 01:40)
  ---
