@@ -10,7 +10,7 @@
 * 中国数字时代 #2：https://aac4.azurewebsites.net        
 * 中国数字时代 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
 * 泡泡（未经审查的网络报道） #1：https://d74gk9mefwlhs.cloudfront.net        
-* 泡泡（未经审查的网络报道） #2：https://25ca.azurewebsites.net        
+* 泡泡（未经审查的网络报道） #2：https://        
 * 泡泡（未经审查的网络报道） #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/
 * 蓝灯(Lantern)以及自由微博和GreatFire.org官方中文论坛：https://lanternforum.greatfire.org
 * Google 搜索：https://startpage.com
