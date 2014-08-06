@@ -21,6 +21,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+.@jasonqng @KaiserKuo Kaiser any comment on why the censorship stopped? <a href="http://blog.feichangdao.com/2014/08/baidu-apparently-stop-censoring-non.html">blog.feichangdao.com/2014/08/baidu-apparently-stop-censoring-non.html</a> (2014年08月06日 21:29)
+ ---
+RT @niubi: "Baidu Apparently Stop Censoring Non-Chinese Character Search Terms on its Brazilian Search Engine" <a href="http://blog.feichangdao.com/2014/08/baidu-apparently-stop-censoring-non.html">blog.feichangdao.com/2014/08/baidu-apparently-stop-censoring-non.html</a> (2014年08月06日 21:25)
+ ---
+RT @ulywang: Rumours China Internet Information Office to announce Thurs PM new round crackdown on instant messaging software; chief target… (2014年08月06日 21:25)
+ ---
 China Tells Microsoft Not to Interfere With Inquiry <a href="http://cn.nytimes.com/business/20140805/c05microsoft/en-us/">cn.nytimes.com/business/20140805/c05microsoft/en-us/</a> (2014年08月06日 04:57)
  ---
 RT @jasonqng: Need Chinese censored/sensitive keywords? Here you go <a href="http://blockedonweibo.tumblr.com/post/93798187187/list-chinese-keywords-censorship-testing-sensitive-conte#note-container">blockedonweibo.tumblr.com/post/93798187187/list-chinese-keywords-censorship-testing-sensitive-conte</a> 8.807 with translations/tags @citizenlab @GreatF… (2014年08月05日 17:31)
@@ -55,10 +61,4 @@ Apple Responds to backdoor the claim, Contributes Little <a href="http://www.zdz
 Jiang Zemin appears in people's daily's online report about Zhou Yongkang <a href="http://www.people.com.cn/mediafile/pic/20140731/57/16574568494653927757.jpg">www.people.com.cn/mediafile/pic/20140731/57/16574568494653927757.jpg</a> (2014年08月02日 06:25)
  ---
 RT @linlis: 朋友圈来的：温州全市有线电视被黑了……哈哈 <a href="https://twitter.com/linlis/status/495187391313752064/photo/1">twitter.com/linlis/status/495187391313752064/photo/1</a> (2014年08月02日 06:20)
- ---
-V for Vendetta in China: Wenzhou TV network hacked to display anti-censorship content,etc  <a href="https://freeweibo.com/weibo/%E6%B8%A9%E5%B7%9E">freeweibo.com/weibo/温州</a> (2014年08月02日 06:18)
- ---
-RT @Stariver: 财新关于周的文章很用心，概括一下中心思想：周是一个淳朴用功的孩子，经过努力逐渐掌握了核心领导权力，但是没能抵抗住诱惑，最终成为人民的罪人。这说明党的干部选拔制度是好的，干部的主流是好的，评价机制是好的，反腐决心是坚定的，效果是有目共睹的。大家一起来感… (2014年08月01日 10:13)
- ---
-Alipaybsm.exe是个有意思的东西 <a href="http://blog.superliufa.com/2014/07/Alipaybsm-RawSocket.html">blog.superliufa.com/2014/07/Alipaybsm-RawSocket.html</a> (2014年08月01日 04:21)
  ---
