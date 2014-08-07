@@ -21,6 +21,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @hu_jia: 高智义大哥和 #高智晟 律师现在已从阿克苏地区的沙雅县返程至新疆自治区首府乌鲁木齐市。沙雅县相邻的库车县有机场，看来他们是乘坐飞机返程的。高智义大哥说弟弟的牙齿坏了，他会陪高智晟律师在乌鲁木齐诊治几天。然后计划回陕北榆林佳县的老家。#GaoZhishen… (2014年08月07日 20:29)
+ ---
+RT @hu_jia: 今天有朋友们在庆祝高智晟律师出狱获得自由。但其实只要在共产党统治的中国大陆，高智晟律师就不会有真正的自由。国保党匪是如影随形的地狱走卒，随时拖他再入炼狱。高律师的自由，只能始自于他离开这个国家的一刻。#GaoZhisheng @genghe1 (2014年08月07日 20:29)
+ ---
+RT @GVChinese: A Weibo Spat Hints at the Battle Brewing Over Journalism's Future in China: <a href="http://globalvoicesonline.org/2014/08/07/a-weibo-spat-hints-at-the-battle-brewing-over-journalisms-future-in-china/">globalvoicesonline.org/2014/08/07/a-weibo-spat-hints-at-the-battle-brewing-over-journalisms-future-in-china/</a> (2014年08月07日 20:25)
+ ---
 RT @Techinasia: Want to use WeChat? You better 'abide by the socialist system' (UPDATED with Tencent's comments) <a href="http://www.techinasia.com/wechat-abide-socialist-system/">www.techinasia.com/wechat-abide-socialist-system/</a> (2014年08月07日 20:20)
  ---
 RT @Francois_Bougon: Les utilisateurs de WeChat devront s'engager à "respecter les lois et règlements du système socialiste, l'intérêt nati… (2014年08月07日 20:19)
@@ -54,11 +60,4 @@ RT @headhntr: Epic, sprawling profile -- Inside @CitizenLab, the “Hacker Hotho
 RT @niubi: "Chinese Communist Party-Backed Tech Giants Bring Censorship 2 Global Stage-TechCrunch" on baidu censoring in Brazil  http://t.c… (2014年08月03日 22:57)
  ---
 RT @fangongheike: 2014年8月1日夜，反共友军攻克温州中广有线电视频道。我们特此向黑客友军发祝贺！<a href="http://www.fangongheike.com/2014/08/blog-post.html">www.fangongheike.com/2014/08/blog-post.html</a> <a href="https://twitter.com/fangongheike/status/495199164868096000/photo/1">twitter.com/fangongheike/status/495199164868096000/photo/1</a> (2014年08月02日 12:26)
- ---
-RT @lonely520: ssh91开始启动shadowsocks普及计划，为少量使用的用户提供只需18元一年的稳定shadowsocks付费账号<a href="http://my.8ke.in/cart.php?gid=19">my.8ke.in/cart.php</a>，同时免费账号会继续长期提供，如您或者您的朋友需要，请不吝转推 (2014年08月02日 10:21)
- ---
-RT @programthink: “如何翻墙”系列：fqrouter——安卓系统翻墙利器（免ROOT）
-<a href="http://program-think.blogspot.com/2014/07/gfw-fqrouter.html">program-think.blogspot.com/2014/07/gfw-fqrouter.html</a> (2014年08月02日 08:22)
- ---
-.@williamlong 如果苹果只是debug，不需要输出具体短信等内容。关闭发送日志到苹果，这些后门还是会运行。而且苹果应该在iOS上加入选项，可以删除信任的电脑。这些后门要物理接触。iPhone还是比其他任何大陆的手机安全和隐私多了，国内手机/软件 有联网上传的报告。 (2014年08月02日 07:18)
  ---
