@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @Techinasia: Want to use WeChat? You better 'abide by the socialist system' (UPDATED with Tencent's comments) <a href="http://www.techinasia.com/wechat-abide-socialist-system/">www.techinasia.com/wechat-abide-socialist-system/</a> (2014年08月07日 20:20)
+ ---
 RT @Francois_Bougon: Les utilisateurs de WeChat devront s'engager à "respecter les lois et règlements du système socialiste, l'intérêt nati… (2014年08月07日 20:19)
  ---
 Two months ago, after the Chinese authorities blocked Google, we unblocked it. It remains unblocked: <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> (2014年08月07日 00:38)
@@ -59,6 +61,4 @@ RT @programthink: “如何翻墙”系列：fqrouter——安卓系统翻墙利
 <a href="http://program-think.blogspot.com/2014/07/gfw-fqrouter.html">program-think.blogspot.com/2014/07/gfw-fqrouter.html</a> (2014年08月02日 08:22)
  ---
 .@williamlong 如果苹果只是debug，不需要输出具体短信等内容。关闭发送日志到苹果，这些后门还是会运行。而且苹果应该在iOS上加入选项，可以删除信任的电脑。这些后门要物理接触。iPhone还是比其他任何大陆的手机安全和隐私多了，国内手机/软件 有联网上传的报告。 (2014年08月02日 07:18)
- ---
-Apple Responds to backdoor the claim, Contributes Little <a href="http://www.zdziarski.com/blog/?p=3447">www.zdziarski.com/blog/</a> (2014年08月02日 07:04)
  ---
