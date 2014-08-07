@@ -21,6 +21,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+环球时报承认其报道浑水泡面是假新闻是假新闻。<a href="https://freeweibo.com/weibo/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5+%E5%81%87%E6%96%B0%E9%97%BB">freeweibo.com/weibo/环球时报 假新闻</a> (2014年08月08日 02:37)
+ ---
+RT @anildash: Google decides to favor HTTPS sites in its rankings: <a href="http://googleonlinesecurity.blogspot.in/2014/08/https-as-ranking-signal_6.html">googleonlinesecurity.blogspot.in/2014/08/https-as-ranking-signal_6.html</a> This is a political decision masquerading as a te… (2014年08月08日 02:37)
+ ---
 RT @mcgregorrichard: Beijing to create a "Chinese Christian belief" system, confirmation religion now so pervasive CCP must colonise it. ht… (2014年08月08日 02:33)
  ---
 @mcgregorrichard Jesus (2014年08月08日 02:33)
@@ -56,8 +60,4 @@ RT @Francois_Bougon: Les utilisateurs de WeChat devront s'engager à "respecter 
 Two months ago, after the Chinese authorities blocked Google, we unblocked it. It remains unblocked: <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> (2014年08月07日 00:38)
  ---
 176,000 official government microblog accounts "occupy weibo" <a href="http://thediplomat.com/2014/08/how-weibo-is-changing-local-governance-in-china/?allpages=yes">thediplomat.com/2014/08/how-weibo-is-changing-local-governance-in-china/</a> h/t @niubi (2014年08月06日 22:17)
- ---
-.@jasonqng @KaiserKuo Kaiser any comment on why the censorship stopped? <a href="http://blog.feichangdao.com/2014/08/baidu-apparently-stop-censoring-non.html">blog.feichangdao.com/2014/08/baidu-apparently-stop-censoring-non.html</a> (2014年08月06日 21:29)
- ---
-RT @niubi: "Baidu Apparently Stop Censoring Non-Chinese Character Search Terms on its Brazilian Search Engine" <a href="http://blog.feichangdao.com/2014/08/baidu-apparently-stop-censoring-non.html">blog.feichangdao.com/2014/08/baidu-apparently-stop-censoring-non.html</a> (2014年08月06日 21:25)
  ---
