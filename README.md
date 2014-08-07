@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@niubi it seems to say that private communications will remain private (2014年08月08日 02:15)
+ ---
 RT @paopaonet: 《iPhone通话轻松加密应对窃听风云》：Signal是一个专门为iOS打造的免费app，被认为是“最简便的电话加密系统”，它可以有效防止手机被监听。IT专家Vergil为泡泡网在中国做测试并证实，Signal目前能够在中国正常使用https://… (2014年08月07日 23:56)
  ---
 No censorship of news of censorship of messaging apps. Chinese "chilling effect" in action <a href="https://freeweibo.com/weibo/line">freeweibo.com/weibo/line</a> (2014年08月07日 23:51)
@@ -58,6 +60,4 @@ China Tells Microsoft Not to Interfere With Inquiry <a href="http://cn.nytimes.c
 RT @jasonqng: Need Chinese censored/sensitive keywords? Here you go <a href="http://blockedonweibo.tumblr.com/post/93798187187/list-chinese-keywords-censorship-testing-sensitive-conte#note-container">blockedonweibo.tumblr.com/post/93798187187/list-chinese-keywords-censorship-testing-sensitive-conte</a> 8.807 with translations/tags @citizenlab @GreatF… (2014年08月05日 17:31)
  ---
 RT @bbcchinese: 报道郭美美，官媒“游街示众”引质疑: 贺卫方在接受BBC中文网采访时说，“郭美美本人已经丧失了人身自由。这种情况下，只有警方才能透露和她相关的犯罪证据，而这些权利都不应该是一个媒体行使的。” <a href="http://www.bbc.co.uk/zhongwen/simp/china_watch/2014/08/140804_guomeimei_controversy.shtml">www.bbc.co.uk/zhongwen/simp/china_watch/2014/08/140804_guomeimei_controversy.shtml</a> (2014年08月05日 10:58)
- ---
-RT @RTKcn: 19+ RT @ugihubub: 官媒「起底」郭美美網民指全是謊言 - 信報財經新聞: <a href="http://www2.hkej.com/instantnews/current/article/408373/%E3%80%90%E7%89%B9%E7%A8%BF%E3%80%91%E5%AE%98%E5%AA%92%E3%80%8C%E8%B5%B7%E5%BA%95%E3%80%8D%E9%83%AD%E7%BE%8E%E7%BE%8E+%E7%B6%B2%E6%B0%91%E6%8C%87%E5%85%A8%E6%98%AF%E8%AC%8A%E8%A8%80">www2.hkej.com/instantnews/current/article/408373/【特稿】官媒「起底」郭美美 網民指全是謊言</a> (2014年08月05日 10:57)
  ---
