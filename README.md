@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @gillianwong: Very useful. MT @wang_maya: Confused by twists and turns in Gao Zhisheng's case? Here's a timeline by @hrw <a href="http://t.co/eHV">t.co/eHV</a>… (2014年08月07日 20:31)
+ ---
 RT @hu_jia: 高智义大哥和 #高智晟 律师现在已从阿克苏地区的沙雅县返程至新疆自治区首府乌鲁木齐市。沙雅县相邻的库车县有机场，看来他们是乘坐飞机返程的。高智义大哥说弟弟的牙齿坏了，他会陪高智晟律师在乌鲁木齐诊治几天。然后计划回陕北榆林佳县的老家。#GaoZhishen… (2014年08月07日 20:29)
  ---
 RT @hu_jia: 今天有朋友们在庆祝高智晟律师出狱获得自由。但其实只要在共产党统治的中国大陆，高智晟律师就不会有真正的自由。国保党匪是如影随形的地狱走卒，随时拖他再入炼狱。高律师的自由，只能始自于他离开这个国家的一刻。#GaoZhisheng @genghe1 (2014年08月07日 20:29)
@@ -58,6 +60,4 @@ RT @kemc: The War of Words in China - great piece by @AndrewJacobsNYT <a href="h
 RT @headhntr: Epic, sprawling profile -- Inside @CitizenLab, the “Hacker Hothouse” protecting you from Big Brother <a href="http://arstechnica.com/security/2014/07/inside-citizen-lab-the-hacker-hothouse-protecting-you-from-big-brother/">arstechnica.com/security/2014/07/inside-citizen-lab-the-hacker-hothouse-protecting-you-from-big-brother/</a> b… (2014年08月04日 01:40)
  ---
 RT @niubi: "Chinese Communist Party-Backed Tech Giants Bring Censorship 2 Global Stage-TechCrunch" on baidu censoring in Brazil  http://t.c… (2014年08月03日 22:57)
- ---
-RT @fangongheike: 2014年8月1日夜，反共友军攻克温州中广有线电视频道。我们特此向黑客友军发祝贺！<a href="http://www.fangongheike.com/2014/08/blog-post.html">www.fangongheike.com/2014/08/blog-post.html</a> <a href="https://twitter.com/fangongheike/status/495199164868096000/photo/1">twitter.com/fangongheike/status/495199164868096000/photo/1</a> (2014年08月02日 12:26)
  ---
