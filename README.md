@@ -4,9 +4,9 @@
 * Google 搜索 #2：https://865ba.azurewebsites.net        
 * Google 搜索 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/        
 * 自由微博 #1：https://d1kl2nxuhvyo5l.cloudfront.net        
-* 自由微博 #2：https://9c1d1.azurewebsites.net        
+* 自由微博 #2：https://b80f9.azurewebsites.net        
 * 自由微博 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/        
-* 中国数字时代 #1：https://d1plqgik0lq88x.cloudfront.net        
+* 中国数字时代 #1：https://d1ja3k3s2qzry1.cloudfront.net        
 * 中国数字时代 #2：https://12b2.azurewebsites.net        
 * 中国数字时代 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
 * 泡泡（未经审查的网络报道） #1：https://d74gk9mefwlhs.cloudfront.net        
