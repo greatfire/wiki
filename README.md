@@ -6,7 +6,7 @@
 * 中国数字时代 #1：https://d2ife9snkma5c6.cloudfront.net        
 * 中国数字时代 #2：https://c44db.azurewebsites.net        
 * 中国数字时代 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
-* Google 搜索 #1：https://d1p4hmwqzu48hz.cloudfront.net        
+* Google 搜索 #1：https://        
 * Google 搜索 #2：https://865ba.azurewebsites.net        
 * Google 搜索 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/        
 * Google 搜索 #4：https://startpage.com        
