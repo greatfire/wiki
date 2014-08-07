@@ -10,8 +10,7 @@
 * Google 搜索 #2：https://865ba.azurewebsites.net        
 * Google 搜索 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/        
 * Google 搜索 #4：https://startpage.com        
-* 蓝灯（Lantern）以及自由微博和GreatFire.org官方中文论坛 #1：https://lanternforum.greatfire.org        
-* 蓝灯（Lantern）以及自由微博和GreatFire.org官方中文论坛 #2：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/        
+* 蓝灯（Lantern）以及自由微博和GreatFire.org官方中文论坛 #1：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/        
 * 泡泡（未经审查的网络报道） #1：https://d74gk9mefwlhs.cloudfront.net        
 * 泡泡（未经审查的网络报道） #2：https://27920a.azurewebsites.net        
 * 泡泡（未经审查的网络报道） #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/
