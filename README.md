@@ -1,10 +1,10 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
-* 自由微博 #1：https://        
+* 自由微博 #1：https://d11e5ncbc6zyi7.cloudfront.net        
 * 自由微博 #2：https://1c6f.azurewebsites.net        
 * 自由微博 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/        
-* 中国数字时代 #1：https://d2pbcdxol1z6td.cloudfront.net        
-* 中国数字时代 #2：https://c1600.azurewebsites.net        
+* 中国数字时代 #1：https://djbq5tdeugo3s.cloudfront.net        
+* 中国数字时代 #2：https://5de62.azurewebsites.net        
 * 中国数字时代 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
 * Google 搜索 #1：https://d3vv89cvqbrqlq.cloudfront.net        
 * Google 搜索 #2：https://865ba.azurewebsites.net        
@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @cnni: What does a giant, inflatable toad have to do with a former Chinese President? <a href="http://www.cnn.com/2014/08/01/world/asia/toad-jiang-zemin/index.html">www.cnn.com/2014/08/01/world/asia/toad-jiang-zemin/index.html</a> <a href="https://twitter.com/cnni/status/495244267640852480/photo/1">twitter.com/cnni/status/495244267640852480/photo/1</a> (2014年08月08日 06:15)
+ ---
 环球时报承认其报道浑水泡面是假新闻是假新闻。<a href="https://freeweibo.com/weibo/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5+%E5%81%87%E6%96%B0%E9%97%BB">freeweibo.com/weibo/环球时报 假新闻</a> (2014年08月08日 02:37)
  ---
 RT @mcgregorrichard: Beijing to create a "Chinese Christian belief" system, confirmation religion now so pervasive CCP must colonise it. ht… (2014年08月08日 02:33)
@@ -58,6 +60,4 @@ RT @Francois_Bougon: Les utilisateurs de WeChat devront s'engager à "respecter 
 Two months ago, after the Chinese authorities blocked Google, we unblocked it. It remains unblocked: <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> (2014年08月07日 00:38)
  ---
 176,000 official government microblog accounts "occupy weibo" <a href="http://thediplomat.com/2014/08/how-weibo-is-changing-local-governance-in-china/?allpages=yes">thediplomat.com/2014/08/how-weibo-is-changing-local-governance-in-china/</a> h/t @niubi (2014年08月06日 22:17)
- ---
-.@jasonqng @KaiserKuo Kaiser any comment on why the censorship stopped? <a href="http://blog.feichangdao.com/2014/08/baidu-apparently-stop-censoring-non.html">blog.feichangdao.com/2014/08/baidu-apparently-stop-censoring-non.html</a> (2014年08月06日 21:29)
  ---
