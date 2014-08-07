@@ -3,10 +3,10 @@
 * 自由微博 #1：https://d1kl2nxuhvyo5l.cloudfront.net        
 * 自由微博 #2：https://1c6f.azurewebsites.net        
 * 自由微博 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/        
-* 中国数字时代 #1：https://d2ife9snkma5c6.cloudfront.net        
-* 中国数字时代 #2：https://c44db.azurewebsites.net        
+* 中国数字时代 #1：https://d1m95febxh6vzi.cloudfront.net        
+* 中国数字时代 #2：https://297670142c.azurewebsites.net        
 * 中国数字时代 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
-* Google 搜索 #1：https://        
+* Google 搜索 #1：https://d3vv89cvqbrqlq.cloudfront.net        
 * Google 搜索 #2：https://865ba.azurewebsites.net        
 * Google 搜索 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/        
 * Google 搜索 #4：https://startpage.com        
