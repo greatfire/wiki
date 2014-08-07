@@ -1,10 +1,10 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
-* 自由微博 #1：https://        
+* 自由微博 #1：https://d2ccyrjn8aplfx.cloudfront.net        
 * 自由微博 #2：https://1c6f.azurewebsites.net        
 * 自由微博 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/        
-* 中国数字时代 #1：https://dzcw3hybojim9.cloudfront.net        
-* 中国数字时代 #2：https://f03f.azurewebsites.net        
+* 中国数字时代 #1：https://d1sc5vcpyym76r.cloudfront.net        
+* 中国数字时代 #2：https://82d36.azurewebsites.net        
 * 中国数字时代 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
 * Google 搜索 #1：https://d3vv89cvqbrqlq.cloudfront.net        
 * Google 搜索 #2：https://865ba.azurewebsites.net        
