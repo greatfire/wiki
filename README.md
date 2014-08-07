@@ -3,15 +3,15 @@
 * 自由微博 #1：https://d1kl2nxuhvyo5l.cloudfront.net        
 * 自由微博 #2：https://1c6f.azurewebsites.net        
 * 自由微博 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/        
-* 中国数字时代 #1：https://d1m95febxh6vzi.cloudfront.net        
-* 中国数字时代 #2：https://        
+* 中国数字时代 #1：https://dszhoo1fgtbth.cloudfront.net        
+* 中国数字时代 #2：https://e75a1.azurewebsites.net        
 * 中国数字时代 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
 * Google 搜索 #1：https://d3vv89cvqbrqlq.cloudfront.net        
 * Google 搜索 #2：https://865ba.azurewebsites.net        
 * Google 搜索 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/        
 * Google 搜索 #4：https://startpage.com        
 * 蓝灯（Lantern）以及自由微博和GreatFire.org官方中文论坛 #1：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/        
-* 泡泡（未经审查的网络报道） #1：https://        
+* 泡泡（未经审查的网络报道） #1：https://d3gnq4jsmnrf1y.cloudfront.net        
 * 泡泡（未经审查的网络报道） #2：https://27920a.azurewebsites.net        
 * 泡泡（未经审查的网络报道） #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/
 
