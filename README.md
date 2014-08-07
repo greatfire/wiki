@@ -21,6 +21,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @mcgregorrichard: Beijing to create a "Chinese Christian belief" system, confirmation religion now so pervasive CCP must colonise it. ht… (2014年08月08日 02:33)
+ ---
+@mcgregorrichard Jesus (2014年08月08日 02:33)
+ ---
 @SanNuvola also a distinct possibility (2014年08月08日 02:22)
  ---
 We believe in a Chinese internet that is a disorderly, pell-mell space full of transgression <a href="http://chinacopyrightandmedia.wordpress.com/2014/08/07/siio-spokespersons-comments-concerning-the-provisional-regulations-for-the-development-and-management-of-instant-messaging-tools-and-public-information-services/">chinacopyrightandmedia.wordpress.com/2014/08/07/siio-spokespersons-comments-concerning-the-provisional-regulations-for-the-development-and-management-of-instant-messaging-tools-and-public-information-services/</a> h/t @niubi (2014年08月08日 02:21)
@@ -56,8 +60,4 @@ Two months ago, after the Chinese authorities blocked Google, we unblocked it. I
 .@jasonqng @KaiserKuo Kaiser any comment on why the censorship stopped? <a href="http://blog.feichangdao.com/2014/08/baidu-apparently-stop-censoring-non.html">blog.feichangdao.com/2014/08/baidu-apparently-stop-censoring-non.html</a> (2014年08月06日 21:29)
  ---
 RT @niubi: "Baidu Apparently Stop Censoring Non-Chinese Character Search Terms on its Brazilian Search Engine" <a href="http://blog.feichangdao.com/2014/08/baidu-apparently-stop-censoring-non.html">blog.feichangdao.com/2014/08/baidu-apparently-stop-censoring-non.html</a> (2014年08月06日 21:25)
- ---
-RT @ulywang: Rumours China Internet Information Office to announce Thurs PM new round crackdown on instant messaging software; chief target… (2014年08月06日 21:25)
- ---
-China Tells Microsoft Not to Interfere With Inquiry <a href="http://cn.nytimes.com/business/20140805/c05microsoft/en-us/">cn.nytimes.com/business/20140805/c05microsoft/en-us/</a> (2014年08月06日 04:57)
  ---
