@@ -1,5 +1,10 @@
 ## 免翻墙镜像
-本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。        
+本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
+* Google 搜索：http://209.116.186.249/
+* Google 搜索：http://91.213.30.151/
+* Google 搜索：http://203.116.165.138/
+* Google 搜索：http://www.google.com.im/
+* Google 搜索：http://www.tmd123.com/
 * Google 搜索 #1：https://d1p4hmwqzu48hz.cloudfront.net        
 * Google 搜索 #2：https://865ba.azurewebsites.net        
 * Google 搜索 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/        
