@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+No censorship of news of censorship of messaging apps. Chinese "chilling effect" in action <a href="https://freeweibo.com/weibo/line">freeweibo.com/weibo/line</a> (2014年08月07日 23:51)
+ ---
 韩国政府证实中国因反恐封锁KakaoTalk 和 Line <a href="http://www.solidot.org/story?sid=40650">www.solidot.org/story</a> (2014年08月07日 23:39)
  ---
 RT @gadyepstein: WhatsApp not blocked. Hmm what's that mean? MT @PaulCarsten China tells SK blocked KakaoTalk, Line to fight terrorism http… (2014年08月07日 23:33)
@@ -58,6 +60,4 @@ RT @bbcchinese: 报道郭美美，官媒“游街示众”引质疑: 贺卫方�
 RT @RTKcn: 19+ RT @ugihubub: 官媒「起底」郭美美網民指全是謊言 - 信報財經新聞: <a href="http://www2.hkej.com/instantnews/current/article/408373/%E3%80%90%E7%89%B9%E7%A8%BF%E3%80%91%E5%AE%98%E5%AA%92%E3%80%8C%E8%B5%B7%E5%BA%95%E3%80%8D%E9%83%AD%E7%BE%8E%E7%BE%8E+%E7%B6%B2%E6%B0%91%E6%8C%87%E5%85%A8%E6%98%AF%E8%AC%8A%E8%A8%80">www2.hkej.com/instantnews/current/article/408373/【特稿】官媒「起底」郭美美 網民指全是謊言</a> (2014年08月05日 10:57)
  ---
 What's deleted: <a href="https://freeweibo.com/weibo/%E9%83%AD%E7%BE%8E%E7%BE%8E?censored">freeweibo.com/weibo/郭美美</a> b/c heavy media takedown of Guo Meimei angers netizens <a href="http://offbeatchina.com/heavy-media-takedown-of-guo-meimei-angers-chinese-netizens">offbeatchina.com/heavy-media-takedown-of-guo-meimei-angers-chinese-netizens</a>  h/t @niubi (2014年08月04日 19:47)
- ---
-"China detains 1,530 in telecom spam crackdown" <a href="http://www.ecns.cn/business/2014/03-26/106525.shtml">www.ecns.cn/business/2014/03-26/106525.shtml</a> (2014年08月04日 05:09)
  ---
