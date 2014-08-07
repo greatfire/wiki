@@ -21,6 +21,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@SanNuvola also a distinct possibility (2014年08月08日 02:22)
+ ---
+We believe in a Chinese internet that is a disorderly, pell-mell space full of transgression <a href="http://chinacopyrightandmedia.wordpress.com/2014/08/07/siio-spokespersons-comments-concerning-the-provisional-regulations-for-the-development-and-management-of-instant-messaging-tools-and-public-information-services/">chinacopyrightandmedia.wordpress.com/2014/08/07/siio-spokespersons-comments-concerning-the-provisional-regulations-for-the-development-and-management-of-instant-messaging-tools-and-public-information-services/</a> h/t @niubi (2014年08月08日 02:21)
+ ---
 @niubi it seems to say that private communications will remain private (2014年08月08日 02:15)
  ---
 RT @paopaonet: 《iPhone通话轻松加密应对窃听风云》：Signal是一个专门为iOS打造的免费app，被认为是“最简便的电话加密系统”，它可以有效防止手机被监听。IT专家Vergil为泡泡网在中国做测试并证实，Signal目前能够在中国正常使用https://… (2014年08月07日 23:56)
@@ -56,8 +60,4 @@ RT @niubi: "Baidu Apparently Stop Censoring Non-Chinese Character Search Terms o
 RT @ulywang: Rumours China Internet Information Office to announce Thurs PM new round crackdown on instant messaging software; chief target… (2014年08月06日 21:25)
  ---
 China Tells Microsoft Not to Interfere With Inquiry <a href="http://cn.nytimes.com/business/20140805/c05microsoft/en-us/">cn.nytimes.com/business/20140805/c05microsoft/en-us/</a> (2014年08月06日 04:57)
- ---
-RT @jasonqng: Need Chinese censored/sensitive keywords? Here you go <a href="http://blockedonweibo.tumblr.com/post/93798187187/list-chinese-keywords-censorship-testing-sensitive-conte#note-container">blockedonweibo.tumblr.com/post/93798187187/list-chinese-keywords-censorship-testing-sensitive-conte</a> 8.807 with translations/tags @citizenlab @GreatF… (2014年08月05日 17:31)
- ---
-RT @bbcchinese: 报道郭美美，官媒“游街示众”引质疑: 贺卫方在接受BBC中文网采访时说，“郭美美本人已经丧失了人身自由。这种情况下，只有警方才能透露和她相关的犯罪证据，而这些权利都不应该是一个媒体行使的。” <a href="http://www.bbc.co.uk/zhongwen/simp/china_watch/2014/08/140804_guomeimei_controversy.shtml">www.bbc.co.uk/zhongwen/simp/china_watch/2014/08/140804_guomeimei_controversy.shtml</a> (2014年08月05日 10:58)
  ---
