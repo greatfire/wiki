@@ -21,6 +21,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @gadyepstein: WhatsApp not blocked. Hmm what's that mean? MT @PaulCarsten China tells SK blocked KakaoTalk, Line to fight terrorism http… (2014年08月07日 23:33)
+ ---
+"There should be no blind spot when it comes to information control"  <a href="http://www.theguardian.com/world/2014/aug/07/china-intensifies-social-media-crackdown-curbs-instanrt-messaging?CMP=twt_gu">www.theguardian.com/world/2014/aug/07/china-intensifies-social-media-crackdown-curbs-instanrt-messaging</a> via @taniabranigan (2014年08月07日 23:32)
+ ---
 RT @gillianwong: Very useful. MT @wang_maya: Confused by twists and turns in Gao Zhisheng's case? Here's a timeline by @hrw <a href="http://t.co/eHV">t.co/eHV</a>… (2014年08月07日 20:31)
  ---
 RT @hu_jia: 高智义大哥和 #高智晟 律师现在已从阿克苏地区的沙雅县返程至新疆自治区首府乌鲁木齐市。沙雅县相邻的库车县有机场，看来他们是乘坐飞机返程的。高智义大哥说弟弟的牙齿坏了，他会陪高智晟律师在乌鲁木齐诊治几天。然后计划回陕北榆林佳县的老家。#GaoZhishen… (2014年08月07日 20:29)
@@ -56,8 +60,4 @@ What's deleted: <a href="https://freeweibo.com/weibo/%E9%83%AD%E7%BE%8E%E7%BE%8E
 "China detains 1,530 in telecom spam crackdown" <a href="http://www.ecns.cn/business/2014/03-26/106525.shtml">www.ecns.cn/business/2014/03-26/106525.shtml</a> (2014年08月04日 05:09)
  ---
 RT @kemc: The War of Words in China - great piece by @AndrewJacobsNYT <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F08%2F03%2Fsunday-review%2Fthe-war-of-words-in-china.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年08月04日 01:52)
- ---
-RT @headhntr: Epic, sprawling profile -- Inside @CitizenLab, the “Hacker Hothouse” protecting you from Big Brother <a href="http://arstechnica.com/security/2014/07/inside-citizen-lab-the-hacker-hothouse-protecting-you-from-big-brother/">arstechnica.com/security/2014/07/inside-citizen-lab-the-hacker-hothouse-protecting-you-from-big-brother/</a> b… (2014年08月04日 01:40)
- ---
-RT @niubi: "Chinese Communist Party-Backed Tech Giants Bring Censorship 2 Global Stage-TechCrunch" on baidu censoring in Brazil  http://t.c… (2014年08月03日 22:57)
  ---
