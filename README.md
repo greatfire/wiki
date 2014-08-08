@@ -39,7 +39,7 @@ RT @mcgregorrichard: Beijing to create a "Chinese Christian belief" system, conf
  ---
 @SanNuvola also a distinct possibility (2014年08月08日 02:22)
  ---
-We believe in a Chinese internet that is a disorderly, pell-mell space full of transgression <a href="http://chinacopyrightandmedia.wordpress.com/2014/08/07/siio-spokespersons-comments-concerning-the-provisional-regulations-for-the-development-and-management-of-instant-messaging-tools-and-public-information-services/">chinacopyrightandmedia.wordpress.com/2014/08/07/siio-spokespersons-comments-concerning-the-provisional-regulations-for-the-development-and-management-of-instant-messaging-tools-and-public-information-services/</a> h/t @niubi (2014年08月08日 02:21)
+We believe in a Chinese internet that is a disorderly, pell-mell space full of transgression <a href="http://flip.it/ZWFjf">flip.it/ZWFjf</a> h/t @niubi (2014年08月08日 02:21)
  ---
 @niubi it seems to say that private communications will remain private (2014年08月08日 02:15)
  ---
