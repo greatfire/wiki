@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @globaldan: China censors IMs: "There’s lots more free information online, and that’s a fatal blow to a regime built on lies.” http://t.… (2014年08月08日 18:11)
+ ---
 China's Real Name Internet Part 1: Ancient History - 2003 to Early 2012 <a href="http://blog.feichangdao.com/2014/08/chinas-real-name-internet-part-1.html">blog.feichangdao.com/2014/08/chinas-real-name-internet-part-1.html</a> via @wafarris (2014年08月08日 16:56)
  ---
 RT @williamlong: 其实在中国，所有的个人网站的站长都是违法的，只要网罗一些人从里到外地查一查，肯定能查出你的某个“违法犯罪”的情节，或发布不实信息、或偷税漏税、或无照经营，总而言之，先关起来再调查，没一个跑得了。你的网站现在还没关闭，不是因为合法，而是因为你不值… (2014年08月08日 09:00)
@@ -58,6 +60,4 @@ RT @hu_jia: 今天有朋友们在庆祝高智晟律师出狱获得自由。但�
 RT @GVChinese: A Weibo Spat Hints at the Battle Brewing Over Journalism's Future in China: <a href="http://globalvoicesonline.org/2014/08/07/a-weibo-spat-hints-at-the-battle-brewing-over-journalisms-future-in-china/">globalvoicesonline.org/2014/08/07/a-weibo-spat-hints-at-the-battle-brewing-over-journalisms-future-in-china/</a> (2014年08月07日 20:25)
  ---
 RT @Techinasia: Want to use WeChat? You better 'abide by the socialist system' (UPDATED with Tencent's comments) <a href="http://www.techinasia.com/wechat-abide-socialist-system/">www.techinasia.com/wechat-abide-socialist-system/</a> (2014年08月07日 20:20)
- ---
-RT @Francois_Bougon: Les utilisateurs de WeChat devront s'engager à "respecter les lois et règlements du système socialiste, l'intérêt nati… (2014年08月07日 20:19)
  ---
