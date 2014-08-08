@@ -21,6 +21,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @williamlong: 其实在中国，所有的个人网站的站长都是违法的，只要网罗一些人从里到外地查一查，肯定能查出你的某个“违法犯罪”的情节，或发布不实信息、或偷税漏税、或无照经营，总而言之，先关起来再调查，没一个跑得了。你的网站现在还没关闭，不是因为合法，而是因为你不值… (2014年08月08日 09:00)
+ ---
 RT @cnni: What does a giant, inflatable toad have to do with a former Chinese President? <a href="http://www.cnn.com/2014/08/01/world/asia/toad-jiang-zemin/index.html">www.cnn.com/2014/08/01/world/asia/toad-jiang-zemin/index.html</a> <a href="https://twitter.com/cnni/status/495244267640852480/photo/1">twitter.com/cnni/status/495244267640852480/photo/1</a> (2014年08月08日 06:15)
  ---
 环球时报承认其报道浑水泡面是假新闻是假新闻。<a href="https://freeweibo.com/weibo/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5+%E5%81%87%E6%96%B0%E9%97%BB">freeweibo.com/weibo/环球时报 假新闻</a> (2014年08月08日 02:37)
@@ -58,6 +60,4 @@ RT @Techinasia: Want to use WeChat? You better 'abide by the socialist system' (
 RT @Francois_Bougon: Les utilisateurs de WeChat devront s'engager à "respecter les lois et règlements du système socialiste, l'intérêt nati… (2014年08月07日 20:19)
  ---
 Two months ago, after the Chinese authorities blocked Google, we unblocked it. It remains unblocked: <a href="https://github.com/greatfire/wiki">github.com/greatfire/wiki</a> (2014年08月07日 00:38)
- ---
-176,000 official government microblog accounts "occupy weibo" <a href="http://thediplomat.com/2014/08/how-weibo-is-changing-local-governance-in-china/?allpages=yes">thediplomat.com/2014/08/how-weibo-is-changing-local-governance-in-china/</a> h/t @niubi (2014年08月06日 22:17)
  ---
