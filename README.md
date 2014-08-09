@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @wikileaks: Interview with alleged Stratfor source, Jeremy Hammond <a href="http://america.aljazeera.com/watch/shows/america-tonight/articles/2014/8/5/notorious-hackerhammondprisonisatemporaryinconvenience.html">america.aljazeera.com/watch/shows/america-tonight/articles/2014/8/5/notorious-hackerhammondprisonisatemporaryinconvenience.html</a> More: <a href="http://freejeremy.net/">freejeremy.net/</a> (2014年08月09日 17:44)
+ ---
 RT @fightcensorship: F-secure公司确认小米手机偷偷将用户信息发送到位于中国的服务器。<a href="http://www.f-secure.com/weblog/archives/00002731.html">www.f-secure.com/weblog/archives/00002731.html</a> 小米公司的解释是此数据属于公共数据服务并不涉及隐私，用户可以关闭云服务。<a href="https://www.facebook.com/unsupportedbrowser">www.facebook.com/unsupportedbrowser</a> h… (2014年08月09日 06:06)
  ---
 RT @Phycheez: 我在译言上的译文——中参馆 @ChinaFile | 我在故我知——与 @GreatFireChina 的 Martin Johnson 的问答  <a href="http://article.yeeyan.org/view/494004/418742">article.yeeyan.org/view/494004/418742</a> (2014年08月09日 01:02)
@@ -60,6 +62,4 @@ RT @gadyepstein: WhatsApp not blocked. Hmm what's that mean? MT @PaulCarsten Chi
 RT @gillianwong: Very useful. MT @wang_maya: Confused by twists and turns in Gao Zhisheng's case? Here's a timeline by @hrw <a href="http://t.co/eHV">t.co/eHV</a>… (2014年08月07日 20:31)
  ---
 RT @hu_jia: 高智义大哥和 #高智晟 律师现在已从阿克苏地区的沙雅县返程至新疆自治区首府乌鲁木齐市。沙雅县相邻的库车县有机场，看来他们是乘坐飞机返程的。高智义大哥说弟弟的牙齿坏了，他会陪高智晟律师在乌鲁木齐诊治几天。然后计划回陕北榆林佳县的老家。#GaoZhishen… (2014年08月07日 20:29)
- ---
-RT @hu_jia: 今天有朋友们在庆祝高智晟律师出狱获得自由。但其实只要在共产党统治的中国大陆，高智晟律师就不会有真正的自由。国保党匪是如影随形的地狱走卒，随时拖他再入炼狱。高律师的自由，只能始自于他离开这个国家的一刻。#GaoZhisheng @genghe1 (2014年08月07日 20:29)
  ---
