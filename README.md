@@ -3,8 +3,8 @@
 * 自由微博 #1：https://d2ccyrjn8aplfx.cloudfront.net        
 * 自由微博 #2：https://eda00.azurewebsites.net        
 * 自由微博 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/        
-* 中国数字时代 #1：https://d1i4s4ej6nal47.cloudfront.net        
-* 中国数字时代 #2：https://d71f.azurewebsites.net        
+* 中国数字时代 #1：https://d32ig6e6i2e5nu.cloudfront.net        
+* 中国数字时代 #2：https://92fd.azurewebsites.net        
 * 中国数字时代 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
 * Google 搜索 #1：https://d3vv89cvqbrqlq.cloudfront.net        
 * Google 搜索 #2：https://865ba.azurewebsites.net        
@@ -37,7 +37,7 @@ China's Real Name Internet Part 1: Ancient History - 2003 to Early 2012 <a href=
  ---
 RT @williamlong: 其实在中国，所有的个人网站的站长都是违法的，只要网罗一些人从里到外地查一查，肯定能查出你的某个“违法犯罪”的情节，或发布不实信息、或偷税漏税、或无照经营，总而言之，先关起来再调查，没一个跑得了。你的网站现在还没关闭，不是因为合法，而是因为你不值… (2014年08月08日 09:00)
  ---
-RT @cnni: What does a giant, inflatable toad have to do with a former Chinese President? <a href="http://www.cnn.com/2014/08/01/world/asia/toad-jiang-zemin/index.html">www.cnn.com/2014/08/01/world/asia/toad-jiang-zemin/index.html</a> <a href="https://twitter.com/cnni/status/495244267640852480/photo/1">twitter.com/cnni/status/495244267640852480/photo/1</a> (2014年08月08日 06:15)
+RT @cnni: What does a giant, inflatable toad have to do with a former Chinese President? <a href="http://cnn.it/1qy3ULM">cnn.it/1qy3ULM</a> <a href="https://twitter.com/cnni/status/495244267640852480/photo/1">twitter.com/cnni/status/495244267640852480/photo/1</a> (2014年08月08日 06:15)
  ---
 环球时报承认其报道浑水泡面是假新闻是假新闻。<a href="https://freeweibo.com/weibo/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5+%E5%81%87%E6%96%B0%E9%97%BB">freeweibo.com/weibo/环球时报 假新闻</a> (2014年08月08日 02:37)
  ---
