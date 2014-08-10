@@ -23,6 +23,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @VOAJiangHe: 知名网络时政漫画家变态辣椒在其推特帐号（ @remonwangxt）透露了自己恐遭当局全面封杀的消息，称自己不但连新浪、腾讯微博帐号及预备小号被删，连他目前在淘宝开设的代购网店也被封杀。 <a href="https://twitter.com/VOAJiangHe/status/498455302015303681/photo/1">twitter.com/VOAJiangHe/status/498455302015303681/photo/1</a> (2014年08月10日 23:14)
+ ---
 RT @wikileaks: Interview with alleged Stratfor source, Jeremy Hammond <a href="http://america.aljazeera.com/watch/shows/america-tonight/articles/2014/8/5/notorious-hackerhammondprisonisatemporaryinconvenience.html">america.aljazeera.com/watch/shows/america-tonight/articles/2014/8/5/notorious-hackerhammondprisonisatemporaryinconvenience.html</a> More: <a href="http://freejeremy.net/">freejeremy.net/</a> (2014年08月09日 17:44)
  ---
 RT @fightcensorship: F-secure公司确认小米手机偷偷将用户信息发送到位于中国的服务器。<a href="http://www.f-secure.com/weblog/archives/00002731.html">www.f-secure.com/weblog/archives/00002731.html</a> 小米公司的解释是此数据属于公共数据服务并不涉及隐私，用户可以关闭云服务。<a href="https://www.facebook.com/unsupportedbrowser">www.facebook.com/unsupportedbrowser</a> h… (2014年08月09日 06:06)
@@ -60,6 +62,4 @@ RT @gadyepstein: WhatsApp not blocked. Hmm what's that mean? MT @PaulCarsten Chi
 "There should be no blind spot when it comes to information control"  <a href="http://www.theguardian.com/world/2014/aug/07/china-intensifies-social-media-crackdown-curbs-instanrt-messaging?CMP=twt_gu">www.theguardian.com/world/2014/aug/07/china-intensifies-social-media-crackdown-curbs-instanrt-messaging</a> via @taniabranigan (2014年08月07日 23:32)
  ---
 RT @gillianwong: Very useful. MT @wang_maya: Confused by twists and turns in Gao Zhisheng's case? Here's a timeline by @hrw <a href="http://t.co/eHV">t.co/eHV</a>… (2014年08月07日 20:31)
- ---
-RT @hu_jia: 高智义大哥和 #高智晟 律师现在已从阿克苏地区的沙雅县返程至新疆自治区首府乌鲁木齐市。沙雅县相邻的库车县有机场，看来他们是乘坐飞机返程的。高智义大哥说弟弟的牙齿坏了，他会陪高智晟律师在乌鲁木齐诊治几天。然后计划回陕北榆林佳县的老家。#GaoZhishen… (2014年08月07日 20:29)
  ---
