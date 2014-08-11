@@ -3,8 +3,8 @@
 * 自由微博 #1：https://d1stdkq55ggsv7.cloudfront.net        
 * 自由微博 #2：https://eda00.azurewebsites.net        
 * 自由微博 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/        
-* 中国数字时代 #1：https://d16ixcf09e8jhg.cloudfront.net        
-* 中国数字时代 #2：https://00cb8.azurewebsites.net        
+* 中国数字时代 #1：https://d354nt3t0vvw7.cloudfront.net        
+* 中国数字时代 #2：https://7ce4.azurewebsites.net        
 * 中国数字时代 #3：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
 * Google 搜索 #1：https://d3vv89cvqbrqlq.cloudfront.net        
 * Google 搜索 #2：https://865ba.azurewebsites.net        
