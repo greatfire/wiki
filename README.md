@@ -28,6 +28,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@oiax @Livid 发过的，被管理员删除了 <a href="https://webcache.googleusercontent.com/search?q=cache:LxWuP44xTFMJ:www.v2ex.com/t/127329">webcache.googleusercontent.com/search</a> (2014年08月13日 02:39)
+ ---
 RT @freemoren: 小米台湾承认私自上传用户信息 公开道歉并紧急更新系统
 <a href="http://tech.ifeng.com/bat3m/detail_2014_08/11/38045378_0.shtml">tech.ifeng.com/bat3m/detail_2014_08/11/38045378_0.shtml</a> (2014年08月12日 01:27)
  ---
@@ -66,6 +68,4 @@ RT @paopaonet: 《iPhone通话轻松加密应对窃听风云》：Signal是一�
 No censorship of news of censorship of messaging apps. Chinese "chilling effect" in action <a href="https://freeweibo.com/weibo/line">freeweibo.com/weibo/line</a> (2014年08月07日 23:51)
  ---
 韩国政府证实中国因反恐封锁KakaoTalk 和 Line <a href="http://www.solidot.org/story?sid=40650">www.solidot.org/story</a> (2014年08月07日 23:39)
- ---
-RT @gadyepstein: WhatsApp not blocked. Hmm what's that mean? MT @PaulCarsten China tells SK blocked KakaoTalk, Line to fight terrorism http… (2014年08月07日 23:33)
  ---
