@@ -28,6 +28,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @openervpn: OpenerDNS 公告： 42.120.21.30 Down了。是的，我们出名了，我们也就Down了。OpenerDNS 将推出全球网络的CDN加速服务（面向个人与网站用户），新的临时DNS地址：207.46.137.165 。 谢谢大家的支持。 (2014年08月13日 07:23)
+ ---
 @williamlong iOS要在初始界面登录iCloud才会启用iMessage和Facetime (2014年08月13日 04:07)
  ---
 @oiax @Livid 发过的，被管理员删除了 <a href="https://webcache.googleusercontent.com/search?q=cache:LxWuP44xTFMJ:www.v2ex.com/t/127329">webcache.googleusercontent.com/search</a> (2014年08月13日 02:39)
@@ -66,6 +68,4 @@ We believe in a Chinese internet that is a disorderly, pell-mell space full of t
 @niubi it seems to say that private communications will remain private (2014年08月08日 02:15)
  ---
 RT @paopaonet: 《iPhone通话轻松加密应对窃听风云》：Signal是一个专门为iOS打造的免费app，被认为是“最简便的电话加密系统”，它可以有效防止手机被监听。IT专家Vergil为泡泡网在中国做测试并证实，Signal目前能够在中国正常使用https://… (2014年08月07日 23:56)
- ---
-No censorship of news of censorship of messaging apps. Chinese "chilling effect" in action <a href="https://freeweibo.com/weibo/line">freeweibo.com/weibo/line</a> (2014年08月07日 23:51)
  ---
