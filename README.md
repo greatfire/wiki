@@ -43,7 +43,7 @@ RT @VOAJiangHe: 知名网络时政漫画家变态辣椒在其推特帐号（ @re
  ---
 RT @wikileaks: Interview with alleged Stratfor source, Jeremy Hammond <a href="http://america.aljazeera.com/watch/shows/america-tonight/articles/2014/8/5/notorious-hackerhammondprisonisatemporaryinconvenience.html">america.aljazeera.com/watch/shows/america-tonight/articles/2014/8/5/notorious-hackerhammondprisonisatemporaryinconvenience.html</a> More: <a href="http://freejeremy.net/">freejeremy.net/</a> (2014年08月09日 17:44)
  ---
-RT @fightcensorship: F-secure公司确认小米手机偷偷将用户信息发送到位于中国的服务器。<a href="http://www.f-secure.com/weblog/archives/00002731.html">www.f-secure.com/weblog/archives/00002731.html</a> 小米公司的解释是此数据属于公共数据服务并不涉及隐私，用户可以关闭云服务。<a href="http://is.gd/AzsHtG">is.gd/AzsHtG</a> h… (2014年08月09日 06:06)
+RT @fightcensorship: F-secure公司确认小米手机偷偷将用户信息发送到位于中国的服务器。<a href="http://www.f-secure.com/weblog/archives/00002731.html">www.f-secure.com/weblog/archives/00002731.html</a> 小米公司的解释是此数据属于公共数据服务并不涉及隐私，用户可以关闭云服务。<a href="https://www.facebook.com/unsupportedbrowser">www.facebook.com/unsupportedbrowser</a> h… (2014年08月09日 06:06)
  ---
 RT @Phycheez: 我在译言上的译文——中参馆 @ChinaFile | 我在故我知——与 @GreatFireChina 的 Martin Johnson 的问答  <a href="http://article.yeeyan.org/view/494004/418742">article.yeeyan.org/view/494004/418742</a> (2014年08月09日 01:02)
  ---
