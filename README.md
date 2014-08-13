@@ -19,7 +19,7 @@
 3.（短期有效）：https://c7511.azurewebsites.net
 ### 泡泡（未经审查的网络报道）        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/        
-2.（短期有效）：https://d19ysv8o6fv16v.cloudfront.net        
+2.（短期有效）：https://        
 3.（短期有效）：https://ca96.azurewebsites.net
 
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
