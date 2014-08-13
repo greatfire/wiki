@@ -28,6 +28,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: 《解密美国“反恐”监视清单》根据政府监视清单的守则，官员不需要“具体事实”或“确凿证据”来秘密将某人加入监视清单之内， 他们仅需“合理怀疑”这样一个模糊的标准就够了。<a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/?u=article/148">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> (2014年08月14日 03:42)
+ ---
 RT @phuslu: 因屏蔽谷歌向工信部申请信息公开一事，工信部答复了 <a href="http://www.v2ex.com/t/127685?r=phuslu">www.v2ex.com/t/127685</a> #share (2014年08月14日 01:17)
  ---
 他决心加大“新政”力度，对贪官发现一个，撤换一个，绝不手软。..很显然，运动式的惩贪，到了嘉庆时期已经不能起到实质性的作用。..在这种情况下，朝廷“打老虎”已经演变成“水过地皮湿”，震摄力越来越低。 <a href="http://cont.3g.163.com/14/0802/16/A2LPI37M9001I37N.html">cont.3g.163.com/14/0802/16/A2LPI37M9001I37N.html</a> (2014年08月13日 15:47)
@@ -66,6 +68,4 @@ RT @mcgregorrichard: Beijing to create a "Chinese Christian belief" system, conf
 @mcgregorrichard Jesus (2014年08月08日 02:33)
  ---
 @SanNuvola also a distinct possibility (2014年08月08日 02:22)
- ---
-We believe in a Chinese internet that is a disorderly, pell-mell space full of transgression <a href="http://chinacopyrightandmedia.wordpress.com/2014/08/07/siio-spokespersons-comments-concerning-the-provisional-regulations-for-the-development-and-management-of-instant-messaging-tools-and-public-information-services/">chinacopyrightandmedia.wordpress.com/2014/08/07/siio-spokespersons-comments-concerning-the-provisional-regulations-for-the-development-and-management-of-instant-messaging-tools-and-public-information-services/</a> h/t @niubi (2014年08月08日 02:21)
  ---
