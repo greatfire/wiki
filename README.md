@@ -6,11 +6,11 @@
 3.（短期有效）：https://0a08d.azurewebsites.net
 ### 中国数字时代        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
-2.（短期有效）：https://d26hw2d8qd20hz.cloudfront.net        
+2.（短期有效）：https://d3e98he62ct63j.cloudfront.net        
 3.（短期有效）：https://1ff2d.azurewebsites.net
 ### Google 搜索        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/        
-2.（短期有效）：https://        
+2.（短期有效）：https://d1x0p3lmdequ0z.cloudfront.net        
 3.（短期有效）：https://865ba.azurewebsites.net        
 4.（长期有效）：https://startpage.com
 ### 蓝灯（Lantern）以及自由微博和GreatFire.org官方中文论坛        
