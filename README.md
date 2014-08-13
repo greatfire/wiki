@@ -10,7 +10,7 @@
 3.（短期有效）：https://1ff2d.azurewebsites.net
 ### Google 搜索        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/        
-2.（短期有效）：https://d3vv89cvqbrqlq.cloudfront.net        
+2.（短期有效）：https://        
 3.（短期有效）：https://865ba.azurewebsites.net        
 4.（长期有效）：https://startpage.com
 ### 蓝灯（Lantern）以及自由微博和GreatFire.org官方中文论坛        
