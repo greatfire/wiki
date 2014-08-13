@@ -28,6 +28,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+他决心加大“新政”力度，对贪官发现一个，撤换一个，绝不手软。..很显然，运动式的惩贪，到了嘉庆时期已经不能起到实质性的作用。..在这种情况下，朝廷“打老虎”已经演变成“水过地皮湿”，震摄力越来越低。 <a href="http://cont.3g.163.com/14/0802/16/A2LPI37M9001I37N.html">cont.3g.163.com/14/0802/16/A2LPI37M9001I37N.html</a> (2014年08月13日 15:47)
+ ---
 RT @openervpn: OpenerDNS 公告： 42.120.21.30 Down了。是的，我们出名了，我们也就Down了。OpenerDNS 将推出全球网络的CDN加速服务（面向个人与网站用户），新的临时DNS地址：207.46.137.165 。 谢谢大家的支持。 (2014年08月13日 07:23)
  ---
 @williamlong iOS要在初始界面登录iCloud才会启用iMessage和Facetime (2014年08月13日 04:07)
@@ -66,6 +68,4 @@ RT @mcgregorrichard: Beijing to create a "Chinese Christian belief" system, conf
 We believe in a Chinese internet that is a disorderly, pell-mell space full of transgression <a href="http://chinacopyrightandmedia.wordpress.com/2014/08/07/siio-spokespersons-comments-concerning-the-provisional-regulations-for-the-development-and-management-of-instant-messaging-tools-and-public-information-services/">chinacopyrightandmedia.wordpress.com/2014/08/07/siio-spokespersons-comments-concerning-the-provisional-regulations-for-the-development-and-management-of-instant-messaging-tools-and-public-information-services/</a> h/t @niubi (2014年08月08日 02:21)
  ---
 @niubi it seems to say that private communications will remain private (2014年08月08日 02:15)
- ---
-RT @paopaonet: 《iPhone通话轻松加密应对窃听风云》：Signal是一个专门为iOS打造的免费app，被认为是“最简便的电话加密系统”，它可以有效防止手机被监听。IT专家Vergil为泡泡网在中国做测试并证实，Signal目前能够在中国正常使用https://… (2014年08月07日 23:56)
  ---
