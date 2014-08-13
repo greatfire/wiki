@@ -3,7 +3,7 @@
 ### 自由微博        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/        
 2.（短期有效）：https://d3exoi8snplxba.cloudfront.net        
-3.（短期有效）：https://0a08d.azurewebsites.net
+3.（短期有效）：https://aabe.azurewebsites.net
 ### 中国数字时代        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
 2.（短期有效）：https://d3e98he62ct63j.cloudfront.net        
