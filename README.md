@@ -28,6 +28,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=ThztU4XMLrDJ8gfktoCYBA&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
+ ---
 The Most Wanted Man in the World: Edward Snowden in His Own Words <a href="http://www.wired.com/2014/08/edward-snowden/">www.wired.com/2014/08/edward-snowden/</a> (2014年08月14日 23:47)
  ---
 RT @paopaonet: 《解密美国“反恐”监视清单》根据政府监视清单的守则，官员不需要“具体事实”或“确凿证据”来秘密将某人加入监视清单之内， 他们仅需“合理怀疑”这样一个模糊的标准就够了。<a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/?u=article/148">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> (2014年08月14日 03:42)
@@ -35,8 +37,6 @@ RT @paopaonet: 《解密美国“反恐”监视清单》根据政府监视清�
 RT @phuslu: 因屏蔽谷歌向工信部申请信息公开一事，工信部答复了 <a href="http://www.v2ex.com/t/127685?r=phuslu">www.v2ex.com/t/127685</a> #share (2014年08月14日 01:17)
  ---
 他决心加大“新政”力度，对贪官发现一个，撤换一个，绝不手软。..很显然，运动式的惩贪，到了嘉庆时期已经不能起到实质性的作用。..在这种情况下，朝廷“打老虎”已经演变成“水过地皮湿”，震摄力越来越低。 <a href="http://cont.3g.163.com/14/0802/16/A2LPI37M9001I37N.html">cont.3g.163.com/14/0802/16/A2LPI37M9001I37N.html</a> (2014年08月13日 15:47)
- ---
-RT @openervpn: OpenerDNS 公告： 42.120.21.30 Down了。是的，我们出名了，我们也就Down了。OpenerDNS 将推出全球网络的CDN加速服务（面向个人与网站用户），新的临时DNS地址：207.46.137.165 。 谢谢大家的支持。 (2014年08月13日 07:23)
  ---
 @williamlong iOS要在初始界面登录iCloud才会启用iMessage和Facetime (2014年08月13日 04:07)
  ---
