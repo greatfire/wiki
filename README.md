@@ -2,7 +2,7 @@
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
 ### 自由微博        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/        
-2.（短期有效）：https://        
+2.（短期有效）：https://d12yerjbn8vjp5.cloudfront.net        
 3.（短期有效）：https://fw2.azurewebsites.net
 ### 中国数字时代        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
@@ -10,16 +10,16 @@
 3.（短期有效）：https://770b3.azurewebsites.net
 ### Google 搜索        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/        
-2.（短期有效）：https://        
+2.（短期有效）：https://d24epasocofl3v.cloudfront.net        
 3.（短期有效）：https://865ba.azurewebsites.net        
 4.（长期有效）：https://startpage.com
 ### 蓝灯（Lantern）以及自由微博和GreatFire.org官方中文论坛        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/        
-2.（短期有效）：https://d111u3mxrnneix.cloudfront.net        
+2.（短期有效）：https://d1ssxz857pc9da.cloudfront.net        
 3.（短期有效）：https://c7511.azurewebsites.net
 ### 泡泡（未经审查的网络报道）        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/        
-2.（短期有效）：https://        
+2.（短期有效）：https://d32pt9ivjjofmj.cloudfront.net        
 3.（短期有效）：https://774e33d.azurewebsites.net
 
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
