@@ -7,7 +7,7 @@
 ### 中国数字时代        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
 2.（短期有效）：https://d3ski750r3vof6.cloudfront.net        
-3.（短期有效）：https://770b3.azurewebsites.net
+3.（短期有效）：https://1ff2d.azurewebsites.net
 ### Google 搜索        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/        
 2.（短期有效）：https://d24epasocofl3v.cloudfront.net        
