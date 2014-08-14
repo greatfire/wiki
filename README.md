@@ -28,6 +28,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+The Most Wanted Man in the World: Edward Snowden in His Own Words <a href="http://www.wired.com/2014/08/edward-snowden/">www.wired.com/2014/08/edward-snowden/</a> (2014年08月14日 23:47)
+ ---
 RT @paopaonet: 《解密美国“反恐”监视清单》根据政府监视清单的守则，官员不需要“具体事实”或“确凿证据”来秘密将某人加入监视清单之内， 他们仅需“合理怀疑”这样一个模糊的标准就够了。<a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/?u=article/148">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> (2014年08月14日 03:42)
  ---
 RT @phuslu: 因屏蔽谷歌向工信部申请信息公开一事，工信部答复了 <a href="http://www.v2ex.com/t/127685?r=phuslu">www.v2ex.com/t/127685</a> #share (2014年08月14日 01:17)
@@ -66,6 +68,4 @@ RT @cnni: What does a giant, inflatable toad have to do with a former Chinese Pr
 RT @mcgregorrichard: Beijing to create a "Chinese Christian belief" system, confirmation religion now so pervasive CCP must colonise it. ht… (2014年08月08日 02:33)
  ---
 @mcgregorrichard Jesus (2014年08月08日 02:33)
- ---
-@SanNuvola also a distinct possibility (2014年08月08日 02:22)
  ---
