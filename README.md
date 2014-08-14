@@ -6,7 +6,7 @@
 3.（短期有效）：https://fw2.azurewebsites.net
 ### 中国数字时代        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
-2.（短期有效）：https://d3e98he62ct63j.cloudfront.net        
+2.（短期有效）：https://d29jekp4emy41a.cloudfront.net        
 3.（短期有效）：https://770b3.azurewebsites.net
 ### Google 搜索        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/        
