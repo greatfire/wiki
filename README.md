@@ -2,7 +2,7 @@
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
 ### 自由微博        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/        
-2.（短期有效）：https://d12yerjbn8vjp5.cloudfront.net        
+2.（短期有效）：https://        
 3.（短期有效）：https://0a08d.azurewebsites.net
 ### 中国数字时代        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
@@ -28,7 +28,7 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=JrHtU9jxNKLJ8geVtoGQBg&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://vipsinaapp.co">vipsinaapp.co</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
+免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=ebPtU-aBManJ8ge66oH4Bg&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
  ---
 The Most Wanted Man in the World: Edward Snowden in His Own Words <a href="http://www.wired.com/2014/08/edward-snowden/">www.wired.com/2014/08/edward-snowden/</a> (2014年08月14日 23:47)
  ---
