@@ -15,7 +15,7 @@
 4.（长期有效）：https://startpage.com
 ### 蓝灯（Lantern）以及自由微博和GreatFire.org官方中文论坛        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/        
-2.（短期有效）：https://d1ssxz857pc9da.cloudfront.net        
+2.（短期有效）：https://dx1djqjpnvurw.cloudfront.net        
 3.（短期有效）：https://c7511.azurewebsites.net
 ### 泡泡（未经审查的网络报道）        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/        
@@ -30,7 +30,7 @@
 ## 新闻
 RT @getlantern: Thanks @ASankin @dailydot! How you can help demolish the Great Firewall of China from the comfort of your living room http:… (2014年08月15日 20:03)
  ---
-免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=0iLuU8X8LabJ8ge73IC4DA&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
+免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=-SPuU9PLHK_J8ge6uoCABw&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
  ---
 The Most Wanted Man in the World: Edward Snowden in His Own Words <a href="http://www.wired.com/2014/08/edward-snowden/">www.wired.com/2014/08/edward-snowden/</a> (2014年08月14日 23:47)
  ---
