@@ -34,7 +34,7 @@ Apple begins storing users' personal data on servers in China <a href="http://ww
  ---
 RT @getlantern: Thanks @ASankin @dailydot! How you can help demolish the Great Firewall of China from the comfort of your living room http:… (2014年08月15日 20:03)
  ---
-免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu">wen.lu</a> 自由微博 <a href="https://vipsinaapp.co">vipsinaapp.co</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://chetxia.co">chetxia.co</a> (2014年08月15日 04:28)
+免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=KlvwU5KuDanJ8ge66oH4Bg&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
  ---
 The Most Wanted Man in the World: Edward Snowden in His Own Words <a href="http://www.wired.com/2014/08/edward-snowden/">www.wired.com/2014/08/edward-snowden/</a> (2014年08月14日 23:47)
  ---
@@ -68,6 +68,4 @@ China's Real Name Internet Part 1: Ancient History - 2003 to Early 2012 <a href=
 RT @williamlong: 其实在中国，所有的个人网站的站长都是违法的，只要网罗一些人从里到外地查一查，肯定能查出你的某个“违法犯罪”的情节，或发布不实信息、或偷税漏税、或无照经营，总而言之，先关起来再调查，没一个跑得了。你的网站现在还没关闭，不是因为合法，而是因为你不值… (2014年08月08日 09:00)
  ---
 RT @cnni: What does a giant, inflatable toad have to do with a former Chinese President? <a href="http://www.cnn.com/2014/08/01/world/asia/toad-jiang-zemin/index.html">www.cnn.com/2014/08/01/world/asia/toad-jiang-zemin/index.html</a> <a href="https://twitter.com/cnni/status/495244267640852480/photo/1">twitter.com/cnni/status/495244267640852480/photo/1</a> (2014年08月08日 06:15)
- ---
-/1</a> (2014年08月08日 06:15)
  ---
