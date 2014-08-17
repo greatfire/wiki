@@ -28,6 +28,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @Dylen_s: 朝鲜富人搬家蹭外国使馆无线网络 <a href="http://www.solidot.org/story?sid=40745">www.solidot.org/story</a> 朝鲜政府之后要求外国使馆设置无线网密码，但不少使馆并未理睬。报道还称，一些大学生为蹭网，专程带着手机到外国使馆附近“散步”。 (2014年08月17日 11:03)
+ ---
 Apple begins storing users' personal data on servers in China <a href="http://www.reuters.com/article/2014/08/15/us-apple-data-china-idUSKBN0GF0N720140815">www.reuters.com/article/2014/08/15/us-apple-data-china-idUSKBN0GF0N720140815</a> via @reuters (2014年08月16日 23:21)
  ---
 RT @getlantern: Thanks @ASankin @dailydot! How you can help demolish the Great Firewall of China from the comfort of your living room http:… (2014年08月15日 20:03)
@@ -66,6 +68,4 @@ China's Real Name Internet Part 1: Ancient History - 2003 to Early 2012 <a href=
 RT @williamlong: 其实在中国，所有的个人网站的站长都是违法的，只要网罗一些人从里到外地查一查，肯定能查出你的某个“违法犯罪”的情节，或发布不实信息、或偷税漏税、或无照经营，总而言之，先关起来再调查，没一个跑得了。你的网站现在还没关闭，不是因为合法，而是因为你不值… (2014年08月08日 09:00)
  ---
 RT @cnni: What does a giant, inflatable toad have to do with a former Chinese President? <a href="http://www.cnn.com/2014/08/01/world/asia/toad-jiang-zemin/index.html">www.cnn.com/2014/08/01/world/asia/toad-jiang-zemin/index.html</a> <a href="https://twitter.com/cnni/status/495244267640852480/photo/1">twitter.com/cnni/status/495244267640852480/photo/1</a> (2014年08月08日 06:15)
- ---
-环球时报承认其报道浑水泡面是假新闻是假新闻。<a href="https://freeweibo.com/weibo/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5+%E5%81%87%E6%96%B0%E9%97%BB">freeweibo.com/weibo/环球时报 假新闻</a> (2014年08月08日 02:37)
  ---
