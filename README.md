@@ -2,25 +2,30 @@
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
 ### 自由微博        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/        
-2.（短期有效）：https://d1stdkq55ggsv7.cloudfront.net        
-3.（短期有效）：https://fw2.azurewebsites.net
+2.（长期有效）：https://objects.dreamhost.com/freeweibo/index.html        
+3.（短期有效）：https://d1stdkq55ggsv7.cloudfront.net        
+4.（短期有效）：https://fw2.azurewebsites.net
 ### 中国数字时代        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
-2.（短期有效）：https://d3e98he62ct63j.cloudfront.net        
-3.（短期有效）：https://1ff2d.azurewebsites.net
+2.（长期有效）：https://objects.dreamhost.com/cdt/index.html        
+3.（短期有效）：https://d3e98he62ct63j.cloudfront.net        
+4.（短期有效）：https://1ff2d.azurewebsites.net
 ### Google 搜索        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/        
-2.（短期有效）：https://d3vv89cvqbrqlq.cloudfront.net        
-3.（短期有效）：https://865ba.azurewebsites.net        
-4.（长期有效）：https://startpage.com
+2.（长期有效）：https://objects.dreamhost.com/goo/index.html        
+3.（短期有效）：https://d3vv89cvqbrqlq.cloudfront.net        
+4.（短期有效）：https://865ba.azurewebsites.net        
+5.（长期有效）：https://startpage.com
 ### 蓝灯（Lantern）以及自由微博和GreatFire.org官方中文论坛        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/        
-2.（短期有效）：https://dx1djqjpnvurw.cloudfront.net        
-3.（短期有效）：https://c7511.azurewebsites.net
+2.（长期有效）：https://objects.dreamhost.com/lantern/index.html        
+3.（短期有效）：https://dx1djqjpnvurw.cloudfront.net        
+4.（短期有效）：https://c7511.azurewebsites.net
 ### 泡泡（未经审查的网络报道）        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/        
-2.（短期有效）：https://d19ysv8o6fv16v.cloudfront.net        
-3.（短期有效）：https://774e33d.azurewebsites.net
+2.（长期有效）：https://objects.dreamhost.com/paopao/index.html        
+3.（短期有效）：https://d19ysv8o6fv16v.cloudfront.net        
+4.（短期有效）：https://774e33d.azurewebsites.net
 
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
 
@@ -40,7 +45,7 @@ Apple begins storing users' personal data on servers in China <a href="http://ww
  ---
 RT @getlantern: Thanks @ASankin @dailydot! How you can help demolish the Great Firewall of China from the comfort of your living room http:… (2014年08月15日 20:03)
  ---
-免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=7JnxU52zMM7U8gfc1YDwCg&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
+免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=1JrxU5D0HM_U8gfFvYH4DA&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
  ---
 The Most Wanted Man in the World: Edward Snowden in His Own Words <a href="http://www.wired.com/2014/08/edward-snowden/">www.wired.com/2014/08/edward-snowden/</a> (2014年08月14日 23:47)
  ---
