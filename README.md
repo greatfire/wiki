@@ -28,6 +28,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @nytchinese: 快扫描微信二维码，或搜索微信号timeslifestyle，获取每日最新资讯和深度分析！ <a href="https://twitter.com/nytchinese/status/501205606812774400/photo/1">twitter.com/nytchinese/status/501205606812774400/photo/1</a> (2014年08月18日 11:19)
+ ---
 RT @avalonalex: 感觉这是重要史料啊，北京大学宣传口内部文件全文泄露。<a href="http://www.douban.com/note/393733117/#!/i!/ckDefault">www.douban.com/note/393733117/</a> (2014年08月17日 21:43)
  ---
 RT @remonwangxt: 香港反占中游行，中共请来大批广场大妈，结果在地铁不会用车票出闸机被大量卡住，还被拍到来自全国各省举着牌子的，真是香港人的命运要全国人民决定的节奏呀 <a href="https://twitter.com/remonwangxt/status/500936533218557954/photo/1">twitter.com/remonwangxt/status/500936533218557954/photo/1</a> (2014年08月17日 21:37)
@@ -38,7 +40,7 @@ Apple begins storing users' personal data on servers in China <a href="http://ww
  ---
 RT @getlantern: Thanks @ASankin @dailydot! How you can help demolish the Great Firewall of China from the comfort of your living room http:… (2014年08月15日 20:03)
  ---
-免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=v2_xU9_0DMzU8gfPzYCoAg&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
+免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=JnHxU--sEc7U8gfc1YDwCg&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://vipsinaapp.co">vipsinaapp.co</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
  ---
 The Most Wanted Man in the World: Edward Snowden in His Own Words <a href="http://www.wired.com/2014/08/edward-snowden/">www.wired.com/2014/08/edward-snowden/</a> (2014年08月14日 23:47)
  ---
@@ -66,6 +68,4 @@ RT @fightcensorship: F-secure公司确认小米手机偷偷将用户信息发送
 RT @Phycheez: 我在译言上的译文——中参馆 @ChinaFile | 我在故我知——与 @GreatFireChina 的 Martin Johnson 的问答  <a href="http://article.yeeyan.org/view/494004/418742">article.yeeyan.org/view/494004/418742</a> (2014年08月09日 01:02)
  ---
 RT @globaldan: China censors IMs: "There’s lots more free information online, and that’s a fatal blow to a regime built on lies.” http://t.… (2014年08月08日 18:11)
- ---
-China's Real Name Internet Part 1: Ancient History - 2003 to Early 2012 <a href="http://blog.feichangdao.com/2014/08/chinas-real-name-internet-part-1.html">blog.feichangdao.com/2014/08/chinas-real-name-internet-part-1.html</a> via @wafarris (2014年08月08日 16:56)
  ---
