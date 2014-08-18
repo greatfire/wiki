@@ -45,7 +45,7 @@ Apple begins storing users' personal data on servers in China <a href="http://ww
  ---
 RT @getlantern: Thanks @ASankin @dailydot! How you can help demolish the Great Firewall of China from the comfort of your living room http:… (2014年08月15日 20:03)
  ---
-免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=_ojyU7ilKevU8gfMooCAAQ&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
+免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=Z4ryU_PUNOjU8ge0w4CICA&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
  ---
 The Most Wanted Man in the World: Edward Snowden in His Own Words <a href="http://www.wired.com/2014/08/edward-snowden/">www.wired.com/2014/08/edward-snowden/</a> (2014年08月14日 23:47)
  ---
@@ -68,7 +68,7 @@ RT @VOAJiangHe: 知名网络时政漫画家变态辣椒在其推特帐号（ @re
  ---
 RT @wikileaks: Interview with alleged Stratfor source, Jeremy Hammond <a href="http://america.aljazeera.com/watch/shows/america-tonight/articles/2014/8/5/notorious-hackerhammondprisonisatemporaryinconvenience.html">america.aljazeera.com/watch/shows/america-tonight/articles/2014/8/5/notorious-hackerhammondprisonisatemporaryinconvenience.html</a> More: <a href="http://freejeremy.net/">freejeremy.net/</a> (2014年08月09日 17:44)
  ---
-RT @fightcensorship: F-secure公司确认小米手机偷偷将用户信息发送到位于中国的服务器。<a href="http://www.f-secure.com/weblog/archives/00002731.html">www.f-secure.com/weblog/archives/00002731.html</a> 小米公司的解释是此数据属于公共数据服务并不涉及隐私，用户可以关闭云服务。<a href="https://www.facebook.com/unsupportedbrowser">www.facebook.com/unsupportedbrowser</a> h… (2014年08月09日 06:06)
+RT @fightcensorship: F-secure公司确认小米手机偷偷将用户信息发送到位于中国的服务器。<a href="http://is.gd/xqUJFX">is.gd/xqUJFX</a> 小米公司的解释是此数据属于公共数据服务并不涉及隐私，用户可以关闭云服务。<a href="http://is.gd/AzsHtG">is.gd/AzsHtG</a> h… (2014年08月09日 06:06)
  ---
 RT @Phycheez: 我在译言上的译文——中参馆 @ChinaFile | 我在故我知——与 @GreatFireChina 的 Martin Johnson 的问答  <a href="http://article.yeeyan.org/view/494004/418742">article.yeeyan.org/view/494004/418742</a> (2014年08月09日 01:02)
  ---
