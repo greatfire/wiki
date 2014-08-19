@@ -33,7 +33,11 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-RT @remonwangxt: 环球网都发了 这是要红啊 <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1686546714%2FBiTpPiZuQ%3Fmod%3Dweibotime&_rand=1408441203.2985">passport.weibo.com/visitor/visitor</a> <a href="https://twitter.com/remonwangxt/status/501371302645481472/photo/1">twitter.com/remonwangxt/status/501371302645481472/photo/1</a> (2014年08月19日 08:17)
+Xi Jinping Now Charging Random People on Street with Corruption - rumors president suffering from paranoid delusions <a href="http://www.miniharm.com/2014/08/18/xi-jinping-random-people-on-street-corruption/">www.miniharm.com/2014/08/18/xi-jinping-random-people-on-street-corruption/</a> (2014年08月19日 17:43)
+ ---
+'Fake' Pro-Gov Protesters Paid to Rally Against HK Democracy Movement <a href="http://hongwrong.com/fake-anti-democracy-rally/">hongwrong.com/fake-anti-democracy-rally/</a> via @hongwrongblog (2014年08月19日 17:41)
+ ---
+RT @remonwangxt: 环球网都发了 这是要红啊 <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1686546714%2FBiTpPiZuQ%3Fmod%3Dweibotime&_rand=1408441506.1885">passport.weibo.com/visitor/visitor</a> <a href="https://twitter.com/remonwangxt/status/501371302645481472/photo/1">twitter.com/remonwangxt/status/501371302645481472/photo/1</a> (2014年08月19日 08:17)
  ---
 RT @nytchinese: 快扫描微信二维码，或搜索微信号timeslifestyle，获取每日最新资讯和深度分析！ <a href="https://twitter.com/nytchinese/status/501205606812774400/photo/1">twitter.com/nytchinese/status/501205606812774400/photo/1</a> (2014年08月18日 11:19)
  ---
@@ -47,7 +51,7 @@ Apple begins storing users' personal data on servers in China <a href="http://ww
  ---
 RT @getlantern: Thanks @ASankin @dailydot! How you can help demolish the Great Firewall of China from the comfort of your living room http:… (2014年08月15日 20:03)
  ---
-免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=exvzU_y3M-zU8gehuIGQBw&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
+免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=qhzzU_yaFubU8ge91YC4DQ&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
  ---
 The Most Wanted Man in the World: Edward Snowden in His Own Words <a href="http://www.wired.com/2014/08/edward-snowden/">www.wired.com/2014/08/edward-snowden/</a> (2014年08月14日 23:47)
  ---
@@ -69,8 +73,4 @@ RT @freemoren: 小米台湾承认私自上传用户信息 公开道歉并紧急�
 RT @VOAJiangHe: 知名网络时政漫画家变态辣椒在其推特帐号（ @remonwangxt）透露了自己恐遭当局全面封杀的消息，称自己不但连新浪、腾讯微博帐号及预备小号被删，连他目前在淘宝开设的代购网店也被封杀。 <a href="https://twitter.com/VOAJiangHe/status/498455302015303681/photo/1">twitter.com/VOAJiangHe/status/498455302015303681/photo/1</a> (2014年08月10日 23:14)
  ---
 RT @wikileaks: Interview with alleged Stratfor source, Jeremy Hammond <a href="http://america.aljazeera.com/watch/shows/america-tonight/articles/2014/8/5/notorious-hackerhammondprisonisatemporaryinconvenience.html">america.aljazeera.com/watch/shows/america-tonight/articles/2014/8/5/notorious-hackerhammondprisonisatemporaryinconvenience.html</a> More: <a href="http://freejeremy.net/">freejeremy.net/</a> (2014年08月09日 17:44)
- ---
-RT @fightcensorship: F-secure公司确认小米手机偷偷将用户信息发送到位于中国的服务器。<a href="http://www.f-secure.com/weblog/archives/00002731.html">www.f-secure.com/weblog/archives/00002731.html</a> 小米公司的解释是此数据属于公共数据服务并不涉及隐私，用户可以关闭云服务。<a href="https://www.facebook.com/unsupportedbrowser">www.facebook.com/unsupportedbrowser</a> h… (2014年08月09日 06:06)
- ---
-RT @Phycheez: 我在译言上的译文——中参馆 @ChinaFile | 我在故我知——与 @GreatFireChina 的 Martin Johnson 的问答  <a href="http://article.yeeyan.org/view/494004/418742">article.yeeyan.org/view/494004/418742</a> (2014年08月09日 01:02)
  ---
