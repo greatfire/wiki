@@ -43,7 +43,7 @@ Xi Jinping Now Charging Random People on Street with Corruption - rumors preside
  ---
 'Fake' Pro-Gov Protesters Paid to Rally Against HK Democracy Movement <a href="http://hongwrong.com/fake-anti-democracy-rally/">hongwrong.com/fake-anti-democracy-rally/</a> via @hongwrongblog (2014年08月19日 17:41)
  ---
-RT @remonwangxt: 环球网都发了 这是要红啊 <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1686546714%2FBiTpPiZuQ%3Fmod%3Dweibotime&_rand=1408656013.0853">passport.weibo.com/visitor/visitor</a> <a href="https://twitter.com/remonwangxt/status/501371302645481472/photo/1">twitter.com/remonwangxt/status/501371302645481472/photo/1</a> (2014年08月19日 08:17)
+RT @remonwangxt: 环球网都发了 这是要红啊 <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1686546714%2FBiTpPiZuQ%3Fmod%3Dweibotime&_rand=1408656306.0237">passport.weibo.com/visitor/visitor</a> <a href="https://twitter.com/remonwangxt/status/501371302645481472/photo/1">twitter.com/remonwangxt/status/501371302645481472/photo/1</a> (2014年08月19日 08:17)
  ---
 RT @nytchinese: 快扫描微信二维码，或搜索微信号timeslifestyle，获取每日最新资讯和深度分析！ <a href="https://twitter.com/nytchinese/status/501205606812774400/photo/1">twitter.com/nytchinese/status/501205606812774400/photo/1</a> (2014年08月18日 11:19)
  ---
@@ -53,11 +53,11 @@ RT @remonwangxt: 香港反占中游行，中共请来大批广场大妈，结果
  ---
 RT @Dylen_s: 朝鲜富人搬家蹭外国使馆无线网络 <a href="http://www.solidot.org/story?sid=40745">www.solidot.org/story</a> 朝鲜政府之后要求外国使馆设置无线网密码，但不少使馆并未理睬。报道还称，一些大学生为蹭网，专程带着手机到外国使馆附近“散步”。 (2014年08月17日 11:03)
  ---
-Apple begins storing users' personal data on servers in China <a href="http://t.co/2rvb0ZOP9J">t.co/2rvb0ZOP9J</a> via @reuters (2014年08月16日 23:21)
+Apple begins storing users' personal data on servers in China <a href="http://www.reuters.com/article/2014/08/15/us-apple-data-china-idUSKBN0GF0N720140815">www.reuters.com/article/2014/08/15/us-apple-data-china-idUSKBN0GF0N720140815</a> via @reuters (2014年08月16日 23:21)
  ---
 RT @getlantern: Thanks @ASankin @dailydot! How you can help demolish the Great Firewall of China from the comfort of your living room http:… (2014年08月15日 20:03)
  ---
-免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=1mL2U661GePU8gfJnYHICA&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
+免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=umP2U-qsLObU8ge91YC4DQ&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
  ---
 The Most Wanted Man in the World: Edward Snowden in His Own Words <a href="http://www.wired.com/2014/08/edward-snowden/">www.wired.com/2014/08/edward-snowden/</a> (2014年08月14日 23:47)
  ---
