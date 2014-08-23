@@ -33,6 +33,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @bitinn: <a href="http://ithome.com.tw/news/90246">ithome.com.tw/news/90246</a> Cloudflare在台湾HitCon谈关于保护香港民调时遇到的大规模DDoS攻击。攻击者从一开始利用互联网上的开放服务做反射与放大攻击，到最后与Google、Amazon、OpenDNS硬拼CPU与内存，可… (2014年08月24日 05:42)
+ ---
 RT @henryzhouhao: 天朝政府太疯狂了。刚去FedEx邮寄一些个人文件回国被告知从这个月开始中国政府不允许邮寄document到个人地址，政府会直接销毁文件并不予以通知。信不信这个政策会严格执行是一回事，但能指定出这种极端脑残政策的国家放到全球也就屈指可数几个吧 (2014年08月22日 11:38)
  ---
 RT @paopaonet: #泡泡重磅调查#《揭密网络舆情分析师：第一批吃螃蟹的人》官方公布,中国目前有120万的网络舆情人才缺口,这使网络舆情分析产业迅速崛起.泡泡特约记者参加了东部某市举行的网络舆情分析师培训班,经过三天卧底调查,采访数名学员老师,深度揭秘：https:/… (2014年08月21日 04:59)
@@ -45,7 +47,7 @@ Xi Jinping Now Charging Random People on Street with Corruption - rumors preside
  ---
 'Fake' Pro-Gov Protesters Paid to Rally Against HK Democracy Movement <a href="http://hongwrong.com/fake-anti-democracy-rally/">hongwrong.com/fake-anti-democracy-rally/</a> via @hongwrongblog (2014年08月19日 17:41)
  ---
-RT @remonwangxt: 环球网都发了 这是要红啊 <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1686546714%2FBiTpPiZuQ%3Fmod%3Dweibotime&_rand=1408829707.3475">passport.weibo.com/visitor/visitor</a> <a href="https://twitter.com/remonwangxt/status/501371302645481472/photo/1">twitter.com/remonwangxt/status/501371302645481472/photo/1</a> (2014年08月19日 08:17)
+RT @remonwangxt: 环球网都发了 这是要红啊 <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1686546714%2FBiTpPiZuQ%3Fmod%3Dweibotime&_rand=1408830310.7369">passport.weibo.com/visitor/visitor</a> <a href="https://twitter.com/remonwangxt/status/501371302645481472/photo/1">twitter.com/remonwangxt/status/501371302645481472/photo/1</a> (2014年08月19日 08:17)
  ---
 RT @nytchinese: 快扫描微信二维码，或搜索微信号timeslifestyle，获取每日最新资讯和深度分析！ <a href="https://twitter.com/nytchinese/status/501205606812774400/photo/1">twitter.com/nytchinese/status/501205606812774400/photo/1</a> (2014年08月18日 11:19)
  ---
@@ -59,7 +61,7 @@ Apple begins storing users' personal data on servers in China <a href="http://ww
  ---
 RT @getlantern: Thanks @ASankin @dailydot! How you can help demolish the Great Firewall of China from the comfort of your living room http:… (2014年08月15日 20:03)
  ---
-免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=dgr5U6D3JMmRlAXT7ICoCA&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
+免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=cQv5U7WYIsXYkgXF5ICYCw&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
  ---
 The Most Wanted Man in the World: Edward Snowden in His Own Words <a href="http://www.wired.com/2014/08/edward-snowden/">www.wired.com/2014/08/edward-snowden/</a> (2014年08月14日 23:47)
  ---
@@ -70,6 +72,4 @@ RT @phuslu: 因屏蔽谷歌向工信部申请信息公开一事，工信部答�
 他决心加大“新政”力度，对贪官发现一个，撤换一个，绝不手软。..很显然，运动式的惩贪，到了嘉庆时期已经不能起到实质性的作用。..在这种情况下，朝廷“打老虎”已经演变成“水过地皮湿”，震摄力越来越低。 <a href="http://cont.3g.163.com/14/0802/16/A2LPI37M9001I37N.html">cont.3g.163.com/14/0802/16/A2LPI37M9001I37N.html</a> (2014年08月13日 15:47)
  ---
 @williamlong iOS要在初始界面登录iCloud才会启用iMessage和Facetime (2014年08月13日 04:07)
- ---
-@oiax @Livid 发过的，被管理员删除了 <a href="https://webcache.googleusercontent.com/search?q=cache:LxWuP44xTFMJ:www.v2ex.com/t/127329">webcache.googleusercontent.com/search</a> (2014年08月13日 02:39)
  ---
