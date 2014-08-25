@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Without the Right to Remember There Can Be No Freedom to Forget <a href="http://chinachange.org/2014/08/23/without-the-right-to-remember-there-can-be-no-freedom-to-forget/">chinachange.org/2014/08/23/without-the-right-to-remember-there-can-be-no-freedom-to-forget/</a> (2014年08月25日 22:57)
+ ---
 China censorship filters are hamstringing posts that help their cause <a href="http://arstechnica.com/tech-policy/2014/08/researchers-set-up-a-social-media-site-to-test-chinese-censorship-filters/">arstechnica.com/tech-policy/2014/08/researchers-set-up-a-social-media-site-to-test-chinese-censorship-filters/</a> via @caseyjohnston (2014年08月25日 22:08)
  ---
 A tribute to an extraordinary son <a href="http://jamesfoley.rsf.org/en">jamesfoley.rsf.org/en</a> (2014年08月25日 15:45)
@@ -57,7 +59,7 @@ Xi Jinping Now Charging Random People on Street with Corruption - rumors preside
  ---
 'Fake' Pro-Gov Protesters Paid to Rally Against HK Democracy Movement <a href="http://hongwrong.com/fake-anti-democracy-rally/">hongwrong.com/fake-anti-democracy-rally/</a> via @hongwrongblog (2014年08月19日 17:41)
  ---
-RT @remonwangxt: 环球网都发了 这是要红啊 <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1686546714%2FBiTpPiZuQ%3Fmod%3Dweibotime&_rand=1408978210.8874">passport.weibo.com/visitor/visitor</a> <a href="https://twitter.com/remonwangxt/status/501371302645481472/photo/1">twitter.com/remonwangxt/status/501371302645481472/photo/1</a> (2014年08月19日 08:17)
+RT @remonwangxt: 环球网都发了 这是要红啊 <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1686546714%2FBiTpPiZuQ%3Fmod%3Dweibotime&_rand=1408978817.6046">passport.weibo.com/visitor/visitor</a> <a href="https://twitter.com/remonwangxt/status/501371302645481472/photo/1">twitter.com/remonwangxt/status/501371302645481472/photo/1</a> (2014年08月19日 08:17)
  ---
 RT @nytchinese: 快扫描微信二维码，或搜索微信号timeslifestyle，获取每日最新资讯和深度分析！ <a href="https://twitter.com/nytchinese/status/501205606812774400/photo/1">twitter.com/nytchinese/status/501205606812774400/photo/1</a> (2014年08月18日 11:19)
  ---
@@ -70,6 +72,4 @@ RT @Dylen_s: 朝鲜富人搬家蹭外国使馆无线网络 <a href="http://www.s
 Apple begins storing users' personal data on servers in China <a href="http://www.reuters.com/article/2014/08/15/us-apple-data-china-idUSKBN0GF0N720140815">www.reuters.com/article/2014/08/15/us-apple-data-china-idUSKBN0GF0N720140815</a> via @reuters (2014年08月16日 23:21)
  ---
 RT @getlantern: Thanks @ASankin @dailydot! How you can help demolish the Great Firewall of China from the comfort of your living room http:… (2014年08月15日 20:03)
- ---
-免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=dU77U-XlC5DYkQXVt4H4CQ&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
  ---
