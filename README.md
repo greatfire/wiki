@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+A tribute to an extraordinary son <a href="http://jamesfoley.rsf.org/en">jamesfoley.rsf.org/en</a> (2014年08月25日 15:45)
+ ---
 Subtle censorship at @scmp_news - Al-Jazeera Scrutinises SCMP Amidst Newsroom 'Discontent' <a href="http://hongwrong.com/south-china-morning-post-self-censorship/">hongwrong.com/south-china-morning-post-self-censorship/</a> via @hongwrongblog (2014年08月25日 14:53)
  ---
 StartPage 最保护隐私的搜索引擎被GFW封锁 <a href="https://zh.greatfire.org/https/startpage.com">zh.greatfire.org/https/startpage.com</a> 可见中国给出的防止NSA窃听那些理由都是狗屁。 (2014年08月24日 05:55)
@@ -53,7 +55,7 @@ Xi Jinping Now Charging Random People on Street with Corruption - rumors preside
  ---
 'Fake' Pro-Gov Protesters Paid to Rally Against HK Democracy Movement <a href="http://hongwrong.com/fake-anti-democracy-rally/">hongwrong.com/fake-anti-democracy-rally/</a> via @hongwrongblog (2014年08月19日 17:41)
  ---
-RT @remonwangxt: 环球网都发了 这是要红啊 <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1686546714%2FBiTpPiZuQ%3Fmod%3Dweibotime&_rand=1408952713.8872">passport.weibo.com/visitor/visitor</a> <a href="https://twitter.com/remonwangxt/status/501371302645481472/photo/1">twitter.com/remonwangxt/status/501371302645481472/photo/1</a> (2014年08月19日 08:17)
+RT @remonwangxt: 环球网都发了 这是要红啊 <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1686546714%2FBiTpPiZuQ%3Fmod%3Dweibotime&_rand=1408953010.0842">passport.weibo.com/visitor/visitor</a> <a href="https://twitter.com/remonwangxt/status/501371302645481472/photo/1">twitter.com/remonwangxt/status/501371302645481472/photo/1</a> (2014年08月19日 08:17)
  ---
 RT @nytchinese: 快扫描微信二维码，或搜索微信号timeslifestyle，获取每日最新资讯和深度分析！ <a href="https://twitter.com/nytchinese/status/501205606812774400/photo/1">twitter.com/nytchinese/status/501205606812774400/photo/1</a> (2014年08月18日 11:19)
  ---
@@ -67,9 +69,7 @@ Apple begins storing users' personal data on servers in China <a href="http://ww
  ---
 RT @getlantern: Thanks @ASankin @dailydot! How you can help demolish the Great Firewall of China from the comfort of your living room http:… (2014年08月15日 20:03)
  ---
-免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=lOn6U-SMBMKbkgXjz4EY&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/</a> (2014年08月15日 04:28)
+免翻墙 谷歌 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://wen.lu/?gfe_rd=cr&ei=_Or6U8zILo3NkgWs04CwAQ&gws_rd=cr">wen.lu/</a> 自由微博 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/</a> 泡泡网 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> 蓝灯论坛 <a href="https://chetxia.co">chetxia.co</a> (2014年08月15日 04:28)
  ---
 The Most Wanted Man in the World: Edward Snowden in His Own Words <a href="http://www.wired.com/2014/08/edward-snowden/">www.wired.com/2014/08/edward-snowden/</a> (2014年08月14日 23:47)
- ---
-RT @paopaonet: 《解密美国“反恐”监视清单》根据政府监视清单的守则，官员不需要“具体事实”或“确凿证据”来秘密将某人加入监视清单之内， 他们仅需“合理怀疑”这样一个模糊的标准就够了。<a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/?u=article/148">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> (2014年08月14日 03:42)
  ---
