@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+谷歌镜像100%原生体验 墙内镜像 <a href="https://objects.dreamhost.com/goo/index.html">objects.dreamhost.com/goo/index.html</a> (2014年08月26日 07:45)
+ ---
 Surveillance and semi-closed platforms: how the web lost its way – and its founding principles <a href="http://www.theguardian.com/technology/2014/aug/24/internet-lost-its-way-tim-berners-lee-world-wide-web?CMP=twt_gu">www.theguardian.com/technology/2014/aug/24/internet-lost-its-way-tim-berners-lee-world-wide-web</a> via @guardian (2014年08月26日 02:03)
  ---
 Thanks Obama: China works to improve its operating systems to reduce dependence on Western companies <a href="http://pando.com/2014/08/25/thanks-obama-china-works-to-improve-its-operating-systems-to-reduce-dependence-on-western-companies/">pando.com/2014/08/25/thanks-obama-china-works-to-improve-its-operating-systems-to-reduce-dependence-on-western-companies/</a> (2014年08月25日 23:43)
@@ -61,7 +63,7 @@ Xi Jinping Now Charging Random People on Street with Corruption - rumors preside
  ---
 'Fake' Pro-Gov Protesters Paid to Rally Against HK Democracy Movement <a href="http://hongwrong.com/fake-anti-democracy-rally/">hongwrong.com/fake-anti-democracy-rally/</a> via @hongwrongblog (2014年08月19日 17:41)
  ---
-RT @remonwangxt: 环球网都发了 这是要红啊 <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1686546714%2FBiTpPiZuQ%3Fmod%3Dweibotime&_rand=1409010310.8412">passport.weibo.com/visitor/visitor</a> <a href="https://twitter.com/remonwangxt/status/501371302645481472/photo/1">twitter.com/remonwangxt/status/501371302645481472/photo/1</a> (2014年08月19日 08:17)
+RT @remonwangxt: 环球网都发了 这是要红啊 <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1686546714%2FBiTpPiZuQ%3Fmod%3Dweibotime&_rand=1409010613.9839">passport.weibo.com/visitor/visitor</a> <a href="https://twitter.com/remonwangxt/status/501371302645481472/photo/1">twitter.com/remonwangxt/status/501371302645481472/photo/1</a> (2014年08月19日 08:17)
  ---
 RT @nytchinese: 快扫描微信二维码，或搜索微信号timeslifestyle，获取每日最新资讯和深度分析！ <a href="https://twitter.com/nytchinese/status/501205606812774400/photo/1">twitter.com/nytchinese/status/501205606812774400/photo/1</a> (2014年08月18日 11:19)
  ---
@@ -70,6 +72,4 @@ RT @avalonalex: 感觉这是重要史料啊，北京大学宣传口内部文件�
 RT @remonwangxt: 香港反占中游行，中共请来大批广场大妈，结果在地铁不会用车票出闸机被大量卡住，还被拍到来自全国各省举着牌子的，真是香港人的命运要全国人民决定的节奏呀 <a href="https://twitter.com/remonwangxt/status/500936533218557954/photo/1">twitter.com/remonwangxt/status/500936533218557954/photo/1</a> (2014年08月17日 21:37)
  ---
 RT @Dylen_s: 朝鲜富人搬家蹭外国使馆无线网络 <a href="http://www.solidot.org/story?sid=40745">www.solidot.org/story</a> 朝鲜政府之后要求外国使馆设置无线网密码，但不少使馆并未理睬。报道还称，一些大学生为蹭网，专程带着手机到外国使馆附近“散步”。 (2014年08月17日 11:03)
- ---
-Apple begins storing users' personal data on servers in China <a href="http://www.reuters.com/article/2014/08/15/us-apple-data-china-idUSKBN0GF0N720140815">www.reuters.com/article/2014/08/15/us-apple-data-china-idUSKBN0GF0N720140815</a> via @reuters (2014年08月16日 23:21)
  ---
