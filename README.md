@@ -38,7 +38,7 @@ RT @paopaonet: 【泡泡图解中国网络管理组织的变迁】2014年，中�
  ---
 Surveillance and semi-closed platforms: how the web lost its way – and its founding principles <a href="http://www.theguardian.com/technology/2014/aug/24/internet-lost-its-way-tim-berners-lee-world-wide-web?CMP=twt_gu">www.theguardian.com/technology/2014/aug/24/internet-lost-its-way-tim-berners-lee-world-wide-web</a> via @guardian (2014年08月26日 02:03)
  ---
-Thanks Obama: China works to improve its operating systems to reduce dependence on Western companies <a href="http://pando.com/2014/08/25/thanks-obama-china-works-to-improve-its-operating-systems-to-reduce-dependence-on-western-companies/">pando.com/2014/08/25/thanks-obama-china-works-to-improve-its-operating-systems-to-reduce-dependence-on-western-companies/</a> (2014年08月25日 23:43)
+Thanks Obama: China works to improve its operating systems to reduce dependence on Western companies <a href="http://flip.it/LbzlO">flip.it/LbzlO</a> (2014年08月25日 23:43)
  ---
 Without the Right to Remember There Can Be No Freedom to Forget <a href="http://chinachange.org/2014/08/23/without-the-right-to-remember-there-can-be-no-freedom-to-forget/">chinachange.org/2014/08/23/without-the-right-to-remember-there-can-be-no-freedom-to-forget/</a> (2014年08月25日 22:57)
  ---
@@ -65,7 +65,7 @@ Xi Jinping Now Charging Random People on Street with Corruption - rumors preside
  ---
 'Fake' Pro-Gov Protesters Paid to Rally Against HK Democracy Movement <a href="http://hongwrong.com/fake-anti-democracy-rally/">hongwrong.com/fake-anti-democracy-rally/</a> via @hongwrongblog (2014年08月19日 17:41)
  ---
-RT @remonwangxt: 环球网都发了 这是要红啊 <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1686546714%2FBiTpPiZuQ%3Fmod%3Dweibotime&_rand=1409036418.6457">passport.weibo.com/visitor/visitor</a> <a href="https://twitter.com/remonwangxt/status/501371302645481472/photo/1">twitter.com/remonwangxt/status/501371302645481472/photo/1</a> (2014年08月19日 08:17)
+RT @remonwangxt: 环球网都发了 这是要红啊 <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1686546714%2FBiTpPiZuQ%3Fmod%3Dweibotime&_rand=1409036776.3777">passport.weibo.com/visitor/visitor</a> <a href="https://twitter.com/remonwangxt/status/501371302645481472/photo/1">twitter.com/remonwangxt/status/501371302645481472/photo/1</a> (2014年08月19日 08:17)
  ---
 RT @nytchinese: 快扫描微信二维码，或搜索微信号timeslifestyle，获取每日最新资讯和深度分析！ <a href="https://twitter.com/nytchinese/status/501205606812774400/photo/1">twitter.com/nytchinese/status/501205606812774400/photo/1</a> (2014年08月18日 11:19)
  ---
