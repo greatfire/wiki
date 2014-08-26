@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @MomoAdalois: Film festival closure incites heated debate among artists and filmmakers 栗宪庭：梦魇宋庄 <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDAwMzY3Nw%3D%3D&mid=200547186&idx=2&sn=dacccc66f7f7c59d59ea9ecc1f3fcb01&scene=2&from=timeline&isappinstalled=0#rd">mp.weixin.qq.com/s</a> (2014年08月26日 15:40)
+ ---
 The Chinese Communist Party Just Opened a WeChat Account <a href="http://www.foreignpolicy.com/articles/2014/08/25/the_chinese_communist_party_just_opened_a_wechat_account">www.foreignpolicy.com/articles/2014/08/25/the_chinese_communist_party_just_opened_a_wechat_account</a> (2014年08月26日 15:35)
  ---
 RT @BarbaraDemick: Anti-corruption campaign: China Southern air renamed 1st class seats biz class after officials banned from 1st http://t.… (2014年08月26日 15:29)
@@ -69,7 +71,5 @@ Xi Jinping Now Charging Random People on Street with Corruption - rumors preside
  ---
 'Fake' Pro-Gov Protesters Paid to Rally Against HK Democracy Movement <a href="http://hongwrong.com/fake-anti-democracy-rally/">hongwrong.com/fake-anti-democracy-rally/</a> via @hongwrongblog (2014年08月19日 17:41)
  ---
-RT @remonwangxt: 环球网都发了 这是要红啊 <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1686546714%2FBiTpPiZuQ%3Fmod%3Dweibotime&_rand=1409038823.9191">passport.weibo.com/visitor/visitor</a> <a href="https://twitter.com/remonwangxt/status/501371302645481472/photo/1">twitter.com/remonwangxt/status/501371302645481472/photo/1</a> (2014年08月19日 08:17)
- ---
-RT @nytchinese: 快扫描微信二维码，或搜索微信号timeslifestyle，获取每日最新资讯和深度分析！ <a href="https://twitter.com/nytchinese/status/501205606812774400/photo/1">twitter.com/nytchinese/status/501205606812774400/photo/1</a> (2014年08月18日 11:19)
+RT @remonwangxt: 环球网都发了 这是要红啊 <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1686546714%2FBiTpPiZuQ%3Fmod%3Dweibotime&_rand=1409039125.5413">passport.weibo.com/visitor/visitor</a> <a href="https://twitter.com/remonwangxt/status/501371302645481472/photo/1">twitter.com/remonwangxt/status/501371302645481472/photo/1</a> (2014年08月19日 08:17)
  ---
