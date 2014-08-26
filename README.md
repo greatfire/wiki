@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: 【泡泡图解中国网络管理组织的变迁】2014年，中国最高领导人首次成为网络安全工作的领导。在过去的几十年里，哪些“有关部门”在负责着网络安全工作？网络安全如何一步步上升到国家安全的高度？<a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/?u=article/155">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> http://t… (2014年08月26日 12:44)
+ ---
 谷歌镜像100%原生体验 墙内镜像 <a href="https://objects.dreamhost.com/goo/index.html">objects.dreamhost.com/goo/index.html</a> (2014年08月26日 07:45)
  ---
 Surveillance and semi-closed platforms: how the web lost its way – and its founding principles <a href="http://www.theguardian.com/technology/2014/aug/24/internet-lost-its-way-tim-berners-lee-world-wide-web?CMP=twt_gu">www.theguardian.com/technology/2014/aug/24/internet-lost-its-way-tim-berners-lee-world-wide-web</a> via @guardian (2014年08月26日 02:03)
@@ -63,13 +65,11 @@ Xi Jinping Now Charging Random People on Street with Corruption - rumors preside
  ---
 'Fake' Pro-Gov Protesters Paid to Rally Against HK Democracy Movement <a href="http://hongwrong.com/fake-anti-democracy-rally/">hongwrong.com/fake-anti-democracy-rally/</a> via @hongwrongblog (2014年08月19日 17:41)
  ---
-RT @remonwangxt: 环球网都发了 这是要红啊 <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1686546714%2FBiTpPiZuQ%3Fmod%3Dweibotime&_rand=1409028018.9311">passport.weibo.com/visitor/visitor</a> <a href="https://twitter.com/remonwangxt/status/501371302645481472/photo/1">twitter.com/remonwangxt/status/501371302645481472/photo/1</a> (2014年08月19日 08:17)
+RT @remonwangxt: 环球网都发了 这是要红啊 <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1686546714%2FBiTpPiZuQ%3Fmod%3Dweibotime&_rand=1409028321.5967">passport.weibo.com/visitor/visitor</a> <a href="https://twitter.com/remonwangxt/status/501371302645481472/photo/1">twitter.com/remonwangxt/status/501371302645481472/photo/1</a> (2014年08月19日 08:17)
  ---
 RT @nytchinese: 快扫描微信二维码，或搜索微信号timeslifestyle，获取每日最新资讯和深度分析！ <a href="https://twitter.com/nytchinese/status/501205606812774400/photo/1">twitter.com/nytchinese/status/501205606812774400/photo/1</a> (2014年08月18日 11:19)
  ---
 RT @avalonalex: 感觉这是重要史料啊，北京大学宣传口内部文件全文泄露。<a href="http://www.douban.com/note/393733117/#!/i!/ckDefault">www.douban.com/note/393733117/</a> (2014年08月17日 21:43)
  ---
 RT @remonwangxt: 香港反占中游行，中共请来大批广场大妈，结果在地铁不会用车票出闸机被大量卡住，还被拍到来自全国各省举着牌子的，真是香港人的命运要全国人民决定的节奏呀 <a href="https://twitter.com/remonwangxt/status/500936533218557954/photo/1">twitter.com/remonwangxt/status/500936533218557954/photo/1</a> (2014年08月17日 21:37)
- ---
-RT @Dylen_s: 朝鲜富人搬家蹭外国使馆无线网络 <a href="http://www.solidot.org/story?sid=40745">www.solidot.org/story</a> 朝鲜政府之后要求外国使馆设置无线网密码，但不少使馆并未理睬。报道还称，一些大学生为蹭网，专程带着手机到外国使馆附近“散步”。 (2014年08月17日 11:03)
  ---
