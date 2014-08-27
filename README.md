@@ -69,7 +69,7 @@ RT @paopaonet: #泡泡重磅调查#《揭密网络舆情分析师：第一批吃
  ---
 RT @beijingdaze: back on the blog trail... here's to the summer music died.. in Beijing <a href="http://beijingdaze.com/general/2014/08/20/the-summer-music-died-in-beijing/">beijingdaze.com/general/2014/08/20/the-summer-music-died-in-beijing/</a> (2014年08月20日 16:15)
  ---
-RT @mgerrydoyle: the great firewall (and its impact on search results) may be harming china's productivity: <a href="http://flip.it/negEc">flip.it/negEc</a> (2014年08月20日 16:03)
+RT @mgerrydoyle: the great firewall (and its impact on search results) may be harming china's productivity: <a href="http://qz.com/239810/frustrated-chinese-web-users-bemoan-baidu-and-pine-for-the-days-of-google/">qz.com/239810/frustrated-chinese-web-users-bemoan-baidu-and-pine-for-the-days-of-google/</a> (2014年08月20日 16:03)
  ---
 Xi Jinping Now Charging Random People on Street with Corruption - rumors president suffering from paranoid delusions <a href="http://www.miniharm.com/2014/08/18/xi-jinping-random-people-on-street-corruption/">www.miniharm.com/2014/08/18/xi-jinping-random-people-on-street-corruption/</a> (2014年08月19日 17:43)
  ---
