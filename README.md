@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+haha Chinese sci-fi: upgrade of Great Firewall called GFW Turbo becomes self-aware, censors keywords uncontrollably <a href="http://www.chinafile.com/reporting-opinion/culture/healthy-words">www.chinafile.com/reporting-opinion/culture/healthy-words</a> (2014年08月27日 15:27)
+ ---
 @eastdakota Can you publish the materials on your blog? We're very interested in the tech details behind the attack. (2014年08月27日 12:10)
  ---
 RT @hawkyeee: 最近一大波五毛来袭，形状大是可观。还有人写了一篇「慕容雪村的前世今生」，洋洋洒洒近万字，极尽虚构之能事，当小说看还挺有意思，推荐各位朋友赏读。另请问，党国哪个机构在负责此类业务？他们是不是真找不到人了？拙劣到这种程度，真替他们的智商捉急。 (2014年08月27日 08:22)
@@ -70,6 +72,4 @@ RT @henryzhouhao: 天朝政府太疯狂了。刚去FedEx邮寄一些个人文件
 RT @paopaonet: #泡泡重磅调查#《揭密网络舆情分析师：第一批吃螃蟹的人》官方公布,中国目前有120万的网络舆情人才缺口,这使网络舆情分析产业迅速崛起.泡泡特约记者参加了东部某市举行的网络舆情分析师培训班,经过三天卧底调查,采访数名学员老师,深度揭秘：https:/… (2014年08月21日 04:59)
  ---
 RT @beijingdaze: back on the blog trail... here's to the summer music died.. in Beijing <a href="http://beijingdaze.com/general/2014/08/20/the-summer-music-died-in-beijing/">beijingdaze.com/general/2014/08/20/the-summer-music-died-in-beijing/</a> (2014年08月20日 16:15)
- ---
-RT @mgerrydoyle: the great firewall (and its impact on search results) may be harming china's productivity: <a href="http://qz.com/239810/frustrated-chinese-web-users-bemoan-baidu-and-pine-for-the-days-of-google/">qz.com/239810/frustrated-chinese-web-users-bemoan-baidu-and-pine-for-the-days-of-google/</a> (2014年08月20日 16:03)
  ---
