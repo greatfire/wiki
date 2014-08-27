@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+On two works of thrilling mundanity: Linklater's film #Boyhood and Karl Ove Knausgaard's book 'My Struggle': <a href="https://opendemocracy.net/william-davies/in-praise-of-family-existentialism">opendemocracy.net/william-davies/in-praise-of-family-existentialism</a> # (2014年08月28日 00:23)
+ ---
 haha Chinese sci-fi: upgrade of Great Firewall called GFW Turbo becomes self-aware, censors keywords uncontrollably <a href="http://www.chinafile.com/reporting-opinion/culture/healthy-words">www.chinafile.com/reporting-opinion/culture/healthy-words</a> (2014年08月27日 15:27)
  ---
 @eastdakota Can you publish the materials on your blog? We're very interested in the tech details behind the attack. (2014年08月27日 12:10)
@@ -70,6 +72,4 @@ RT @bitinn: <a href="http://ithome.com.tw/news/90246">ithome.com.tw/news/90246</
 RT @henryzhouhao: 天朝政府太疯狂了。刚去FedEx邮寄一些个人文件回国被告知从这个月开始中国政府不允许邮寄document到个人地址，政府会直接销毁文件并不予以通知。信不信这个政策会严格执行是一回事，但能指定出这种极端脑残政策的国家放到全球也就屈指可数几个吧 (2014年08月22日 11:38)
  ---
 RT @paopaonet: #泡泡重磅调查#《揭密网络舆情分析师：第一批吃螃蟹的人》官方公布,中国目前有120万的网络舆情人才缺口,这使网络舆情分析产业迅速崛起.泡泡特约记者参加了东部某市举行的网络舆情分析师培训班,经过三天卧底调查,采访数名学员老师,深度揭秘：https:/… (2014年08月21日 04:59)
- ---
-RT @beijingdaze: back on the blog trail... here's to the summer music died.. in Beijing <a href="http://beijingdaze.com/general/2014/08/20/the-summer-music-died-in-beijing/">beijingdaze.com/general/2014/08/20/the-summer-music-died-in-beijing/</a> (2014年08月20日 16:15)
  ---
