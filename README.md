@@ -71,5 +71,5 @@ RT @henryzhouhao: 天朝政府太疯狂了。刚去FedEx邮寄一些个人文件
  ---
 RT @paopaonet: #泡泡重磅调查#《揭密网络舆情分析师：第一批吃螃蟹的人》官方公布,中国目前有120万的网络舆情人才缺口,这使网络舆情分析产业迅速崛起.泡泡特约记者参加了东部某市举行的网络舆情分析师培训班,经过三天卧底调查,采访数名学员老师,深度揭秘：https:/… (2014年08月21日 04:59)
  ---
-RT @beijingdaze: back on the blog trail... here's to the summer music died.. in Beijing <a href="http://ow.ly/Aw4Rr">ow.ly/Aw4Rr</a> (2014年08月20日 16:15)
+RT @beijingdaze: back on the blog trail... here's to the summer music died.. in Beijing <a href="http://beijingdaze.com/general/2014/08/20/the-summer-music-died-in-beijing/">beijingdaze.com/general/2014/08/20/the-summer-music-died-in-beijing/</a> (2014年08月20日 16:15)
  ---
