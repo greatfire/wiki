@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @cyberrights: It should really matter where #IGF takes place each year: Read to find out why you should not attend #IGF2014:  http://t.c… (2014年08月28日 15:00)
+ ---
 RT @rmack: RT @Advox: #China has more "Internet public opinion monitors" than military personnel <a href="http://advocacy.globalvoicesonline.org/2014/08/06/netizen-report-russias-official-blogger-registry-is-open-for-business/">advocacy.globalvoicesonline.org/2014/08/06/netizen-report-russias-official-blogger-registry-is-open-for-business/</a> #netfreedom (2014年08月28日 14:31)
  ---
 Report Reveals Workings of China's Online 'Opinion Managers' <a href="http://www.rfa.org/english/news/china/report-08262014151334.html">www.rfa.org/english/news/china/report-08262014151334.html</a> (2014年08月28日 14:12)
@@ -69,6 +71,4 @@ Without the Right to Remember There Can Be No Freedom to Forget <a href="http://
 China censorship filters are hamstringing posts that help their cause <a href="http://arstechnica.com/tech-policy/2014/08/researchers-set-up-a-social-media-site-to-test-chinese-censorship-filters/">arstechnica.com/tech-policy/2014/08/researchers-set-up-a-social-media-site-to-test-chinese-censorship-filters/</a> via @caseyjohnston (2014年08月25日 22:08)
  ---
 Subtle censorship at @scmp_news - Al-Jazeera Scrutinises SCMP Amidst Newsroom 'Discontent' <a href="http://hongwrong.com/south-china-morning-post-self-censorship/">hongwrong.com/south-china-morning-post-self-censorship/</a> via @hongwrongblog (2014年08月25日 14:53)
- ---
-StartPage 最保护隐私的搜索引擎被GFW封锁 <a href="https://zh.greatfire.org/https/startpage.com">zh.greatfire.org/https/startpage.com</a> 可见中国给出的防止NSA窃听那些理由都是狗屁。 (2014年08月24日 05:55)
  ---
