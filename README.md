@@ -38,7 +38,7 @@ RT @cctvnews: #China to make it easier for citizens to sue the #government. <a h
  ---
 RT @cyberrights: It should really matter where #IGF takes place each year: Read to find out why you should not attend #IGF2014:  http://t.c… (2014年08月28日 15:00)
  ---
-RT @rmack: RT @Advox: #China has more "Internet public opinion monitors" than military personnel <a href="http://t.co/pG4u7KmmR6">t.co/pG4u7KmmR6</a> #netfreedom (2014年08月28日 14:31)
+RT @rmack: RT @Advox: #China has more "Internet public opinion monitors" than military personnel <a href="http://advocacy.globalvoicesonline.org/2014/08/06/netizen-report-russias-official-blogger-registry-is-open-for-business/">advocacy.globalvoicesonline.org/2014/08/06/netizen-report-russias-official-blogger-registry-is-open-for-business/</a> #netfreedom (2014年08月28日 14:31)
  ---
 Report Reveals Workings of China's Online 'Opinion Managers' <a href="http://www.rfa.org/english/news/china/report-08262014151334.html">www.rfa.org/english/news/china/report-08262014151334.html</a> (2014年08月28日 14:12)
  ---
