@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @cctvnews: #China to make it easier for citizens to sue the #government. <a href="http://www.cctvnews.cn/2014/08/29/china-makes-it-easier-to-sue-government/">www.cctvnews.cn/2014/08/29/china-makes-it-easier-to-sue-government/</a> <a href="https://www.youtube.com/watch?v=eOM-WEcnnZQ&list=UUgrNz-aDmcr2uuto8_DL2jg">www.youtube.com/watch</a> (2014年08月29日 20:20)
+ ---
 "No reason why you shouldn’t have same degree of control over computer in your pocket as you do over your desktop" <a href="http://blogs.wsj.com/digits/2014/08/28/why-some-privacy-apps-get-blocked-from-the-android-play-store/">blogs.wsj.com/digits/2014/08/28/why-some-privacy-apps-get-blocked-from-the-android-play-store/</a> (2014年08月29日 18:09)
  ---
 RT @cyberrights: It should really matter where #IGF takes place each year: Read to find out why you should not attend #IGF2014:  http://t.c… (2014年08月28日 15:00)
@@ -69,6 +71,4 @@ Surveillance and semi-closed platforms: how the web lost its way – and its fou
 Thanks Obama: China works to improve its operating systems to reduce dependence on Western companies <a href="http://pando.com/2014/08/25/thanks-obama-china-works-to-improve-its-operating-systems-to-reduce-dependence-on-western-companies/">pando.com/2014/08/25/thanks-obama-china-works-to-improve-its-operating-systems-to-reduce-dependence-on-western-companies/</a> (2014年08月25日 23:43)
  ---
 Without the Right to Remember There Can Be No Freedom to Forget <a href="http://chinachange.org/2014/08/23/without-the-right-to-remember-there-can-be-no-freedom-to-forget/">chinachange.org/2014/08/23/without-the-right-to-remember-there-can-be-no-freedom-to-forget/</a> (2014年08月25日 22:57)
- ---
-China censorship filters are hamstringing posts that help their cause <a href="http://arstechnica.com/tech-policy/2014/08/researchers-set-up-a-social-media-site-to-test-chinese-censorship-filters/">arstechnica.com/tech-policy/2014/08/researchers-set-up-a-social-media-site-to-test-chinese-censorship-filters/</a> via @caseyjohnston (2014年08月25日 22:08)
  ---
