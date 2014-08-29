@@ -68,7 +68,7 @@ Thanks Obama: China works to improve its operating systems to reduce dependence 
  ---
 Without the Right to Remember There Can Be No Freedom to Forget <a href="http://chinachange.org/2014/08/23/without-the-right-to-remember-there-can-be-no-freedom-to-forget/">chinachange.org/2014/08/23/without-the-right-to-remember-there-can-be-no-freedom-to-forget/</a> (2014年08月25日 22:57)
  ---
-China censorship filters are hamstringing posts that help their cause <a href="http://arstechnica.com/tech-policy/2014/08/researchers-set-up-a-social-media-site-to-test-chinese-censorship-filters/">arstechnica.com/tech-policy/2014/08/researchers-set-up-a-social-media-site-to-test-chinese-censorship-filters/</a> via @caseyjohnston (2014年08月25日 22:08)
+China censorship filters are hamstringing posts that help their cause <a href="http://t.co/qYiXYQDoWc">t.co/qYiXYQDoWc</a> via @caseyjohnston (2014年08月25日 22:08)
  ---
 Subtle censorship at @scmp_news - Al-Jazeera Scrutinises SCMP Amidst Newsroom 'Discontent' <a href="http://hongwrong.com/south-china-morning-post-self-censorship/">hongwrong.com/south-china-morning-post-self-censorship/</a> via @hongwrongblog (2014年08月25日 14:53)
  ---
