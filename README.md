@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Hong Kong "entering era of civil disobedience" <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F01%2Fworld%2Fasia%2Fhong-kong-elections.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年09月01日 00:30)
+ ---
 "Ars tests Internet surveillance—by spying on an NPR reporter" <a href="http://arstechnica.com/security/2014/06/what-the-nsa-or-anyone-can-learn-about-you-from-internet-traffic/">arstechnica.com/security/2014/06/what-the-nsa-or-anyone-can-learn-about-you-from-internet-traffic/</a> (2014年08月31日 23:49)
  ---
 MSN Messenger to end after 15 years <a href="http://www.bbc.com/news/technology-28987797">www.bbc.com/news/technology-28987797</a> ending in China (2014年08月31日 23:21)
@@ -69,6 +71,4 @@ RT @MomoAdalois: Film festival closure incites heated debate among artists and f
 The Chinese Communist Party Just Opened a WeChat Account <a href="http://www.foreignpolicy.com/articles/2014/08/25/the_chinese_communist_party_just_opened_a_wechat_account">www.foreignpolicy.com/articles/2014/08/25/the_chinese_communist_party_just_opened_a_wechat_account</a> (2014年08月26日 15:35)
  ---
 RT @BarbaraDemick: Anti-corruption campaign: China Southern air renamed 1st class seats biz class after officials banned from 1st http://t.… (2014年08月26日 15:29)
- ---
-RT @paopaonet: 【泡泡图解中国网络管理组织的变迁】2014年，中国最高领导人首次成为网络安全工作的领导。在过去的几十年里，哪些“有关部门”在负责着网络安全工作？网络安全如何一步步上升到国家安全的高度？<a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/?u=article/155">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> http://t… (2014年08月26日 12:44)
  ---
