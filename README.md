@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+MSN Messenger to end after 15 years <a href="http://www.bbc.com/news/technology-28987797">www.bbc.com/news/technology-28987797</a> ending in China (2014年08月31日 23:21)
+ ---
 RT @PaulCarsten: Chilling - China's Tencent shuts messaging accounts after new censorship rules take effect <a href="http://www.trust.org/item/20140829082757-k48yk">www.trust.org/item/20140829082757-k48yk</a> (2014年08月31日 22:56)
  ---
 RT @RogerDingledine: A call to arms: Helping Internet services accept anonymous users. <a href="https://blog.torproject.org/blog/call-arms-helping-internet-services-accept-anonymous-users">blog.torproject.org/blog/call-arms-helping-internet-services-accept-anonymous-users</a> #Tor @torproject (2014年08月31日 22:47)
@@ -69,6 +71,4 @@ RT @BarbaraDemick: Anti-corruption campaign: China Southern air renamed 1st clas
 RT @paopaonet: 【泡泡图解中国网络管理组织的变迁】2014年，中国最高领导人首次成为网络安全工作的领导。在过去的几十年里，哪些“有关部门”在负责着网络安全工作？网络安全如何一步步上升到国家安全的高度？<a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/?u=article/155">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> http://t… (2014年08月26日 12:44)
  ---
 谷歌镜像100%原生体验 墙内镜像 <a href="https://objects.dreamhost.com/goo/index.html">objects.dreamhost.com/goo/index.html</a> (2014年08月26日 07:45)
- ---
-Surveillance and semi-closed platforms: how the web lost its way – and its founding principles <a href="http://www.theguardian.com/technology/2014/aug/24/internet-lost-its-way-tim-berners-lee-world-wide-web?CMP=twt_gu">www.theguardian.com/technology/2014/aug/24/internet-lost-its-way-tim-berners-lee-world-wide-web</a> via @guardian (2014年08月26日 02:03)
  ---
