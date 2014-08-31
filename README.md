@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @PaulCarsten: Chilling - China's Tencent shuts messaging accounts after new censorship rules take effect <a href="http://www.trust.org/item/20140829082757-k48yk">www.trust.org/item/20140829082757-k48yk</a> (2014年08月31日 22:56)
+ ---
 RT @RogerDingledine: A call to arms: Helping Internet services accept anonymous users. <a href="https://blog.torproject.org/blog/call-arms-helping-internet-services-accept-anonymous-users">blog.torproject.org/blog/call-arms-helping-internet-services-accept-anonymous-users</a> #Tor @torproject (2014年08月31日 22:47)
  ---
 RT @cctvnews: #China to make it easier for citizens to sue the #government. <a href="http://www.cctvnews.cn/2014/08/29/china-makes-it-easier-to-sue-government/">www.cctvnews.cn/2014/08/29/china-makes-it-easier-to-sue-government/</a> <a href="https://www.youtube.com/watch?v=eOM-WEcnnZQ&list=UUgrNz-aDmcr2uuto8_DL2jg">www.youtube.com/watch</a> (2014年08月29日 20:20)
@@ -69,6 +71,4 @@ RT @paopaonet: 【泡泡图解中国网络管理组织的变迁】2014年，中�
 谷歌镜像100%原生体验 墙内镜像 <a href="https://objects.dreamhost.com/goo/index.html">objects.dreamhost.com/goo/index.html</a> (2014年08月26日 07:45)
  ---
 Surveillance and semi-closed platforms: how the web lost its way – and its founding principles <a href="http://www.theguardian.com/technology/2014/aug/24/internet-lost-its-way-tim-berners-lee-world-wide-web?CMP=twt_gu">www.theguardian.com/technology/2014/aug/24/internet-lost-its-way-tim-berners-lee-world-wide-web</a> via @guardian (2014年08月26日 02:03)
- ---
-Thanks Obama: China works to improve its operating systems to reduce dependence on Western companies <a href="http://pando.com/2014/08/25/thanks-obama-china-works-to-improve-its-operating-systems-to-reduce-dependence-on-western-companies/">pando.com/2014/08/25/thanks-obama-china-works-to-improve-its-operating-systems-to-reduce-dependence-on-western-companies/</a> (2014年08月25日 23:43)
  ---
