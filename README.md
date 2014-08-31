@@ -34,7 +34,7 @@
 ## 新闻
 RT @cctvnews: #China to make it easier for citizens to sue the #government. <a href="http://www.cctvnews.cn/2014/08/29/china-makes-it-easier-to-sue-government/">www.cctvnews.cn/2014/08/29/china-makes-it-easier-to-sue-government/</a> <a href="https://www.youtube.com/watch?v=eOM-WEcnnZQ&list=UUgrNz-aDmcr2uuto8_DL2jg">www.youtube.com/watch</a> (2014年08月29日 20:20)
  ---
-"No reason why you shouldn’t have same degree of control over computer in your pocket as you do over your desktop" <a href="http://t.co/nNgcgtcnBK">t.co/nNgcgtcnBK</a> (2014年08月29日 18:09)
+"No reason why you shouldn’t have same degree of control over computer in your pocket as you do over your desktop" <a href="http://blogs.wsj.com/digits/2014/08/28/why-some-privacy-apps-get-blocked-from-the-android-play-store/">blogs.wsj.com/digits/2014/08/28/why-some-privacy-apps-get-blocked-from-the-android-play-store/</a> (2014年08月29日 18:09)
  ---
 RT @cyberrights: It should really matter where #IGF takes place each year: Read to find out why you should not attend #IGF2014:  http://t.c… (2014年08月28日 15:00)
  ---
