@@ -54,7 +54,7 @@ haha Chinese sci-fi: upgrade of Great Firewall called GFW Turbo becomes self-awa
  ---
 RT @hawkyeee: 最近一大波五毛来袭，形状大是可观。还有人写了一篇「慕容雪村的前世今生」，洋洋洒洒近万字，极尽虚构之能事，当小说看还挺有意思，推荐各位朋友赏读。另请问，党国哪个机构在负责此类业务？他们是不是真找不到人了？拙劣到这种程度，真替他们的智商捉急。 (2014年08月27日 08:22)
  ---
-The Surveillance Engine: How the NSA Built Its Own Secret Google <a href="https://firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton/">firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton/</a> (2014年08月26日 23:36)
+The Surveillance Engine: How the NSA Built Its Own Secret Google <a href="https://firstlook.org/theintercept/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton/">firstlook.org/theintercept/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton/</a> (2014年08月26日 23:36)
  ---
 RT @MomoAdalois: Film festival closure incites heated debate among artists and filmmakers 栗宪庭：梦魇宋庄 <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDAwMzY3Nw%3D%3D&mid=200547186&idx=2&sn=dacccc66f7f7c59d59ea9ecc1f3fcb01&scene=2&from=timeline&isappinstalled=0#rd">mp.weixin.qq.com/s</a> (2014年08月26日 15:40)
  ---
