@@ -64,7 +64,7 @@ Report Reveals Workings of China's Online 'Opinion Managers' <a href="http://www
  ---
 谷歌镜像 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://ixquick.com/jia/">ixquick.com/jia/</a> <a href="https://objects.dreamhost.com/goo/index.html">objects.dreamhost.com/goo/index.html</a> 请转给墙内的朋友 (2014年08月28日 05:12)
  ---
-RT @APC_News: Disco-tech Istanbul update: New speakers + DM us your RSVP <a href="https://www.apc.org/en/news/turkish-international-activists-share-circumventio">www.apc.org/en/news/turkish-international-activists-share-circumventio</a> @Info_Activism @avilarenata @txitua @jessd… (2014年08月28日 02:32)
+RT @APC_News: Disco-tech Istanbul update: New speakers + DM us your RSVP <a href="https://t.co/REUICprv5S">t.co/REUICprv5S</a> @Info_Activism @avilarenata @txitua @jessd… (2014年08月28日 02:32)
  ---
 On two works of thrilling mundanity: Linklater's film #Boyhood and Karl Ove Knausgaard's book 'My Struggle': <a href="https://opendemocracy.net/william-davies/in-praise-of-family-existentialism">opendemocracy.net/william-davies/in-praise-of-family-existentialism</a> # (2014年08月28日 00:23)
  ---
