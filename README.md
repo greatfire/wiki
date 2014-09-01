@@ -60,7 +60,7 @@ RT @cyberrights: It should really matter where #IGF takes place each year: Read 
  ---
 RT @rmack: RT @Advox: #China has more "Internet public opinion monitors" than military personnel <a href="http://advocacy.globalvoicesonline.org/2014/08/06/netizen-report-russias-official-blogger-registry-is-open-for-business/">advocacy.globalvoicesonline.org/2014/08/06/netizen-report-russias-official-blogger-registry-is-open-for-business/</a> #netfreedom (2014年08月28日 14:31)
  ---
-Report Reveals Workings of China's Online 'Opinion Managers' <a href="http://t.co/QG7GREb7Am">t.co/QG7GREb7Am</a> (2014年08月28日 14:12)
+Report Reveals Workings of China's Online 'Opinion Managers' <a href="http://www.rfa.org/english/news/china/report-08262014151334.html">www.rfa.org/english/news/china/report-08262014151334.html</a> (2014年08月28日 14:12)
  ---
 谷歌镜像 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://ixquick.com/jia/">ixquick.com/jia/</a> <a href="https://objects.dreamhost.com/goo/index.html">objects.dreamhost.com/goo/index.html</a> 请转给墙内的朋友 (2014年08月28日 05:12)
  ---
