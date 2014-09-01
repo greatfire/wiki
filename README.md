@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Why Google Banned A Privacy Tool Called 'Disconnect Mobile' From The App Store <a href="http://www.businessinsider.com.au/why-google-banned-connect-mobile-2014-8">www.businessinsider.com.au/why-google-banned-connect-mobile-2014-8</a> (2014年09月01日 15:28)
+ ---
 Great piece: Chinese see circumvention of censorship as something govt does not allow them to do <a href="http://chinachange.org/2014/08/30/how-brainwashing-works-in-china/">chinachange.org/2014/08/30/how-brainwashing-works-in-china/</a> via @chinachange_org (2014年09月01日 15:19)
  ---
 RT @yyfcxo: 布衣尉：今夜香港，九龙奋进，千舟竞发，万民怒吼，惊涛拍岸——此自由潮声必将响彻大河上下、塞外中原！！！[拳头][拳头][拳头] <a href="https://twitter.com/yyfcxo/status/506022131281309697/photo/1">twitter.com/yyfcxo/status/506022131281309697/photo/1</a> (2014年09月01日 02:22)
@@ -69,6 +71,4 @@ haha Chinese sci-fi: upgrade of Great Firewall called GFW Turbo becomes self-awa
 RT @hawkyeee: 最近一大波五毛来袭，形状大是可观。还有人写了一篇「慕容雪村的前世今生」，洋洋洒洒近万字，极尽虚构之能事，当小说看还挺有意思，推荐各位朋友赏读。另请问，党国哪个机构在负责此类业务？他们是不是真找不到人了？拙劣到这种程度，真替他们的智商捉急。 (2014年08月27日 08:22)
  ---
 The Surveillance Engine: How the NSA Built Its Own Secret Google <a href="https://firstlook.org/theintercept/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton/">firstlook.org/theintercept/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton/</a> (2014年08月26日 23:36)
- ---
-RT @MomoAdalois: Film festival closure incites heated debate among artists and filmmakers 栗宪庭：梦魇宋庄 <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDAwMzY3Nw%3D%3D&mid=200547186&idx=2&sn=dacccc66f7f7c59d59ea9ecc1f3fcb01&scene=2&from=timeline&isappinstalled=0#rd">mp.weixin.qq.com/s</a> (2014年08月26日 15:40)
  ---
