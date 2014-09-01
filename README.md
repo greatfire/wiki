@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@shaunrein @marketplace @rob_schmitz going on for 3mos now - lack of uproar shows few people use linkedin and/or don't rate it as important (2014年09月02日 01:09)
+ ---
 Pseudononymous RT @BiellaColeman: Harvard Berkman Center Fellow Judith Donath says pseudonyms make better citizens  <a href="http://harvardmagazine.com/2014/09/can-pseudonyms-make-better-online-citizens#%23The%2Bdifference%2Bbetween%2Bbeing%2Bpseudonymous%2Band%2Bbeing%2Banonymous%2Bis%2Bhistory">harvardmagazine.com/2014/09/can-pseudonyms-make-better-online-citizens</a> (2014年09月01日 16:39)
  ---
 Why Google Banned A Privacy Tool Called 'Disconnect Mobile' From The App Store <a href="http://www.businessinsider.com.au/why-google-banned-connect-mobile-2014-8">www.businessinsider.com.au/why-google-banned-connect-mobile-2014-8</a> (2014年09月01日 15:28)
@@ -69,6 +71,4 @@ On two works of thrilling mundanity: Linklater's film #Boyhood and Karl Ove Knau
 haha Chinese sci-fi: upgrade of Great Firewall called GFW Turbo becomes self-aware, censors keywords uncontrollably <a href="http://www.chinafile.com/reporting-opinion/culture/healthy-words">www.chinafile.com/reporting-opinion/culture/healthy-words</a> (2014年08月27日 15:27)
  ---
 @eastdakota Can you publish the materials on your blog? We're very interested in the tech details behind the attack. (2014年08月27日 12:10)
- ---
-RT @hawkyeee: 最近一大波五毛来袭，形状大是可观。还有人写了一篇「慕容雪村的前世今生」，洋洋洒洒近万字，极尽虚构之能事，当小说看还挺有意思，推荐各位朋友赏读。另请问，党国哪个机构在负责此类业务？他们是不是真找不到人了？拙劣到这种程度，真替他们的智商捉急。 (2014年08月27日 08:22)
  ---
