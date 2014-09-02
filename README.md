@@ -3,13 +3,13 @@
 ### 自由微博        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/        
 2.（长期有效）：https://objects.dreamhost.com/freeweibo/index.html        
-3.（短期有效）：https://d2t99c5pxqndf4.cloudfront.net        
-4.（短期有效）：https://fw4.azurewebsites.net
+3.（短期有效）：https://        
+4.（短期有效）：https://
 ### 中国数字时代        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
 2.（长期有效）：https://objects.dreamhost.com/cdt/index.html        
-3.（短期有效）：https://d2x9xuqj179vf8.cloudfront.net        
-4.（短期有效）：https://cdt2.azurewebsites.net
+3.（短期有效）：https://        
+4.（短期有效）：https://cdt3.azurewebsites.net
 ### Google 搜索        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/        
 2.（长期有效）：https://objects.dreamhost.com/goo/index.html        
@@ -19,12 +19,12 @@
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/        
 2.（长期有效）：https://objects.dreamhost.com/lantern/index.html        
 3.（短期有效）：https://d34kq9ecg4rzxm.cloudfront.net        
-4.（短期有效）：https://lantern4.azurewebsites.net
+4.（短期有效）：https://
 ### 泡泡（未经审查的网络报道）        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/        
 2.（长期有效）：https://objects.dreamhost.com/paopao/index.html        
 3.（短期有效）：https://d19ysv8o6fv16v.cloudfront.net        
-4.（短期有效）：https://paopao6.azurewebsites.net
+4.（短期有效）：https://
 
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
 
