@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @remonwangxt: 我沒有秘密，所有的言論都是網上公開的，想偷窺我私信？其實和推文是一樣的，黨啊~你若是想知道什麼，請直接問我，不要做這種雞鳴狗盜的事情，謝謝！ <a href="https://twitter.com/remonwangxt/status/506643727700328450/photo/1">twitter.com/remonwangxt/status/506643727700328450/photo/1</a> (2014年09月02日 12:20)
+ ---
 @shaunrein @marketplace @rob_schmitz going on for 3mos now - lack of uproar shows few people use linkedin and/or don't rate it as important (2014年09月02日 01:09)
  ---
 Pseudononymous RT @BiellaColeman: Harvard Berkman Center Fellow Judith Donath says pseudonyms make better citizens  <a href="http://harvardmagazine.com/2014/09/can-pseudonyms-make-better-online-citizens#%23The%2Bdifference%2Bbetween%2Bbeing%2Bpseudonymous%2Band%2Bbeing%2Banonymous%2Bis%2Bhistory">harvardmagazine.com/2014/09/can-pseudonyms-make-better-online-citizens</a> (2014年09月01日 16:39)
@@ -69,6 +71,4 @@ RT @APC_News: Disco-tech Istanbul update: New speakers + DM us your RSVP <a href
 On two works of thrilling mundanity: Linklater's film #Boyhood and Karl Ove Knausgaard's book 'My Struggle': <a href="https://opendemocracy.net/william-davies/in-praise-of-family-existentialism">opendemocracy.net/william-davies/in-praise-of-family-existentialism</a> # (2014年08月28日 00:23)
  ---
 haha Chinese sci-fi: upgrade of Great Firewall called GFW Turbo becomes self-aware, censors keywords uncontrollably <a href="http://www.chinafile.com/reporting-opinion/culture/healthy-words">www.chinafile.com/reporting-opinion/culture/healthy-words</a> (2014年08月27日 15:27)
- ---
-@eastdakota Can you publish the materials on your blog? We're very interested in the tech details behind the attack. (2014年08月27日 12:10)
  ---
