@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Comrade Mao personally wrote or edited articles from @XHNews - Xi Jinping better start clearing his schedule <a href="http://cmp.hku.hk/2014/09/02/35787/">cmp.hku.hk/2014/09/02/35787/</a> (2014年09月02日 21:40)
+ ---
 RT @suilee: Crackdown on freedom of speech widens to Peking Uni Top Chinese university warns against criticising Communist Party http://t.c… (2014年09月02日 20:23)
  ---
 German Broadcaster @DeutscheWelle Urged to Speak for Press Freedom in China <a href="HTTP://http:////www-nc.nytimes.com/2014/09/01/german-broadcaster-is-urged-to-speak-for-press-freedom-in-china/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&">http////www-nc.nytimes.com/2014/09/01/german-broadcaster-is-urged-to-speak-for-press-freedom-in-china/</a> via @dktatlow (2014年09月02日 14:32)
@@ -69,6 +71,4 @@ RT @rmack: RT @Advox: #China has more "Internet public opinion monitors" than mi
 Report Reveals Workings of China's Online 'Opinion Managers' <a href="http://www.rfa.org/english/news/china/report-08262014151334.html">www.rfa.org/english/news/china/report-08262014151334.html</a> (2014年08月28日 14:12)
  ---
 谷歌镜像 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/</a> <a href="https://ixquick.com/jia/">ixquick.com/jia/</a> <a href="https://objects.dreamhost.com/goo/index.html">objects.dreamhost.com/goo/index.html</a> 请转给墙内的朋友 (2014年08月28日 05:12)
- ---
-RT @APC_News: Disco-tech Istanbul update: New speakers + DM us your RSVP <a href="https://www.apc.org/en/news/turkish-international-activists-share-circumventio">www.apc.org/en/news/turkish-international-activists-share-circumventio</a> @Info_Activism @avilarenata @txitua @jessd… (2014年08月28日 02:32)
  ---
