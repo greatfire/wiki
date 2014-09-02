@@ -50,7 +50,7 @@ Hong Kong "entering era of civil disobedience" <a href="https://myaccount.nytime
  ---
 MSN Messenger to end after 15 years <a href="http://www.bbc.com/news/technology-28987797">www.bbc.com/news/technology-28987797</a> ending in China (2014年08月31日 23:21)
  ---
-RT @PaulCarsten: Chilling - China's Tencent shuts messaging accounts after new censorship rules take effect <a href="http://www.trust.org/item/20140829082757-k48yk">www.trust.org/item/20140829082757-k48yk</a> (2014年08月31日 22:56)
+RT @PaulCarsten: Chilling - China's Tencent shuts messaging accounts after new censorship rules take effect <a href="http://t.co/9uzINt9VPW">t.co/9uzINt9VPW</a> (2014年08月31日 22:56)
  ---
 RT @RogerDingledine: A call to arms: Helping Internet services accept anonymous users. <a href="https://blog.torproject.org/blog/call-arms-helping-internet-services-accept-anonymous-users">blog.torproject.org/blog/call-arms-helping-internet-services-accept-anonymous-users</a> #Tor @torproject (2014年08月31日 22:47)
  ---
