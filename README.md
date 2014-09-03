@@ -4,7 +4,7 @@
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/        
 2.（长期有效）：https://objects.dreamhost.com/freeweibo/index.html        
 3.（短期有效）：https://d2fstso2jh4dhr.cloudfront.net        
-4.（短期有效）：https://fw12.azurewebsites.net
+4.（短期有效）：https://fw2.azurewebsites.net
 ### 中国数字时代        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
 2.（长期有效）：https://objects.dreamhost.com/cdt/index.html        
@@ -24,7 +24,7 @@
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/        
 2.（长期有效）：https://objects.dreamhost.com/paopao/index.html        
 3.（短期有效）：https://d36d3255o612ec.cloudfront.net        
-4.（短期有效）：https://paopao3.azurewebsites.net
+4.（短期有效）：https://paopao1.azurewebsites.net
 
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
 
