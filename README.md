@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @cnlong1988: 封锁Google全球第一案：因从今年5月起联通网络无法访问Google、Gmail等网站，后本人汪龙将中国联通告上法庭，该案将于9月4日16时在深圳福田法院第十审判庭公开开庭审理，欢迎各位关注、转发并前来旁听！ (2014年09月04日 01:45)
+ ---
 RT @NickKristof: I won't be at the World Ec Forum in Tianjin because China hasn't given me a visa. Surprised China withholds visa from a pa… (2014年09月03日 22:24)
  ---
 RT @ioerror: I'm horrified that people are advocating for url blacklists. #IGF (2014年09月03日 19:03)
@@ -69,6 +71,4 @@ RT @PaulCarsten: Chilling - China's Tencent shuts messaging accounts after new c
 RT @RogerDingledine: A call to arms: Helping Internet services accept anonymous users. <a href="https://blog.torproject.org/blog/call-arms-helping-internet-services-accept-anonymous-users">blog.torproject.org/blog/call-arms-helping-internet-services-accept-anonymous-users</a> #Tor @torproject (2014年08月31日 22:47)
  ---
 RT @cctvnews: #China to make it easier for citizens to sue the #government. <a href="http://www.cctvnews.cn/2014/08/29/china-makes-it-easier-to-sue-government/">www.cctvnews.cn/2014/08/29/china-makes-it-easier-to-sue-government/</a> <a href="https://www.youtube.com/watch?v=eOM-WEcnnZQ&list=UUgrNz-aDmcr2uuto8_DL2jg">www.youtube.com/watch</a> (2014年08月29日 20:20)
- ---
-"No reason why you shouldn’t have same degree of control over computer in your pocket as you do over your desktop" <a href="http://blogs.wsj.com/digits/2014/08/28/why-some-privacy-apps-get-blocked-from-the-android-play-store/">blogs.wsj.com/digits/2014/08/28/why-some-privacy-apps-get-blocked-from-the-android-play-store/</a> (2014年08月29日 18:09)
  ---
