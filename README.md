@@ -68,7 +68,7 @@ RT @PaulCarsten: Chilling - China's Tencent shuts messaging accounts after new c
  ---
 RT @RogerDingledine: A call to arms: Helping Internet services accept anonymous users. <a href="https://blog.torproject.org/blog/call-arms-helping-internet-services-accept-anonymous-users">blog.torproject.org/blog/call-arms-helping-internet-services-accept-anonymous-users</a> #Tor @torproject (2014年08月31日 22:47)
  ---
-RT @cctvnews: #China to make it easier for citizens to sue the #government. <a href="http://www.cctvnews.cn/2014/08/29/china-makes-it-easier-to-sue-government/">www.cctvnews.cn/2014/08/29/china-makes-it-easier-to-sue-government/</a> <a href="https://www.youtube.com/watch?v=eOM-WEcnnZQ&list=UUgrNz-aDmcr2uuto8_DL2jg">www.youtube.com/watch</a> (2014年08月29日 20:20)
+RT @cctvnews: #China to make it easier for citizens to sue the #government. <a href="http://t.co/9eIJ1QZYwN">t.co/9eIJ1QZYwN</a> <a href="https://www.youtube.com/watch?v=eOM-WEcnnZQ&list=UUgrNz-aDmcr2uuto8_DL2jg">www.youtube.com/watch</a> (2014年08月29日 20:20)
  ---
 "No reason why you shouldn’t have same degree of control over computer in your pocket as you do over your desktop" <a href="http://blogs.wsj.com/digits/2014/08/28/why-some-privacy-apps-get-blocked-from-the-android-play-store/">blogs.wsj.com/digits/2014/08/28/why-some-privacy-apps-get-blocked-from-the-android-play-store/</a> (2014年08月29日 18:09)
  ---
