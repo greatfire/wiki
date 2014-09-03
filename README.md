@@ -32,7 +32,7 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-RT @cnlong1988: 封锁Google全球第一案：因从今年5月起联通网络无法访问Google、Gmail等网站，后本人汪龙将中国联通告上法庭，该案将于9月4日16时在深圳福田法院第十审判庭公开开庭审理，欢迎各位关注、转发并前来旁听！ (2014年09月04日 01:45)
+RT @cnlong1988: 封锁Google全球第一案：因从今年5月起联通网络无法访问Google、Gmail等网站，后本人汪龙将中国联通告上法庭，该案将于9月4日16时在深圳福田法院第十审判庭公开开庭审理，欢迎各位关注、转发并前来旁听！<a href="http://t.co/SjQlEA">t.co/SjQlEA</a>… (2014年09月04日 07:46)
  ---
 RT @NickKristof: I won't be at the World Ec Forum in Tianjin because China hasn't given me a visa. Surprised China withholds visa from a pa… (2014年09月03日 22:24)
  ---
