@@ -68,7 +68,7 @@ MSN Messenger to end after 15 years <a href="http://www.bbc.com/news/technology-
  ---
 RT @PaulCarsten: Chilling - China's Tencent shuts messaging accounts after new censorship rules take effect <a href="http://www.trust.org/item/20140829082757-k48yk">www.trust.org/item/20140829082757-k48yk</a> (2014年08月31日 22:56)
  ---
-RT @RogerDingledine: A call to arms: Helping Internet services accept anonymous users. <a href="http://flip.it/RwSh5">flip.it/RwSh5</a> #Tor @torproject (2014年08月31日 22:47)
+RT @RogerDingledine: A call to arms: Helping Internet services accept anonymous users. <a href="https://blog.torproject.org/blog/call-arms-helping-internet-services-accept-anonymous-users">blog.torproject.org/blog/call-arms-helping-internet-services-accept-anonymous-users</a> #Tor @torproject (2014年08月31日 22:47)
  ---
 RT @cctvnews: #China to make it easier for citizens to sue the #government. <a href="http://www.cctvnews.cn/2014/08/29/china-makes-it-easier-to-sue-government/">www.cctvnews.cn/2014/08/29/china-makes-it-easier-to-sue-government/</a> <a href="https://www.youtube.com/watch?v=eOM-WEcnnZQ&list=UUgrNz-aDmcr2uuto8_DL2jg">www.youtube.com/watch</a> (2014年08月29日 20:20)
  ---
