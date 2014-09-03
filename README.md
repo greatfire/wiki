@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @ioerror: I'm horrified that people are advocating for url blacklists. #IGF (2014年09月03日 19:03)
+ ---
 Connect with me on LinkedIn to see how amateur-hour / stupid / ineffective their China censorship policy really is <a href="http://cn.linkedin.com/pub/charlie-smith/57/b3a/436/">cn.linkedin.com/pub/charlie-smith/57/b3a/436/</a> (2014年09月03日 15:59)
  ---
 RT @niubi: Linkedin needs 2 publicly publish China censorship rules and policies...anything short of that now is just BS corporate propagan… (2014年09月03日 15:47)
@@ -69,6 +71,4 @@ RT @cctvnews: #China to make it easier for citizens to sue the #government. <a h
 "No reason why you shouldn’t have same degree of control over computer in your pocket as you do over your desktop" <a href="http://blogs.wsj.com/digits/2014/08/28/why-some-privacy-apps-get-blocked-from-the-android-play-store/">blogs.wsj.com/digits/2014/08/28/why-some-privacy-apps-get-blocked-from-the-android-play-store/</a> (2014年08月29日 18:09)
  ---
 RT @cyberrights: It should really matter where #IGF takes place each year: Read to find out why you should not attend #IGF2014:  http://t.c… (2014年08月28日 15:00)
- ---
-RT @rmack: RT @Advox: #China has more "Internet public opinion monitors" than military personnel <a href="http://advocacy.globalvoicesonline.org/2014/08/06/netizen-report-russias-official-blogger-registry-is-open-for-business/">advocacy.globalvoicesonline.org/2014/08/06/netizen-report-russias-official-blogger-registry-is-open-for-business/</a> #netfreedom (2014年08月28日 14:31)
  ---
