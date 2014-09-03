@@ -3,13 +3,13 @@
 ### 自由微博        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/        
 2.（长期有效）：https://objects.dreamhost.com/freeweibo/index.html        
-3.（短期有效）：https://dmkp4o0o0bc6a.cloudfront.net        
+3.（短期有效）：https://d2fstso2jh4dhr.cloudfront.net        
 4.（短期有效）：https://fw12.azurewebsites.net
 ### 中国数字时代        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/        
 2.（长期有效）：https://objects.dreamhost.com/cdt/index.html        
-3.（短期有效）：https://d3gzwiioqqrfid.cloudfront.net        
-4.（短期有效）：https://cdt12.azurewebsites.net
+3.（短期有效）：https://d29jekp4emy41a.cloudfront.net        
+4.（短期有效）：https://1ff2d.azurewebsites.net
 ### Google 搜索        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/        
 2.（长期有效）：https://objects.dreamhost.com/goo/index.html        
@@ -18,7 +18,7 @@
 ### 蓝灯（Lantern）以及自由微博和GreatFire.org官方中文论坛        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/        
 2.（长期有效）：https://objects.dreamhost.com/lantern/index.html        
-3.（短期有效）：https://d3ie9li8ral8o.cloudfront.net        
+3.（短期有效）：https://d1ssxz857pc9da.cloudfront.net        
 4.（短期有效）：https://c7511.azurewebsites.net
 ### 泡泡（未经审查的网络报道）        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/        
