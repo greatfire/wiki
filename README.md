@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Authorities launch a MITM attack on Google over CERNET, China's education network. Our story here: <a href="https://en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google">en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google</a> (2014年09月04日 17:48)
+ ---
 RT @rmack: Global Network Initiative (@theGNI) Seeks Executive Director <a href="https://globalnetworkinitiative.org/news/global-network-initiative-seeks-executive-director">globalnetworkinitiative.org/news/global-network-initiative-seeks-executive-director</a> If u r at #IGF2014 and interested, ping me. … (2014年09月04日 15:53)
  ---
 RT @ChineseWSJ: 【领英在中国的审查政策曝光 公司考虑调整】- 领英6月发给一位驻上海记者的邮件暴露了领英鲜为人知的政策：在中国境内发布的被屏蔽内容同时也会在全球其他地区受到审查。该政策受到人权组织的批评，领英正考虑调整。<a href="http://cn.wsj.com/gb/20140904/tec100956.asp">cn.wsj.com/gb/20140904/tec100956.asp</a> (2014年09月04日 14:49)
@@ -69,6 +71,4 @@ Hong Kong "entering era of civil disobedience" <a href="https://myaccount.nytime
 "Ars tests Internet surveillance—by spying on an NPR reporter" <a href="http://arstechnica.com/security/2014/06/what-the-nsa-or-anyone-can-learn-about-you-from-internet-traffic/">arstechnica.com/security/2014/06/what-the-nsa-or-anyone-can-learn-about-you-from-internet-traffic/</a> (2014年08月31日 23:49)
  ---
 MSN Messenger to end after 15 years <a href="http://www.bbc.com/news/technology-28987797">www.bbc.com/news/technology-28987797</a> ending in China (2014年08月31日 23:21)
- ---
-RT @PaulCarsten: Chilling - China's Tencent shuts messaging accounts after new censorship rules take effect <a href="http://www.trust.org/item/20140829082757-k48yk">www.trust.org/item/20140829082757-k48yk</a> (2014年08月31日 22:56)
  ---
