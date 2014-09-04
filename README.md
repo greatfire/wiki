@@ -32,6 +32,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @aral: Here’s a full version of my Free is a Lie talk:
+
+<a href="http://vimeo.com/96727211">vimeo.com/96727211</a>
+
+#ungovforum #igf2014 <a href="https://twitter.com/aral/status/507525612723245056/photo/1">twitter.com/aral/status/507525612723245056/photo/1</a> (2014年09月04日 21:53)
+ ---
 Authorities launch a MITM attack on Google over CERNET, China's education network. Our story here: <a href="https://en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google">en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google</a> (2014年09月04日 17:48)
  ---
 RT @rmack: Global Network Initiative (@theGNI) Seeks Executive Director <a href="https://globalnetworkinitiative.org/news/global-network-initiative-seeks-executive-director">globalnetworkinitiative.org/news/global-network-initiative-seeks-executive-director</a> If u r at #IGF2014 and interested, ping me. … (2014年09月04日 15:53)
@@ -69,6 +75,4 @@ RT @yyfcxo: 布衣尉：今夜香港，九龙奋进，千舟竞发，万民怒�
 Hong Kong "entering era of civil disobedience" <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F01%2Fworld%2Fasia%2Fhong-kong-elections.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年09月01日 00:30)
  ---
 "Ars tests Internet surveillance—by spying on an NPR reporter" <a href="http://arstechnica.com/security/2014/06/what-the-nsa-or-anyone-can-learn-about-you-from-internet-traffic/">arstechnica.com/security/2014/06/what-the-nsa-or-anyone-can-learn-about-you-from-internet-traffic/</a> (2014年08月31日 23:49)
- ---
-MSN Messenger to end after 15 years <a href="http://www.bbc.com/news/technology-28987797">www.bbc.com/news/technology-28987797</a> ending in China (2014年08月31日 23:21)
  ---
