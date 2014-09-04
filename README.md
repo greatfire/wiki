@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Groups Accuse Apple Supplier of Labor Violations in China <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F05%2Fbusiness%2FApple-Supplier-Is-Accused-of-Labor-Violations.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年09月05日 04:03)
+ ---
 RT @aral: Here’s a full version of my Free is a Lie talk:
 
 <a href="http://vimeo.com/96727211">vimeo.com/96727211</a>
@@ -73,6 +75,4 @@ Great piece: Chinese see circumvention of censorship as something govt does not 
 RT @yyfcxo: 布衣尉：今夜香港，九龙奋进，千舟竞发，万民怒吼，惊涛拍岸——此自由潮声必将响彻大河上下、塞外中原！！！[拳头][拳头][拳头] <a href="https://twitter.com/yyfcxo/status/506022131281309697/photo/1">twitter.com/yyfcxo/status/506022131281309697/photo/1</a> (2014年09月01日 02:22)
  ---
 Hong Kong "entering era of civil disobedience" <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F01%2Fworld%2Fasia%2Fhong-kong-elections.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年09月01日 00:30)
- ---
-"Ars tests Internet surveillance—by spying on an NPR reporter" <a href="http://arstechnica.com/security/2014/06/what-the-nsa-or-anyone-can-learn-about-you-from-internet-traffic/">arstechnica.com/security/2014/06/what-the-nsa-or-anyone-can-learn-about-you-from-internet-traffic/</a> (2014年08月31日 23:49)
  ---
