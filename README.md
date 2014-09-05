@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+"Technology transfer" used to be how you got into China - @ggreenwald says US now steals info from foreign R&amp;D ops  <a href="https://firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/">firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/</a> (2014年09月05日 22:28)
+ ---
 @LetaHong @rob_schmitz @fryan @KelmanSteve @niubi @raykwong wanna see your censored posts? Ask LinkedIn for yr data <a href="https://www.linkedin.com/start/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fdata-export-page">www.linkedin.com/start/join</a> (2014年09月05日 20:20)
  ---
 "Rights are something you have to fight for" via Wang Long - censorship hero suing China Unicom <a href="HTTP://http:////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&">http////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/</a> via @austinramzy (2014年09月05日 19:41)
@@ -73,6 +75,4 @@ RT @ChineseWSJ: 【领英在中国的审查政策曝光 公司考虑调整】- �
 RT @cnlong1988: 封锁Google全球第一案：因从今年5月起联通网络无法访问Google、Gmail等网站，后本人汪龙将中国联通告上法庭，该案将于9月4日16时在深圳福田法院第十审判庭公开开庭审理，欢迎各位关注、转发并前来旁听！<a href="http://t.co/SjQlEA">t.co/SjQlEA</a>… (2014年09月04日 07:46)
  ---
 RT @NickKristof: I won't be at the World Ec Forum in Tianjin because China hasn't given me a visa. Surprised China withholds visa from a pa… (2014年09月03日 22:24)
- ---
-RT @ioerror: I'm horrified that people are advocating for url blacklists. #IGF (2014年09月03日 19:03)
  ---
