@@ -64,7 +64,7 @@ RT @aral: Here’s a full version of my Free is a Lie talk:
 
 <a href="http://vimeo.com/96727211">vimeo.com/96727211</a>
 
-#ungovforum #igf2014 <a href="https://twitter.com/aral/status/507525612723245056/photo/1">twitter.com/aral/status/507525612723245056/photo/1</a> (2014年09月04日 21:53)
+#ungovforum #igf2014 <a href="http://t.co/uXk82t5qpR">t.co/uXk82t5qpR</a> (2014年09月04日 21:53)
  ---
 Authorities launch a MITM attack on Google over CERNET, China's education network. Our story here: <a href="https://en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google">en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google</a> (2014年09月04日 17:48)
  ---
