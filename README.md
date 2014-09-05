@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Awesome - Man sues China Unicom over blocked Google access in rare challenge to 'Great Firewall' <a href="http://www.scmp.com/news/china/article/1585772/chinese-man-sues-telecoms-provider-over-blocked-google-access-rare">www.scmp.com/news/china/article/1585772/chinese-man-sues-telecoms-provider-over-blocked-google-access-rare</a> via @SCMP_News (2014年09月05日 15:26)
+ ---
 谷歌在中国教育网遭国家级“中间人攻击 <a href="https://pao-pao.net/article/167">pao-pao.net/article/167</a> via @paopaonet (2014年09月05日 14:53)
  ---
 中国将限制视频网站上的外国电视节目数量 <a href="http://cn.wsj.com/gb/20140904/bch071902.asp">cn.wsj.com/gb/20140904/bch071902.asp</a> (2014年09月05日 13:05)
@@ -73,6 +75,4 @@ German Broadcaster @DeutscheWelle Urged to Speak for Press Freedom in China <a h
 RT @remonwangxt: 我沒有秘密，所有的言論都是網上公開的，想偷窺我私信？其實和推文是一樣的，黨啊~你若是想知道什麼，請直接問我，不要做這種雞鳴狗盜的事情，謝謝！ <a href="https://twitter.com/remonwangxt/status/506643727700328450/photo/1">twitter.com/remonwangxt/status/506643727700328450/photo/1</a> (2014年09月02日 12:20)
  ---
 @shaunrein @marketplace @rob_schmitz going on for 3mos now - lack of uproar shows few people use linkedin and/or don't rate it as important (2014年09月02日 01:09)
- ---
-Pseudononymous RT @BiellaColeman: Harvard Berkman Center Fellow Judith Donath says pseudonyms make better citizens  <a href="http://harvardmagazine.com/2014/09/can-pseudonyms-make-better-online-citizens#%23The%2Bdifference%2Bbetween%2Bbeing%2Bpseudonymous%2Band%2Bbeing%2Banonymous%2Bis%2Bhistory">harvardmagazine.com/2014/09/can-pseudonyms-make-better-online-citizens</a> (2014年09月01日 16:39)
  ---
