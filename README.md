@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Shake this - of the 400 million people who use WeChat, 5% of them are prostitutes <a href="http://www.globaltimes.cn/content/874985.shtml">www.globaltimes.cn/content/874985.shtml</a> h/t @wafarris (2014年09月05日 18:16)
+ ---
 .@niubi @hdurzy can LinkedIn pls share wording of China legal requirements that prevent them from providing us with content removal notices (2014年09月05日 16:53)
  ---
 @niubi @hdurzy in terms they say they will attempt to notify you but that Chinese law may prevent them from doing so. <a href="http://help.linkedin.com/app/answers/detail/a_id/46925/kw/transparency/h/c">help.linkedin.com/app/answers/detail/a_id/46925/kw/transparency/h/c</a> (2014年09月05日 16:13)
@@ -73,6 +75,4 @@ Connect with me on LinkedIn to see how amateur-hour / stupid / ineffective their
 RT @niubi: Linkedin needs 2 publicly publish China censorship rules and policies...anything short of that now is just BS corporate propagan… (2014年09月03日 15:47)
  ---
 Comrade Mao personally wrote or edited articles from @XHNews - Xi Jinping better start clearing his schedule <a href="http://cmp.hku.hk/2014/09/02/35787/">cmp.hku.hk/2014/09/02/35787/</a> (2014年09月02日 21:40)
- ---
-RT @suilee: Crackdown on freedom of speech widens to Peking Uni Top Chinese university warns against criticising Communist Party http://t.c… (2014年09月02日 20:23)
  ---
