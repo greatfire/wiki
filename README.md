@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: @GreatFireChina ：谷歌在中国教育网遭国家级“中间人攻击” <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/?u=article/167">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> (2014年09月05日 11:15)
+ ---
 Analysis of Chinese MITM on Google <a href="http://www.netresec.com/?page=Blog&month=2014-09&post=Analysis-of-Chinese-MITM-on-Google">www.netresec.com/</a> (2014年09月05日 11:14)
  ---
 Groups Accuse Apple Supplier of Labor Violations in China <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F05%2Fbusiness%2FApple-Supplier-Is-Accused-of-Labor-Violations.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年09月05日 04:03)
@@ -73,6 +75,4 @@ Pseudononymous RT @BiellaColeman: Harvard Berkman Center Fellow Judith Donath sa
 Why Google Banned A Privacy Tool Called 'Disconnect Mobile' From The App Store <a href="http://www.businessinsider.com.au/why-google-banned-connect-mobile-2014-8">www.businessinsider.com.au/why-google-banned-connect-mobile-2014-8</a> (2014年09月01日 15:28)
  ---
 Great piece: Chinese see circumvention of censorship as something govt does not allow them to do <a href="http://chinachange.org/2014/08/30/how-brainwashing-works-in-china/">chinachange.org/2014/08/30/how-brainwashing-works-in-china/</a> via @chinachange_org (2014年09月01日 15:19)
- ---
-RT @yyfcxo: 布衣尉：今夜香港，九龙奋进，千舟竞发，万民怒吼，惊涛拍岸——此自由潮声必将响彻大河上下、塞外中原！！！[拳头][拳头][拳头] <a href="https://twitter.com/yyfcxo/status/506022131281309697/photo/1">twitter.com/yyfcxo/status/506022131281309697/photo/1</a> (2014年09月01日 02:22)
  ---
