@@ -37,7 +37,7 @@ Man-in-the-middle attack on Google search is still going on. It can compromise g
  ---
 "Technology transfer" used to be how you got into China - @ggreenwald says US now steals info from foreign R&amp;D ops  <a href="https://firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/">firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/</a> (2014年09月05日 22:28)
  ---
-@LetaHong @rob_schmitz @fryan @KelmanSteve @niubi @raykwong wanna see your censored posts? Ask LinkedIn for yr data <a href="https://www.linkedin.com/start/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fdata-export-page">www.linkedin.com/start/join</a> (2014年09月05日 20:20)
+@LetaHong @rob_schmitz @fryan @KelmanSteve @niubi @raykwong wanna see your censored posts? Ask LinkedIn for yr data <a href="https://www.linkedin.com/reg/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fdata-export-page">www.linkedin.com/reg/join</a> (2014年09月05日 20:20)
  ---
 "Rights are something you have to fight for" via Wang Long - censorship hero suing China Unicom <a href="HTTP://http:////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&">http////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/</a> via @austinramzy (2014年09月05日 19:41)
  ---
@@ -59,7 +59,7 @@ Awesome - Man sues China Unicom over blocked Google access in rare challenge to 
  ---
 RT @paopaonet: @GreatFireChina ：谷歌在中国教育网遭国家级“中间人攻击” <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/?u=article/167">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> (2014年09月05日 11:15)
  ---
-Analysis of Chinese MITM on Google <a href="http://www.netresec.com/?page=Blog&month=2014-09&post=Analysis-of-Chinese-MITM-on-Google">www.netresec.com/</a> (2014年09月05日 11:14)
+Analysis of Chinese MITM on Google <a href="http://www.netresec.com/">www.netresec.com/</a> (2014年09月05日 11:14)
  ---
 Groups Accuse Apple Supplier of Labor Violations in China <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F05%2Fbusiness%2FApple-Supplier-Is-Accused-of-Labor-Violations.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年09月05日 04:03)
  ---
