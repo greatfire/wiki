@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Yesterday in newsletter we stated Facebook and YouTube are accessible via CERNET - they are not. Updated post: <a href="https://en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google">en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google</a> (2014年09月05日 15:39)
+ ---
 Awesome - Man sues China Unicom over blocked Google access in rare challenge to 'Great Firewall' <a href="http://www.scmp.com/news/china/article/1585772/chinese-man-sues-telecoms-provider-over-blocked-google-access-rare">www.scmp.com/news/china/article/1585772/chinese-man-sues-telecoms-provider-over-blocked-google-access-rare</a> via @SCMP_News (2014年09月05日 15:26)
  ---
 谷歌在中国教育网遭国家级“中间人攻击 <a href="https://pao-pao.net/article/167">pao-pao.net/article/167</a> via @paopaonet (2014年09月05日 14:53)
@@ -73,6 +75,4 @@ RT @suilee: Crackdown on freedom of speech widens to Peking Uni Top Chinese univ
 German Broadcaster @DeutscheWelle Urged to Speak for Press Freedom in China <a href="HTTP://http:////www-nc.nytimes.com/2014/09/01/german-broadcaster-is-urged-to-speak-for-press-freedom-in-china/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&">http////www-nc.nytimes.com/2014/09/01/german-broadcaster-is-urged-to-speak-for-press-freedom-in-china/</a> via @dktatlow (2014年09月02日 14:32)
  ---
 RT @remonwangxt: 我沒有秘密，所有的言論都是網上公開的，想偷窺我私信？其實和推文是一樣的，黨啊~你若是想知道什麼，請直接問我，不要做這種雞鳴狗盜的事情，謝謝！ <a href="https://twitter.com/remonwangxt/status/506643727700328450/photo/1">twitter.com/remonwangxt/status/506643727700328450/photo/1</a> (2014年09月02日 12:20)
- ---
-@shaunrein @marketplace @rob_schmitz going on for 3mos now - lack of uproar shows few people use linkedin and/or don't rate it as important (2014年09月02日 01:09)
  ---
