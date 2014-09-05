@@ -13,7 +13,7 @@
 ### Google 搜索        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/        
 2.（长期有效）：https://objects.dreamhost.com/goo/index.html        
-3.（短期有效）：https://d3vv89cvqbrqlq.cloudfront.net        
+3.（短期有效）：https://d1x0p3lmdequ0z.cloudfront.net        
 4.（短期有效）：https://865ba.azurewebsites.net
 ### 蓝灯（Lantern）以及自由微博和GreatFire.org官方中文论坛        
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/        
