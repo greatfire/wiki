@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+中国将限制视频网站上的外国电视节目数量 <a href="http://cn.wsj.com/gb/20140904/bch071902.asp">cn.wsj.com/gb/20140904/bch071902.asp</a> (2014年09月05日 13:05)
+ ---
 RT @paopaonet: @GreatFireChina ：谷歌在中国教育网遭国家级“中间人攻击” <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/?u=article/167">a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> (2014年09月05日 11:15)
  ---
 Analysis of Chinese MITM on Google <a href="http://www.netresec.com/?page=Blog&month=2014-09&post=Analysis-of-Chinese-MITM-on-Google">www.netresec.com/</a> (2014年09月05日 11:14)
@@ -73,6 +75,4 @@ RT @remonwangxt: 我沒有秘密，所有的言論都是網上公開的，想偷
 Pseudononymous RT @BiellaColeman: Harvard Berkman Center Fellow Judith Donath says pseudonyms make better citizens  <a href="http://harvardmagazine.com/2014/09/can-pseudonyms-make-better-online-citizens#%23The%2Bdifference%2Bbetween%2Bbeing%2Bpseudonymous%2Band%2Bbeing%2Banonymous%2Bis%2Bhistory">harvardmagazine.com/2014/09/can-pseudonyms-make-better-online-citizens</a> (2014年09月01日 16:39)
  ---
 Why Google Banned A Privacy Tool Called 'Disconnect Mobile' From The App Store <a href="http://www.businessinsider.com.au/why-google-banned-connect-mobile-2014-8">www.businessinsider.com.au/why-google-banned-connect-mobile-2014-8</a> (2014年09月01日 15:28)
- ---
-Great piece: Chinese see circumvention of censorship as something govt does not allow them to do <a href="http://chinachange.org/2014/08/30/how-brainwashing-works-in-china/">chinachange.org/2014/08/30/how-brainwashing-works-in-china/</a> via @chinachange_org (2014年09月01日 15:19)
  ---
