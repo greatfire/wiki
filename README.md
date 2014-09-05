@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+.@niubi @hdurzy can LinkedIn pls share wording of China legal requirements that prevent them from providing us with content removal notices (2014年09月05日 16:53)
+ ---
 @niubi @hdurzy in terms they say they will attempt to notify you but that Chinese law may prevent them from doing so. <a href="http://help.linkedin.com/app/answers/detail/a_id/46925/kw/transparency/h/c">help.linkedin.com/app/answers/detail/a_id/46925/kw/transparency/h/c</a> (2014年09月05日 16:13)
  ---
 Yesterday in newsletter we stated Facebook and YouTube are accessible via CERNET - they are not. Updated post: <a href="https://en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google">en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google</a> (2014年09月05日 15:39)
@@ -73,6 +75,4 @@ RT @niubi: Linkedin needs 2 publicly publish China censorship rules and policies
 Comrade Mao personally wrote or edited articles from @XHNews - Xi Jinping better start clearing his schedule <a href="http://cmp.hku.hk/2014/09/02/35787/">cmp.hku.hk/2014/09/02/35787/</a> (2014年09月02日 21:40)
  ---
 RT @suilee: Crackdown on freedom of speech widens to Peking Uni Top Chinese university warns against criticising Communist Party http://t.c… (2014年09月02日 20:23)
- ---
-German Broadcaster @DeutscheWelle Urged to Speak for Press Freedom in China <a href="HTTP://http:////www-nc.nytimes.com/2014/09/01/german-broadcaster-is-urged-to-speak-for-press-freedom-in-china/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&">http////www-nc.nytimes.com/2014/09/01/german-broadcaster-is-urged-to-speak-for-press-freedom-in-china/</a> via @dktatlow (2014年09月02日 14:32)
  ---
