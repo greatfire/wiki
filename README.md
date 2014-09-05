@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@LetaHong @rob_schmitz @fryan @KelmanSteve @niubi @raykwong wanna see your censored posts? Ask LinkedIn for yr data <a href="https://www.linkedin.com/reg/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fdata-export-page">www.linkedin.com/reg/join</a> (2014年09月05日 20:20)
+ ---
 "Rights are something you have to fight for" via Wang Long - censorship hero suing China Unicom <a href="HTTP://http:////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&">http////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/</a> via @austinramzy (2014年09月05日 19:41)
  ---
 RT @bspegele: Just realized the @WSJ Beijing buro is sadly without mooncakes on this holiday weekend. 中秋节快乐！ (2014年09月05日 19:36)
@@ -73,6 +75,4 @@ RT @cnlong1988: 封锁Google全球第一案：因从今年5月起联通网络无
 RT @NickKristof: I won't be at the World Ec Forum in Tianjin because China hasn't given me a visa. Surprised China withholds visa from a pa… (2014年09月03日 22:24)
  ---
 RT @ioerror: I'm horrified that people are advocating for url blacklists. #IGF (2014年09月03日 19:03)
- ---
-Connect with me on LinkedIn to see how amateur-hour / stupid / ineffective their China censorship policy really is <a href="http://cn.linkedin.com/pub/charlie-smith/57/b3a/436/">cn.linkedin.com/pub/charlie-smith/57/b3a/436/</a> (2014年09月03日 15:59)
  ---
