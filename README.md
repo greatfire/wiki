@@ -24,7 +24,7 @@
 1.（长期有效）：https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/        
 2.（长期有效）：https://objects.dreamhost.com/paopao/index.html        
 3.（短期有效）：https://d19ysv8o6fv16v.cloudfront.net        
-4.（短期有效）：https://paopao2.azurewebsites.net
+4.（短期有效）：https://paopao1.azurewebsites.net
 
 <img src="https://raw.githubusercontent.com/greatfire/z/master/logos.gif" />
 
