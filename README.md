@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+"Rights are something you have to fight for" via Wang Long - censorship hero suing China Unicom <a href="HTTP://http:////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&">http////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/</a> via @austinramzy (2014年09月05日 19:41)
+ ---
 RT @bspegele: Just realized the @WSJ Beijing buro is sadly without mooncakes on this holiday weekend. 中秋节快乐！ (2014年09月05日 19:36)
  ---
 Shake this - of the 400 million people who use WeChat, 5% of them are prostitutes <a href="http://www.globaltimes.cn/content/874985.shtml">www.globaltimes.cn/content/874985.shtml</a> h/t @wafarris (2014年09月05日 18:16)
@@ -73,6 +75,4 @@ RT @NickKristof: I won't be at the World Ec Forum in Tianjin because China hasn'
 RT @ioerror: I'm horrified that people are advocating for url blacklists. #IGF (2014年09月03日 19:03)
  ---
 Connect with me on LinkedIn to see how amateur-hour / stupid / ineffective their China censorship policy really is <a href="http://cn.linkedin.com/pub/charlie-smith/57/b3a/436/">cn.linkedin.com/pub/charlie-smith/57/b3a/436/</a> (2014年09月03日 15:59)
- ---
-RT @niubi: Linkedin needs 2 publicly publish China censorship rules and policies...anything short of that now is just BS corporate propagan… (2014年09月03日 15:47)
  ---
