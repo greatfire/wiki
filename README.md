@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+三高校发文加强校园意识形态管控 <a href="http://cn.nytimes.com/china/20140904/c04campus/">cn.nytimes.com/china/20140904/c04campus/</a> (2014年09月06日 09:36)
+ ---
 RT @agl__: Self-signed certs seen for Google in China: <a href="https://en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google">en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google</a> <a href="http://www.netresec.com/?page=Blog&month=2014-09&post=Analysis-of-Chinese-MITM-on-Google">www.netresec.com/</a>. 1024-bit/MD5/made w/ mkcert.c from O… (2014年09月06日 09:16)
  ---
 Man-in-the-middle attack on Google search is still going on. It can compromise google accounts. 
@@ -74,6 +76,4 @@ RT @aral: Here’s a full version of my Free is a Lie talk:
 Authorities launch a MITM attack on Google over CERNET, China's education network. Our story here: <a href="https://en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google">en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google</a> (2014年09月04日 17:48)
  ---
 RT @rmack: Global Network Initiative (@theGNI) Seeks Executive Director <a href="https://globalnetworkinitiative.org/news/global-network-initiative-seeks-executive-director">globalnetworkinitiative.org/news/global-network-initiative-seeks-executive-director</a> If u r at #IGF2014 and interested, ping me. … (2014年09月04日 15:53)
- ---
-RT @ChineseWSJ: 【领英在中国的审查政策曝光 公司考虑调整】- 领英6月发给一位驻上海记者的邮件暴露了领英鲜为人知的政策：在中国境内发布的被屏蔽内容同时也会在全球其他地区受到审查。该政策受到人权组织的批评，领英正考虑调整。<a href="http://cn.wsj.com/gb/20140904/tec100956.asp">cn.wsj.com/gb/20140904/tec100956.asp</a> (2014年09月04日 14:49)
  ---
