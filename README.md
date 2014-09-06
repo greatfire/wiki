@@ -49,7 +49,7 @@ Man-in-the-middle attack on Google search is still going on. It can compromise g
  ---
 "Technology transfer" used to be how you got into China - @ggreenwald says US now steals info from foreign R&amp;D ops  <a href="https://firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/">firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/</a> (2014年09月05日 22:28)
  ---
-@LetaHong @rob_schmitz @fryan @KelmanSteve @niubi @raykwong wanna see your censored posts? Ask LinkedIn for yr data <a href="https://www.linkedin.com/reg/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fdata-export-page">www.linkedin.com/reg/join</a> (2014年09月05日 20:20)
+@LetaHong @rob_schmitz @fryan @KelmanSteve @niubi @raykwong wanna see your censored posts? Ask LinkedIn for yr data <a href="https://www.linkedin.com/start/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fdata-export-page">www.linkedin.com/start/join</a> (2014年09月05日 20:20)
  ---
 "Rights are something you have to fight for" via Wang Long - censorship hero suing China Unicom <a href="HTTP://http:////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&">http////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/</a> via @austinramzy (2014年09月05日 19:41)
  ---
@@ -63,7 +63,7 @@ Shake this - of the 400 million people who use WeChat, 5% of them are prostitute
  ---
 Yesterday in newsletter we stated Facebook and YouTube are accessible via CERNET - they are not. Updated post: <a href="https://en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google">en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google</a> (2014年09月05日 15:39)
  ---
-Awesome - Man sues China Unicom over blocked Google access in rare challenge to 'Great Firewall' <a href="http://www.scmp.com/news/china/article/1585772/chinese-man-sues-telecoms-provider-over-blocked-google-access-rare">www.scmp.com/news/china/article/1585772/chinese-man-sues-telecoms-provider-over-blocked-google-access-rare</a> via @SCMP_News (2014年09月05日 15:26)
+Awesome - Man sues China Unicom over blocked Google access in rare challenge to 'Great Firewall' <a href="http://t.co/loMPIDqr6u">t.co/loMPIDqr6u</a> via @SCMP_News (2014年09月05日 15:26)
  ---
 谷歌在中国教育网遭国家级“中间人攻击 <a href="https://pao-pao.net/article/167">pao-pao.net/article/167</a> via @paopaonet (2014年09月05日 14:53)
  ---
