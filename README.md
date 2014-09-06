@@ -32,6 +32,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+3大保护隐私的搜索引擎StartPage,ixquick,DuckDuckGo，主打防NSA，均被中国封锁。 中国政府说要保护隐私纯属狗屁！ <a href="https://zh.greatfire.org/https/duckduckgo.com">zh.greatfire.org/https/duckduckgo.com</a> (2014年09月06日 09:58)
+ ---
+Privacy-oriented search engines, @StartPageSearch, ixquick, @duckduckgo all blocked in China <a href="https://en.greatfire.org/https/duckduckgo.com">en.greatfire.org/https/duckduckgo.com</a> <a href="https://en.greatfire.org/https/ixquick.com">en.greatfire.org/https/ixquick.com</a> (2014年09月06日 09:55)
+ ---
 三高校发文加强校园意识形态管控 <a href="http://cn.nytimes.com/china/20140904/c04campus/">cn.nytimes.com/china/20140904/c04campus/</a> (2014年09月06日 09:36)
  ---
 RT @agl__: Self-signed certs seen for Google in China: <a href="https://en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google">en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google</a> <a href="http://www.netresec.com/?page=Blog&month=2014-09&post=Analysis-of-Chinese-MITM-on-Google">www.netresec.com/</a>. 1024-bit/MD5/made w/ mkcert.c from O… (2014年09月06日 09:16)
@@ -41,7 +45,7 @@ Man-in-the-middle attack on Google search is still going on. It can compromise g
  ---
 "Technology transfer" used to be how you got into China - @ggreenwald says US now steals info from foreign R&amp;D ops  <a href="https://firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/">firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/</a> (2014年09月05日 22:28)
  ---
-@LetaHong @rob_schmitz @fryan @KelmanSteve @niubi @raykwong wanna see your censored posts? Ask LinkedIn for yr data <a href="https://www.linkedin.com/reg/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fdata-export-page">www.linkedin.com/reg/join</a> (2014年09月05日 20:20)
+@LetaHong @rob_schmitz @fryan @KelmanSteve @niubi @raykwong wanna see your censored posts? Ask LinkedIn for yr data <a href="https://www.linkedin.com/start/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fdata-export-page">www.linkedin.com/start/join</a> (2014年09月05日 20:20)
  ---
 "Rights are something you have to fight for" via Wang Long - censorship hero suing China Unicom <a href="HTTP://http:////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&">http////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/</a> via @austinramzy (2014年09月05日 19:41)
  ---
@@ -72,8 +76,4 @@ RT @aral: Here’s a full version of my Free is a Lie talk:
 <a href="http://vimeo.com/96727211">vimeo.com/96727211</a>
 
 #ungovforum #igf2014 <a href="https://twitter.com/aral/status/507525612723245056/photo/1">twitter.com/aral/status/507525612723245056/photo/1</a> (2014年09月04日 21:53)
- ---
-Authorities launch a MITM attack on Google over CERNET, China's education network. Our story here: <a href="https://en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google">en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google</a> (2014年09月04日 17:48)
- ---
-RT @rmack: Global Network Initiative (@theGNI) Seeks Executive Director <a href="https://globalnetworkinitiative.org/news/global-network-initiative-seeks-executive-director">globalnetworkinitiative.org/news/global-network-initiative-seeks-executive-director</a> If u r at #IGF2014 and interested, ping me. … (2014年09月04日 15:53)
  ---
