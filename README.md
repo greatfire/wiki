@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+深圳男子状告中国联通屏蔽谷歌,中国联通的代表律师一度表示“不知道能不能说”.  <a href="http://www.nanzao.com/sc/china/37269/shen-zhen-nan-zi-zhuang-gao-zhong-guo-lian-tong-ping-bi-gu-ge#0-tsina-1-19971-397232819ff9a47a7b7e80a40613cfe1">www.nanzao.com/sc/china/37269/shen-zhen-nan-zi-zhuang-gao-zhong-guo-lian-tong-ping-bi-gu-ge</a> (2014年09月06日 13:38)
+ ---
 3大保护隐私的搜索引擎StartPage,ixquick,DuckDuckGo，主打防NSA，均被中国封锁。 中国政府说要保护隐私纯属狗屁！ <a href="https://zh.greatfire.org/https/duckduckgo.com">zh.greatfire.org/https/duckduckgo.com</a> (2014年09月06日 09:58)
  ---
 Privacy-oriented search engines, @StartPageSearch, ixquick, @duckduckgo all blocked in China <a href="https://en.greatfire.org/https/duckduckgo.com">en.greatfire.org/https/duckduckgo.com</a> <a href="https://en.greatfire.org/https/ixquick.com">en.greatfire.org/https/ixquick.com</a> (2014年09月06日 09:55)
@@ -70,10 +72,4 @@ RT @paopaonet: @GreatFireChina ：谷歌在中国教育网遭国家级“中间�
 Analysis of Chinese MITM on Google <a href="http://www.netresec.com/?page=Blog&month=2014-09&post=Analysis-of-Chinese-MITM-on-Google">www.netresec.com/</a> (2014年09月05日 11:14)
  ---
 Groups Accuse Apple Supplier of Labor Violations in China <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F05%2Fbusiness%2FApple-Supplier-Is-Accused-of-Labor-Violations.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">myaccount.nytimes.com/auth/login</a> (2014年09月05日 04:03)
- ---
-RT @aral: Here’s a full version of my Free is a Lie talk:
-
-<a href="http://vimeo.com/96727211">vimeo.com/96727211</a>
-
-#ungovforum #igf2014 <a href="https://twitter.com/aral/status/507525612723245056/photo/1">twitter.com/aral/status/507525612723245056/photo/1</a> (2014年09月04日 21:53)
  ---
