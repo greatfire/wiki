@@ -61,7 +61,7 @@ Shake this - of the 400 million people who use WeChat, 5% of them are prostitute
  ---
 @niubi @hdurzy in terms they say they will attempt to notify you but that Chinese law may prevent them from doing so. <a href="http://help.linkedin.com/app/answers/detail/a_id/46925/kw/transparency/h/c">help.linkedin.com/app/answers/detail/a_id/46925/kw/transparency/h/c</a> (2014年09月05日 16:13)
  ---
-Yesterday in newsletter we stated Facebook and YouTube are accessible via CERNET - they are not. Updated post: <a href="https://t.co/eosKkx3N78">t.co/eosKkx3N78</a> (2014年09月05日 15:39)
+Yesterday in newsletter we stated Facebook and YouTube are accessible via CERNET - they are not. Updated post: <a href="https://en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google">en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google</a> (2014年09月05日 15:39)
  ---
 Awesome - Man sues China Unicom over blocked Google access in rare challenge to 'Great Firewall' <a href="http://www.scmp.com/news/china/article/1585772/chinese-man-sues-telecoms-provider-over-blocked-google-access-rare">www.scmp.com/news/china/article/1585772/chinese-man-sues-telecoms-provider-over-blocked-google-access-rare</a> via @SCMP_News (2014年09月05日 15:26)
  ---
