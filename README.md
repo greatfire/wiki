@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @cnlong1988: 本人汪龙起诉中国联通“封锁Google第一案”的民事起诉状（节选），详见图片 <a href="https://twitter.com/cnlong1988/status/508191367818801152/photo/1">twitter.com/cnlong1988/status/508191367818801152/photo/1</a> (2014年09月07日 02:08)
+ ---
 Want to use non-Chinese search engine in China? U r running out of options. Really only Bing left, and they censor <a href="https://en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally">en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> (2014年09月07日 01:13)
  ---
 .@duckduckgo @StartPageSearch both blocked Sep 3 in China - likely b/c of secure nature of search as they don't have huge market share (2014年09月07日 01:07)
@@ -70,6 +72,4 @@ Yesterday in newsletter we stated Facebook and YouTube are accessible via CERNET
 Awesome - Man sues China Unicom over blocked Google access in rare challenge to 'Great Firewall' <a href="http://www.scmp.com/news/china/article/1585772/chinese-man-sues-telecoms-provider-over-blocked-google-access-rare">www.scmp.com/news/china/article/1585772/chinese-man-sues-telecoms-provider-over-blocked-google-access-rare</a> via @SCMP_News (2014年09月05日 15:26)
  ---
 谷歌在中国教育网遭国家级“中间人攻击 <a href="https://pao-pao.net/article/167">pao-pao.net/article/167</a> via @paopaonet (2014年09月05日 14:53)
- ---
-中国将限制视频网站上的外国电视节目数量 <a href="http://cn.wsj.com/gb/20140904/bch071902.asp">cn.wsj.com/gb/20140904/bch071902.asp</a> (2014年09月05日 13:05)
  ---
