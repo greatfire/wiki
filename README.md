@@ -45,7 +45,7 @@ Privacy-oriented search engines, @StartPageSearch, ixquick, @duckduckgo all bloc
 RT @agl__: Self-signed certs seen for Google in China: <a href="https://en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google">en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google</a> <a href="http://www.netresec.com/?page=Blog&month=2014-09&post=Analysis-of-Chinese-MITM-on-Google">www.netresec.com/</a>. 1024-bit/MD5/made w/ mkcert.c from O… (2014年09月06日 09:16)
  ---
 Man-in-the-middle attack on Google search is still going on. It can compromise google accounts. 
-<a href="https://en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google">en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google</a> (2014年09月06日 02:11)
+<a href="https://t.co/eosKkx3N78">t.co/eosKkx3N78</a> (2014年09月06日 02:11)
  ---
 "Technology transfer" used to be how you got into China - @ggreenwald says US now steals info from foreign R&amp;D ops  <a href="https://firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/">firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/</a> (2014年09月05日 22:28)
  ---
