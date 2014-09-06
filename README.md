@@ -32,6 +32,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+3个注重隐私的搜索引擎已被GFW封锁。现在再公布3个。 <a href="https://privatelee.com/">privatelee.com/</a> <a href="https://qrobe.it/">qrobe.it/</a> <a href="https://www.qwant.com/single">www.qwant.com/single</a> 目前墙内可以访问。 (2014年09月07日 05:39)
+ ---
 最新Google镜像，用不被墙 <a href="https://edgecastcdn.net/00107ED/g/">edgecastcdn.net/00107ED/g/</a> (2014年09月07日 04:19)
  ---
 RT @cnlong1988: 本人汪龙起诉中国联通“封锁Google第一案”的民事起诉状（节选），详见图片 <a href="https://twitter.com/cnlong1988/status/508191367818801152/photo/1">twitter.com/cnlong1988/status/508191367818801152/photo/1</a> (2014年09月07日 02:08)
@@ -70,6 +72,4 @@ Shake this - of the 400 million people who use WeChat, 5% of them are prostitute
 @niubi @hdurzy in terms they say they will attempt to notify you but that Chinese law may prevent them from doing so. <a href="http://help.linkedin.com/app/answers/detail/a_id/46925/kw/transparency/h/c">help.linkedin.com/app/answers/detail/a_id/46925/kw/transparency/h/c</a> (2014年09月05日 16:13)
  ---
 Yesterday in newsletter we stated Facebook and YouTube are accessible via CERNET - they are not. Updated post: <a href="https://en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google">en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google</a> (2014年09月05日 15:39)
- ---
-Awesome - Man sues China Unicom over blocked Google access in rare challenge to 'Great Firewall' <a href="http://www.scmp.com/news/china/article/1585772/chinese-man-sues-telecoms-provider-over-blocked-google-access-rare">www.scmp.com/news/china/article/1585772/chinese-man-sues-telecoms-provider-over-blocked-google-access-rare</a> via @SCMP_News (2014年09月05日 15:26)
  ---
