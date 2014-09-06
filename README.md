@@ -32,12 +32,14 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @agl__: Self-signed certs seen for Google in China: <a href="https://en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google">en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google</a> <a href="http://www.netresec.com/?page=Blog&month=2014-09&post=Analysis-of-Chinese-MITM-on-Google">www.netresec.com/</a>. 1024-bit/MD5/made w/ mkcert.c from O… (2014年09月06日 09:16)
+ ---
 Man-in-the-middle attack on Google search is still going on. It can compromise google accounts. 
 <a href="https://en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google">en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google</a> (2014年09月06日 02:11)
  ---
 "Technology transfer" used to be how you got into China - @ggreenwald says US now steals info from foreign R&amp;D ops  <a href="https://firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/">firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/</a> (2014年09月05日 22:28)
  ---
-@LetaHong @rob_schmitz @fryan @KelmanSteve @niubi @raykwong wanna see your censored posts? Ask LinkedIn for yr data <a href="https://www.linkedin.com/reg/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fdata-export-page">www.linkedin.com/reg/join</a> (2014年09月05日 20:20)
+@LetaHong @rob_schmitz @fryan @KelmanSteve @niubi @raykwong wanna see your censored posts? Ask LinkedIn for yr data <a href="https://www.linkedin.com/start/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fdata-export-page">www.linkedin.com/start/join</a> (2014年09月05日 20:20)
  ---
 "Rights are something you have to fight for" via Wang Long - censorship hero suing China Unicom <a href="HTTP://http:////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&">http////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/</a> via @austinramzy (2014年09月05日 19:41)
  ---
@@ -74,6 +76,4 @@ Authorities launch a MITM attack on Google over CERNET, China's education networ
 RT @rmack: Global Network Initiative (@theGNI) Seeks Executive Director <a href="https://globalnetworkinitiative.org/news/global-network-initiative-seeks-executive-director">globalnetworkinitiative.org/news/global-network-initiative-seeks-executive-director</a> If u r at #IGF2014 and interested, ping me. … (2014年09月04日 15:53)
  ---
 RT @ChineseWSJ: 【领英在中国的审查政策曝光 公司考虑调整】- 领英6月发给一位驻上海记者的邮件暴露了领英鲜为人知的政策：在中国境内发布的被屏蔽内容同时也会在全球其他地区受到审查。该政策受到人权组织的批评，领英正考虑调整。<a href="http://cn.wsj.com/gb/20140904/tec100956.asp">cn.wsj.com/gb/20140904/tec100956.asp</a> (2014年09月04日 14:49)
- ---
-RT @cnlong1988: 封锁Google全球第一案：因从今年5月起联通网络无法访问Google、Gmail等网站，后本人汪龙将中国联通告上法庭，该案将于9月4日16时在深圳福田法院第十审判庭公开开庭审理，欢迎各位关注、转发并前来旁听！<a href="http://t.co/SjQlEA">t.co/SjQlEA</a>… (2014年09月04日 07:46)
  ---
