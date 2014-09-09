@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @Ycnt_ibdonlyjen: Can anyone recommend an alternative search engine?  Was using duckduckgo but China's now blocked that one too (2014年09月09日 21:43)
+ ---
 Man-in-the-middle attack against Google on CERN net in China has been lifted. The attack lasted from Aug 28 to Sept 6. (2014年09月07日 15:33)
  ---
 根据报告，教育网对Google的中间人攻击已经取消了。 (2014年09月07日 15:29)
@@ -94,13 +96,11 @@ Man-in-the-middle attack on Google search is still going on. It can compromise g
  ---
 "Technology transfer" used to be how you got into China - @ggreenwald says US now steals info from foreign R&amp;D ops  <a href="https://firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/" target="_BLANK">firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/</a> (2014年09月05日 22:28)
  ---
-@LetaHong @rob_schmitz @fryan @KelmanSteve @niubi @raykwong wanna see your censored posts? Ask LinkedIn for yr data <a href="https://www.linkedin.com/reg/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fdata-export-page" target="_BLANK">www.linkedin.com/reg/join</a> (2014年09月05日 20:20)
+@LetaHong @rob_schmitz @fryan @KelmanSteve @niubi @raykwong wanna see your censored posts? Ask LinkedIn for yr data <a href="https://www.linkedin.com/start/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fdata-export-page" target="_BLANK">www.linkedin.com/start/join</a> (2014年09月05日 20:20)
  ---
 "Rights are something you have to fight for" via Wang Long - censorship hero suing China Unicom <a href="HTTP://http:////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&" target="_BLANK">http////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/</a> via @austinramzy (2014年09月05日 19:41)
  ---
 RT @bspegele: Just realized the @WSJ Beijing buro is sadly without mooncakes on this holiday weekend. 中秋节快乐！ (2014年09月05日 19:36)
  ---
 Shake this - of the 400 million people who use WeChat, 5% of them are prostitutes <a href="http://www.globaltimes.cn/content/874985.shtml" target="_BLANK">www.globaltimes.cn/content/874985.shtml</a> h/t @wafarris (2014年09月05日 18:16)
- ---
-.@niubi @hdurzy can LinkedIn pls share wording of China legal requirements that prevent them from providing us with content removal notices (2014年09月05日 16:53)
  ---
