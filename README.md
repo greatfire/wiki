@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @niubi: "Apple PR Insider: "You have to be able to control the journalist"" <a href="http://valleywag.gawker.com/apple-pr-insider-you-have-to-be-able-to-control-the-j-1632448305" target="_BLANK">valleywag.gawker.com/apple-pr-insider-you-have-to-be-able-to-control-the-j-1632448305</a> (2014年09月10日 12:08)
+ ---
 @givoltage @Ycnt_ibdonlyjen Please use our mirror Google site <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a> (2014年09月10日 11:52)
  ---
 @yegg can you email me about China charlie.smith at <a href="https://zh.greatfire.org/" target="_BLANK">zh.greatfire.org/</a> (2014年09月10日 03:34)
@@ -100,7 +102,5 @@ Man-in-the-middle attack on Google search is still going on. It can compromise g
  ---
 "Technology transfer" used to be how you got into China - @ggreenwald says US now steals info from foreign R&amp;D ops  <a href="https://firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/" target="_BLANK">firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/</a> (2014年09月05日 22:28)
  ---
-@LetaHong @rob_schmitz @fryan @KelmanSteve @niubi @raykwong wanna see your censored posts? Ask LinkedIn for yr data <a href="https://www.linkedin.com/start/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fdata-export-page" target="_BLANK">www.linkedin.com/start/join</a> (2014年09月05日 20:20)
- ---
-"Rights are something you have to fight for" via Wang Long - censorship hero suing China Unicom <a href="HTTP://http:////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&" target="_BLANK">http////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/</a> via @austinramzy (2014年09月05日 19:41)
+@LetaHong @rob_schmitz @fryan @KelmanSteve @niubi @raykwong wanna see your censored posts? Ask LinkedIn for yr data <a href="https://www.linkedin.com/reg/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fdata-export-page" target="_BLANK">www.linkedin.com/reg/join</a> (2014年09月05日 20:20)
  ---
