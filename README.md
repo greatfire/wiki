@@ -63,7 +63,7 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-RT @niubi: "Apple PR Insider: "You have to be able to control the journalist"" <a href="http://valleywag.gawker.com/apple-pr-insider-you-have-to-be-able-to-control-the-j-1632448305" target="_BLANK">valleywag.gawker.com/apple-pr-insider-you-have-to-be-able-to-control-the-j-1632448305</a> (2014年09月10日 12:08)
+RT @niubi: "Apple PR Insider: "You have to be able to control the journalist"" <a href="http://feedly.com/e/cQB9BNf9" target="_BLANK">feedly.com/e/cQB9BNf9</a> (2014年09月10日 12:08)
  ---
 @givoltage @Ycnt_ibdonlyjen Please use our mirror Google site <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a> (2014年09月10日 11:52)
  ---
