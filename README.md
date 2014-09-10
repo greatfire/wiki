@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @XHNews: DPRK says to ban WiFi use for all foreigners, violators will be harshly fined <a href="http://xhne.ws/38jhF" target="_BLANK">xhne.ws/38jhF</a> <a href="https://twitter.com/XHNews/status/509638719826300928/photo/1" target="_BLANK">twitter.com/XHNews/status/509638719826300928/photo/1</a> (2014年09月10日 20:40)
+ ---
 RT @niubi: "Apple PR Insider: "You have to be able to control the journalist"" <a href="http://valleywag.gawker.com/apple-pr-insider-you-have-to-be-able-to-control-the-j-1632448305" target="_BLANK">valleywag.gawker.com/apple-pr-insider-you-have-to-be-able-to-control-the-j-1632448305</a> (2014年09月10日 12:08)
  ---
 @givoltage @Ycnt_ibdonlyjen Please use our mirror Google site <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a> (2014年09月10日 11:52)
@@ -101,6 +103,4 @@ Man-in-the-middle attack on Google search is still going on. It can compromise g
 <a href="https://en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google" target="_BLANK">en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google</a> (2014年09月06日 02:11)
  ---
 "Technology transfer" used to be how you got into China - @ggreenwald says US now steals info from foreign R&amp;D ops  <a href="https://firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/" target="_BLANK">firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/</a> (2014年09月05日 22:28)
- ---
-@LetaHong @rob_schmitz @fryan @KelmanSteve @niubi @raykwong wanna see your censored posts? Ask LinkedIn for yr data <a href="https://www.linkedin.com/reg/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fdata-export-page" target="_BLANK">www.linkedin.com/reg/join</a> (2014年09月05日 20:20)
  ---
