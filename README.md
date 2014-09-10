@@ -48,7 +48,7 @@
             <td>            
                 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="_BLANK">长期有效 1</a>，            
                 <a href="https://objects.dreamhost.com/paopao/index.html" target="_BLANK">长期有效 2</a>，            
-                <a href="https://paopao1.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
+                <a href="https://paopao2.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
         </tr>
@@ -98,7 +98,7 @@ Man-in-the-middle attack on Google search is still going on. It can compromise g
  ---
 "Technology transfer" used to be how you got into China - @ggreenwald says US now steals info from foreign R&amp;D ops  <a href="https://firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/" target="_BLANK">firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/</a> (2014年09月05日 22:28)
  ---
-@LetaHong @rob_schmitz @fryan @KelmanSteve @niubi @raykwong wanna see your censored posts? Ask LinkedIn for yr data <a href="https://www.linkedin.com/start/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fdata-export-page" target="_BLANK">www.linkedin.com/start/join</a> (2014年09月05日 20:20)
+@LetaHong @rob_schmitz @fryan @KelmanSteve @niubi @raykwong wanna see your censored posts? Ask LinkedIn for yr data <a href="https://www.linkedin.com/reg/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fsettings%2Fdata-export-page" target="_BLANK">www.linkedin.com/reg/join</a> (2014年09月05日 20:20)
  ---
 "Rights are something you have to fight for" via Wang Long - censorship hero suing China Unicom <a href="HTTP://http:////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&" target="_BLANK">http////www-nc.nytimes.com/2014/09/05/lawsuit-poses-questions-over-chinas-internet-censorship/</a> via @austinramzy (2014年09月05日 19:41)
  ---
