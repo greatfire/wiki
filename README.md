@@ -63,7 +63,7 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-RT @XHNews: DPRK says to ban WiFi use for all foreigners, violators will be harshly fined <a href="http://xhne.ws/38jhF" target="_BLANK">xhne.ws/38jhF</a> <a href="https://twitter.com/XHNews/status/509638719826300928/photo/1" target="_BLANK">twitter.com/XHNews/status/509638719826300928/photo/1</a> (2014年09月10日 20:40)
+RT @XHNews: DPRK says to ban WiFi use for all foreigners, violators will be harshly fined <a href="http://news.xinhuanet.com/english/world/2014-09/10/c_133633435.htm" target="_BLANK">news.xinhuanet.com/english/world/2014-09/10/c_133633435.htm</a> <a href="https://twitter.com/XHNews/status/509638719826300928/photo/1" target="_BLANK">twitter.com/XHNews/status/509638719826300928/photo/1</a> (2014年09月10日 20:40)
  ---
 RT @niubi: "Apple PR Insider: "You have to be able to control the journalist"" <a href="http://valleywag.gawker.com/apple-pr-insider-you-have-to-be-able-to-control-the-j-1632448305" target="_BLANK">valleywag.gawker.com/apple-pr-insider-you-have-to-be-able-to-control-the-j-1632448305</a> (2014年09月10日 12:08)
  ---
