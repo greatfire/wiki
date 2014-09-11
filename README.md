@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+How Chinese regime uses web censorship to strengthen the state <a href="http://www.theguardian.com/commentisfree/2014/sep/10/chinese-regime-web-censorship-state-china?CMP=twt_gu" target="_BLANK">www.theguardian.com/commentisfree/2014/sep/10/chinese-regime-web-censorship-state-china</a> not really true - vitriol here <a href="https://freeweibo.com/weibo/%E6%B1%9F%E6%B3%BD%E6%B0%91?censored" target="_BLANK">freeweibo.com/weibo/江泽民</a> (2014年09月11日 11:49)
+ ---
 RT @taniabranigan: Beijing official to HK democrats: “That you're allowed to stay alive, already shows country's inclusiveness" - http://t.… (2014年09月11日 11:42)
  ---
 Website blocking ineffective, dangerous in piracy fight: Google <a href="http://www.computerworld.com.au/article/554565/website-blocking-ineffective-dangerous-piracy-fight-google/" target="_BLANK">www.computerworld.com.au/article/554565/website-blocking-ineffective-dangerous-piracy-fight-google/</a> (2014年09月11日 11:31)
@@ -100,6 +102,4 @@ Want to use non-Chinese search engine in China? U r running out of options. Real
 3大保护隐私的搜索引擎StartPage,ixquick,DuckDuckGo，主打防NSA，均被中国封锁。 中国政府说要保护隐私纯属狗屁！ <a href="https://zh.greatfire.org/https/duckduckgo.com" target="_BLANK">zh.greatfire.org/https/duckduckgo.com</a> (2014年09月06日 09:58)
  ---
 Privacy-oriented search engines, @StartPageSearch, ixquick, @duckduckgo all blocked in China <a href="https://en.greatfire.org/https/duckduckgo.com" target="_BLANK">en.greatfire.org/https/duckduckgo.com</a> <a href="https://en.greatfire.org/https/ixquick.com" target="_BLANK">en.greatfire.org/https/ixquick.com</a> (2014年09月06日 09:55)
- ---
-三高校发文加强校园意识形态管控 <a href="http://cn.nytimes.com/china/20140904/c04campus/" target="_BLANK">cn.nytimes.com/china/20140904/c04campus/</a> (2014年09月06日 09:36)
  ---
