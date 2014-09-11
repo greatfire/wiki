@@ -63,8 +63,6 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-RT @idzhang3: 路透社报道，中国中央人民政府驻香港特别行政区联络办公室主任张晓明在回答北京是否允许由民主人士担任特首时依法指出，“让你活着就足以显示国家的宽容”。中联办依法未回复媒体置评请求<a href="http://www.reuters.com/article/2014/09/11/us-china-hongkong-insight-idUSKBN0H600120140911" target="_BLANK">www.reuters.com/article/2014/09/11/us-china-hongkong-insight-idUSKBN0H600120140911</a> <a href="http://t.co/Axe" target="_BLANK">t.co/Axe</a>… (2014年09月11日 21:13)
- ---
 China Using Man-In-The-Middle Attack Against Google <a href="https://www.techdirt.com/articles/20140909/03424628458/china-using-man-in-the-middle-attack-against-google.shtml" target="_BLANK">www.techdirt.com/articles/20140909/03424628458/china-using-man-in-the-middle-attack-against-google.shtml</a> via @Techdirt (2014年09月11日 20:59)
  ---
 RT @niubi: "9月10日，2014夏季达沃斯论坛在天津举行。对于Facebook即将进入中国的传言，国家互联网信息办公室主任鲁炜严肃地对记者表示：不可以。" <a href="http://m.ctjin.com/?host=www.ctjin.com&src=http%3A%2F%2Fwww.ctjin.com%2Fziben%2Fchanjing%2Fhangye%2F2014-09-11%2F42529.html" target="_BLANK">m.ctjin.com/</a> from report  Lu Wei nixed Facebo… (2014年09月11日 19:01)
@@ -102,4 +100,6 @@ RT @cnlong1988: 本人汪龙起诉中国联通“封锁Google第一案”的民�
 Want to use non-Chinese search engine in China? U r running out of options. Really only Bing left, and they censor <a href="https://en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally" target="_BLANK">en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> (2014年09月07日 01:13)
  ---
 .@duckduckgo @StartPageSearch both blocked Sep 3 in China - likely b/c of secure nature of search as they don't have huge market share (2014年09月07日 01:07)
+ ---
+教育网用户能测试下Google现在还是被中间人攻击么？ (2014年09月06日 14:11)
  ---
