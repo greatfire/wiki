@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Lu Wei: the internet must have brakes <a href="http://cmp.hku.hk/2014/09/11/36011/" target="_BLANK">cmp.hku.hk/2014/09/11/36011/</a> via @cmphku h/t @niubi  cause u don't wanna slam your car into a great firewall (2014年09月11日 18:59)
+ ---
 How Chinese regime uses web censorship to strengthen the state <a href="http://www.theguardian.com/commentisfree/2014/sep/10/chinese-regime-web-censorship-state-china?CMP=twt_gu" target="_BLANK">www.theguardian.com/commentisfree/2014/sep/10/chinese-regime-web-censorship-state-china</a> not really true - vitriol here <a href="https://freeweibo.com/weibo/%E6%B1%9F%E6%B3%BD%E6%B0%91?censored" target="_BLANK">freeweibo.com/weibo/江泽民</a> (2014年09月11日 11:49)
  ---
 RT @taniabranigan: Beijing official to HK democrats: “That you're allowed to stay alive, already shows country's inclusiveness" - http://t.… (2014年09月11日 11:42)
@@ -100,6 +102,4 @@ Want to use non-Chinese search engine in China? U r running out of options. Real
 深圳男子状告中国联通屏蔽谷歌,中国联通的代表律师一度表示“不知道能不能说”.  <a href="http://www.nanzao.com/sc/china/37269/shen-zhen-nan-zi-zhuang-gao-zhong-guo-lian-tong-ping-bi-gu-ge#0-tsina-1-19971-397232819ff9a47a7b7e80a40613cfe1" target="_BLANK">www.nanzao.com/sc/china/37269/shen-zhen-nan-zi-zhuang-gao-zhong-guo-lian-tong-ping-bi-gu-ge</a> (2014年09月06日 13:38)
  ---
 3大保护隐私的搜索引擎StartPage,ixquick,DuckDuckGo，主打防NSA，均被中国封锁。 中国政府说要保护隐私纯属狗屁！ <a href="https://zh.greatfire.org/https/duckduckgo.com" target="_BLANK">zh.greatfire.org/https/duckduckgo.com</a> (2014年09月06日 09:58)
- ---
-Privacy-oriented search engines, @StartPageSearch, ixquick, @duckduckgo all blocked in China <a href="https://en.greatfire.org/https/duckduckgo.com" target="_BLANK">en.greatfire.org/https/duckduckgo.com</a> <a href="https://en.greatfire.org/https/ixquick.com" target="_BLANK">en.greatfire.org/https/ixquick.com</a> (2014年09月06日 09:55)
  ---
