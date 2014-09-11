@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @taniabranigan: Beijing official to HK democrats: “That you're allowed to stay alive, already shows country's inclusiveness" - http://t.… (2014年09月11日 11:42)
+ ---
 Website blocking ineffective, dangerous in piracy fight: Google <a href="http://www.computerworld.com.au/article/554565/website-blocking-ineffective-dangerous-piracy-fight-google/" target="_BLANK">www.computerworld.com.au/article/554565/website-blocking-ineffective-dangerous-piracy-fight-google/</a> (2014年09月11日 11:31)
  ---
 RT @cynthiamw: I'll be live-tweeting #HRC27 event at 3pm: Impact of mass surveillance on journalists, lawyers, defenders <a href="http://t.co/vE6a6z" target="_BLANK">t.co/vE6a6z</a>… (2014年09月11日 01:12)
@@ -100,6 +102,4 @@ Want to use non-Chinese search engine in China? U r running out of options. Real
 Privacy-oriented search engines, @StartPageSearch, ixquick, @duckduckgo all blocked in China <a href="https://en.greatfire.org/https/duckduckgo.com" target="_BLANK">en.greatfire.org/https/duckduckgo.com</a> <a href="https://en.greatfire.org/https/ixquick.com" target="_BLANK">en.greatfire.org/https/ixquick.com</a> (2014年09月06日 09:55)
  ---
 三高校发文加强校园意识形态管控 <a href="http://cn.nytimes.com/china/20140904/c04campus/" target="_BLANK">cn.nytimes.com/china/20140904/c04campus/</a> (2014年09月06日 09:36)
- ---
-RT @agl__: Self-signed certs seen for Google in China: <a href="https://en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google" target="_BLANK">en.greatfire.org/blog/2014/sep/authorities-launch-man-middle-attack-google</a> <a href="http://www.netresec.com/?page=Blog&month=2014-09&post=Analysis-of-Chinese-MITM-on-Google" target="_BLANK">www.netresec.com/</a>. 1024-bit/MD5/made w/ mkcert.c from O… (2014年09月06日 09:16)
  ---
