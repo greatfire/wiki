@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China Using Man-In-The-Middle Attack Against Google <a href="https://www.techdirt.com/articles/20140909/03424628458/china-using-man-in-the-middle-attack-against-google.shtml" target="_BLANK">www.techdirt.com/articles/20140909/03424628458/china-using-man-in-the-middle-attack-against-google.shtml</a> via @Techdirt (2014年09月11日 20:59)
+ ---
 RT @niubi: "9月10日，2014夏季达沃斯论坛在天津举行。对于Facebook即将进入中国的传言，国家互联网信息办公室主任鲁炜严肃地对记者表示：不可以。" <a href="http://m.ctjin.com/?host=www.ctjin.com&src=http%3A%2F%2Fwww.ctjin.com%2Fziben%2Fchanjing%2Fhangye%2F2014-09-11%2F42529.html" target="_BLANK">m.ctjin.com/</a> from report  Lu Wei nixed Facebo… (2014年09月11日 19:01)
  ---
 Lu Wei: the internet must have brakes <a href="http://cmp.hku.hk/2014/09/11/36011/" target="_BLANK">cmp.hku.hk/2014/09/11/36011/</a> via @cmphku h/t @niubi  cause u don't wanna slam your car into a great firewall (2014年09月11日 18:59)
@@ -100,6 +102,4 @@ Want to use non-Chinese search engine in China? U r running out of options. Real
 .@duckduckgo @StartPageSearch both blocked Sep 3 in China - likely b/c of secure nature of search as they don't have huge market share (2014年09月07日 01:07)
  ---
 教育网用户能测试下Google现在还是被中间人攻击么？ (2014年09月06日 14:11)
- ---
-深圳男子状告中国联通屏蔽谷歌,中国联通的代表律师一度表示“不知道能不能说”.  <a href="http://www.nanzao.com/sc/china/37269/shen-zhen-nan-zi-zhuang-gao-zhong-guo-lian-tong-ping-bi-gu-ge#0-tsina-1-19971-397232819ff9a47a7b7e80a40613cfe1" target="_BLANK">www.nanzao.com/sc/china/37269/shen-zhen-nan-zi-zhuang-gao-zhong-guo-lian-tong-ping-bi-gu-ge</a> (2014年09月06日 13:38)
  ---
