@@ -63,7 +63,7 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-赛风3墙内下载地址 <a href="https://t.co/6a0pb29rhR" target="_BLANK">t.co/6a0pb29rhR</a> (2014年09月12日 11:47)
+赛风3墙内下载地址 <a href="https://a248.e.akamai.net/f/1/1/1/www.psiphon.ca/zh/index.html" target="_BLANK">a248.e.akamai.net/f/1/1/1/www.psiphon.ca/zh/index.html</a> (2014年09月12日 11:47)
  ---
 China Using Man-In-The-Middle Attack Against Google <a href="https://www.techdirt.com/articles/20140909/03424628458/china-using-man-in-the-middle-attack-against-google.shtml" target="_BLANK">www.techdirt.com/articles/20140909/03424628458/china-using-man-in-the-middle-attack-against-google.shtml</a> via @Techdirt (2014年09月11日 20:59)
  ---
