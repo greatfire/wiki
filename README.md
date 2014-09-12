@@ -65,7 +65,7 @@
 ## 新闻
 China Using Man-In-The-Middle Attack Against Google <a href="https://www.techdirt.com/articles/20140909/03424628458/china-using-man-in-the-middle-attack-against-google.shtml" target="_BLANK">www.techdirt.com/articles/20140909/03424628458/china-using-man-in-the-middle-attack-against-google.shtml</a> via @Techdirt (2014年09月11日 20:59)
  ---
-RT @niubi: "9月10日，2014夏季达沃斯论坛在天津举行。对于Facebook即将进入中国的传言，国家互联网信息办公室主任鲁炜严肃地对记者表示：不可以。" <a href="http://www.ctjin.com/ziben/chanjing/hangye/2014-09-11/42529.html#fromapp" target="_BLANK">www.ctjin.com/ziben/chanjing/hangye/2014-09-11/42529.html</a> from report  Lu Wei nixed Facebo… (2014年09月11日 19:01)
+RT @niubi: "9月10日，2014夏季达沃斯论坛在天津举行。对于Facebook即将进入中国的传言，国家互联网信息办公室主任鲁炜严肃地对记者表示：不可以。" <a href="http://m.ctjin.com/?host=www.ctjin.com&src=http%3A%2F%2Fwww.ctjin.com%2Fziben%2Fchanjing%2Fhangye%2F2014-09-11%2F42529.html" target="_BLANK">m.ctjin.com/</a> from report  Lu Wei nixed Facebo… (2014年09月11日 19:01)
  ---
 Lu Wei: the internet must have brakes <a href="http://cmp.hku.hk/2014/09/11/36011/" target="_BLANK">cmp.hku.hk/2014/09/11/36011/</a> via @cmphku h/t @niubi  cause u don't wanna slam your car into a great firewall (2014年09月11日 18:59)
  ---
