@@ -71,8 +71,6 @@ Lu Wei: the internet must have brakes <a href="http://cmp.hku.hk/2014/09/11/3601
  ---
 How Chinese regime uses web censorship to strengthen the state <a href="http://www.theguardian.com/commentisfree/2014/sep/10/chinese-regime-web-censorship-state-china?CMP=twt_gu" target="_BLANK">www.theguardian.com/commentisfree/2014/sep/10/chinese-regime-web-censorship-state-china</a> not really true - vitriol here <a href="https://freeweibo.com/weibo/%E6%B1%9F%E6%B3%BD%E6%B0%91?censored" target="_BLANK">freeweibo.com/weibo/江泽民</a> (2014年09月11日 11:49)
  ---
-RT @taniabranigan: Beijing official to HK democrats: “That you're allowed to stay alive, already shows country's inclusiveness" - http://t.… (2014年09月11日 11:42)
- ---
 Website blocking ineffective, dangerous in piracy fight: Google <a href="http://www.computerworld.com.au/article/554565/website-blocking-ineffective-dangerous-piracy-fight-google/" target="_BLANK">www.computerworld.com.au/article/554565/website-blocking-ineffective-dangerous-piracy-fight-google/</a> (2014年09月11日 11:31)
  ---
 RT @cynthiamw: I'll be live-tweeting #HRC27 event at 3pm: Impact of mass surveillance on journalists, lawyers, defenders <a href="http://t.co/vE6a6z" target="_BLANK">t.co/vE6a6z</a>… (2014年09月11日 01:12)
@@ -102,4 +100,6 @@ Want to use non-Chinese search engine in China? U r running out of options. Real
 .@duckduckgo @StartPageSearch both blocked Sep 3 in China - likely b/c of secure nature of search as they don't have huge market share (2014年09月07日 01:07)
  ---
 教育网用户能测试下Google现在还是被中间人攻击么？ (2014年09月06日 14:11)
+ ---
+深圳男子状告中国联通屏蔽谷歌,中国联通的代表律师一度表示“不知道能不能说”.  <a href="http://www.nanzao.com/sc/china/37269/shen-zhen-nan-zi-zhuang-gao-zhong-guo-lian-tong-ping-bi-gu-ge#0-tsina-1-19971-397232819ff9a47a7b7e80a40613cfe1" target="_BLANK">www.nanzao.com/sc/china/37269/shen-zhen-nan-zi-zhuang-gao-zhong-guo-lian-tong-ping-bi-gu-ge</a> (2014年09月06日 13:38)
  ---
