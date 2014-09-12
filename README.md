@@ -63,6 +63,11 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @ctsatt: @idzhang3 @GreatFireChina  No, he said  "仍能安然坐在這兒，反映我們的寬大" @Reuters got it wrong. <a href="https://hk.news.yahoo.com/%E6%9C%83%E6%99%A4%E6%B3%9B%E6%B0%91%E4%B8%BB%E5%8B%95%E6%8F%90%E9%BB%8E%E6%8D%90%E6%AC%BE-%E5%BC%B5%E6%9B%89%E6%98%8E%E7%96%91%E6%85%AE%E5%A4%96%E5%9C%8B%E5%8B%A2%E5%8A%9B%E6%93%8D%E6%8E%A7%E6%B8%AF-215910572.html" target="_BLANK">hk.news.yahoo.com/會晤泛民主動提黎捐款-張曉明疑慮外國勢力操控港-215910572.html</a> (2014年09月13日 02:09)
+ ---
+RT @TeaLeafNation: Attention, comrades. There’s a new definition of Chinese patriotism, at least according to some Party authorities.
+http:… (2014年09月13日 02:06)
+ ---
 赛风3墙内下载地址 <a href="https://a248.e.akamai.net/f/1/1/1/www.psiphon.ca/zh/index.html" target="_BLANK">a248.e.akamai.net/f/1/1/1/www.psiphon.ca/zh/index.html</a> (2014年09月12日 11:47)
  ---
 China Using Man-In-The-Middle Attack Against Google <a href="https://www.techdirt.com/articles/20140909/03424628458/china-using-man-in-the-middle-attack-against-google.shtml" target="_BLANK">www.techdirt.com/articles/20140909/03424628458/china-using-man-in-the-middle-attack-against-google.shtml</a> via @Techdirt (2014年09月11日 20:59)
@@ -98,8 +103,4 @@ Man-in-the-middle attack against Google on CERN net in China has been lifted. Th
 RT @cnlong1988: 本人汪龙起诉中国联通“封锁Google第一案”的民事起诉状（节选），详见图片 <a href="https://twitter.com/cnlong1988/status/508191367818801152/photo/1" target="_BLANK">twitter.com/cnlong1988/status/508191367818801152/photo/1</a> (2014年09月07日 02:08)
  ---
 Want to use non-Chinese search engine in China? U r running out of options. Really only Bing left, and they censor <a href="https://en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally" target="_BLANK">en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> (2014年09月07日 01:13)
- ---
-.@duckduckgo @StartPageSearch both blocked Sep 3 in China - likely b/c of secure nature of search as they don't have huge market share (2014年09月07日 01:07)
- ---
-教育网用户能测试下Google现在还是被中间人攻击么？ (2014年09月06日 14:11)
  ---
