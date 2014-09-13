@@ -93,8 +93,6 @@ RT @niubi: "Apple PR Insider: "You have to be able to control the journalist"" <
  ---
 @yegg can you email me about China charlie.smith at <a href="https://zh.greatfire.org/" target="_BLANK">zh.greatfire.org/</a> (2014年09月10日 03:34)
  ---
-RT @Ycnt_ibdonlyjen: Can anyone recommend an alternative search engine?  Was using duckduckgo but China's now blocked that one too (2014年09月09日 21:43)
- ---
 Man-in-the-middle attack against Google on CERN net in China has been lifted. The attack lasted from Aug 28 to Sept 6. (2014年09月07日 15:33)
  ---
 根据报告，教育网对Google的中间人攻击已经取消了。 (2014年09月07日 15:29)
@@ -104,4 +102,6 @@ Man-in-the-middle attack against Google on CERN net in China has been lifted. Th
 最新Google镜像，用不被墙 <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a> (2014年09月07日 04:19)
  ---
 RT @cnlong1988: 本人汪龙起诉中国联通“封锁Google第一案”的民事起诉状（节选），详见图片 <a href="https://twitter.com/cnlong1988/status/508191367818801152/photo/1" target="_BLANK">twitter.com/cnlong1988/status/508191367818801152/photo/1</a> (2014年09月07日 02:08)
+ ---
+Want to use non-Chinese search engine in China? U r running out of options. Really only Bing left, and they censor <a href="https://en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally" target="_BLANK">en.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally</a> (2014年09月07日 01:13)
  ---
