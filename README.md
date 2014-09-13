@@ -46,8 +46,9 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="_BLANK">长期有效 1</a>，            
-                <a href="https://objects.dreamhost.com/paopao/index.html" target="_BLANK">长期有效 2</a>，            
+                <a href="https://edgecastcdn.net/00107ED/paopao/" target="_BLANK">长期有效 1</a>，            
+                <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="_BLANK">长期有效 2</a>，            
+                <a href="https://objects.dreamhost.com/paopao/index.html" target="_BLANK">长期有效 3</a>，            
                 <a href="https://paopao2.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
