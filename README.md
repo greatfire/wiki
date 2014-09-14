@@ -81,7 +81,7 @@ RT @niubi: "9月10日，2014夏季达沃斯论坛在天津举行。对于Faceboo
  ---
 Lu Wei: the internet must have brakes <a href="http://cmp.hku.hk/2014/09/11/36011/" target="_BLANK">cmp.hku.hk/2014/09/11/36011/</a> via @cmphku h/t @niubi  cause u don't wanna slam your car into a great firewall (2014年09月11日 18:59)
  ---
-How Chinese regime uses web censorship to strengthen the state <a href="http://www.theguardian.com/commentisfree/2014/sep/10/chinese-regime-web-censorship-state-china" target="_BLANK">www.theguardian.com/commentisfree/2014/sep/10/chinese-regime-web-censorship-state-china</a> not really true - vitriol here <a href="https://freeweibo.com/weibo/%E6%B1%9F%E6%B3%BD%E6%B0%91?censored" target="_BLANK">freeweibo.com/weibo/江泽民</a> (2014年09月11日 11:49)
+How Chinese regime uses web censorship to strengthen the state <a href="http://www.theguardian.com/commentisfree/2014/sep/10/chinese-regime-web-censorship-state-china?CMP=twt_gu" target="_BLANK">www.theguardian.com/commentisfree/2014/sep/10/chinese-regime-web-censorship-state-china</a> not really true - vitriol here <a href="https://freeweibo.com/weibo/%E6%B1%9F%E6%B3%BD%E6%B0%91?censored" target="_BLANK">freeweibo.com/weibo/江泽民</a> (2014年09月11日 11:49)
  ---
 Website blocking ineffective, dangerous in piracy fight: Google <a href="http://www.computerworld.com.au/article/554565/website-blocking-ineffective-dangerous-piracy-fight-google/" target="_BLANK">www.computerworld.com.au/article/554565/website-blocking-ineffective-dangerous-piracy-fight-google/</a> (2014年09月11日 11:31)
  ---
