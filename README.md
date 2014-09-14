@@ -20,7 +20,7 @@
             <td>            
                 <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="_BLANK">长期有效 1</a>，            
                 <a href="https://objects.dreamhost.com/cdt/index.html" target="_BLANK">长期有效 2</a>，            
-                <a href="https://770b3.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
+                <a href="https://1ff2d.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
                 <a href="https://d29jekp4emy41a.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
         </tr>    
@@ -87,7 +87,7 @@ Website blocking ineffective, dangerous in piracy fight: Google <a href="http://
  ---
 RT @cynthiamw: I'll be live-tweeting #HRC27 event at 3pm: Impact of mass surveillance on journalists, lawyers, defenders <a href="http://t.co/vE6a6z" target="_BLANK">t.co/vE6a6z</a>… (2014年09月11日 01:12)
  ---
-RT @XHNews: DPRK says to ban WiFi use for all foreigners, violators will be harshly fined <a href="http://xhne.ws/38jhF" target="_BLANK">xhne.ws/38jhF</a> <a href="https://twitter.com/XHNews/status/509638719826300928/photo/1" target="_BLANK">twitter.com/XHNews/status/509638719826300928/photo/1</a> (2014年09月10日 20:40)
+RT @XHNews: DPRK says to ban WiFi use for all foreigners, violators will be harshly fined <a href="http://news.xinhuanet.com/english/world/2014-09/10/c_133633435.htm" target="_BLANK">news.xinhuanet.com/english/world/2014-09/10/c_133633435.htm</a> <a href="https://twitter.com/XHNews/status/509638719826300928/photo/1" target="_BLANK">twitter.com/XHNews/status/509638719826300928/photo/1</a> (2014年09月10日 20:40)
  ---
 RT @niubi: "Apple PR Insider: "You have to be able to control the journalist"" <a href="http://valleywag.gawker.com/apple-pr-insider-you-have-to-be-able-to-control-the-j-1632448305" target="_BLANK">valleywag.gawker.com/apple-pr-insider-you-have-to-be-able-to-control-the-j-1632448305</a> (2014年09月10日 12:08)
  ---
