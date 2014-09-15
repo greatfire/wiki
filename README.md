@@ -64,6 +64,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+新学期无法使用Google怎么办？ 访问 -SinaApp.co 即可使用Google (2014年09月15日 08:38)
+ ---
 RT @idzhang3: 暨张晓明声明之后，路透社也发表声明依法重申，报道引用为张氏原话，被参与8月19日会晤的两个独立信源所分别证实；同时确信翻译无误<a href="http://uk.reuters.com/article/2014/09/13/uk-china-hongkong-zhang-idUKKBN0H808320140913" target="_BLANK">uk.reuters.com/article/2014/09/13/uk-china-hongkong-zhang-idUKKBN0H808320140913</a> <a href="https://twitter.com/idzhang3/status/510814827443679232/photo/1" target="_BLANK">twitter.com/idzhang3/status/510814827443679232/photo/1</a> (2014年09月14日 12:05)
  ---
 RT @limlouisa: 99pc of China corrs say the reporting environment has worsened. China now 175 out of 180 on world press freedom index http:/… (2014年09月13日 02:24)
@@ -102,6 +104,4 @@ Man-in-the-middle attack against Google on CERN net in China has been lifted. Th
 3个注重隐私的搜索引擎已被GFW封锁。现在再公布3个。 <a href="https://privatelee.com/" target="_BLANK">privatelee.com/</a> <a href="https://qrobe.it/" target="_BLANK">qrobe.it/</a> <a href="https://www.qwant.com/single" target="_BLANK">www.qwant.com/single</a> 目前墙内可以访问。 (2014年09月07日 05:39)
  ---
 最新Google镜像，用不被墙 <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a> (2014年09月07日 04:19)
- ---
-RT @cnlong1988: 本人汪龙起诉中国联通“封锁Google第一案”的民事起诉状（节选），详见图片 <a href="https://twitter.com/cnlong1988/status/508191367818801152/photo/1" target="_BLANK">twitter.com/cnlong1988/status/508191367818801152/photo/1</a> (2014年09月07日 02:08)
  ---
