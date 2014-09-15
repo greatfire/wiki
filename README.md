@@ -64,6 +64,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @phuslu: 很奇怪，每天都会观测到 google 瞬时 “部分解封” 的现象，大约在 21:00 ～22:00 之前出现一次，期间 goagent 的 good_ipaddrs 急剧上升到 100+  然后回到正常水平(10~20)。推测 ISP 级别的 GFW 在… (2014年09月15日 11:37)
+ ---
 @sy88459122 这个是<a href="https://zh.greatfire.org/" target="_BLANK">zh.greatfire.org/</a>的官方镜像，保证安全。 可以在<a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> 核实。 (2014年09月15日 11:25)
  ---
 新学期无法使用Google怎么办？ 访问 -SinaApp.co 即可使用Google (2014年09月15日 08:38)
@@ -102,6 +104,4 @@ RT @niubi: "Apple PR Insider: "You have to be able to control the journalist"" <
 Man-in-the-middle attack against Google on CERN net in China has been lifted. The attack lasted from Aug 28 to Sept 6. (2014年09月07日 15:33)
  ---
 根据报告，教育网对Google的中间人攻击已经取消了。 (2014年09月07日 15:29)
- ---
-3个注重隐私的搜索引擎已被GFW封锁。现在再公布3个。 <a href="https://privatelee.com/" target="_BLANK">privatelee.com/</a> <a href="https://qrobe.it/" target="_BLANK">qrobe.it/</a> <a href="https://www.qwant.com/single" target="_BLANK">www.qwant.com/single</a> 目前墙内可以访问。 (2014年09月07日 05:39)
  ---
