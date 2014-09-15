@@ -99,7 +99,7 @@ RT @XHNews: DPRK says to ban WiFi use for all foreigners, violators will be hars
  ---
 RT @niubi: "Apple PR Insider: "You have to be able to control the journalist"" <a href="http://valleywag.gawker.com/apple-pr-insider-you-have-to-be-able-to-control-the-j-1632448305" target="_BLANK">valleywag.gawker.com/apple-pr-insider-you-have-to-be-able-to-control-the-j-1632448305</a> (2014年09月10日 12:08)
  ---
-@givoltage @Ycnt_ibdonlyjen Please use our mirror Google site <a href="https://t.co/5rRZa9aMAk" target="_BLANK">t.co/5rRZa9aMAk</a> (2014年09月10日 11:52)
+@givoltage @Ycnt_ibdonlyjen Please use our mirror Google site <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a> (2014年09月10日 11:52)
  ---
 @yegg can you email me about China charlie.smith at <a href="https://zh.greatfire.org/" target="_BLANK">zh.greatfire.org/</a> (2014年09月10日 03:34)
  ---
