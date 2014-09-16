@@ -64,6 +64,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@mwenyuan @songma Apple备份据说是加密储存的。 Akamai是国外的CDN，Akamai是一个国外的CDN。 (2014年09月16日 12:53)
+ ---
+@mwenyuan @songma 国外公司谁敢把用户数据放在中国CDN上？（加密后储存的除外） (2014年09月16日 12:50)
+ ---
 RT @songma: 另外一点可以确定的是，云计算由于其数据托管方式和网络连通性，再加上GFW因素，注定国内的云计算厂商只能服务于国内用户，但国内用户可以挑选全球的云供应商。国内厂商的竞争地位在起点就远远落后于全球厂商。也许是国内互联网该为“GFW红利”付出代价的时候到了？ (2014年09月16日 11:49)
  ---
 RT @LibertyCN: goagent 3.1.24-2 最新版加入App负载平衡、自动轮替功能，可完美播放1080P视频。建议部署2-3个App即可，切忌贪婪。 (2014年09月16日 10:05)
@@ -100,8 +104,4 @@ Website blocking ineffective, dangerous in piracy fight: Google <a href="http://
 RT @cynthiamw: I'll be live-tweeting #HRC27 event at 3pm: Impact of mass surveillance on journalists, lawyers, defenders <a href="http://t.co/vE6a6z" target="_BLANK">t.co/vE6a6z</a>… (2014年09月11日 01:12)
  ---
 RT @XHNews: DPRK says to ban WiFi use for all foreigners, violators will be harshly fined <a href="http://news.xinhuanet.com/english/world/2014-09/10/c_133633435.htm" target="_BLANK">news.xinhuanet.com/english/world/2014-09/10/c_133633435.htm</a> <a href="https://twitter.com/XHNews/status/509638719826300928/photo/1" target="_BLANK">twitter.com/XHNews/status/509638719826300928/photo/1</a> (2014年09月10日 20:40)
- ---
-RT @niubi: "Apple PR Insider: "You have to be able to control the journalist"" <a href="http://valleywag.gawker.com/apple-pr-insider-you-have-to-be-able-to-control-the-j-1632448305" target="_BLANK">valleywag.gawker.com/apple-pr-insider-you-have-to-be-able-to-control-the-j-1632448305</a> (2014年09月10日 12:08)
- ---
-@givoltage @Ycnt_ibdonlyjen Please use our mirror Google site <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a> (2014年09月10日 11:52)
  ---
