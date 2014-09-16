@@ -64,6 +64,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @astroehlein: CNN runs as-seen-in-China mini-screen to show censorship of story re crackdown on Christians <a href="http://edition.cnn.com/video/data/2.0/video/bestoftv/2014/09/16/ac-china-blacks-out-cnn-during-report-on-christian-crackdown.cnn.html" target="_BLANK">edition.cnn.com/video/data/2.0/video/bestoftv/2014/09/16/ac-china-blacks-out-cnn-during-report-on-christian-crackdown.cnn.html</a> http:/… (2014年09月16日 22:16)
+ ---
 @mwenyuan @songma Apple备份据说是加密储存的。 Akamai是国外的CDN，Akamai是一个国外的CDN。 (2014年09月16日 12:53)
  ---
 @mwenyuan @songma 国外公司谁敢把用户数据放在中国CDN上？（加密后储存的除外） (2014年09月16日 12:50)
@@ -102,6 +104,4 @@ How Chinese regime uses web censorship to strengthen the state <a href="http://w
 Website blocking ineffective, dangerous in piracy fight: Google <a href="http://www.computerworld.com.au/article/554565/website-blocking-ineffective-dangerous-piracy-fight-google/" target="_BLANK">www.computerworld.com.au/article/554565/website-blocking-ineffective-dangerous-piracy-fight-google/</a> (2014年09月11日 11:31)
  ---
 RT @cynthiamw: I'll be live-tweeting #HRC27 event at 3pm: Impact of mass surveillance on journalists, lawyers, defenders <a href="http://t.co/vE6a6z" target="_BLANK">t.co/vE6a6z</a>… (2014年09月11日 01:12)
- ---
-RT @XHNews: DPRK says to ban WiFi use for all foreigners, violators will be harshly fined <a href="http://news.xinhuanet.com/english/world/2014-09/10/c_133633435.htm" target="_BLANK">news.xinhuanet.com/english/world/2014-09/10/c_133633435.htm</a> <a href="https://twitter.com/XHNews/status/509638719826300928/photo/1" target="_BLANK">twitter.com/XHNews/status/509638719826300928/photo/1</a> (2014年09月10日 20:40)
  ---
