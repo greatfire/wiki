@@ -64,6 +64,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @hancocktom: To block view to court where Ilham Tohti is on trial today, officials hastily erected Xinjiang promotional panels http://t.… (2014年09月17日 17:07)
+ ---
+RT @hu_jia: 已经进入中仓派出所办案区。等待市局国保们出现。据说这次的传唤理由竟然还是涉嫌“殴打他人”。不是一般的荒唐可笑。 <a href="https://twitter.com/hu_jia/status/512153525971738625/photo/1" target="_BLANK">twitter.com/hu_jia/status/512153525971738625/photo/1</a> (2014年09月17日 17:05)
+ ---
 Tibetans in India Protest Chinese President’s Visit <a href="http://blogs.wsj.com/indiarealtime/2014/09/17/tibetans-in-india-protest-chinese-presidents-visit/" target="_BLANK">blogs.wsj.com/indiarealtime/2014/09/17/tibetans-in-india-protest-chinese-presidents-visit/</a> via @chinarealtime (2014年09月17日 17:04)
  ---
 Chinese activists following 五毛 and taking the fight to Twitter <a href="http://www.foreignpolicy.com/articles/2014/09/16/chinas_social_media_underground_twitter" target="_BLANK">www.foreignpolicy.com/articles/2014/09/16/chinas_social_media_underground_twitter</a> (2014年09月17日 15:56)
@@ -100,8 +104,4 @@ RT @ctsatt: @idzhang3 @GreatFireChina  No, he said  "仍能安然坐在這兒，
  ---
 RT @TeaLeafNation: Attention, comrades. There’s a new definition of Chinese patriotism, at least according to some Party authorities.
 http:… (2014年09月13日 02:06)
- ---
-赛风3墙内下载地址 <a href="https://a248.e.akamai.net/f/1/1/1/www.psiphon.ca/zh/index.html" target="_BLANK">a248.e.akamai.net/f/1/1/1/www.psiphon.ca/zh/index.html</a> (2014年09月12日 11:47)
- ---
-China Using Man-In-The-Middle Attack Against Google <a href="https://www.techdirt.com/articles/20140909/03424628458/china-using-man-in-the-middle-attack-against-google.shtml" target="_BLANK">www.techdirt.com/articles/20140909/03424628458/china-using-man-in-the-middle-attack-against-google.shtml</a> via @Techdirt (2014年09月11日 20:59)
  ---
