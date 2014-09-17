@@ -64,6 +64,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @wong_jim: Beware of a spy app claiming to be an official app for OccupyCentral and Code4HK. Both orgs have nothing to do w/ it http://t… (2014年09月17日 17:27)
+ ---
 RT @hancocktom: To block view to court where Ilham Tohti is on trial today, officials hastily erected Xinjiang promotional panels http://t.… (2014年09月17日 17:07)
  ---
 RT @hu_jia: 已经进入中仓派出所办案区。等待市局国保们出现。据说这次的传唤理由竟然还是涉嫌“殴打他人”。不是一般的荒唐可笑。 <a href="https://twitter.com/hu_jia/status/512153525971738625/photo/1" target="_BLANK">twitter.com/hu_jia/status/512153525971738625/photo/1</a> (2014年09月17日 17:05)
@@ -101,7 +103,4 @@ RT @idzhang3: 暨张晓明声明之后，路透社也发表声明依法重申，
 RT @limlouisa: 99pc of China corrs say the reporting environment has worsened. China now 175 out of 180 on world press freedom index http:/… (2014年09月13日 02:24)
  ---
 RT @ctsatt: @idzhang3 @GreatFireChina  No, he said  "仍能安然坐在這兒，反映我們的寬大" @Reuters got it wrong. <a href="https://hk.news.yahoo.com/%E6%9C%83%E6%99%A4%E6%B3%9B%E6%B0%91%E4%B8%BB%E5%8B%95%E6%8F%90%E9%BB%8E%E6%8D%90%E6%AC%BE-%E5%BC%B5%E6%9B%89%E6%98%8E%E7%96%91%E6%85%AE%E5%A4%96%E5%9C%8B%E5%8B%A2%E5%8A%9B%E6%93%8D%E6%8E%A7%E6%B8%AF-215910572.html" target="_BLANK">hk.news.yahoo.com/會晤泛民主動提黎捐款-張曉明疑慮外國勢力操控港-215910572.html</a> (2014年09月13日 02:09)
- ---
-RT @TeaLeafNation: Attention, comrades. There’s a new definition of Chinese patriotism, at least according to some Party authorities.
-http:… (2014年09月13日 02:06)
  ---
