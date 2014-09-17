@@ -64,6 +64,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+泡泡网Android新版发布！ <a href="https://play.google.com/store/apps/details?id=org.greatfire.paopao" target="_BLANK">play.google.com/store/apps/details</a> (2014年09月17日 12:44)
+ ---
 Chinese in Canada protesting school strike believe that democracy means majority wins, majority rules: <a href="http://www.scmp.com/news/world/article/1593861/chinese-parents-clash-striking-canadian-teachers" target="_BLANK">www.scmp.com/news/world/article/1593861/chinese-parents-clash-striking-canadian-teachers</a> (2014年09月16日 23:23)
  ---
 RT @astroehlein: CNN runs as-seen-in-China mini-screen to show censorship of story re crackdown on Christians <a href="http://edition.cnn.com/video/data/2.0/video/bestoftv/2014/09/16/ac-china-blacks-out-cnn-during-report-on-christian-crackdown.cnn.html" target="_BLANK">edition.cnn.com/video/data/2.0/video/bestoftv/2014/09/16/ac-china-blacks-out-cnn-during-report-on-christian-crackdown.cnn.html</a> http:/… (2014年09月16日 22:16)
@@ -102,6 +104,4 @@ RT @niubi: "9月10日，2014夏季达沃斯论坛在天津举行。对于Faceboo
 Lu Wei: the internet must have brakes <a href="http://cmp.hku.hk/2014/09/11/36011/" target="_BLANK">cmp.hku.hk/2014/09/11/36011/</a> via @cmphku h/t @niubi  cause u don't wanna slam your car into a great firewall (2014年09月11日 18:59)
  ---
 How Chinese regime uses web censorship to strengthen the state <a href="http://www.theguardian.com/commentisfree/2014/sep/10/chinese-regime-web-censorship-state-china?CMP=twt_gu" target="_BLANK">www.theguardian.com/commentisfree/2014/sep/10/chinese-regime-web-censorship-state-china</a> not really true - vitriol here <a href="https://freeweibo.com/weibo/%E6%B1%9F%E6%B3%BD%E6%B0%91?censored" target="_BLANK">freeweibo.com/weibo/江泽民</a> (2014年09月11日 11:49)
- ---
-Website blocking ineffective, dangerous in piracy fight: Google <a href="http://www.computerworld.com.au/article/554565/website-blocking-ineffective-dangerous-piracy-fight-google/" target="_BLANK">www.computerworld.com.au/article/554565/website-blocking-ineffective-dangerous-piracy-fight-google/</a> (2014年09月11日 11:31)
  ---
