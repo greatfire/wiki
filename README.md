@@ -64,6 +64,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Chinese activists following 五毛 and taking the fight to Twitter <a href="http://www.foreignpolicy.com/articles/2014/09/16/chinas_social_media_underground_twitter" target="_BLANK">www.foreignpolicy.com/articles/2014/09/16/chinas_social_media_underground_twitter</a> (2014年09月17日 15:56)
+ ---
 Not a Letterman list - China's top 10 social problems <a href="http://blogs.wsj.com/chinarealtime/2014/09/16/chinas-top-10-social-problems-no-faith-in-the-state-selfishness/?mod=WSJBlog" target="_BLANK">blogs.wsj.com/chinarealtime/2014/09/16/chinas-top-10-social-problems-no-faith-in-the-state-selfishness/</a> over-reliance on internet #9 (2014年09月17日 15:47)
  ---
 泡泡网Android新版发布！ <a href="https://play.google.com/store/apps/details?id=org.greatfire.paopao" target="_BLANK">play.google.com/store/apps/details</a> (2014年09月17日 12:44)
@@ -102,6 +104,4 @@ http:… (2014年09月13日 02:06)
 China Using Man-In-The-Middle Attack Against Google <a href="https://www.techdirt.com/articles/20140909/03424628458/china-using-man-in-the-middle-attack-against-google.shtml" target="_BLANK">www.techdirt.com/articles/20140909/03424628458/china-using-man-in-the-middle-attack-against-google.shtml</a> via @Techdirt (2014年09月11日 20:59)
  ---
 RT @niubi: "9月10日，2014夏季达沃斯论坛在天津举行。对于Facebook即将进入中国的传言，国家互联网信息办公室主任鲁炜严肃地对记者表示：不可以。" <a href="http://m.ctjin.com/?host=www.ctjin.com&src=http%3A%2F%2Fwww.ctjin.com%2Fziben%2Fchanjing%2Fhangye%2F2014-09-11%2F42529.html" target="_BLANK">m.ctjin.com/</a> from report  Lu Wei nixed Facebo… (2014年09月11日 19:01)
- ---
-Lu Wei: the internet must have brakes <a href="http://cmp.hku.hk/2014/09/11/36011/" target="_BLANK">cmp.hku.hk/2014/09/11/36011/</a> via @cmphku h/t @niubi  cause u don't wanna slam your car into a great firewall (2014年09月11日 18:59)
  ---
