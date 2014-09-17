@@ -76,7 +76,7 @@ RT @songma: 另外一点可以确定的是，云计算由于其数据托管方�
  ---
 RT @LibertyCN: goagent 3.1.24-2 最新版加入App负载平衡、自动轮替功能，可完美播放1080P视频。建议部署2-3个App即可，切忌贪婪。 (2014年09月16日 10:05)
  ---
-RT @nytchinese: 八成受访外国驻华记者认为，今年中国新闻报道环境将恶化或不变，三分之二曾遇骚扰或肢体暴力。部分“中秘”和实习生，还被官方逼迫当卧底。By @AndrewJacobsNYT <a href="http://t.co/ePrFlRNF9X" target="_BLANK">t.co/ePrFlRNF9X</a> (2014年09月15日 23:39)
+RT @nytchinese: 八成受访外国驻华记者认为，今年中国新闻报道环境将恶化或不变，三分之二曾遇骚扰或肢体暴力。部分“中秘”和实习生，还被官方逼迫当卧底。By @AndrewJacobsNYT <a href="http://cn.nytimes.com/china/20140915/c15journalists/" target="_BLANK">cn.nytimes.com/china/20140915/c15journalists/</a> (2014年09月15日 23:39)
  ---
 RT @phuslu: 很奇怪，每天都会观测到 google 瞬时 “部分解封” 的现象，大约在 21:00 ～22:00 之前出现一次，期间 goagent 的 good_ipaddrs 急剧上升到 100+  然后回到正常水平(10~20)。推测 ISP 级别的 GFW 在… (2014年09月15日 11:37)
  ---
