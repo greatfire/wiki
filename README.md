@@ -64,6 +64,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Fortune 500 and human rights defenders now face same probs in China. Biz! Start speaking up! <a href="http://m.theglobeandmail.com/globe-debate/in-china-big-companies-are-learning-the-business-of-human-rights/article20639865/?service=mobile&utm_source=twitter.com&utm_medium=Referrer:+Social+Network+/+Media&utm_campaign=Shared+Web+Article+Links" target="_BLANK">m.theglobeandmail.com/globe-debate/in-china-big-companies-are-learning-the-business-of-human-rights/article20639865/</a> via @SophieHRW (2014年09月18日 18:10)
+ ---
 @paulmozur a pretty easy job I imagine. You just answer the phone and say "how high do you want me to jump today?" (2014年09月18日 17:09)
  ---
 中国官方罕见回应江泽民去世传闻 中国外交部发言人华春莹在回答记者提问时表示，“第一次听到有关消息，无法证实”。 <a href="http://www.bbc.co.uk/zhongwen/simp/china/2014/09/140908_cn_jiangzemin.shtml" target="_BLANK">www.bbc.co.uk/zhongwen/simp/china/2014/09/140908_cn_jiangzemin.shtml</a> (2014年09月18日 07:24)
@@ -101,6 +103,4 @@ RT @nytchinese: 八成受访外国驻华记者认为，今年中国新闻报道�
 RT @phuslu: 很奇怪，每天都会观测到 google 瞬时 “部分解封” 的现象，大约在 21:00 ～22:00 之前出现一次，期间 goagent 的 good_ipaddrs 急剧上升到 100+  然后回到正常水平(10~20)。推测 ISP 级别的 GFW 在… (2014年09月15日 11:37)
  ---
 @sy88459122 这个是<a href="https://zh.greatfire.org/" target="_BLANK">zh.greatfire.org/</a>的官方镜像，保证安全。 可以在<a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> 核实。 (2014年09月15日 11:25)
- ---
-新学期无法使用Google怎么办？ 访问 -SinaApp.co 即可使用Google (2014年09月15日 08:38)
  ---
