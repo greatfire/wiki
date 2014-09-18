@@ -64,6 +64,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@paulmozur a pretty easy job I imagine. You just answer the phone and say "how high do you want me to jump today?" (2014年09月18日 17:09)
+ ---
 中国官方罕见回应江泽民去世传闻 中国外交部发言人华春莹在回答记者提问时表示，“第一次听到有关消息，无法证实”。 <a href="http://www.bbc.co.uk/zhongwen/simp/china/2014/09/140908_cn_jiangzemin.shtml" target="_BLANK">www.bbc.co.uk/zhongwen/simp/china/2014/09/140908_cn_jiangzemin.shtml</a> (2014年09月18日 07:24)
  ---
 RT @Slate: Germany has asked Google to reveal its search algorithm, but it shouldn't hold its breath: <a href="http://www.slate.com/blogs/business_insider/2014/09/16/germany_asks_google_to_reveal_its_search_algorithm_but_that_won_t_happen.html?wpsrc=fol_tw" target="_BLANK">www.slate.com/blogs/business_insider/2014/09/16/germany_asks_google_to_reveal_its_search_algorithm_but_that_won_t_happen.html</a> <a href="http://t.co/p5" target="_BLANK">t.co/p5</a>… (2014年09月17日 19:50)
@@ -101,6 +103,4 @@ RT @phuslu: 很奇怪，每天都会观测到 google 瞬时 “部分解封” �
 @sy88459122 这个是<a href="https://zh.greatfire.org/" target="_BLANK">zh.greatfire.org/</a>的官方镜像，保证安全。 可以在<a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> 核实。 (2014年09月15日 11:25)
  ---
 新学期无法使用Google怎么办？ 访问 -SinaApp.co 即可使用Google (2014年09月15日 08:38)
- ---
-RT @idzhang3: 暨张晓明声明之后，路透社也发表声明依法重申，报道引用为张氏原话，被参与8月19日会晤的两个独立信源所分别证实；同时确信翻译无误<a href="http://uk.reuters.com/article/2014/09/13/uk-china-hongkong-zhang-idUKKBN0H808320140913" target="_BLANK">uk.reuters.com/article/2014/09/13/uk-china-hongkong-zhang-idUKKBN0H808320140913</a> <a href="https://twitter.com/idzhang3/status/510814827443679232/photo/1" target="_BLANK">twitter.com/idzhang3/status/510814827443679232/photo/1</a> (2014年09月14日 12:05)
  ---
