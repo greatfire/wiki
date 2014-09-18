@@ -64,6 +64,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+.@tim_cook any plan on including app takedown requests from governments in your transparency report? <a href="https://www.apple.com/privacy/government-information-requests/" target="_BLANK">www.apple.com/privacy/government-information-requests/</a> (2014年09月18日 20:45)
+ ---
 Pros and Cons of China’s New Operating System | Ministry of Harmony: <a href="http://www.miniharm.com/2014/09/18/pros-and-cons-of-chinas-new-operating-system/" target="_BLANK">www.miniharm.com/2014/09/18/pros-and-cons-of-chinas-new-operating-system/</a> Doesn’t have Minesweeper. (2014年09月18日 19:25)
  ---
 'Bring back my YouTube' - online censorship in Pakistan <a href="http://www.dawn.com/news/1132530" target="_BLANK">www.dawn.com/news/1132530</a> (2014年09月18日 18:51)
@@ -101,6 +103,4 @@ RT @astroehlein: CNN runs as-seen-in-China mini-screen to show censorship of sto
 @mwenyuan @songma 国外公司谁敢把用户数据放在中国CDN上？（加密后储存的除外） (2014年09月16日 12:50)
  ---
 RT @songma: 另外一点可以确定的是，云计算由于其数据托管方式和网络连通性，再加上GFW因素，注定国内的云计算厂商只能服务于国内用户，但国内用户可以挑选全球的云供应商。国内厂商的竞争地位在起点就远远落后于全球厂商。也许是国内互联网该为“GFW红利”付出代价的时候到了？ (2014年09月16日 11:49)
- ---
-RT @LibertyCN: goagent 3.1.24-2 最新版加入App负载平衡、自动轮替功能，可完美播放1080P视频。建议部署2-3个App即可，切忌贪婪。 (2014年09月16日 10:05)
  ---
