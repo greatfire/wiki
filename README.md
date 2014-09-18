@@ -64,6 +64,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+'Bring back my YouTube' - online censorship in Pakistan <a href="http://www.dawn.com/news/1132530" target="_BLANK">www.dawn.com/news/1132530</a> (2014年09月18日 18:51)
+ ---
 never say never "Never worked w/any govt agency to create backdoors/never allowed access to our servers/never will." <a href="https://www.apple.com/privacy/" target="_BLANK">www.apple.com/privacy/</a> (2014年09月18日 18:17)
  ---
 Fortune 500 and human rights defenders now face same probs in China. Biz! Start speaking up! <a href="http://m.theglobeandmail.com/globe-debate/in-china-big-companies-are-learning-the-business-of-human-rights/article20639865/?service=mobile&utm_source=twitter.com&utm_medium=Referrer:+Social+Network+/+Media&utm_campaign=Shared+Web+Article+Links" target="_BLANK">m.theglobeandmail.com/globe-debate/in-china-big-companies-are-learning-the-business-of-human-rights/article20639865/</a> via @SophieHRW (2014年09月18日 18:10)
@@ -101,6 +103,4 @@ RT @songma: 另外一点可以确定的是，云计算由于其数据托管方�
 RT @LibertyCN: goagent 3.1.24-2 最新版加入App负载平衡、自动轮替功能，可完美播放1080P视频。建议部署2-3个App即可，切忌贪婪。 (2014年09月16日 10:05)
  ---
 RT @nytchinese: 八成受访外国驻华记者认为，今年中国新闻报道环境将恶化或不变，三分之二曾遇骚扰或肢体暴力。部分“中秘”和实习生，还被官方逼迫当卧底。By @AndrewJacobsNYT <a href="http://cn.nytimes.com/china/20140915/c15journalists/" target="_BLANK">cn.nytimes.com/china/20140915/c15journalists/</a> (2014年09月15日 23:39)
- ---
-RT @phuslu: 很奇怪，每天都会观测到 google 瞬时 “部分解封” 的现象，大约在 21:00 ～22:00 之前出现一次，期间 goagent 的 good_ipaddrs 急剧上升到 100+  然后回到正常水平(10~20)。推测 ISP 级别的 GFW 在… (2014年09月15日 11:37)
  ---
