@@ -64,6 +64,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+我们估计iPhone6在中国没上市是因为iMessage提供的音功能政府没法监视。此外，国行iPhone一直没有FaceTime音频也是因为没法监听。 <a href="https://www.apple.com/cn/privacy/privacy-built-in/" target="_BLANK">www.apple.com/cn/privacy/privacy-built-in/</a> (2014年09月19日 12:07)
+ ---
 We speculate China doesn't allow iPhone 6 to be sold because gov cannot spy on voice iMessage. FaceTime Audio is not available in China. (2014年09月19日 11:59)
  ---
 RT @oiax: 今天中国用户访问 Google 搜索占全球流量的比例达到了近几个月的最高值，难怪大家奔走相告说是 GFW 解封了 Google，这只是假象，网络封锁随专政而存在，不要抱有幻想，不要放弃抗争。<a href="http://www.google.com/transparencyreport/traffic/explorer/?r=CN&l=WEBSEARCH&csd=1409182361379&ced=1411047000000" target="_BLANK">www.google.com/transparencyreport/traffic/explorer/</a> http://t.co… (2014年09月19日 11:18)
@@ -102,6 +104,4 @@ RT @hu_jia: 已经进入中仓派出所办案区。等待市局国保们出现�
 Tibetans in India Protest Chinese President’s Visit <a href="http://blogs.wsj.com/indiarealtime/2014/09/17/tibetans-in-india-protest-chinese-presidents-visit/" target="_BLANK">blogs.wsj.com/indiarealtime/2014/09/17/tibetans-in-india-protest-chinese-presidents-visit/</a> via @chinarealtime (2014年09月17日 17:04)
  ---
 Chinese activists following 五毛 and taking the fight to Twitter <a href="http://www.foreignpolicy.com/articles/2014/09/16/chinas_social_media_underground_twitter" target="_BLANK">www.foreignpolicy.com/articles/2014/09/16/chinas_social_media_underground_twitter</a> (2014年09月17日 15:56)
- ---
-Not a Letterman list - China's top 10 social problems <a href="http://blogs.wsj.com/chinarealtime/2014/09/16/chinas-top-10-social-problems-no-faith-in-the-state-selfishness/?mod=WSJBlog" target="_BLANK">blogs.wsj.com/chinarealtime/2014/09/16/chinas-top-10-social-problems-no-faith-in-the-state-selfishness/</a> over-reliance on internet #9 (2014年09月17日 15:47)
  ---
