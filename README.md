@@ -96,7 +96,7 @@ Apple－我们保护用户隐私的承诺，
  ---
 .@tim_cook any plan on including app takedown requests from governments in your transparency report? <a href="https://www.apple.com/privacy/government-information-requests/" target="_BLANK">www.apple.com/privacy/government-information-requests/</a> (2014年09月18日 20:45)
  ---
-Pros and Cons of China’s New Operating System | Ministry of Harmony: <a href="http://t.co/vk1VKWTj1b" target="_BLANK">t.co/vk1VKWTj1b</a> Doesn’t have Minesweeper. (2014年09月18日 19:25)
+Pros and Cons of China’s New Operating System | Ministry of Harmony: <a href="http://www.miniharm.com/2014/09/18/pros-and-cons-of-chinas-new-operating-system/" target="_BLANK">www.miniharm.com/2014/09/18/pros-and-cons-of-chinas-new-operating-system/</a> Doesn’t have Minesweeper. (2014年09月18日 19:25)
  ---
 'Bring back my YouTube' - online censorship in Pakistan <a href="http://www.dawn.com/news/1132530" target="_BLANK">www.dawn.com/news/1132530</a> (2014年09月18日 18:51)
  ---
