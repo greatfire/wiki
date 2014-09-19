@@ -64,6 +64,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @oiax: 今天中国用户访问 Google 搜索占全球流量的比例达到了近几个月的最高值，难怪大家奔走相告说是 GFW 解封了 Google，这只是假象，网络封锁随专政而存在，不要抱有幻想，不要放弃抗争。<a href="http://www.google.com/transparencyreport/traffic/explorer/?r=CN&l=WEBSEARCH&csd=1409182361379&ced=1411047000000" target="_BLANK">www.google.com/transparencyreport/traffic/explorer/</a> http://t.co… (2014年09月19日 11:18)
+ ---
 RT @StarKnight: 一边是苏格兰人民排队投票连夜开票的新闻，一边是中国人民苹果店门口彻夜排队买买买的现场报道，恍惚之间忽然产生了说不定什么时候能看到中国人热情高涨地排队投票行使公民权利场景的错觉。 (2014年09月19日 11:10)
  ---
 Apple’s “warrant canary” disappears, suggesting new Patriot Act demands <a href="https://gigaom.com/2014/09/18/apples-warrant-canary-disappears-suggesting-new-patriot-act-demands/" target="_BLANK">gigaom.com/2014/09/18/apples-warrant-canary-disappears-suggesting-new-patriot-act-demands/</a> (2014年09月19日 10:23)
@@ -102,6 +104,4 @@ Chinese activists following 五毛 and taking the fight to Twitter <a href="http
 Not a Letterman list - China's top 10 social problems <a href="http://blogs.wsj.com/chinarealtime/2014/09/16/chinas-top-10-social-problems-no-faith-in-the-state-selfishness/?mod=WSJBlog" target="_BLANK">blogs.wsj.com/chinarealtime/2014/09/16/chinas-top-10-social-problems-no-faith-in-the-state-selfishness/</a> over-reliance on internet #9 (2014年09月17日 15:47)
  ---
 泡泡网Android新版发布！ <a href="https://play.google.com/store/apps/details?id=org.greatfire.paopao" target="_BLANK">play.google.com/store/apps/details</a> (2014年09月17日 12:44)
- ---
-Chinese in Canada protesting school strike believe that democracy means majority wins, majority rules: <a href="http://www.scmp.com/news/world/article/1593861/chinese-parents-clash-striking-canadian-teachers" target="_BLANK">www.scmp.com/news/world/article/1593861/chinese-parents-clash-striking-canadian-teachers</a> (2014年09月16日 23:23)
  ---
