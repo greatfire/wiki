@@ -64,6 +64,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paulmozur: What does hosting data in China involve? Apple hiring a head of law enforcement in China to deal with data requests: http://… (2014年09月19日 08:28)
+ ---
 Apple－我们保护用户隐私的承诺，
 不会因来自政府的信息请求而动摇。 <a href="https://www.apple.com/cn/privacy/government-information-requests/" target="_BLANK">www.apple.com/cn/privacy/government-information-requests/</a> 所以说iPhone6不让卖么 (2014年09月19日 00:28)
  ---
@@ -102,6 +104,4 @@ Chinese in Canada protesting school strike believe that democracy means majority
 RT @astroehlein: CNN runs as-seen-in-China mini-screen to show censorship of story re crackdown on Christians <a href="http://edition.cnn.com/video/data/2.0/video/bestoftv/2014/09/16/ac-china-blacks-out-cnn-during-report-on-christian-crackdown.cnn.html" target="_BLANK">edition.cnn.com/video/data/2.0/video/bestoftv/2014/09/16/ac-china-blacks-out-cnn-during-report-on-christian-crackdown.cnn.html</a> http:/… (2014年09月16日 22:16)
  ---
 @mwenyuan @songma Apple备份据说是加密储存的。 Akamai是国外的CDN，Akamai是一个国外的CDN。 (2014年09月16日 12:53)
- ---
-@mwenyuan @songma 国外公司谁敢把用户数据放在中国CDN上？（加密后储存的除外） (2014年09月16日 12:50)
  ---
