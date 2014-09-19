@@ -64,6 +64,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @jilliancyork: "If there is one thing cats hate, it’s water. If there’s two things cats hate, it’s water and Internet censorship.” http:… (2014年09月19日 15:41)
+ ---
 人民网刊登的“中国驻冰岛大使疑因间谍罪被捕”被全网删除。 微博上却没有审查 <a href="https://freeweibo.com/weibo/%E5%86%B0%E5%B2%9B%E5%A4%A7%E4%BD%BF" target="_BLANK">freeweibo.com/weibo/冰岛大使</a> (2014年09月19日 13:40)
  ---
 我们估计iPhone6在中国没上市是因为iMessage提供的音功能政府没法监视。此外，国行iPhone一直没有FaceTime音频也是因为没法监听。 <a href="https://www.apple.com/cn/privacy/privacy-built-in/" target="_BLANK">www.apple.com/cn/privacy/privacy-built-in/</a> (2014年09月19日 12:07)
@@ -102,6 +104,4 @@ RT @wong_jim: Beware of a spy app claiming to be an official app for OccupyCentr
 RT @hancocktom: To block view to court where Ilham Tohti is on trial today, officials hastily erected Xinjiang promotional panels http://t.… (2014年09月17日 17:07)
  ---
 RT @hu_jia: 已经进入中仓派出所办案区。等待市局国保们出现。据说这次的传唤理由竟然还是涉嫌“殴打他人”。不是一般的荒唐可笑。 <a href="https://twitter.com/hu_jia/status/512153525971738625/photo/1" target="_BLANK">twitter.com/hu_jia/status/512153525971738625/photo/1</a> (2014年09月17日 17:05)
- ---
-Tibetans in India Protest Chinese President’s Visit <a href="http://blogs.wsj.com/indiarealtime/2014/09/17/tibetans-in-india-protest-chinese-presidents-visit/" target="_BLANK">blogs.wsj.com/indiarealtime/2014/09/17/tibetans-in-india-protest-chinese-presidents-visit/</a> via @chinarealtime (2014年09月17日 17:04)
  ---
