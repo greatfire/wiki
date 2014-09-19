@@ -64,6 +64,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @niubi: Cognitive dissonance: China Internet in prolonged,harshest crackdown in years,maybe ever. While alibaba going out as maybe bigge… (2014年09月19日 17:59)
+ ---
+RT @niubi: Proving to many that 1: China's approach to Internet governance a huge success and 2: investors don't care about censorship, and… (2014年09月19日 17:59)
+ ---
 RT @roanmartigan: GSK kowtowing to every wish of the Chinese government, including apologising to Vivian Shi. Shame. (2014年09月19日 17:14)
  ---
 RT @PressTV: Activists hang a banner against #Apple outside an Apple store in Hong Kong on September 19, 2014.
@@ -101,8 +105,4 @@ never say never "Never worked w/any govt agency to create backdoors/never allowe
 Fortune 500 and human rights defenders now face same probs in China. Biz! Start speaking up! <a href="http://m.theglobeandmail.com/globe-debate/in-china-big-companies-are-learning-the-business-of-human-rights/article20639865/?service=mobile&utm_source=twitter.com&utm_medium=Referrer:+Social+Network+/+Media&utm_campaign=Shared+Web+Article+Links" target="_BLANK">m.theglobeandmail.com/globe-debate/in-china-big-companies-are-learning-the-business-of-human-rights/article20639865/</a> via @SophieHRW (2014年09月18日 18:10)
  ---
 @paulmozur a pretty easy job I imagine. You just answer the phone and say "how high do you want me to jump today?" (2014年09月18日 17:09)
- ---
-中国官方罕见回应江泽民去世传闻 中国外交部发言人华春莹在回答记者提问时表示，“第一次听到有关消息，无法证实”。 <a href="http://www.bbc.co.uk/zhongwen/simp/china/2014/09/140908_cn_jiangzemin.shtml" target="_BLANK">www.bbc.co.uk/zhongwen/simp/china/2014/09/140908_cn_jiangzemin.shtml</a> (2014年09月18日 07:24)
- ---
-RT @Slate: Germany has asked Google to reveal its search algorithm, but it shouldn't hold its breath: <a href="http://www.slate.com/blogs/business_insider/2014/09/16/germany_asks_google_to_reveal_its_search_algorithm_but_that_won_t_happen.html?wpsrc=fol_tw" target="_BLANK">www.slate.com/blogs/business_insider/2014/09/16/germany_asks_google_to_reveal_its_search_algorithm_but_that_won_t_happen.html</a> <a href="http://t.co/p5" target="_BLANK">t.co/p5</a>… (2014年09月17日 19:50)
  ---
