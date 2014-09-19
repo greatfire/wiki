@@ -64,6 +64,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @RTKcn: 21+ RT @degewa: 转刘晓原律师：上图：是伊力哈木以前在民族大学讲课照片；下图：是新疆卫视播放的庭审照片 <a href="https://twitter.com/degewa/status/512777455002599424/photo/1" target="_BLANK">twitter.com/degewa/status/512777455002599424/photo/1</a> (2014年09月20日 06:57)
+ ---
 RT @niubi: Cognitive dissonance: China Internet in prolonged,harshest crackdown in years,maybe ever. While alibaba going out as maybe bigge… (2014年09月19日 17:59)
  ---
 RT @niubi: Proving to many that 1: China's approach to Internet governance a huge success and 2: investors don't care about censorship, and… (2014年09月19日 17:59)
@@ -103,6 +105,4 @@ Pros and Cons of China’s New Operating System | Ministry of Harmony: <a href="
 never say never "Never worked w/any govt agency to create backdoors/never allowed access to our servers/never will." <a href="https://www.apple.com/privacy/" target="_BLANK">www.apple.com/privacy/</a> (2014年09月18日 18:17)
  ---
 Fortune 500 and human rights defenders now face same probs in China. Biz! Start speaking up! <a href="http://m.theglobeandmail.com/globe-debate/in-china-big-companies-are-learning-the-business-of-human-rights/article20639865/?service=mobile&utm_source=twitter.com&utm_medium=Referrer:+Social+Network+/+Media&utm_campaign=Shared+Web+Article+Links" target="_BLANK">m.theglobeandmail.com/globe-debate/in-china-big-companies-are-learning-the-business-of-human-rights/article20639865/</a> via @SophieHRW (2014年09月18日 18:10)
- ---
-@paulmozur a pretty easy job I imagine. You just answer the phone and say "how high do you want me to jump today?" (2014年09月18日 17:09)
  ---
