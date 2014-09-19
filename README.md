@@ -64,6 +64,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Your iOS 8 Data is Not Beyond Law Enforcement’s Reach… Yet. | Jonathan Zdziarski's Domain <a href="http://www.zdziarski.com/blog/?p=3875" target="_BLANK">www.zdziarski.com/blog/</a> (2014年09月19日 16:06)
+ ---
 RT @jilliancyork: "If there is one thing cats hate, it’s water. If there’s two things cats hate, it’s water and Internet censorship.” http:… (2014年09月19日 15:41)
  ---
 人民网刊登的“中国驻冰岛大使疑因间谍罪被捕”被全网删除。 微博上却没有审查 <a href="https://freeweibo.com/weibo/%E5%86%B0%E5%B2%9B%E5%A4%A7%E4%BD%BF" target="_BLANK">freeweibo.com/weibo/冰岛大使</a> (2014年09月19日 13:40)
@@ -102,6 +104,4 @@ RT @Slate: Germany has asked Google to reveal its search algorithm, but it shoul
 RT @wong_jim: Beware of a spy app claiming to be an official app for OccupyCentral and Code4HK. Both orgs have nothing to do w/ it http://t… (2014年09月17日 17:27)
  ---
 RT @hancocktom: To block view to court where Ilham Tohti is on trial today, officials hastily erected Xinjiang promotional panels http://t.… (2014年09月17日 17:07)
- ---
-RT @hu_jia: 已经进入中仓派出所办案区。等待市局国保们出现。据说这次的传唤理由竟然还是涉嫌“殴打他人”。不是一般的荒唐可笑。 <a href="https://twitter.com/hu_jia/status/512153525971738625/photo/1" target="_BLANK">twitter.com/hu_jia/status/512153525971738625/photo/1</a> (2014年09月17日 17:05)
  ---
