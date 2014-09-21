@@ -64,6 +64,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @phuslu: goagent 3.2 测试版已经发布，这下应该解决绝大部分卡顿问题了。 goagent 3.2 测试版下载 <a href="https://nodeload.github.com/goagent/goagent/legacy.zip/3.0-test" target="_BLANK">nodeload.github.com/goagent/goagent/legacy.zip/3.0-test</a> (2014年09月21日 13:25)
+ ---
 @baka251 若失效，可以访问 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> 获取新网址。欢迎转发到墙内 (2014年09月20日 10:41)
  ---
 RT @RTKcn: 21+ RT @degewa: 转刘晓原律师：上图：是伊力哈木以前在民族大学讲课照片；下图：是新疆卫视播放的庭审照片 <a href="https://twitter.com/degewa/status/512777455002599424/photo/1" target="_BLANK">twitter.com/degewa/status/512777455002599424/photo/1</a> (2014年09月20日 06:57)
@@ -103,6 +105,4 @@ Apple－我们保护用户隐私的承诺，
 Pros and Cons of China’s New Operating System | Ministry of Harmony: <a href="http://www.miniharm.com/2014/09/18/pros-and-cons-of-chinas-new-operating-system/" target="_BLANK">www.miniharm.com/2014/09/18/pros-and-cons-of-chinas-new-operating-system/</a> Doesn’t have Minesweeper. (2014年09月18日 19:25)
  ---
 'Bring back my YouTube' - online censorship in Pakistan <a href="http://www.dawn.com/news/1132530" target="_BLANK">www.dawn.com/news/1132530</a> (2014年09月18日 18:51)
- ---
-never say never "Never worked w/any govt agency to create backdoors/never allowed access to our servers/never will." <a href="https://www.apple.com/privacy/" target="_BLANK">www.apple.com/privacy/</a> (2014年09月18日 18:17)
  ---
