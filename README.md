@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Blockades and IPOs: China’s Great Firewall gives its companies an advantage over Western counterparts <a href="http://pando.com/2014/09/22/blockades-and-ipos-chinas-great-firewall-gives-its-companies-an-advantage-over-western-counterparts/" target="_BLANK">pando.com/2014/09/22/blockades-and-ipos-chinas-great-firewall-gives-its-companies-an-advantage-over-western-counterparts/</a> (2014年09月23日 04:03)
+ ---
 RT @ioerror: On the topic of human rights and Cisco: <a href="https://www.eff.org/deeplinks/2014/09/court-lets-cisco-systems-hook-helping-china-detain-torture-religious-minorities" target="_BLANK">www.eff.org/deeplinks/2014/09/court-lets-cisco-systems-hook-helping-china-detain-torture-religious-minorities</a> Cisco and IBM have a lot in common: <a href="http://www.ibmandtheholocaust.com/" target="_BLANK">www.ibmandtheholocaust.com/</a> (2014年09月23日 01:43)
  ---
 Vid Shows Chinese Mafia Infiltrating iPhone 6 Lines <a href="http://digg.com/video/the-iphone-6-lines-and-the-chinese-mafia" target="_BLANK">digg.com/video/the-iphone-6-lines-and-the-chinese-mafia</a> "how can this be good marketing for Apple?" 纽约警察觉得中国人太臭了 (2014年09月22日 22:25)
@@ -103,6 +105,4 @@ RT @oiax: 今天中国用户访问 Google 搜索占全球流量的比例达到�
 RT @StarKnight: 一边是苏格兰人民排队投票连夜开票的新闻，一边是中国人民苹果店门口彻夜排队买买买的现场报道，恍惚之间忽然产生了说不定什么时候能看到中国人热情高涨地排队投票行使公民权利场景的错觉。 (2014年09月19日 11:10)
  ---
 Apple’s “warrant canary” disappears, suggesting new Patriot Act demands <a href="https://gigaom.com/2014/09/18/apples-warrant-canary-disappears-suggesting-new-patriot-act-demands/" target="_BLANK">gigaom.com/2014/09/18/apples-warrant-canary-disappears-suggesting-new-patriot-act-demands/</a> (2014年09月19日 10:23)
- ---
-RT @paulmozur: What does hosting data in China involve? Apple hiring a head of law enforcement in China to deal with data requests: http://… (2014年09月19日 08:28)
  ---
