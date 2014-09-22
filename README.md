@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paulmozur: Our look at how China's recent complete block of Google services is hitting business and academics:  <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F22%2Fbusiness%2Finternational%2Fchina-clamps-down-on-web-pinching-companies-like-google.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年09月22日 18:09)
+ ---
 RT @phuslu: goagent 3.2 测试版已经发布，这下应该解决绝大部分卡顿问题了。 goagent 3.2 测试版下载 <a href="https://nodeload.github.com/goagent/goagent/legacy.zip/3.0-test" target="_BLANK">nodeload.github.com/goagent/goagent/legacy.zip/3.0-test</a> (2014年09月21日 13:25)
  ---
 @baka251 若失效，可以访问 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> 获取新网址。欢迎转发到墙内 (2014年09月20日 10:41)
@@ -104,6 +106,4 @@ Apple－我们保护用户隐私的承诺，
 .@tim_cook any plan on including app takedown requests from governments in your transparency report? <a href="https://www.apple.com/privacy/government-information-requests/" target="_BLANK">www.apple.com/privacy/government-information-requests/</a> (2014年09月18日 20:45)
  ---
 Pros and Cons of China’s New Operating System | Ministry of Harmony: <a href="http://www.miniharm.com/2014/09/18/pros-and-cons-of-chinas-new-operating-system/" target="_BLANK">www.miniharm.com/2014/09/18/pros-and-cons-of-chinas-new-operating-system/</a> Doesn’t have Minesweeper. (2014年09月18日 19:25)
- ---
-'Bring back my YouTube' - online censorship in Pakistan <a href="http://www.dawn.com/news/1132530" target="_BLANK">www.dawn.com/news/1132530</a> (2014年09月18日 18:51)
  ---
