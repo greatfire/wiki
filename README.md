@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+中国政府禁止iPhone6在中国上市是行不通的，水货连FaceTime音频也不阉割，看你怎么监听。 壮哉我中国黄牛 <a href="https://www.youtube.com/watch?v=Ef_BznBwktw#t=255" target="_BLANK">www.youtube.com/watch</a> (2014年09月24日 03:39)
+ ---
 @SirSteven We broke the news on @duckduckgo being blocked weeks ago, with startpage. <a href="https://twitter.com/GreatFireChina/status/508070967080263682" target="_BLANK">twitter.com/GreatFireChina/status/508070967080263682</a> (2014年09月24日 02:37)
  ---
 RT @Helene_FR: Ilham Tohti before the verdict:"请你转告我的家人、我的民族，不管什么样的判决都不要要有仇恨。” No matter the verdict, don't feel hatred #IlhamTohti (2014年09月23日 17:29)
@@ -103,6 +105,4 @@ RT @jilliancyork: "If there is one thing cats hate, it’s water. If there’s t
 人民网刊登的“中国驻冰岛大使疑因间谍罪被捕”被全网删除。 微博上却没有审查 <a href="https://freeweibo.com/weibo/%E5%86%B0%E5%B2%9B%E5%A4%A7%E4%BD%BF" target="_BLANK">freeweibo.com/weibo/冰岛大使</a> (2014年09月19日 13:40)
  ---
 我们估计iPhone6在中国没上市是因为iMessage提供的音功能政府没法监视。此外，国行iPhone一直没有FaceTime音频也是因为没法监听。 <a href="https://www.apple.com/cn/privacy/privacy-built-in/" target="_BLANK">www.apple.com/cn/privacy/privacy-built-in/</a> (2014年09月19日 12:07)
- ---
-We speculate China doesn't allow iPhone 6 to be sold because gov cannot spy on voice iMessage. FaceTime Audio is not available in China. (2014年09月19日 11:59)
  ---
