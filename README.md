@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+看看封锁谷歌带来的经济影响吧 <a href="http://cn.nytimes.com/business/20140923/c23google/" target="_BLANK">cn.nytimes.com/business/20140923/c23google/</a> (2014年09月23日 14:37)
+ ---
 Blockades and IPOs: China’s Great Firewall gives its companies an advantage over Western counterparts <a href="http://pando.com/2014/09/22/blockades-and-ipos-chinas-great-firewall-gives-its-companies-an-advantage-over-western-counterparts/" target="_BLANK">pando.com/2014/09/22/blockades-and-ipos-chinas-great-firewall-gives-its-companies-an-advantage-over-western-counterparts/</a> (2014年09月23日 04:03)
  ---
 RT @ioerror: On the topic of human rights and Cisco: <a href="https://www.eff.org/deeplinks/2014/09/court-lets-cisco-systems-hook-helping-china-detain-torture-religious-minorities" target="_BLANK">www.eff.org/deeplinks/2014/09/court-lets-cisco-systems-hook-helping-china-detain-torture-religious-minorities</a> Cisco and IBM have a lot in common: <a href="http://www.ibmandtheholocaust.com/" target="_BLANK">www.ibmandtheholocaust.com/</a> (2014年09月23日 01:43)
@@ -103,6 +105,4 @@ We speculate China doesn't allow iPhone 6 to be sold because gov cannot spy on v
 RT @oiax: 今天中国用户访问 Google 搜索占全球流量的比例达到了近几个月的最高值，难怪大家奔走相告说是 GFW 解封了 Google，这只是假象，网络封锁随专政而存在，不要抱有幻想，不要放弃抗争。<a href="http://www.google.com/transparencyreport/traffic/explorer/?r=CN&l=WEBSEARCH&csd=1409182361379&ced=1411047000000" target="_BLANK">www.google.com/transparencyreport/traffic/explorer/</a> http://t.co… (2014年09月19日 11:18)
  ---
 RT @StarKnight: 一边是苏格兰人民排队投票连夜开票的新闻，一边是中国人民苹果店门口彻夜排队买买买的现场报道，恍惚之间忽然产生了说不定什么时候能看到中国人热情高涨地排队投票行使公民权利场景的错觉。 (2014年09月19日 11:10)
- ---
-Apple’s “warrant canary” disappears, suggesting new Patriot Act demands <a href="https://gigaom.com/2014/09/18/apples-warrant-canary-disappears-suggesting-new-patriot-act-demands/" target="_BLANK">gigaom.com/2014/09/18/apples-warrant-canary-disappears-suggesting-new-patriot-act-demands/</a> (2014年09月19日 10:23)
  ---
