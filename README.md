@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @Helene_FR: Ilham Tohti before the verdict:"请你转告我的家人、我的民族，不管什么样的判决都不要要有仇恨。” No matter the verdict, don't feel hatred #IlhamTohti (2014年09月23日 17:29)
+ ---
 看看封锁谷歌带来的经济影响吧 <a href="http://cn.nytimes.com/business/20140923/c23google/" target="_BLANK">cn.nytimes.com/business/20140923/c23google/</a> (2014年09月23日 14:37)
  ---
 Blockades and IPOs: China’s Great Firewall gives its companies an advantage over Western counterparts <a href="http://pando.com/2014/09/22/blockades-and-ipos-chinas-great-firewall-gives-its-companies-an-advantage-over-western-counterparts/" target="_BLANK">pando.com/2014/09/22/blockades-and-ipos-chinas-great-firewall-gives-its-companies-an-advantage-over-western-counterparts/</a> (2014年09月23日 04:03)
@@ -103,6 +105,4 @@ RT @jilliancyork: "If there is one thing cats hate, it’s water. If there’s t
 We speculate China doesn't allow iPhone 6 to be sold because gov cannot spy on voice iMessage. FaceTime Audio is not available in China. (2014年09月19日 11:59)
  ---
 RT @oiax: 今天中国用户访问 Google 搜索占全球流量的比例达到了近几个月的最高值，难怪大家奔走相告说是 GFW 解封了 Google，这只是假象，网络封锁随专政而存在，不要抱有幻想，不要放弃抗争。<a href="http://www.google.com/transparencyreport/traffic/explorer/?r=CN&l=WEBSEARCH&csd=1409182361379&ced=1411047000000" target="_BLANK">www.google.com/transparencyreport/traffic/explorer/</a> http://t.co… (2014年09月19日 11:18)
- ---
-RT @StarKnight: 一边是苏格兰人民排队投票连夜开票的新闻，一边是中国人民苹果店门口彻夜排队买买买的现场报道，恍惚之间忽然产生了说不定什么时候能看到中国人热情高涨地排队投票行使公民权利场景的错觉。 (2014年09月19日 11:10)
  ---
