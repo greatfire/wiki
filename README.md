@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @nytchinese: 乌鲁木齐中院周二宣布，原中央民族大学教师伊力哈木·土赫提因分裂国家罪被判处无期徒刑。此判决为近年中国政府对异见分子所作最严厉判罚，伊力哈木表示不服。<a href="http://cn.nytimes.com/china/20140923/cc23trial/" target="_BLANK">cn.nytimes.com/china/20140923/cc23trial/</a> (2014年09月24日 07:29)
+ ---
 工信部官方微博开通，网民评论全是要求解封Google和给iPhone6发入网证。 <a href="https://freeweibo.com/weibo/3757973563793728" target="_BLANK">freeweibo.com/weibo/3757973563793728</a> (2014年09月24日 04:04)
  ---
 中国政府禁止iPhone6在中国上市是行不通的，水货连FaceTime音频也不阉割，看你怎么监听。 壮哉我中国黄牛 <a href="https://www.youtube.com/watch?v=Ef_BznBwktw#t=255" target="_BLANK">www.youtube.com/watch</a> (2014年09月24日 03:39)
@@ -103,6 +105,4 @@ RT @PressTV: Activists hang a banner against #Apple outside an Apple store in Ho
 Your iOS 8 Data is Not Beyond Law Enforcement’s Reach… Yet. | Jonathan Zdziarski's Domain <a href="http://www.zdziarski.com/blog/?p=3875" target="_BLANK">www.zdziarski.com/blog/</a> (2014年09月19日 16:06)
  ---
 RT @jilliancyork: "If there is one thing cats hate, it’s water. If there’s two things cats hate, it’s water and Internet censorship.” http:… (2014年09月19日 15:41)
- ---
-人民网刊登的“中国驻冰岛大使疑因间谍罪被捕”被全网删除。 微博上却没有审查 <a href="https://freeweibo.com/weibo/%E5%86%B0%E5%B2%9B%E5%A4%A7%E4%BD%BF" target="_BLANK">freeweibo.com/weibo/冰岛大使</a> (2014年09月19日 13:40)
  ---
