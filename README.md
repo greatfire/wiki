@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@SirSteven We broke the news on @duckduckgo being blocked weeks ago, with startpage. <a href="https://twitter.com/GreatFireChina/status/508070967080263682" target="_BLANK">twitter.com/GreatFireChina/status/508070967080263682</a> (2014年09月24日 02:37)
+ ---
 RT @Helene_FR: Ilham Tohti before the verdict:"请你转告我的家人、我的民族，不管什么样的判决都不要要有仇恨。” No matter the verdict, don't feel hatred #IlhamTohti (2014年09月23日 17:29)
  ---
 看看封锁谷歌带来的经济影响吧 <a href="http://cn.nytimes.com/business/20140923/c23google/" target="_BLANK">cn.nytimes.com/business/20140923/c23google/</a> (2014年09月23日 14:37)
@@ -103,6 +105,4 @@ RT @jilliancyork: "If there is one thing cats hate, it’s water. If there’s t
 我们估计iPhone6在中国没上市是因为iMessage提供的音功能政府没法监视。此外，国行iPhone一直没有FaceTime音频也是因为没法监听。 <a href="https://www.apple.com/cn/privacy/privacy-built-in/" target="_BLANK">www.apple.com/cn/privacy/privacy-built-in/</a> (2014年09月19日 12:07)
  ---
 We speculate China doesn't allow iPhone 6 to be sold because gov cannot spy on voice iMessage. FaceTime Audio is not available in China. (2014年09月19日 11:59)
- ---
-RT @oiax: 今天中国用户访问 Google 搜索占全球流量的比例达到了近几个月的最高值，难怪大家奔走相告说是 GFW 解封了 Google，这只是假象，网络封锁随专政而存在，不要抱有幻想，不要放弃抗争。<a href="http://www.google.com/transparencyreport/traffic/explorer/?r=CN&l=WEBSEARCH&csd=1409182361379&ced=1411047000000" target="_BLANK">www.google.com/transparencyreport/traffic/explorer/</a> http://t.co… (2014年09月19日 11:18)
  ---
