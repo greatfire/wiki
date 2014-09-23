@@ -94,7 +94,7 @@ RT @roanmartigan: GSK kowtowing to every wish of the Chinese government, includi
 RT @PressTV: Activists hang a banner against #Apple outside an Apple store in Hong Kong on September 19, 2014.
 #hongkong <a href="http://t.co/6xTsYV" target="_BLANK">t.co/6xTsYV</a>… (2014年09月19日 17:10)
  ---
-Your iOS 8 Data is Not Beyond Law Enforcement’s Reach… Yet. | Jonathan Zdziarski's Domain <a href="http://www.zdziarski.com/blog/?p=3875" target="_BLANK">www.zdziarski.com/blog/</a> (2014年09月19日 16:06)
+Your iOS 8 Data is Not Beyond Law Enforcement’s Reach… Yet. | Jonathan Zdziarski's Domain <a href="http://flip.it/pKqv3" target="_BLANK">flip.it/pKqv3</a> (2014年09月19日 16:06)
  ---
 RT @jilliancyork: "If there is one thing cats hate, it’s water. If there’s two things cats hate, it’s water and Internet censorship.” http:… (2014年09月19日 15:41)
  ---
