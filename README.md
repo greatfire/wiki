@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Who is the biggest loser in the LinkedIn China censorship story? Perhaps the Chinese authorities. Our post: <a href="https://en.greatfire.org/blog/2014/sep/linkedin-debacle-may-come-back-haunt-chinese-authorities" target="_BLANK">en.greatfire.org/blog/2014/sep/linkedin-debacle-may-come-back-haunt-chinese-authorities</a> (2014年09月24日 16:57)
+ ---
 @freetibetorg I can't seem to access the dossier here: <a href="http://freetibet.org/news-media/na/www.freetibet.org/sites/default/files/YouTubedossierSeptember2014.pdf" target="_BLANK">freetibet.org/news-media/na/www.freetibet.org/sites/default/files/YouTubedossierSeptember2014.pdf</a> very interested in seeing that (2014年09月24日 16:25)
  ---
 RT @freetibetorg: After fake Twitter accounts, China is using fake YouTube accounts for propaganda. Is anybody fooled? <a href="http://t.co/tPkowXWB" target="_BLANK">t.co/tPkowXWB</a>… (2014年09月24日 16:24)
@@ -102,6 +104,4 @@ RT @paulmozur: Our look at how China's recent complete block of Google services 
 RT @phuslu: goagent 3.2 测试版已经发布，这下应该解决绝大部分卡顿问题了。 goagent 3.2 测试版下载 <a href="https://nodeload.github.com/goagent/goagent/legacy.zip/3.0-test" target="_BLANK">nodeload.github.com/goagent/goagent/legacy.zip/3.0-test</a> (2014年09月21日 13:25)
  ---
 @baka251 若失效，可以访问 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> 获取新网址。欢迎转发到墙内 (2014年09月20日 10:41)
- ---
-RT @RTKcn: 21+ RT @degewa: 转刘晓原律师：上图：是伊力哈木以前在民族大学讲课照片；下图：是新疆卫视播放的庭审照片 <a href="https://twitter.com/degewa/status/512777455002599424/photo/1" target="_BLANK">twitter.com/degewa/status/512777455002599424/photo/1</a> (2014年09月20日 06:57)
  ---
