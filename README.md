@@ -65,6 +65,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@freetibetorg I can't seem to access the dossier here: <a href="http://freetibet.org/news-media/na/www.freetibet.org/sites/default/files/YouTubedossierSeptember2014.pdf" target="_BLANK">freetibet.org/news-media/na/www.freetibet.org/sites/default/files/YouTubedossierSeptember2014.pdf</a> very interested in seeing that (2014年09月24日 16:25)
+ ---
+RT @freetibetorg: After fake Twitter accounts, China is using fake YouTube accounts for propaganda. Is anybody fooled? <a href="http://t.co/tPkowXWB" target="_BLANK">t.co/tPkowXWB</a>… (2014年09月24日 16:24)
+ ---
 RT @niubi: "More Tightening of Internet Restrictions by China | LAWFARE" <a href="http://www.lawfareblog.com/2014/09/more-tightening-of-internet-restrictions-by-china/" target="_BLANK">www.lawfareblog.com/2014/09/more-tightening-of-internet-restrictions-by-china/</a> (2014年09月24日 16:05)
  ---
 南华早报中文版解封了<a href="https://zh.greatfire.org/www.nanzao.com" target="_BLANK">zh.greatfire.org/www.nanzao.com</a>。 问题是有些文章读起来像新闻联播，比如《习接见港工商专业界访京团：中央对港政策不变》 <a href="http://www.nanzao.com/sc/hk/38528/xi-jie-jian-gang-gong-shang-zhuan-ye-jie-fang-jing-tuan-zhong-yang-dui-gang-zheng-ce-bu" target="_BLANK">www.nanzao.com/sc/hk/38528/xi-jie-jian-gang-gong-shang-zhuan-ye-jie-fang-jing-tuan-zhong-yang-dui-gang-zheng-ce-bu</a> (2014年09月24日 10:32)
@@ -100,8 +104,4 @@ RT @phuslu: goagent 3.2 测试版已经发布，这下应该解决绝大部分�
 @baka251 若失效，可以访问 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> 获取新网址。欢迎转发到墙内 (2014年09月20日 10:41)
  ---
 RT @RTKcn: 21+ RT @degewa: 转刘晓原律师：上图：是伊力哈木以前在民族大学讲课照片；下图：是新疆卫视播放的庭审照片 <a href="https://twitter.com/degewa/status/512777455002599424/photo/1" target="_BLANK">twitter.com/degewa/status/512777455002599424/photo/1</a> (2014年09月20日 06:57)
- ---
-RT @niubi: Cognitive dissonance: China Internet in prolonged,harshest crackdown in years,maybe ever. While alibaba going out as maybe bigge… (2014年09月19日 17:59)
- ---
-RT @niubi: Proving to many that 1: China's approach to Internet governance a huge success and 2: investors don't care about censorship, and… (2014年09月19日 17:59)
  ---
