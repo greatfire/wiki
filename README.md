@@ -89,8 +89,6 @@ Blockades and IPOs: China’s Great Firewall gives its companies an advantage ov
  ---
 RT @ioerror: On the topic of human rights and Cisco: <a href="https://www.eff.org/deeplinks/2014/09/court-lets-cisco-systems-hook-helping-china-detain-torture-religious-minorities" target="_BLANK">www.eff.org/deeplinks/2014/09/court-lets-cisco-systems-hook-helping-china-detain-torture-religious-minorities</a> Cisco and IBM have a lot in common: <a href="http://www.ibmandtheholocaust.com/" target="_BLANK">www.ibmandtheholocaust.com/</a> (2014年09月23日 01:43)
  ---
-Vid Shows Chinese Mafia Infiltrating iPhone 6 Lines <a href="http://digg.com/video/the-iphone-6-lines-and-the-chinese-mafia" target="_BLANK">digg.com/video/the-iphone-6-lines-and-the-chinese-mafia</a> "how can this be good marketing for Apple?" 纽约警察觉得中国人太臭了 (2014年09月22日 22:25)
- ---
 RT @MattSchiavenza: LinkedIN will no longer censor sensitive China content outside China - <a href="http://www.marketplace.org/topics/world/linkedin-changes-policy-banned-content-china" target="_BLANK">www.marketplace.org/topics/world/linkedin-changes-policy-banned-content-china</a> (2014年09月22日 18:15)
  ---
 RT @paulmozur: Our look at how China's recent complete block of Google services is hitting business and academics:  <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F22%2Fbusiness%2Finternational%2Fchina-clamps-down-on-web-pinching-companies-like-google.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年09月22日 18:09)
@@ -104,4 +102,6 @@ RT @RTKcn: 21+ RT @degewa: 转刘晓原律师：上图：是伊力哈木以前�
 RT @niubi: Cognitive dissonance: China Internet in prolonged,harshest crackdown in years,maybe ever. While alibaba going out as maybe bigge… (2014年09月19日 17:59)
  ---
 RT @niubi: Proving to many that 1: China's approach to Internet governance a huge success and 2: investors don't care about censorship, and… (2014年09月19日 17:59)
+ ---
+RT @roanmartigan: GSK kowtowing to every wish of the Chinese government, including apologising to Vivian Shi. Shame. (2014年09月19日 17:14)
  ---
