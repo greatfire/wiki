@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China Has World's Tightest Internet Censorship, Study Finds. <a href="http://www.nytimes.com/2002/12/04/international/asia/04CHIN.html" target="_BLANK">www.nytimes.com/2002/12/04/international/asia/04CHIN.html</a> The 2002 reporting is still eerily accurate. (2014年09月24日 10:27)
+ ---
 SCMP Chinese is unblocked in China <a href="https://en.greatfire.org/nanzao.com" target="_BLANK">en.greatfire.org/nanzao.com</a> Did it plea a deal with the gov? (2014年09月24日 10:18)
  ---
 RT @cosbeta: 用国内云，视频自动净化 <a href="https://twitter.com/cosbeta/status/514049747003256833/photo/1" target="_BLANK">twitter.com/cosbeta/status/514049747003256833/photo/1</a> (2014年09月24日 08:30)
@@ -102,7 +104,4 @@ RT @niubi: Cognitive dissonance: China Internet in prolonged,harshest crackdown 
 RT @niubi: Proving to many that 1: China's approach to Internet governance a huge success and 2: investors don't care about censorship, and… (2014年09月19日 17:59)
  ---
 RT @roanmartigan: GSK kowtowing to every wish of the Chinese government, including apologising to Vivian Shi. Shame. (2014年09月19日 17:14)
- ---
-RT @PressTV: Activists hang a banner against #Apple outside an Apple store in Hong Kong on September 19, 2014.
-#hongkong <a href="http://t.co/6xTsYV" target="_BLANK">t.co/6xTsYV</a>… (2014年09月19日 17:10)
  ---
