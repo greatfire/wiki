@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @niubi: "More Tightening of Internet Restrictions by China | LAWFARE" <a href="http://www.lawfareblog.com/2014/09/more-tightening-of-internet-restrictions-by-china/" target="_BLANK">www.lawfareblog.com/2014/09/more-tightening-of-internet-restrictions-by-china/</a> (2014年09月24日 16:05)
+ ---
 南华早报中文版解封了<a href="https://zh.greatfire.org/www.nanzao.com" target="_BLANK">zh.greatfire.org/www.nanzao.com</a>。 问题是有些文章读起来像新闻联播，比如《习接见港工商专业界访京团：中央对港政策不变》 <a href="http://www.nanzao.com/sc/hk/38528/xi-jie-jian-gang-gong-shang-zhuan-ye-jie-fang-jing-tuan-zhong-yang-dui-gang-zheng-ce-bu" target="_BLANK">www.nanzao.com/sc/hk/38528/xi-jie-jian-gang-gong-shang-zhuan-ye-jie-fang-jing-tuan-zhong-yang-dui-gang-zheng-ce-bu</a> (2014年09月24日 10:32)
  ---
 China Has World's Tightest Internet Censorship, Study Finds. <a href="http://www.nytimes.com/2002/12/04/international/asia/04CHIN.html" target="_BLANK">www.nytimes.com/2002/12/04/international/asia/04CHIN.html</a> The 2002 reporting is still eerily accurate. (2014年09月24日 10:27)
@@ -102,6 +104,4 @@ RT @RTKcn: 21+ RT @degewa: 转刘晓原律师：上图：是伊力哈木以前�
 RT @niubi: Cognitive dissonance: China Internet in prolonged,harshest crackdown in years,maybe ever. While alibaba going out as maybe bigge… (2014年09月19日 17:59)
  ---
 RT @niubi: Proving to many that 1: China's approach to Internet governance a huge success and 2: investors don't care about censorship, and… (2014年09月19日 17:59)
- ---
-RT @roanmartigan: GSK kowtowing to every wish of the Chinese government, including apologising to Vivian Shi. Shame. (2014年09月19日 17:14)
  ---
