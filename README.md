@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+SCMP Chinese is unblocked in China <a href="https://en.greatfire.org/nanzao.com" target="_BLANK">en.greatfire.org/nanzao.com</a> Did it plea a deal with the gov? (2014年09月24日 10:18)
+ ---
 RT @cosbeta: 用国内云，视频自动净化 <a href="https://twitter.com/cosbeta/status/514049747003256833/photo/1" target="_BLANK">twitter.com/cosbeta/status/514049747003256833/photo/1</a> (2014年09月24日 08:30)
  ---
 RT @nytchinese: 乌鲁木齐中院周二宣布，原中央民族大学教师伊力哈木·土赫提因分裂国家罪被判处无期徒刑。此判决为近年中国政府对异见分子所作最严厉判罚，伊力哈木表示不服。<a href="http://cn.nytimes.com/china/20140923/cc23trial/" target="_BLANK">cn.nytimes.com/china/20140923/cc23trial/</a> (2014年09月24日 07:29)
@@ -103,6 +105,4 @@ RT @roanmartigan: GSK kowtowing to every wish of the Chinese government, includi
  ---
 RT @PressTV: Activists hang a banner against #Apple outside an Apple store in Hong Kong on September 19, 2014.
 #hongkong <a href="http://t.co/6xTsYV" target="_BLANK">t.co/6xTsYV</a>… (2014年09月19日 17:10)
- ---
-Your iOS 8 Data is Not Beyond Law Enforcement’s Reach… Yet. | Jonathan Zdziarski's Domain <a href="http://www.zdziarski.com/blog/?p=3875" target="_BLANK">www.zdziarski.com/blog/</a> (2014年09月19日 16:06)
  ---
