@@ -99,7 +99,7 @@ RT @Helene_FR: Ilham Tohti before the verdict:"请你转告我的家人、我的
  ---
 看看封锁谷歌带来的经济影响吧 <a href="http://cn.nytimes.com/business/20140923/c23google/" target="_BLANK">cn.nytimes.com/business/20140923/c23google/</a> (2014年09月23日 14:37)
  ---
-Blockades and IPOs: China’s Great Firewall gives its companies an advantage over Western counterparts <a href="http://pando.com/2014/09/22/blockades-and-ipos-chinas-great-firewall-gives-its-companies-an-advantage-over-western-counterparts/" target="_BLANK">pando.com/2014/09/22/blockades-and-ipos-chinas-great-firewall-gives-its-companies-an-advantage-over-western-counterparts/</a> (2014年09月23日 04:03)
+Blockades and IPOs: China’s Great Firewall gives its companies an advantage over Western counterparts <a href="http://flip.it/vKFYn" target="_BLANK">flip.it/vKFYn</a> (2014年09月23日 04:03)
  ---
 RT @ioerror: On the topic of human rights and Cisco: <a href="https://www.eff.org/deeplinks/2014/09/court-lets-cisco-systems-hook-helping-china-detain-torture-religious-minorities" target="_BLANK">www.eff.org/deeplinks/2014/09/court-lets-cisco-systems-hook-helping-china-detain-torture-religious-minorities</a> Cisco and IBM have a lot in common: <a href="http://www.ibmandtheholocaust.com/" target="_BLANK">www.ibmandtheholocaust.com/</a> (2014年09月23日 01:43)
  ---
