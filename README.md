@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+「大声说出来」跟「彼此心照不宣」有着决定性的区别。我们不是没有力量。一条恰当的宣言，哪怕它的内容只不过是「我知道」这么简简单单的一句话，也有可能引起整个社会的信念结构的根本改变，让许许多多人断然行动起来。这就是我们每一个人的力量。  来自《一个关于数学归纳法的悖论问题》 (2014年09月25日 12:39)
+ ---
 RT @paopaonet: #兔个泡Oo 【新闻调查中心近日发布记者信息安全手册】CIJ为了保护新闻从业者的隐私安全出版了该手册。这本手册在硬件选型，操作系统以及如何在通信上保持匿名性都给出了很多指导性的方案。<a href="http://www.solidot.org/story?sid=41221" target="_BLANK">www.solidot.org/story</a> http://t.c… (2014年09月25日 11:51)
  ---
 Who is the biggest loser in the LinkedIn China censorship story? Perhaps the Chinese authorities. Our post: <a href="https://en.greatfire.org/blog/2014/sep/linkedin-debacle-may-come-back-haunt-chinese-authorities" target="_BLANK">en.greatfire.org/blog/2014/sep/linkedin-debacle-may-come-back-haunt-chinese-authorities</a> (2014年09月24日 16:57)
@@ -102,6 +104,4 @@ RT @ioerror: On the topic of human rights and Cisco: <a href="https://www.eff.or
 RT @MattSchiavenza: LinkedIN will no longer censor sensitive China content outside China - <a href="http://www.marketplace.org/topics/world/linkedin-changes-policy-banned-content-china" target="_BLANK">www.marketplace.org/topics/world/linkedin-changes-policy-banned-content-china</a> (2014年09月22日 18:15)
  ---
 RT @paulmozur: Our look at how China's recent complete block of Google services is hitting business and academics:  <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F22%2Fbusiness%2Finternational%2Fchina-clamps-down-on-web-pinching-companies-like-google.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年09月22日 18:09)
- ---
-RT @phuslu: goagent 3.2 测试版已经发布，这下应该解决绝大部分卡顿问题了。 goagent 3.2 测试版下载 <a href="https://nodeload.github.com/goagent/goagent/legacy.zip/3.0-test" target="_BLANK">nodeload.github.com/goagent/goagent/legacy.zip/3.0-test</a> (2014年09月21日 13:25)
  ---
