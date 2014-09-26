@@ -68,7 +68,7 @@ RT @klustout: "Grades will affect my future, society's political progress affect
  ---
 @kinablog @melissakchan @joshchin PB has a long history of being blocked / unblocked / rendered unusable <a href="https://en.greatfire.org/https/thepiratebay.se" target="_BLANK">en.greatfire.org/https/thepiratebay.se</a> (2014年09月26日 16:30)
  ---
-Here's a list of websites blocked in China <a href="http://www.techinasia.com/1u2B8am" target="_BLANK">www.techinasia.com/1u2B8am</a> via @Techinasia - great summary w/categories of sites blocked (2014年09月26日 16:14)
+Here's a list of websites blocked in China <a href="http://www.techinasia.com/list-of-websites-blocked-in-china-by-great-firewall/" target="_BLANK">www.techinasia.com/list-of-websites-blocked-in-china-by-great-firewall/</a> via @Techinasia - great summary w/categories of sites blocked (2014年09月26日 16:14)
  ---
 Russia orders Google, FB, Twitter 2 comply w/local storage &amp; censorship laws <a href="https://gigaom.com/2014/09/26/russia-orders-google-facebook-and-twitter-to-comply-with-local-storage-and-censorship-laws/" target="_BLANK">gigaom.com/2014/09/26/russia-orders-google-facebook-and-twitter-to-comply-with-local-storage-and-censorship-laws/</a> our China approach will work in Russia (2014年09月26日 16:00)
  ---
