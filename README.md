@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@yuri_snachov @kinablog @joshchin @melissakchan Flickr got blocked around the June 4th anniversary <a href="https://en.greatfire.org/flickr.com" target="_BLANK">en.greatfire.org/flickr.com</a> (2014年09月26日 16:33)
+ ---
+@kinablog @melissakchan @joshchin PB has a long history of being blocked / unblocked / rendered unusable <a href="https://en.greatfire.org/https/thepiratebay.se" target="_BLANK">en.greatfire.org/https/thepiratebay.se</a> (2014年09月26日 16:30)
+ ---
 Here's a list of websites blocked in China <a href="http://www.techinasia.com/list-of-websites-blocked-in-china-by-great-firewall/" target="_BLANK">www.techinasia.com/list-of-websites-blocked-in-china-by-great-firewall/</a> via @Techinasia - great summary w/categories of sites blocked (2014年09月26日 16:14)
  ---
 Russia orders Google, FB, Twitter 2 comply w/local storage &amp; censorship laws <a href="https://gigaom.com/2014/09/26/russia-orders-google-facebook-and-twitter-to-comply-with-local-storage-and-censorship-laws/" target="_BLANK">gigaom.com/2014/09/26/russia-orders-google-facebook-and-twitter-to-comply-with-local-storage-and-censorship-laws/</a> our China approach will work in Russia (2014年09月26日 16:00)
@@ -97,8 +101,4 @@ RT @nytchinese: 乌鲁木齐中院周二宣布，原中央民族大学教师伊�
 中国政府禁止iPhone6在中国上市是行不通的，水货连FaceTime音频也不阉割，看你怎么监听。 壮哉我中国黄牛 <a href="https://www.youtube.com/watch?v=Ef_BznBwktw#t=255" target="_BLANK">www.youtube.com/watch</a> (2014年09月24日 03:39)
  ---
 @SirSteven We broke the news on @duckduckgo being blocked weeks ago, with startpage. <a href="https://twitter.com/GreatFireChina/status/508070967080263682" target="_BLANK">twitter.com/GreatFireChina/status/508070967080263682</a> (2014年09月24日 02:37)
- ---
-RT @Helene_FR: Ilham Tohti before the verdict:"请你转告我的家人、我的民族，不管什么样的判决都不要要有仇恨。” No matter the verdict, don't feel hatred #IlhamTohti (2014年09月23日 17:29)
- ---
-看看封锁谷歌带来的经济影响吧 <a href="http://cn.nytimes.com/business/20140923/c23google/" target="_BLANK">cn.nytimes.com/business/20140923/c23google/</a> (2014年09月23日 14:37)
  ---
