@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @dwertime: This was immensely sad but important for me to write: Tohti's fate betrays a dark vision for the web's future. <a href="http://t.co/BM" target="_BLANK">t.co/BM</a>… (2014年09月26日 22:57)
+ ---
 RT @klustout: "Grades will affect my future, society's political progress affects our future even more."  - 11th grader Tsz-Lung Liu #HKSch… (2014年09月26日 17:14)
  ---
 @yuri_snachov @kinablog @joshchin @melissakchan Flickr got blocked around the June 4th anniversary <a href="https://en.greatfire.org/flickr.com" target="_BLANK">en.greatfire.org/flickr.com</a> (2014年09月26日 16:33)
@@ -99,6 +101,4 @@ RT @cosbeta: 用国内云，视频自动净化 <a href="https://twitter.com/cosb
 RT @nytchinese: 乌鲁木齐中院周二宣布，原中央民族大学教师伊力哈木·土赫提因分裂国家罪被判处无期徒刑。此判决为近年中国政府对异见分子所作最严厉判罚，伊力哈木表示不服。<a href="http://cn.nytimes.com/china/20140923/cc23trial/" target="_BLANK">cn.nytimes.com/china/20140923/cc23trial/</a> (2014年09月24日 07:29)
  ---
 工信部官方微博开通，网民评论全是要求解封Google和给iPhone6发入网证。 <a href="https://freeweibo.com/weibo/3757973563793728" target="_BLANK">freeweibo.com/weibo/3757973563793728</a> (2014年09月24日 04:04)
- ---
-中国政府禁止iPhone6在中国上市是行不通的，水货连FaceTime音频也不阉割，看你怎么监听。 壮哉我中国黄牛 <a href="https://www.youtube.com/watch?v=Ef_BznBwktw#t=255" target="_BLANK">www.youtube.com/watch</a> (2014年09月24日 03:39)
  ---
