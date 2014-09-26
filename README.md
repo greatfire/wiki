@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Here's a list of websites blocked in China <a href="http://www.techinasia.com/list-of-websites-blocked-in-china-by-great-firewall/" target="_BLANK">www.techinasia.com/list-of-websites-blocked-in-china-by-great-firewall/</a> via @Techinasia - great summary w/categories of sites blocked (2014年09月26日 16:14)
+ ---
 Russia orders Google, FB, Twitter 2 comply w/local storage &amp; censorship laws <a href="https://gigaom.com/2014/09/26/russia-orders-google-facebook-and-twitter-to-comply-with-local-storage-and-censorship-laws/" target="_BLANK">gigaom.com/2014/09/26/russia-orders-google-facebook-and-twitter-to-comply-with-local-storage-and-censorship-laws/</a> our China approach will work in Russia (2014年09月26日 16:00)
  ---
 RT @paopaonet: 中国互联网电视强制洗牌堪忧：经多位消息人士确认，广电总局约谈各家互联网视频企业，要求本周内所有视频网站开发的电视端APP下架。苏星河告诉泡泡记者，由此不能不联想到后面可能存在的利益关系，广电总局想为这个产业强制洗牌。<a href="https://t.co/mWi" target="_BLANK">t.co/mWi</a>… (2014年09月26日 13:01)
@@ -99,6 +101,4 @@ RT @nytchinese: 乌鲁木齐中院周二宣布，原中央民族大学教师伊�
 RT @Helene_FR: Ilham Tohti before the verdict:"请你转告我的家人、我的民族，不管什么样的判决都不要要有仇恨。” No matter the verdict, don't feel hatred #IlhamTohti (2014年09月23日 17:29)
  ---
 看看封锁谷歌带来的经济影响吧 <a href="http://cn.nytimes.com/business/20140923/c23google/" target="_BLANK">cn.nytimes.com/business/20140923/c23google/</a> (2014年09月23日 14:37)
- ---
-Blockades and IPOs: China’s Great Firewall gives its companies an advantage over Western counterparts <a href="http://pando.com/2014/09/22/blockades-and-ipos-chinas-great-firewall-gives-its-companies-an-advantage-over-western-counterparts/" target="_BLANK">pando.com/2014/09/22/blockades-and-ipos-chinas-great-firewall-gives-its-companies-an-advantage-over-western-counterparts/</a> (2014年09月23日 04:03)
  ---
