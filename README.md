@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Censored Weibo posts and pics about the Hong Kong protests are filling our @FreeWeibo feed FYI @OCLPHK @inmediahk @hrw_chinese @hu_jia (2014年09月27日 19:44)
+ ---
 Police Arrest Dozens of Pro-Democracy Protesters in Hong Kong <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F28%2Fworld%2Fasia%2Fpro-democracy-protest-in-hong-kong.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年09月27日 19:32)
  ---
 RT @philmuncaster: China still pretending it is a victim not a perp of cyber crime cc. @GreatFireChina <a href="http://www.infosecurity-magazine.com/news/infosecurity-show-as-xiaomi-gets/" target="_BLANK">www.infosecurity-magazine.com/news/infosecurity-show-as-xiaomi-gets/</a> (2014年09月27日 19:16)
@@ -99,6 +101,4 @@ RT @niubi: "More Tightening of Internet Restrictions by China | LAWFARE" <a href
 南华早报中文版解封了<a href="https://zh.greatfire.org/www.nanzao.com" target="_BLANK">zh.greatfire.org/www.nanzao.com</a>。 问题是有些文章读起来像新闻联播，比如《习接见港工商专业界访京团：中央对港政策不变》 <a href="http://www.nanzao.com/sc/hk/38528/xi-jie-jian-gang-gong-shang-zhuan-ye-jie-fang-jing-tuan-zhong-yang-dui-gang-zheng-ce-bu" target="_BLANK">www.nanzao.com/sc/hk/38528/xi-jie-jian-gang-gong-shang-zhuan-ye-jie-fang-jing-tuan-zhong-yang-dui-gang-zheng-ce-bu</a> (2014年09月24日 10:32)
  ---
 China Has World's Tightest Internet Censorship, Study Finds. <a href="http://www.nytimes.com/2002/12/04/international/asia/04CHIN.html" target="_BLANK">www.nytimes.com/2002/12/04/international/asia/04CHIN.html</a> The 2002 reporting is still eerily accurate. (2014年09月24日 10:27)
- ---
-SCMP Chinese is unblocked in China <a href="https://en.greatfire.org/nanzao.com" target="_BLANK">en.greatfire.org/nanzao.com</a> Did it plea a deal with the gov? (2014年09月24日 10:18)
  ---
