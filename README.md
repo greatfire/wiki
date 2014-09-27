@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @philmuncaster: China still pretending it is a victim not a perp of cyber crime cc. @GreatFireChina <a href="http://www.infosecurity-magazine.com/news/infosecurity-show-as-xiaomi-gets/" target="_BLANK">www.infosecurity-magazine.com/news/infosecurity-show-as-xiaomi-gets/</a> (2014年09月27日 19:16)
+ ---
 如何跟外国人解释为何中国人不用 Facebook？<a href="http://www.zhihu.com/question/25433595" target="_BLANK">www.zhihu.com/question/25433595</a> (2014年09月27日 10:07)
  ---
 RT @dwertime: This was immensely sad but important for me to write: Tohti's fate betrays a dark vision for the web's future. <a href="http://t.co/BM" target="_BLANK">t.co/BM</a>… (2014年09月26日 22:57)
@@ -99,6 +101,4 @@ China Has World's Tightest Internet Censorship, Study Finds. <a href="http://www
 SCMP Chinese is unblocked in China <a href="https://en.greatfire.org/nanzao.com" target="_BLANK">en.greatfire.org/nanzao.com</a> Did it plea a deal with the gov? (2014年09月24日 10:18)
  ---
 RT @cosbeta: 用国内云，视频自动净化 <a href="https://twitter.com/cosbeta/status/514049747003256833/photo/1" target="_BLANK">twitter.com/cosbeta/status/514049747003256833/photo/1</a> (2014年09月24日 08:30)
- ---
-RT @nytchinese: 乌鲁木齐中院周二宣布，原中央民族大学教师伊力哈木·土赫提因分裂国家罪被判处无期徒刑。此判决为近年中国政府对异见分子所作最严厉判罚，伊力哈木表示不服。<a href="http://cn.nytimes.com/china/20140923/cc23trial/" target="_BLANK">cn.nytimes.com/china/20140923/cc23trial/</a> (2014年09月24日 07:29)
  ---
