@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Protests are furthest thing from a stalemate RT @fion_li: Hong Kong govt statement here: <a href="http://www.info.gov.hk/gia/general/201409/28/P201409280609.htm" target="_BLANK">www.info.gov.hk/gia/general/201409/28/P201409280609.htm</a> #hkclassboycott #hk926 (2014年09月28日 15:38)
+ ---
+RT @OCLPHK: Could the CE 3:30 press conference be a trick to distract media attention while police attack demonstrators? (2014年09月28日 15:35)
+ ---
 Follow the #OccupyCentral Hong Kong protests live <a href="http://www.scmp.com/news/hong-kong/article/1602958/live-occupy-central-kicks-hundreds-classroom-boycott-students-leave" target="_BLANK">www.scmp.com/news/hong-kong/article/1602958/live-occupy-central-kicks-hundreds-classroom-boycott-students-leave</a> (2014年09月28日 15:34)
  ---
 RT @mgerrydoyle: kind of interesting... unable to join #OccupyCentral #hk926 protesters, people are just occupying wherever they happen to … (2014年09月28日 15:29)
@@ -97,8 +101,4 @@ RT @paopaonet: #兔个泡Oo 【新闻调查中心近日发布记者信息安全�
 Who is the biggest loser in the LinkedIn China censorship story? Perhaps the Chinese authorities. Our post: <a href="https://en.greatfire.org/blog/2014/sep/linkedin-debacle-may-come-back-haunt-chinese-authorities" target="_BLANK">en.greatfire.org/blog/2014/sep/linkedin-debacle-may-come-back-haunt-chinese-authorities</a> (2014年09月24日 16:57)
  ---
 @freetibetorg I can't seem to access the dossier here: <a href="http://freetibet.org/news-media/na/www.freetibet.org/sites/default/files/YouTubedossierSeptember2014.pdf" target="_BLANK">freetibet.org/news-media/na/www.freetibet.org/sites/default/files/YouTubedossierSeptember2014.pdf</a> very interested in seeing that (2014年09月24日 16:25)
- ---
-RT @freetibetorg: After fake Twitter accounts, China is using fake YouTube accounts for propaganda. Is anybody fooled? <a href="http://t.co/tPkowXWB" target="_BLANK">t.co/tPkowXWB</a>… (2014年09月24日 16:24)
- ---
-RT @niubi: "More Tightening of Internet Restrictions by China | LAWFARE" <a href="http://www.lawfareblog.com/2014/09/more-tightening-of-internet-restrictions-by-china/" target="_BLANK">www.lawfareblog.com/2014/09/more-tightening-of-internet-restrictions-by-china/</a> (2014年09月24日 16:05)
  ---
