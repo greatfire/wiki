@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+That is of course if they don't shut down the entire communications network in Hong Kong first. (2014年09月28日 19:02)
+ ---
 Beware reports that PLA on way from Fanling / border. There wld b large volume of posts if true. No indication this is happening - for now. (2014年09月28日 19:00)
  ---
 RT @XHNews: Chinese central gov't opposes illegal activities in HK, confident that the SAR can handle the Occupy Central <a href="http://t.co/HcPDOS" target="_BLANK">t.co/HcPDOS</a>… (2014年09月28日 18:54)
@@ -100,6 +102,4 @@ Police Arrest Dozens of Pro-Democracy Protesters in Hong Kong <a href="https://m
 RT @philmuncaster: China still pretending it is a victim not a perp of cyber crime cc. @GreatFireChina <a href="http://www.infosecurity-magazine.com/news/infosecurity-show-as-xiaomi-gets/" target="_BLANK">www.infosecurity-magazine.com/news/infosecurity-show-as-xiaomi-gets/</a> (2014年09月27日 19:16)
  ---
 如何跟外国人解释为何中国人不用 Facebook？<a href="http://www.zhihu.com/question/25433595" target="_BLANK">www.zhihu.com/question/25433595</a> (2014年09月27日 10:07)
- ---
-RT @dwertime: This was immensely sad but important for me to write: Tohti's fate betrays a dark vision for the web's future. <a href="http://t.co/BM" target="_BLANK">t.co/BM</a>… (2014年09月26日 22:57)
  ---
