@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+香港学生民主运动拉开“占领中环”序幕 <a href="http://cn.nytimes.com/china/20140928/c28hongkong/" target="_BLANK">cn.nytimes.com/china/20140928/c28hongkong/</a> (2014年09月28日 23:56)
+ ---
 RT @stegersaurus: Train full of police photo from Dash on Facebook <a href="https://twitter.com/stegersaurus/status/516203831047122944/photo/1" target="_BLANK">twitter.com/stegersaurus/status/516203831047122944/photo/1</a> (2014年09月28日 20:42)
  ---
 Hong Kong protests lead most major television news reports at top of hour - and just like that the world reminded of June 4th, 1989 (2014年09月28日 19:13)
@@ -100,6 +102,4 @@ Follow the #OccupyCentral Hong Kong protests live <a href="http://www.scmp.com/n
 RT @mgerrydoyle: kind of interesting... unable to join #OccupyCentral #hk926 protesters, people are just occupying wherever they happen to … (2014年09月28日 15:29)
  ---
 Censored Weibo posts and pics about the Hong Kong protests are filling our @FreeWeibo feed FYI @OCLPHK @inmediahk @hrw_chinese @hu_jia (2014年09月27日 19:44)
- ---
-Police Arrest Dozens of Pro-Democracy Protesters in Hong Kong <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F28%2Fworld%2Fasia%2Fpro-democracy-protest-in-hong-kong.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年09月27日 19:32)
  ---
