@@ -101,5 +101,5 @@ RT @mgerrydoyle: kind of interesting... unable to join #OccupyCentral #hk926 pro
  ---
 Censored Weibo posts and pics about the Hong Kong protests are filling our @FreeWeibo feed FYI @OCLPHK @inmediahk @hrw_chinese @hu_jia (2014年09月27日 19:44)
  ---
-Police Arrest Dozens of Pro-Democracy Protesters in Hong Kong <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F28%2Fworld%2Fasia%2Fpro-democracy-protest-in-hong-kong.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年09月27日 19:32)
+Police Arrest Dozens of Pro-Democracy Protesters in Hong Kong <a href="http://flip.it/iQVaO" target="_BLANK">flip.it/iQVaO</a> (2014年09月27日 19:32)
  ---
