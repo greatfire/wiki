@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @theosint: Hong Kong protesters are using @Firechatapp because the network is out of function in some places! Meshs for the win! (2014年09月28日 18:49)
+ ---
+RT @Carmen_NgKaMan: #OccupyCentral: unverified info saying police plans to cut off mobile signals in occupied areas. Protesters urge each o… (2014年09月28日 18:48)
+ ---
 Meanwhile RT @XHNews: Bakers make the longest baguette bread, 135 meters long, in Ho Chi Minh City, Vietnam <a href="https://twitter.com/XHNews/status/516143997467631616/photo/1" target="_BLANK">twitter.com/XHNews/status/516143997467631616/photo/1</a> (2014年09月28日 18:35)
  ---
 RT @joshchin: Here's the WSJ video stream from #OccupyCentral, live when local Internet allows: <a href="http://blogs.wsj.com/chinarealtime/2014/09/28/wsjs-video-stream-of-the-occupy-central-protests-in-hong-kong/" target="_BLANK">blogs.wsj.com/chinarealtime/2014/09/28/wsjs-video-stream-of-the-occupy-central-protests-in-hong-kong/</a> (2014年09月28日 18:33)
@@ -98,8 +102,4 @@ RT @klustout: "Grades will affect my future, society's political progress affect
 @yuri_snachov @kinablog @joshchin @melissakchan Flickr got blocked around the June 4th anniversary <a href="https://en.greatfire.org/flickr.com" target="_BLANK">en.greatfire.org/flickr.com</a> (2014年09月26日 16:33)
  ---
 @kinablog @melissakchan @joshchin PB has a long history of being blocked / unblocked / rendered unusable <a href="https://en.greatfire.org/https/thepiratebay.se" target="_BLANK">en.greatfire.org/https/thepiratebay.se</a> (2014年09月26日 16:30)
- ---
-Here's a list of websites blocked in China <a href="http://www.techinasia.com/list-of-websites-blocked-in-china-by-great-firewall/" target="_BLANK">www.techinasia.com/list-of-websites-blocked-in-china-by-great-firewall/</a> via @Techinasia - great summary w/categories of sites blocked (2014年09月26日 16:14)
- ---
-Russia orders Google, FB, Twitter 2 comply w/local storage &amp; censorship laws <a href="https://gigaom.com/2014/09/26/russia-orders-google-facebook-and-twitter-to-comply-with-local-storage-and-censorship-laws/" target="_BLANK">gigaom.com/2014/09/26/russia-orders-google-facebook-and-twitter-to-comply-with-local-storage-and-censorship-laws/</a> our China approach will work in Russia (2014年09月26日 16:00)
  ---
