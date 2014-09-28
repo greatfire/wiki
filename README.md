@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@VivienneChow SCMP, good job. But Chinese WSJ and Reuters Chinese self-censor on Hong Kong democracy protest <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 05:11)
+ ---
 Chinese WSJ and Reuters Chinese self-censor on Hong Kong democracy protest <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 04:42)
  ---
 RT @HewChen: 这话说得太对了 <a href="https://twitter.com/HewChen/status/516280792880660480/photo/1" target="_BLANK">twitter.com/HewChen/status/516280792880660480/photo/1</a> (2014年09月29日 02:57)
@@ -100,6 +102,4 @@ Police have fired three volleys of tear gas, but the wind has blown the smoke pl
 <a href="http://www.scmp.com/news/hong-kong/article/1602958/live-occupy-central-kicks-hundreds-classroom-boycott-students-leave" target="_BLANK">www.scmp.com/news/hong-kong/article/1602958/live-occupy-central-kicks-hundreds-classroom-boycott-students-leave</a> (2014年09月28日 18:32)
  ---
 RT @stegersaurus: TEAR GAS (2014年09月28日 18:29)
- ---
-RT @SCMP_News: TV footage showing police holding up sign: "Disperse or we fire". Street filled with smoke and protesters running away #Occu… (2014年09月28日 18:29)
  ---
