@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Follow the #OccupyCentral Hong Kong protests live <a href="http://www.scmp.com/news/hong-kong/article/1602958/live-occupy-central-kicks-hundreds-classroom-boycott-students-leave" target="_BLANK">www.scmp.com/news/hong-kong/article/1602958/live-occupy-central-kicks-hundreds-classroom-boycott-students-leave</a> (2014年09月28日 15:34)
+ ---
 RT @mgerrydoyle: kind of interesting... unable to join #OccupyCentral #hk926 protesters, people are just occupying wherever they happen to … (2014年09月28日 15:29)
  ---
 Censored Weibo posts and pics about the Hong Kong protests are filling our @FreeWeibo feed FYI @OCLPHK @inmediahk @hrw_chinese @hu_jia (2014年09月27日 19:44)
@@ -99,6 +101,4 @@ Who is the biggest loser in the LinkedIn China censorship story? Perhaps the Chi
 RT @freetibetorg: After fake Twitter accounts, China is using fake YouTube accounts for propaganda. Is anybody fooled? <a href="http://t.co/tPkowXWB" target="_BLANK">t.co/tPkowXWB</a>… (2014年09月24日 16:24)
  ---
 RT @niubi: "More Tightening of Internet Restrictions by China | LAWFARE" <a href="http://www.lawfareblog.com/2014/09/more-tightening-of-internet-restrictions-by-china/" target="_BLANK">www.lawfareblog.com/2014/09/more-tightening-of-internet-restrictions-by-china/</a> (2014年09月24日 16:05)
- ---
-南华早报中文版解封了<a href="https://zh.greatfire.org/www.nanzao.com" target="_BLANK">zh.greatfire.org/www.nanzao.com</a>。 问题是有些文章读起来像新闻联播，比如《习接见港工商专业界访京团：中央对港政策不变》 <a href="http://www.nanzao.com/sc/hk/38528/xi-jie-jian-gang-gong-shang-zhuan-ye-jie-fang-jing-tuan-zhong-yang-dui-gang-zheng-ce-bu" target="_BLANK">www.nanzao.com/sc/hk/38528/xi-jie-jian-gang-gong-shang-zhuan-ye-jie-fang-jing-tuan-zhong-yang-dui-gang-zheng-ce-bu</a> (2014年09月24日 10:32)
  ---
