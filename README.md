@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Beware reports that PLA on way from Fanling / border. There wld b large volume of posts if true. No indication this is happening - for now. (2014年09月28日 19:00)
+ ---
 RT @XHNews: Chinese central gov't opposes illegal activities in HK, confident that the SAR can handle the Occupy Central <a href="http://t.co/HcPDOS" target="_BLANK">t.co/HcPDOS</a>… (2014年09月28日 18:54)
  ---
 RT @lilkuo: Hong Kong students parked right in front of police barricade and underneath PLA hq in Hong Kong. <a href="https://twitter.com/lilkuo/status/516177903499743232/photo/1" target="_BLANK">twitter.com/lilkuo/status/516177903499743232/photo/1</a> (2014年09月28日 18:50)
@@ -100,6 +102,4 @@ RT @philmuncaster: China still pretending it is a victim not a perp of cyber cri
 如何跟外国人解释为何中国人不用 Facebook？<a href="http://www.zhihu.com/question/25433595" target="_BLANK">www.zhihu.com/question/25433595</a> (2014年09月27日 10:07)
  ---
 RT @dwertime: This was immensely sad but important for me to write: Tohti's fate betrays a dark vision for the web's future. <a href="http://t.co/BM" target="_BLANK">t.co/BM</a>… (2014年09月26日 22:57)
- ---
-RT @klustout: "Grades will affect my future, society's political progress affects our future even more."  - 11th grader Tsz-Lung Liu #HKSch… (2014年09月26日 17:14)
  ---
