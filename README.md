@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@BobPort @ChinaFile @BloombergNews Or not. Even foreign media is not covering it in Chinese. (2014年09月29日 05:49)
+ ---
+@BobPort @ChinaFile @BloombergNews Of course not covered. Nothing from any mainland media. (2014年09月29日 05:45)
+ ---
 @JeffreyGuterman @forlornhope888 @TheAPJournalist We searched the front page manually &amp; used google to examine the entire website. (2014年09月29日 05:41)
  ---
 RT @JeffreyGuterman: . @TheAPJournalist @GreatFireChina I visited <a href="http://cn.mobile.reuters.com/home?irpc=932" target="_BLANK">cn.mobile.reuters.com/home</a>, translated English, found no mention #OccupyCentr… (2014年09月29日 05:38)
@@ -97,8 +101,4 @@ RT @XHNews: Chinese central gov't opposes illegal activities in HK, confident th
 RT @lilkuo: Hong Kong students parked right in front of police barricade and underneath PLA hq in Hong Kong. <a href="https://twitter.com/lilkuo/status/516177903499743232/photo/1" target="_BLANK">twitter.com/lilkuo/status/516177903499743232/photo/1</a> (2014年09月28日 18:50)
  ---
 RT @theosint: Hong Kong protesters are using @Firechatapp because the network is out of function in some places! Meshs for the win! (2014年09月28日 18:49)
- ---
-RT @Carmen_NgKaMan: #OccupyCentral: unverified info saying police plans to cut off mobile signals in occupied areas. Protesters urge each o… (2014年09月28日 18:48)
- ---
-Meanwhile RT @XHNews: Bakers make the longest baguette bread, 135 meters long, in Ho Chi Minh City, Vietnam <a href="https://twitter.com/XHNews/status/516143997467631616/photo/1" target="_BLANK">twitter.com/XHNews/status/516143997467631616/photo/1</a> (2014年09月28日 18:35)
  ---
