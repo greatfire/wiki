@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @TzafrirR: @pmarca I'm following #HKStudentStrike via <a href="http://www.ustream.tv/channel/nolan-fans" target="_BLANK">www.ustream.tv/channel/nolan-fans</a> - it's an aggregated stream of (as of now) 4 live cameras (2014年09月28日 17:00)
+ ---
 Protests are furthest thing from a stalemate RT @fion_li: Hong Kong govt statement here: <a href="http://www.info.gov.hk/gia/general/201409/28/P201409280609.htm" target="_BLANK">www.info.gov.hk/gia/general/201409/28/P201409280609.htm</a> #hkclassboycott #hk926 (2014年09月28日 15:38)
  ---
 RT @OCLPHK: Could the CE 3:30 press conference be a trick to distract media attention while police attack demonstrators? (2014年09月28日 15:35)
@@ -99,6 +101,4 @@ RT @paopaonet: 中国互联网电视强制洗牌堪忧：经多位消息人士�
 RT @paopaonet: #兔个泡Oo 【新闻调查中心近日发布记者信息安全手册】CIJ为了保护新闻从业者的隐私安全出版了该手册。这本手册在硬件选型，操作系统以及如何在通信上保持匿名性都给出了很多指导性的方案。<a href="http://www.solidot.org/story?sid=41221" target="_BLANK">www.solidot.org/story</a> http://t.c… (2014年09月25日 11:51)
  ---
 Who is the biggest loser in the LinkedIn China censorship story? Perhaps the Chinese authorities. Our post: <a href="https://en.greatfire.org/blog/2014/sep/linkedin-debacle-may-come-back-haunt-chinese-authorities" target="_BLANK">en.greatfire.org/blog/2014/sep/linkedin-debacle-may-come-back-haunt-chinese-authorities</a> (2014年09月24日 16:57)
- ---
-@freetibetorg I can't seem to access the dossier here: <a href="http://freetibet.org/news-media/na/www.freetibet.org/sites/default/files/YouTubedossierSeptember2014.pdf" target="_BLANK">freetibet.org/news-media/na/www.freetibet.org/sites/default/files/YouTubedossierSeptember2014.pdf</a> very interested in seeing that (2014年09月24日 16:25)
  ---
