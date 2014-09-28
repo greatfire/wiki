@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+中国今日屏蔽Instagram <a href="https://zh.greatfire.org/instagram.com" target="_BLANK">zh.greatfire.org/instagram.com</a> 今年6月其安卓应用已经被下架。 (2014年09月29日 02:42)
+ ---
 Instagram blocked in China today. <a href="https://en.greatfire.org/instagram.com" target="_BLANK">en.greatfire.org/instagram.com</a> Its app was taken down in China in July this year. (2014年09月29日 01:44)
  ---
 香港学生民主运动拉开“占领中环”序幕 <a href="http://cn.nytimes.com/china/20140928/c28hongkong/" target="_BLANK">cn.nytimes.com/china/20140928/c28hongkong/</a> (2014年09月28日 23:56)
@@ -100,6 +102,4 @@ Protests are furthest thing from a stalemate RT @fion_li: Hong Kong govt stateme
 RT @OCLPHK: Could the CE 3:30 press conference be a trick to distract media attention while police attack demonstrators? (2014年09月28日 15:35)
  ---
 Follow the #OccupyCentral Hong Kong protests live <a href="http://www.scmp.com/news/hong-kong/article/1602958/live-occupy-central-kicks-hundreds-classroom-boycott-students-leave" target="_BLANK">www.scmp.com/news/hong-kong/article/1602958/live-occupy-central-kicks-hundreds-classroom-boycott-students-leave</a> (2014年09月28日 15:34)
- ---
-RT @mgerrydoyle: kind of interesting... unable to join #OccupyCentral #hk926 protesters, people are just occupying wherever they happen to … (2014年09月28日 15:29)
  ---
