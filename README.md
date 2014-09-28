@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Ironically, Instagram is accessible in HK with Twitter, FB b/c HongKong doesn't have GFW, not yet at least. #OccupyCentral (2014年09月29日 02:49)
+ ---
+Photos of Hong Kong protest are the reason behind the block of Instagram. <a href="https://en.greatfire.org/instagram.com" target="_BLANK">en.greatfire.org/instagram.com</a> (2014年09月29日 02:46)
+ ---
 中国今日屏蔽Instagram <a href="https://zh.greatfire.org/instagram.com" target="_BLANK">zh.greatfire.org/instagram.com</a> 今年6月其安卓应用已经被下架。 (2014年09月29日 02:42)
  ---
 Instagram blocked in China today. <a href="https://en.greatfire.org/instagram.com" target="_BLANK">en.greatfire.org/instagram.com</a> Its app was taken down in China in July this year. (2014年09月29日 01:44)
@@ -98,8 +102,4 @@ RT @SCMP_News: TV footage showing police holding up sign: "Disperse or we fire".
 RT @TzafrirR: @pmarca I'm following #HKStudentStrike via <a href="http://www.ustream.tv/channel/nolan-fans" target="_BLANK">www.ustream.tv/channel/nolan-fans</a> - it's an aggregated stream of (as of now) 4 live cameras (2014年09月28日 17:00)
  ---
 Protests are furthest thing from a stalemate RT @fion_li: Hong Kong govt statement here: <a href="http://www.info.gov.hk/gia/general/201409/28/P201409280609.htm" target="_BLANK">www.info.gov.hk/gia/general/201409/28/P201409280609.htm</a> #hkclassboycott #hk926 (2014年09月28日 15:38)
- ---
-RT @OCLPHK: Could the CE 3:30 press conference be a trick to distract media attention while police attack demonstrators? (2014年09月28日 15:35)
- ---
-Follow the #OccupyCentral Hong Kong protests live <a href="http://www.scmp.com/news/hong-kong/article/1602958/live-occupy-central-kicks-hundreds-classroom-boycott-students-leave" target="_BLANK">www.scmp.com/news/hong-kong/article/1602958/live-occupy-central-kicks-hundreds-classroom-boycott-students-leave</a> (2014年09月28日 15:34)
  ---
