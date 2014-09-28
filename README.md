@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @JeffreyGuterman: . @TheAPJournalist @GreatFireChina I visited <a href="http://cn.mobile.reuters.com/home?irpc=932" target="_BLANK">cn.mobile.reuters.com/home</a>, translated English, found no mention #OccupyCentr… (2014年09月29日 05:38)
+ ---
+@BobPort @ChinaFile @BloombergNews It's on Bloomberg's headline. But Bloomberg doesn't have a Chinese version. (2014年09月29日 05:37)
+ ---
 @VivienneChow SCMP, good job. But Chinese WSJ and Reuters Chinese self-censor on Hong Kong democracy protest <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 05:11)
  ---
 Chinese WSJ and Reuters Chinese self-censor on Hong Kong democracy protest <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 04:42)
@@ -97,9 +101,4 @@ RT @Carmen_NgKaMan: #OccupyCentral: unverified info saying police plans to cut o
 Meanwhile RT @XHNews: Bakers make the longest baguette bread, 135 meters long, in Ho Chi Minh City, Vietnam <a href="https://twitter.com/XHNews/status/516143997467631616/photo/1" target="_BLANK">twitter.com/XHNews/status/516143997467631616/photo/1</a> (2014年09月28日 18:35)
  ---
 RT @joshchin: Here's the WSJ video stream from #OccupyCentral, live when local Internet allows: <a href="http://blogs.wsj.com/chinarealtime/2014/09/28/wsjs-video-stream-of-the-occupy-central-protests-in-hong-kong/" target="_BLANK">blogs.wsj.com/chinarealtime/2014/09/28/wsjs-video-stream-of-the-occupy-central-protests-in-hong-kong/</a> (2014年09月28日 18:33)
- ---
-Police have fired three volleys of tear gas, but the wind has blown the smoke plume back towards the police line.
-<a href="http://www.scmp.com/news/hong-kong/article/1602958/live-occupy-central-kicks-hundreds-classroom-boycott-students-leave" target="_BLANK">www.scmp.com/news/hong-kong/article/1602958/live-occupy-central-kicks-hundreds-classroom-boycott-students-leave</a> (2014年09月28日 18:32)
- ---
-RT @stegersaurus: TEAR GAS (2014年09月28日 18:29)
  ---
