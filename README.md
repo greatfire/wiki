@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Hong Kong protests lead most major television news reports at top of hour - and just like that the world reminded of June 4th, 1989 (2014年09月28日 19:13)
+ ---
 That is of course if they don't shut down the entire communications network in Hong Kong first. (2014年09月28日 19:02)
  ---
 Beware reports that PLA on way from Fanling / border. There wld b large volume of posts if true. No indication this is happening - for now. (2014年09月28日 19:00)
@@ -100,6 +102,4 @@ Censored Weibo posts and pics about the Hong Kong protests are filling our @Free
 Police Arrest Dozens of Pro-Democracy Protesters in Hong Kong <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F28%2Fworld%2Fasia%2Fpro-democracy-protest-in-hong-kong.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年09月27日 19:32)
  ---
 RT @philmuncaster: China still pretending it is a victim not a perp of cyber crime cc. @GreatFireChina <a href="http://www.infosecurity-magazine.com/news/infosecurity-show-as-xiaomi-gets/" target="_BLANK">www.infosecurity-magazine.com/news/infosecurity-show-as-xiaomi-gets/</a> (2014年09月27日 19:16)
- ---
-如何跟外国人解释为何中国人不用 Facebook？<a href="http://www.zhihu.com/question/25433595" target="_BLANK">www.zhihu.com/question/25433595</a> (2014年09月27日 10:07)
  ---
