@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Meanwhile RT @XHNews: Bakers make the longest baguette bread, 135 meters long, in Ho Chi Minh City, Vietnam <a href="https://twitter.com/XHNews/status/516143997467631616/photo/1" target="_BLANK">twitter.com/XHNews/status/516143997467631616/photo/1</a> (2014年09月28日 18:35)
+ ---
 RT @joshchin: Here's the WSJ video stream from #OccupyCentral, live when local Internet allows: <a href="http://blogs.wsj.com/chinarealtime/2014/09/28/wsjs-video-stream-of-the-occupy-central-protests-in-hong-kong/" target="_BLANK">blogs.wsj.com/chinarealtime/2014/09/28/wsjs-video-stream-of-the-occupy-central-protests-in-hong-kong/</a> (2014年09月28日 18:33)
  ---
 Police have fired three volleys of tear gas, but the wind has blown the smoke plume back towards the police line.
@@ -100,6 +102,4 @@ RT @klustout: "Grades will affect my future, society's political progress affect
 Here's a list of websites blocked in China <a href="http://www.techinasia.com/list-of-websites-blocked-in-china-by-great-firewall/" target="_BLANK">www.techinasia.com/list-of-websites-blocked-in-china-by-great-firewall/</a> via @Techinasia - great summary w/categories of sites blocked (2014年09月26日 16:14)
  ---
 Russia orders Google, FB, Twitter 2 comply w/local storage &amp; censorship laws <a href="https://gigaom.com/2014/09/26/russia-orders-google-facebook-and-twitter-to-comply-with-local-storage-and-censorship-laws/" target="_BLANK">gigaom.com/2014/09/26/russia-orders-google-facebook-and-twitter-to-comply-with-local-storage-and-censorship-laws/</a> our China approach will work in Russia (2014年09月26日 16:00)
- ---
-RT @paopaonet: 中国互联网电视强制洗牌堪忧：经多位消息人士确认，广电总局约谈各家互联网视频企业，要求本周内所有视频网站开发的电视端APP下架。苏星河告诉泡泡记者，由此不能不联想到后面可能存在的利益关系，广电总局想为这个产业强制洗牌。<a href="https://t.co/mWi" target="_BLANK">t.co/mWi</a>… (2014年09月26日 13:01)
  ---
