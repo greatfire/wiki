@@ -78,7 +78,7 @@ RT @theosint: Hong Kong protesters are using @Firechatapp because the network is
  ---
 RT @Carmen_NgKaMan: #OccupyCentral: unverified info saying police plans to cut off mobile signals in occupied areas. Protesters urge each o… (2014年09月28日 18:48)
  ---
-Meanwhile RT @XHNews: Bakers make the longest baguette bread, 135 meters long, in Ho Chi Minh City, Vietnam <a href="http://flip.it/KwdM9" target="_BLANK">flip.it/KwdM9</a> (2014年09月28日 18:35)
+Meanwhile RT @XHNews: Bakers make the longest baguette bread, 135 meters long, in Ho Chi Minh City, Vietnam <a href="https://twitter.com/XHNews/status/516143997467631616/photo/1" target="_BLANK">twitter.com/XHNews/status/516143997467631616/photo/1</a> (2014年09月28日 18:35)
  ---
 RT @joshchin: Here's the WSJ video stream from #OccupyCentral, live when local Internet allows: <a href="http://blogs.wsj.com/chinarealtime/2014/09/28/wsjs-video-stream-of-the-occupy-central-protests-in-hong-kong/" target="_BLANK">blogs.wsj.com/chinarealtime/2014/09/28/wsjs-video-stream-of-the-occupy-central-protests-in-hong-kong/</a> (2014年09月28日 18:33)
  ---
