@@ -62,6 +62,11 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @joshchin: Here's the WSJ video stream from #OccupyCentral, live when local Internet allows: <a href="http://blogs.wsj.com/chinarealtime/2014/09/28/wsjs-video-stream-of-the-occupy-central-protests-in-hong-kong/" target="_BLANK">blogs.wsj.com/chinarealtime/2014/09/28/wsjs-video-stream-of-the-occupy-central-protests-in-hong-kong/</a> (2014年09月28日 18:33)
+ ---
+Police have fired three volleys of tear gas, but the wind has blown the smoke plume back towards the police line.
+<a href="http://www.scmp.com/news/hong-kong/article/1602958/live-occupy-central-kicks-hundreds-classroom-boycott-students-leave" target="_BLANK">www.scmp.com/news/hong-kong/article/1602958/live-occupy-central-kicks-hundreds-classroom-boycott-students-leave</a> (2014年09月28日 18:32)
+ ---
 RT @stegersaurus: TEAR GAS (2014年09月28日 18:29)
  ---
 RT @SCMP_News: TV footage showing police holding up sign: "Disperse or we fire". Street filled with smoke and protesters running away #Occu… (2014年09月28日 18:29)
@@ -97,8 +102,4 @@ Here's a list of websites blocked in China <a href="http://www.techinasia.com/li
 Russia orders Google, FB, Twitter 2 comply w/local storage &amp; censorship laws <a href="https://gigaom.com/2014/09/26/russia-orders-google-facebook-and-twitter-to-comply-with-local-storage-and-censorship-laws/" target="_BLANK">gigaom.com/2014/09/26/russia-orders-google-facebook-and-twitter-to-comply-with-local-storage-and-censorship-laws/</a> our China approach will work in Russia (2014年09月26日 16:00)
  ---
 RT @paopaonet: 中国互联网电视强制洗牌堪忧：经多位消息人士确认，广电总局约谈各家互联网视频企业，要求本周内所有视频网站开发的电视端APP下架。苏星河告诉泡泡记者，由此不能不联想到后面可能存在的利益关系，广电总局想为这个产业强制洗牌。<a href="https://t.co/mWi" target="_BLANK">t.co/mWi</a>… (2014年09月26日 13:01)
- ---
-中国五毛党的网络抹黑运动 <a href="http://cn.nytimes.com/opinion/20140923/c23murong/" target="_BLANK">cn.nytimes.com/opinion/20140923/c23murong/</a> (2014年09月25日 12:48)
- ---
-「大声说出来」跟「彼此心照不宣」有着决定性的区别。我们不是没有力量。一条恰当的宣言，哪怕它的内容只不过是「我知道」这么简简单单的一句话，也有可能引起整个社会的信念结构的根本改变，让许许多多人断然行动起来。这就是我们每一个人的力量。  来自《一个关于数学归纳法的悖论问题》 (2014年09月25日 12:39)
  ---
