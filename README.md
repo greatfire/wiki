@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @HewChen: 这话说得太对了 <a href="https://twitter.com/HewChen/status/516280792880660480/photo/1" target="_BLANK">twitter.com/HewChen/status/516280792880660480/photo/1</a> (2014年09月29日 02:57)
+ ---
 Ironically, Instagram is accessible in HK with Twitter, FB b/c HongKong doesn't have GFW, not yet at least. #OccupyCentral (2014年09月29日 02:49)
  ---
 Photos of Hong Kong protest are the reason behind the block of Instagram. <a href="https://en.greatfire.org/instagram.com" target="_BLANK">en.greatfire.org/instagram.com</a> (2014年09月29日 02:46)
@@ -100,6 +102,4 @@ RT @stegersaurus: TEAR GAS (2014年09月28日 18:29)
 RT @SCMP_News: TV footage showing police holding up sign: "Disperse or we fire". Street filled with smoke and protesters running away #Occu… (2014年09月28日 18:29)
  ---
 RT @TzafrirR: @pmarca I'm following #HKStudentStrike via <a href="http://www.ustream.tv/channel/nolan-fans" target="_BLANK">www.ustream.tv/channel/nolan-fans</a> - it's an aggregated stream of (as of now) 4 live cameras (2014年09月28日 17:00)
- ---
-Protests are furthest thing from a stalemate RT @fion_li: Hong Kong govt statement here: <a href="http://www.info.gov.hk/gia/general/201409/28/P201409280609.htm" target="_BLANK">www.info.gov.hk/gia/general/201409/28/P201409280609.htm</a> #hkclassboycott #hk926 (2014年09月28日 15:38)
  ---
