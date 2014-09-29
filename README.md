@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @JamesFallows: @gerardtbaker @iandenisjohnson … between its English and Chinese-language play of the story was so striking, during fast … (2014年09月29日 13:19)
+ ---
+@niubi @iandenisjohnson @gerardtbaker @JamesFallows Example: <a href="http://cn.wsj.com/gb/20140423/BCH094835.asp" target="_BLANK">cn.wsj.com/gb/20140423/BCH094835.asp</a> We have 12,600 examples <a href="https://www.google.com/search?q=%E8%AF%B7%E7%9C%8B%E7%A8%8D%E5%90%8E%E8%AF%A6%E7%BB%86%E6%8A%A5%E9%81%93&oq=%E8%AF%B7%E7%9C%8B%E7%A8%8D%E5%90%8E%E8%AF%A6%E7%BB%86%E6%8A%A5%E9%81%93&aqs=chrome..69i57.3992j0j7&sourceid=chrome&es_sm=91&ie=UTF-8#q=%E8%AF%B7%E7%9C%8B%E7%A8%8D%E5%90%8E%E8%AF%A6%E7%BB%86%E6%8A%A5%E9%81%93+site:cn.wsj.com&start=0" target="_BLANK">www.google.com/search</a> (2014年09月29日 13:15)
+ ---
 @niubi @iandenisjohnson @gerardtbaker @JamesFallows No. WSJ CN usually posts a title and "Details to come" in the text during translation (2014年09月29日 13:13)
  ---
 WSJ said because it is blocked, no motivation for self-censorship. We said WSJ tried to “remedy” its defiance of Chinese censorship. (2014年09月29日 13:06)
@@ -97,8 +101,4 @@ Reuters Chinese still posts nothing about HK protests. We recommend it work for 
 .@xiucai1911 路透社中文网表示 技能Get ✓   《路透社中文和华尔街日报中文版自我审查关于香港占中的新闻》 <a href="https://zh.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">zh.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 09:29)
  ---
 RT @niubi: I was a college jr in beijing in spring of 1989, remember the hope &amp; the belief of so many that the government would never use d… (2014年09月29日 09:26)
- ---
-@LiYuan6 @niubi In fact, the block of CN WSJ is the first paragraph of our blog post. Did you even read our post? <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 09:24)
- ---
-. @LiYuan6 retweeted other media's reports of the protest 14 hours ago. Why doesn't WSJ CN not post anything until being called out? (2014年09月29日 09:17)
  ---
