@@ -63,7 +63,7 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-.@ReutersChina Weibo: HK protests likely to scare Chinese tourists away over holiday - expect drop in retail sales <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1589353923%2FBpfwXANH5%3Fmod%3Dweibotime&_rand=1411995907.3176" target="_BLANK">passport.weibo.com/visitor/visitor</a> (2014年09月29日 21:00)
+.@ReutersChina Weibo: HK protests likely to scare Chinese tourists away over holiday - expect drop in retail sales <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1589353923%2FBpfwXANH5%3Fmod%3Dweibotime&_rand=1411996204.1565" target="_BLANK">passport.weibo.com/visitor/visitor</a> (2014年09月29日 21:00)
  ---
 "The radical activists are doomed." China censors images of Hong Kong protests in TV broadcasts to mainland <a href="http://www.theguardian.com/world/2014/sep/29/china-censors-images-hong-kong-protests?CMP=twt_gu" target="_BLANK">www.theguardian.com/world/2014/sep/29/china-censors-images-hong-kong-protests</a> (2014年09月29日 20:53)
  ---
