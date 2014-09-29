@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+香港警察撤退－CNN头条 数下香港近期会上CNN头条几次。两天已经两次了。 <a href="https://twitter.com/GreatFireChina/status/516449270379995136/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516449270379995136/photo/1</a> (2014年09月29日 12:47)
+ ---
 GFW解封了南华早报中文网后，因为首页上都是关于占中的内容，只能将每篇文章网址一个个加入黑名单。 <a href="https://zh.greatfire.org/search/all/nanzao.com" target="_BLANK">zh.greatfire.org/search/all/nanzao.com</a> (2014年09月29日 12:39)
  ---
 Instagram成为微博最热门的搜索。 GFW你墙了Instagram香港人还是照样能用啊。 香港人抗议，你GFW欺负大陆人，太欺软怕硬了 <a href="https://twitter.com/GreatFireChina/status/516443879076163584/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516443879076163584/photo/1</a> (2014年09月29日 12:26)
@@ -100,6 +102,4 @@ RT @niubi: I was a college jr in beijing in spring of 1989, remember the hope &a
 RT @ChineseWSJ: 【香港警方施放催泪瓦斯驱散抗议者】- 周日，香港警方动用胡椒喷雾和催泪瓦斯，试图驱散几处进行民主示威活动的人群，这是近10年来警方对抗议者做出的最激烈回应。 <a href="http://cn.wsj.com/gb/20140929/bch075501.asp" target="_BLANK">cn.wsj.com/gb/20140929/bch075501.asp</a> <a href="https://twitter.com/ChineseWSJ/status/516378391117713409/photo/1" target="_BLANK">twitter.com/ChineseWSJ/status/516378391117713409/photo/1</a> (2014年09月29日 08:57)
  ---
 @jeffjarvis @zeynep @dangillmor 24 hours late than its English version. Wonder why. I've updated the blog post <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 08:56)
- ---
-RT @jeffjarvis: @zeynep @GreatFireChina @dangillmor Far be it from me to defend a Murdoch pub but the story is atop WSJ China now. http://t… (2014年09月29日 08:56)
  ---
