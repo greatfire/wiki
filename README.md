@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+WSJ CN just now posted HK protest related stuff after being called out self-censorhip. Nothing from Reuters CN. <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 08:13)
+ ---
 Reuters and WSJ have done some great reporting on Hong Kong protests in English. Shamfeul they are self-censoring same content in Chinese. (2014年09月29日 08:06)
  ---
 RT @oBlank: 网友修正的优酷、土豆、搜狐、奇艺、PPTV 的TV版亲测可用，除了腾讯，主流视频网站已经齐了，广电接下来怎么办？强制各大应用修改后台接口？！ <a href="https://github.com/oblank/NewTvApks" target="_BLANK">github.com/oblank/NewTvApks</a> <a href="https://twitter.com/oBlank/status/515774174976311296/photo/1" target="_BLANK">twitter.com/oBlank/status/515774174976311296/photo/1</a> (2014年09月29日 08:01)
@@ -99,6 +101,4 @@ RT @HewChen: 这话说得太对了 <a href="https://twitter.com/HewChen/status/5
 Ironically, Instagram is accessible in HK with Twitter, FB b/c HongKong doesn't have GFW, not yet at least. #OccupyCentral (2014年09月29日 02:49)
  ---
 Photos of Hong Kong protest are the reason behind the block of Instagram. <a href="https://en.greatfire.org/instagram.com" target="_BLANK">en.greatfire.org/instagram.com</a> (2014年09月29日 02:46)
- ---
-中国今日屏蔽Instagram <a href="https://zh.greatfire.org/instagram.com" target="_BLANK">zh.greatfire.org/instagram.com</a> 今年6月其安卓应用已经被下架。 (2014年09月29日 02:42)
  ---
