@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+.@guardian just started live coverage of Hong Kong protests - expect more media to pick this up at least until Oct 2 <a href="http://www.theguardian.com/world/live/2014/sep/29/hong-kong-protests-thousands-pro-democracy" target="_BLANK">www.theguardian.com/world/live/2014/sep/29/hong-kong-protests-thousands-pro-democracy</a> (2014年09月30日 03:50)
+ ---
 RT @osullivan65Tom: It is 1.18am in Hong Kong but the #UmbrellaRevolution is continuing on the streets amid rumours that Beijing is to ban.… (2014年09月30日 01:25)
  ---
 RT @MiaFarrow: Stunning photo by @daledelarey of Hong Kong tonight. <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F30%2Fworld%2Fasia%2Fhong-kong-protests.html%3Fsmid%3Dtw-share%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> <a href="https://twitter.com/DavidFurstNYT/status/516616052214857728/photo/1" target="_BLANK">twitter.com/DavidFurstNYT/status/516616052214857728/photo/1</a> via @DavidFurstNYT (2014年09月30日 01:24)
@@ -73,7 +75,7 @@ RT @KCollierWrites: In honor of Hong Kong/China, I looked at @GreatFireChina and
  ---
 Sorry - wrong call on Vine @vineapp - our latest tests show everything is a-okay  <a href="https://en.greatfire.org/vine.co" target="_BLANK">en.greatfire.org/vine.co</a> (2014年09月29日 21:17)
  ---
-.@ReutersChina Weibo: HK protests likely to scare Chinese tourists away over holiday - expect drop in retail sales <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1589353923%2FBpfwXANH5%3Fmod%3Dweibotime&_rand=1412020207.1635" target="_BLANK">passport.weibo.com/visitor/visitor</a> (2014年09月29日 21:00)
+.@ReutersChina Weibo: HK protests likely to scare Chinese tourists away over holiday - expect drop in retail sales <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1589353923%2FBpfwXANH5%3Fmod%3Dweibotime&_rand=1412020505.7241" target="_BLANK">passport.weibo.com/visitor/visitor</a> (2014年09月29日 21:00)
  ---
 "The radical activists are doomed." China censors images of Hong Kong protests in TV broadcasts to mainland <a href="http://www.theguardian.com/world/2014/sep/29/china-censors-images-hong-kong-protests?CMP=twt_gu" target="_BLANK">www.theguardian.com/world/2014/sep/29/china-censors-images-hong-kong-protests</a> (2014年09月29日 20:53)
  ---
@@ -100,6 +102,4 @@ RT @ChineseWSJ: 【香港抗议人群扩大 防暴警察撤离】- 随着时间�
 I'm living on a Chinese rock. All my best things are in hock. #OccupyCentral #HongKong <a href="https://vine.co/v/OZTd7pgweqT" target="_BLANK">vine.co/v/OZTd7pgweqT</a> via @vineapp (2014年09月29日 18:18)
  ---
 RT @niubi: Appears WSJ Chinese Wechat can only post limited selection.9.29 11:20 am update 4 example has 0 re Hong Kong protest http://t.co… (2014年09月29日 18:11)
- ---
-RT @niubi: Interesting that Wall Street Journal Chinese site blocked in China but can still publish to Wechat account <a href="https://twitter.com/niubi/status/516494469160382464/photo/1" target="_BLANK">twitter.com/niubi/status/516494469160382464/photo/1</a> (2014年09月29日 18:03)
  ---
