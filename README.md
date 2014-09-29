@@ -62,6 +62,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@LiYuan6 @niubi I know and I mentioned it in the post <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 08:54)
+ ---
+@LiYuan6 @niubi No actual coverage of the protest until 24 hours later. Within those 24 hours, the protest is the headline around the globe (2014年09月29日 08:53)
+ ---
+WSJ CN just posted an article about HK protest, 24 hours late and only after being call out for self-censorship. <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 08:51)
+ ---
 WSJ CN just now posted HK protest related stuff after being called out self-censorhip. Nothing from Reuters CN. <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 08:13)
  ---
 Reuters and WSJ have done some great reporting on Hong Kong protests in English. Shamfeul they are self-censoring same content in Chinese. (2014年09月29日 08:06)
@@ -95,10 +101,4 @@ RT @JeffreyGuterman: . @TheAPJournalist @GreatFireChina I visited <a href="http:
 @VivienneChow SCMP, good job. But Chinese WSJ and Reuters Chinese self-censor on Hong Kong democracy protest <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 05:11)
  ---
 Chinese WSJ and Reuters Chinese self-censor on Hong Kong democracy protest <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 04:42)
- ---
-RT @HewChen: 这话说得太对了 <a href="https://twitter.com/HewChen/status/516280792880660480/photo/1" target="_BLANK">twitter.com/HewChen/status/516280792880660480/photo/1</a> (2014年09月29日 02:57)
- ---
-Ironically, Instagram is accessible in HK with Twitter, FB b/c HongKong doesn't have GFW, not yet at least. #OccupyCentral (2014年09月29日 02:49)
- ---
-Photos of Hong Kong protest are the reason behind the block of Instagram. <a href="https://en.greatfire.org/instagram.com" target="_BLANK">en.greatfire.org/instagram.com</a> (2014年09月29日 02:46)
  ---
