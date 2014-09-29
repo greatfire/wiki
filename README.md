@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @niubi: Appears WSJ Chinese Wechat can only post limited selection.9.29 11:20 am update 4 example has 0 re Hong Kong protest http://t.co… (2014年09月29日 18:11)
+ ---
 RT @niubi: Interesting that Wall Street Journal Chinese site blocked in China but can still publish to Wechat account <a href="https://twitter.com/niubi/status/516494469160382464/photo/1" target="_BLANK">twitter.com/niubi/status/516494469160382464/photo/1</a> (2014年09月29日 18:03)
  ---
 .@ChineseWSJ denies that they self-censored on stories about Hong Kong protests. Our response here:
@@ -102,6 +104,4 @@ WSJ editors @gerardtbaker and @LiYuan6 didn't even read the FIRST paragraph of o
 . @iandenisjohnson @gerardtbaker @JamesFallows We mentioned that WSJ blocked in China in the FIRST paragraph. <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 12:58)
  ---
 @gerardtbaker We know WSJ is blocked. We broke the news in June. We mentioned that in the FIRST paragraph. <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 12:56)
- ---
-香港警察撤退－CNN头条 数下香港近期会上CNN头条几次。两天已经两次了。 <a href="https://twitter.com/GreatFireChina/status/516449270379995136/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516449270379995136/photo/1</a> (2014年09月29日 12:47)
  ---
