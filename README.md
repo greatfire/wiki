@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Instagram成为微博最热门的搜索。 GFW你墙了Instagram香港人还是照样能用啊。 香港人抗议，你GFW欺负大陆人，太欺软怕硬了 <a href="https://twitter.com/GreatFireChina/status/516443879076163584/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516443879076163584/photo/1</a> (2014年09月29日 12:26)
+ ---
 #ins top search on weibo after Instagram was blocked b/c HK protest. <a href="https://twitter.com/GreatFireChina/status/516443390888534017/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516443390888534017/photo/1</a> (2014年09月29日 12:24)
  ---
 One Chinese user: Best of all the Instagram. #BlockedinChina <a href="https://twitter.com/GreatFireChina/status/516440878550757377/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516440878550757377/photo/1</a> (2014年09月29日 12:14)
@@ -100,6 +102,4 @@ RT @ChineseWSJ: 【香港警方施放催泪瓦斯驱散抗议者】- 周日，�
 RT @jeffjarvis: @zeynep @GreatFireChina @dangillmor Far be it from me to defend a Murdoch pub but the story is atop WSJ China now. http://t… (2014年09月29日 08:56)
  ---
 @LiYuan6 Can you explain why the Chinese version covers the protest 24 hours later than the English one? (2014年09月29日 08:55)
- ---
-@LiYuan6 @niubi No actual coverage of the protest until 24 hours later. Within those 24 hours, the protest is the headline around the globe (2014年09月29日 08:53)
  ---
