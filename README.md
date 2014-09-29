@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+GFW好不容易逼路透社中文和华尔街中文自我审查了香港占中内容。但我们一曝光，这两中文网马上把占中内容放到了头条，GFW枉费心机。 (2014年09月29日 15:36)
+ ---
 路透社中文网终于发表关于香港占中的报道，比一般英文媒体迟了30小时。 估计因为我们揭发了它自我审查才发篇文章做做样子 <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/181" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年09月29日 14:57)
  ---
 Reuters Chinese, do you only report about HK protest because we called you out for self-censorship? Its "news" is 30 hours late (2014年09月29日 14:55)
@@ -101,6 +103,4 @@ One Chinese user: Best of all the Instagram. #BlockedinChina <a href="https://tw
 假装在纽约: 今天Instagram上最让人惊叹的九张图。 <a href="https://freeweibo.com/weibo/3760094519141882" target="_BLANK">freeweibo.com/weibo/3760094519141882</a> 呵呵 <a href="https://twitter.com/GreatFireChina/status/516440575772336128/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516440575772336128/photo/1</a> (2014年09月29日 12:13)
  ---
 .@ynliuwq @ChineseWSJ 这个我们也考虑了。但全球头条要隔24小时才发是在匪夷所思。纽约时报，南华早报等也需要翻译，但都即使发布了。 (2014年09月29日 10:16)
- ---
-Reuters Chinese still posts nothing about HK protests. We recommend it work for @XHNews. (2014年09月29日 10:14)
  ---
