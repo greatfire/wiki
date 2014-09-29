@@ -63,13 +63,15 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @MiaFarrow: Stunning photo by @daledelarey of Hong Kong tonight. <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F30%2Fworld%2Fasia%2Fhong-kong-protests.html%3Fsmid%3Dtw-share%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> <a href="https://twitter.com/DavidFurstNYT/status/516616052214857728/photo/1" target="_BLANK">twitter.com/DavidFurstNYT/status/516616052214857728/photo/1</a> via @DavidFurstNYT (2014年09月30日 01:24)
+ ---
 Fear and loathing in Tor network <a href="http://kernelmag.dailydot.com/issue-sections/features-issue-sections/10386/tor-network-surveillance/" target="_BLANK">kernelmag.dailydot.com/issue-sections/features-issue-sections/10386/tor-network-surveillance/</a> work w/ people who r under surveillance eventually you will be surveilled @abditum (2014年09月30日 00:36)
  ---
 RT @KCollierWrites: In honor of Hong Kong/China, I looked at @GreatFireChina and listed the biggest sites blocked by the Great Firewall: ht… (2014年09月30日 00:18)
  ---
 Sorry - wrong call on Vine @vineapp - our latest tests show everything is a-okay  <a href="https://en.greatfire.org/vine.co" target="_BLANK">en.greatfire.org/vine.co</a> (2014年09月29日 21:17)
  ---
-.@ReutersChina Weibo: HK protests likely to scare Chinese tourists away over holiday - expect drop in retail sales <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1589353923%2FBpfwXANH5%3Fmod%3Dweibotime&_rand=1412011206.1169" target="_BLANK">passport.weibo.com/visitor/visitor</a> (2014年09月29日 21:00)
+.@ReutersChina Weibo: HK protests likely to scare Chinese tourists away over holiday - expect drop in retail sales <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1589353923%2FBpfwXANH5%3Fmod%3Dweibotime&_rand=1412011508.3686" target="_BLANK">passport.weibo.com/visitor/visitor</a> (2014年09月29日 21:00)
  ---
 "The radical activists are doomed." China censors images of Hong Kong protests in TV broadcasts to mainland <a href="http://www.theguardian.com/world/2014/sep/29/china-censors-images-hong-kong-protests?CMP=twt_gu" target="_BLANK">www.theguardian.com/world/2014/sep/29/china-censors-images-hong-kong-protests</a> (2014年09月29日 20:53)
  ---
@@ -101,6 +103,4 @@ RT @niubi: Interesting that Wall Street Journal Chinese site blocked in China bu
  ---
 .@ChineseWSJ denies that they self-censored on stories about Hong Kong protests. Our response here:
 <a href="https://en.greatfire.org/blog/2014/sep/wall-street-journal-chinese-denies-self-censorship" target="_BLANK">en.greatfire.org/blog/2014/sep/wall-street-journal-chinese-denies-self-censorship</a> (2014年09月29日 17:51)
- ---
-.@LiYuan6 @gerardtbaker how come u didn't run Chinese translation of title of English story with "more details 2 follow" as is normally done (2014年09月29日 16:58)
  ---
