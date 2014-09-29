@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Reuters Chinese also published an article about the protest, 30 hours late. <a href="http://cn.reuters.com/article/CNTopGenNews/idCNKCS0HO06M20140929" target="_BLANK">cn.reuters.com/article/CNTopGenNews/idCNKCS0HO06M20140929</a> (2014年09月29日 14:53)
+ ---
 RT @cthreepwood: @GreatFireChina @WSJ if reporters busy or office understaffed just explain.
 “We’ve been blocked in China” misses point ent… (2014年09月29日 13:20)
  ---
@@ -100,6 +102,4 @@ Reuters Chinese still posts nothing about HK protests. We recommend it work for 
 华尔街日报中文良心发现，对占中进行了报告。路透社中文网仍然什么都没有，建议投靠环球时报算了。 (2014年09月29日 10:12)
  ---
 @LiYuan6 Can WSJ CN make an official statement that it has not self-censored China related articles and will not do so in the future? (2014年09月29日 09:48)
- ---
-.@xiucai1911 路透社中文网表示 技能Get ✓   《路透社中文和华尔街日报中文版自我审查关于香港占中的新闻》 <a href="https://zh.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">zh.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 09:29)
  ---
