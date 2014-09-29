@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Reuters Chinese still posts nothing about HK protests. We recommend it work for @XHNews. (2014年09月29日 10:14)
+ ---
+华尔街日报中文良心发现，对占中进行了报告。路透社中文网仍然什么都没有，建议投靠环球时报算了。 (2014年09月29日 10:12)
+ ---
 @LiYuan6 Can WSJ CN make an official statement that it has not self-censored China related articles and will not do so in the future? (2014年09月29日 09:48)
  ---
 .@xiucai1911 路透社中文网表示 技能Get ✓   《路透社中文和华尔街日报中文版自我审查关于香港占中的新闻》 <a href="https://zh.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">zh.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 09:29)
@@ -98,8 +102,4 @@ WSJ CN just now posted HK protest related stuff after being called out self-cens
 Reuters and WSJ have done some great reporting on Hong Kong protests in English. Shamfeul they are self-censoring same content in Chinese. (2014年09月29日 08:06)
  ---
 RT @oBlank: 网友修正的优酷、土豆、搜狐、奇艺、PPTV 的TV版亲测可用，除了腾讯，主流视频网站已经齐了，广电接下来怎么办？强制各大应用修改后台接口？！ <a href="https://github.com/oblank/NewTvApks" target="_BLANK">github.com/oblank/NewTvApks</a> <a href="https://twitter.com/oBlank/status/515774174976311296/photo/1" target="_BLANK">twitter.com/oBlank/status/515774174976311296/photo/1</a> (2014年09月29日 08:01)
- ---
-香港民主示威 路透社和华尔街日报中文网“失声 <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/181" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年09月29日 06:11)
- ---
-RT @killerdarkGhost: @GreatFireChina 这俩破报社的中文网关了算了，要么就直接投奔到中宣部门下成为坏球屎报的兄弟好了！ (2014年09月29日 06:04)
  ---
