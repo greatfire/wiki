@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@LiYuan6 @niubi In fact, the block of CN WSJ is the first paragraph of our blog post. Did you even read our post? <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 09:24)
+ ---
 . @LiYuan6 retweeted other media's reports of the protest 14 hours ago. Why doesn't WSJ CN not post anything until being called out? (2014年09月29日 09:17)
  ---
 .@LiYuan6 In fact, it will be more damaging if you claim that WSJ CN is incapable of covering such an event within 24 hours. (2014年09月29日 09:05)
@@ -75,19 +77,17 @@
  ---
 RT @ChineseWSJ: 【香港警方施放催泪瓦斯驱散抗议者】- 周日，香港警方动用胡椒喷雾和催泪瓦斯，试图驱散几处进行民主示威活动的人群，这是近10年来警方对抗议者做出的最激烈回应。 <a href="http://cn.wsj.com/gb/20140929/bch075501.asp" target="_BLANK">cn.wsj.com/gb/20140929/bch075501.asp</a> <a href="https://twitter.com/ChineseWSJ/status/516378391117713409/photo/1" target="_BLANK">twitter.com/ChineseWSJ/status/516378391117713409/photo/1</a> (2014年09月29日 08:57)
  ---
-@jeffjarvis @zeynep @dangillmor 24 hours late than its English version. Wonder why. I've updated the blog post <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 08:56)
+@jeffjarvis @zeynep @dangillmor 24 hours late than its English version. Wonder why. I've updated the blog post <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 08:56)
  ---
 RT @jeffjarvis: @zeynep @GreatFireChina @dangillmor Far be it from me to defend a Murdoch pub but the story is atop WSJ China now. http://t… (2014年09月29日 08:56)
  ---
 @LiYuan6 Can you explain why the Chinese version covers the protest 24 hours later than the English one? (2014年09月29日 08:55)
  ---
-@LiYuan6 @niubi I know and I mentioned it in the post <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 08:54)
- ---
 @LiYuan6 @niubi No actual coverage of the protest until 24 hours later. Within those 24 hours, the protest is the headline around the globe (2014年09月29日 08:53)
  ---
-WSJ CN just posted an article about HK protest, 24 hours late and only after being call out for self-censorship. <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 08:51)
+WSJ CN just posted an article about HK protest, 24 hours late and only after being call out for self-censorship. <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 08:51)
  ---
-WSJ CN just now posted HK protest related stuff after being called out self-censorhip. Nothing from Reuters CN. <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 08:13)
+WSJ CN just now posted HK protest related stuff after being called out self-censorhip. Nothing from Reuters CN. <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 08:13)
  ---
 Reuters and WSJ have done some great reporting on Hong Kong protests in English. Shamfeul they are self-censoring same content in Chinese. (2014年09月29日 08:06)
  ---
