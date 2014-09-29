@@ -63,7 +63,9 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-.@ReutersChina Weibo: HK protests likely to scare Chinese tourists away over holiday - expect drop in retail sales <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1589353923%2FBpfwXANH5%3Fmod%3Dweibotime&_rand=1411996509.8107" target="_BLANK">passport.weibo.com/visitor/visitor</a> (2014年09月29日 21:00)
+Sorry - wrong call on Vine @vineapp - our latest tests show everything is a-okay  <a href="https://en.greatfire.org/vine.co" target="_BLANK">en.greatfire.org/vine.co</a> (2014年09月29日 21:17)
+ ---
+.@ReutersChina Weibo: HK protests likely to scare Chinese tourists away over holiday - expect drop in retail sales <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1589353923%2FBpfwXANH5%3Fmod%3Dweibotime&_rand=1411996803.6548" target="_BLANK">passport.weibo.com/visitor/visitor</a> (2014年09月29日 21:00)
  ---
 "The radical activists are doomed." China censors images of Hong Kong protests in TV broadcasts to mainland <a href="http://www.theguardian.com/world/2014/sep/29/china-censors-images-hong-kong-protests?CMP=twt_gu" target="_BLANK">www.theguardian.com/world/2014/sep/29/china-censors-images-hong-kong-protests</a> (2014年09月29日 20:53)
  ---
@@ -101,6 +103,4 @@ RT @niubi: Interesting that Wall Street Journal Chinese site blocked in China bu
 .@LiYuan6 @niubi sorry but a blocked website in china ≠ no self-censorship. Our point - maybe u are trying to make amends by self-censoring. (2014年09月29日 16:42)
  ---
 Someone made this image in July. Today we have the answer: Instagram <a href="https://twitter.com/GreatFireChina/status/516494524894289920/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516494524894289920/photo/1</a> (2014年09月29日 15:47)
- ---
-Instagram被封锁，请各位把翻墙方式转发到国内 <a href="https://edgecastcdn.net/00107ED/lantern/?u=viewtopic.php?f=1&t=15" target="_BLANK">edgecastcdn.net/00107ED/lantern/</a> (2014年09月29日 15:41)
  ---
