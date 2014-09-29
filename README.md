@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+.@xiucai1911 路透社中文网表示 技能Get ✓   《路透社中文和华尔街日报中文版自我审查关于香港占中的新闻》 <a href="https://zh.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">zh.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 09:29)
+ ---
+RT @niubi: I was a college jr in beijing in spring of 1989, remember the hope &amp; the belief of so many that the government would never use d… (2014年09月29日 09:26)
+ ---
 @LiYuan6 @niubi In fact, the block of CN WSJ is the first paragraph of our blog post. Did you even read our post? <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 09:24)
  ---
 . @LiYuan6 retweeted other media's reports of the protest 14 hours ago. Why doesn't WSJ CN not post anything until being called out? (2014年09月29日 09:17)
@@ -98,8 +102,4 @@ RT @oBlank: 网友修正的优酷、土豆、搜狐、奇艺、PPTV 的TV版亲�
 RT @killerdarkGhost: @GreatFireChina 这俩破报社的中文网关了算了，要么就直接投奔到中宣部门下成为坏球屎报的兄弟好了！ (2014年09月29日 06:04)
  ---
 HK protest caused @telegram to be DDosed with 150Gb/s, similar to the attack against popvote. Instagram blocked b/c of protest photos. (2014年09月29日 06:01)
- ---
-RT @telegram: Detecting a 150+ Gbit/s DDoS now, an attack three times as large as yesterday's. (2014年09月29日 05:58)
- ---
-RT @GuestsZhen: telegram 的服务器正在遭受DDOS攻击。 telegram亦是本次香港现场群众重要的安全网络通信工具之一。 @telegram Detecting a 150+ Gbit/s DDoS now, an attack… http://t.c… (2014年09月29日 05:57)
  ---
