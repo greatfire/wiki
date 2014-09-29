@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+GFW解封了南华早报中文网后，因为首页上都是关于占中的内容，只能将每篇文章网址一个个加入黑名单。 <a href="https://zh.greatfire.org/search/all/nanzao.com" target="_BLANK">zh.greatfire.org/search/all/nanzao.com</a> (2014年09月29日 12:39)
+ ---
 Instagram成为微博最热门的搜索。 GFW你墙了Instagram香港人还是照样能用啊。 香港人抗议，你GFW欺负大陆人，太欺软怕硬了 <a href="https://twitter.com/GreatFireChina/status/516443879076163584/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516443879076163584/photo/1</a> (2014年09月29日 12:26)
  ---
 #ins top search on weibo after Instagram was blocked b/c HK protest. <a href="https://twitter.com/GreatFireChina/status/516443390888534017/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516443390888534017/photo/1</a> (2014年09月29日 12:24)
@@ -100,6 +102,4 @@ RT @ChineseWSJ: 【香港警方施放催泪瓦斯驱散抗议者】- 周日，�
 @jeffjarvis @zeynep @dangillmor 24 hours late than its English version. Wonder why. I've updated the blog post <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 08:56)
  ---
 RT @jeffjarvis: @zeynep @GreatFireChina @dangillmor Far be it from me to defend a Murdoch pub but the story is atop WSJ China now. http://t… (2014年09月29日 08:56)
- ---
-@LiYuan6 Can you explain why the Chinese version covers the protest 24 hours later than the English one? (2014年09月29日 08:55)
  ---
