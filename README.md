@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Someone made this image in July. Today we have the answer: Instagram <a href="https://twitter.com/GreatFireChina/status/516494524894289920/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516494524894289920/photo/1</a> (2014年09月29日 15:47)
+ ---
 Instagram被封锁，请各位把翻墙方式转发到国内 <a href="https://edgecastcdn.net/00107ED/lantern/?u=viewtopic.php?f=1&t=15" target="_BLANK">edgecastcdn.net/00107ED/lantern/</a> (2014年09月29日 15:41)
  ---
 GFW好不容易逼路透社中文和华尔街中文自我审查了香港占中内容。但我们一曝光，这两中文网马上把占中内容放到了头条，GFW枉费心机。 (2014年09月29日 15:36)
@@ -101,6 +103,4 @@ Instagram成为微博最热门的搜索。 GFW你墙了Instagram香港人还是�
 #ins top search on weibo after Instagram was blocked b/c HK protest. <a href="https://twitter.com/GreatFireChina/status/516443390888534017/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516443390888534017/photo/1</a> (2014年09月29日 12:24)
  ---
 One Chinese user: Best of all the Instagram. #BlockedinChina <a href="https://twitter.com/GreatFireChina/status/516440878550757377/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516440878550757377/photo/1</a> (2014年09月29日 12:14)
- ---
-假装在纽约: 今天Instagram上最让人惊叹的九张图。 <a href="https://freeweibo.com/weibo/3760094519141882" target="_BLANK">freeweibo.com/weibo/3760094519141882</a> 呵呵 <a href="https://twitter.com/GreatFireChina/status/516440575772336128/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516440575772336128/photo/1</a> (2014年09月29日 12:13)
  ---
