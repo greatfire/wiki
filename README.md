@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+.@ReutersChina Weibo: HK protests likely to scare Chinese tourists away over holiday - expect drop in retail sales <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1589353923%2FBpfwXANH5%3Fmod%3Dweibotime&_rand=1411995907.3176" target="_BLANK">passport.weibo.com/visitor/visitor</a> (2014年09月29日 21:00)
+ ---
 "The radical activists are doomed." China censors images of Hong Kong protests in TV broadcasts to mainland <a href="http://www.theguardian.com/world/2014/sep/29/china-censors-images-hong-kong-protests?CMP=twt_gu" target="_BLANK">www.theguardian.com/world/2014/sep/29/china-censors-images-hong-kong-protests</a> (2014年09月29日 20:53)
  ---
 @PaulCarsten @SirSteven @vineapp not a small number of posts being shared <a href="https://vine.co/tags/Occupycentral" target="_BLANK">vine.co/tags/Occupycentral</a> (2014年09月29日 20:22)
@@ -101,6 +103,4 @@ RT @niubi: Interesting that Wall Street Journal Chinese site blocked in China bu
 Someone made this image in July. Today we have the answer: Instagram <a href="https://twitter.com/GreatFireChina/status/516494524894289920/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516494524894289920/photo/1</a> (2014年09月29日 15:47)
  ---
 Instagram被封锁，请各位把翻墙方式转发到国内 <a href="https://edgecastcdn.net/00107ED/lantern/?u=viewtopic.php?f=1&t=15" target="_BLANK">edgecastcdn.net/00107ED/lantern/</a> (2014年09月29日 15:41)
- ---
-GFW好不容易逼路透社中文和华尔街中文自我审查了香港占中内容。但我们一曝光，这两中文网马上把占中内容放到了头条，GFW枉费心机。 (2014年09月29日 15:36)
  ---
