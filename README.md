@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+One Chinese user: Best of all the Instagram. #BlockedinChina <a href="https://twitter.com/GreatFireChina/status/516440878550757377/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516440878550757377/photo/1</a> (2014年09月29日 12:14)
+ ---
+假装在纽约: 今天Instagram上最让人惊叹的九张图。 <a href="https://freeweibo.com/weibo/3760094519141882" target="_BLANK">freeweibo.com/weibo/3760094519141882</a> 呵呵 <a href="https://twitter.com/GreatFireChina/status/516440575772336128/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516440575772336128/photo/1</a> (2014年09月29日 12:13)
+ ---
 .@ynliuwq @ChineseWSJ 这个我们也考虑了。但全球头条要隔24小时才发是在匪夷所思。纽约时报，南华早报等也需要翻译，但都即使发布了。 (2014年09月29日 10:16)
  ---
 Reuters Chinese still posts nothing about HK protests. We recommend it work for @XHNews. (2014年09月29日 10:14)
@@ -98,8 +102,4 @@ RT @jeffjarvis: @zeynep @GreatFireChina @dangillmor Far be it from me to defend 
 @LiYuan6 @niubi No actual coverage of the protest until 24 hours later. Within those 24 hours, the protest is the headline around the globe (2014年09月29日 08:53)
  ---
 WSJ CN just posted an article about HK protest, 24 hours late and only after being call out for self-censorship. <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 08:51)
- ---
-WSJ CN just now posted HK protest related stuff after being called out self-censorhip. Nothing from Reuters CN. <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 08:13)
- ---
-Reuters and WSJ have done some great reporting on Hong Kong protests in English. Shamfeul they are self-censoring same content in Chinese. (2014年09月29日 08:06)
  ---
