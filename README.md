@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+It appears that Vine @vineapp was blocked in China today which comes as a surprise to exactly nobody. <a href="https://en.greatfire.org/vine.co" target="_BLANK">en.greatfire.org/vine.co</a> (2014年09月29日 20:03)
+ ---
 RT @AdamMinter: Hong Kong's business community needs to speak up for the students in the streets. <a href="http://www.bloombergview.com/articles/2014-09-29/defending-hong-kong-s-students" target="_BLANK">www.bloombergview.com/articles/2014-09-29/defending-hong-kong-s-students</a> by me for @bv (2014年09月29日 19:33)
  ---
 Chinese censors are trying to erase Hong Kong’s pro-democracy movement <a href="http://qz.com/272690/chinese-censors-are-trying-to-erase-hong-kongs-pro-democracy-movement/" target="_BLANK">qz.com/272690/chinese-censors-are-trying-to-erase-hong-kongs-pro-democracy-movement/</a> via @lilkuo (2014年09月29日 19:23)
@@ -102,6 +104,4 @@ RT @JamesFallows: @gerardtbaker @iandenisjohnson … between its English and Chi
 @niubi @iandenisjohnson @gerardtbaker @JamesFallows Example: <a href="http://cn.wsj.com/gb/20140423/BCH094835.asp" target="_BLANK">cn.wsj.com/gb/20140423/BCH094835.asp</a> We have 12,600 examples <a href="https://www.google.com/search?q=%E8%AF%B7%E7%9C%8B%E7%A8%8D%E5%90%8E%E8%AF%A6%E7%BB%86%E6%8A%A5%E9%81%93&oq=%E8%AF%B7%E7%9C%8B%E7%A8%8D%E5%90%8E%E8%AF%A6%E7%BB%86%E6%8A%A5%E9%81%93&aqs=chrome..69i57.3992j0j7&sourceid=chrome&es_sm=91&ie=UTF-8#q=%E8%AF%B7%E7%9C%8B%E7%A8%8D%E5%90%8E%E8%AF%A6%E7%BB%86%E6%8A%A5%E9%81%93+site:cn.wsj.com&start=0" target="_BLANK">www.google.com/search</a> (2014年09月29日 13:15)
  ---
 @niubi @iandenisjohnson @gerardtbaker @JamesFallows No. WSJ CN usually posts a title and "Details to come" in the text during translation (2014年09月29日 13:13)
- ---
-WSJ said because it is blocked, no motivation for self-censorship. We said WSJ tried to “remedy” its defiance of Chinese censorship. (2014年09月29日 13:06)
  ---
