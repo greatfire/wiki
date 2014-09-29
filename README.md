@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Chinese censors are trying to erase Hong Kong’s pro-democracy movement <a href="http://qz.com/272690/chinese-censors-are-trying-to-erase-hong-kongs-pro-democracy-movement/" target="_BLANK">qz.com/272690/chinese-censors-are-trying-to-erase-hong-kongs-pro-democracy-movement/</a> via @lilkuo (2014年09月29日 19:23)
+ ---
 RT @ChineseWSJ: 【香港抗议人群扩大 防暴警察撤离】- 随着时间的推移，香港“占领中环”运动规模扩大，抗议者在香港的三个重要地区聚集，而前夜用催泪弹和胡椒粉未能驱散人群的防暴警察已经撤离。<a href="http://cn.wsj.com/gb/20140929/bch075501.asp" target="_BLANK">cn.wsj.com/gb/20140929/bch075501.asp</a> (Reuters) http:… (2014年09月29日 19:19)
  ---
 I'm living on a Chinese rock. All my best things are in hock. #OccupyCentral #HongKong <a href="https://vine.co/v/OZTd7pgweqT" target="_BLANK">vine.co/v/OZTd7pgweqT</a> via @vineapp (2014年09月29日 18:18)
@@ -102,6 +104,4 @@ RT @JamesFallows: @gerardtbaker @iandenisjohnson … between its English and Chi
 WSJ said because it is blocked, no motivation for self-censorship. We said WSJ tried to “remedy” its defiance of Chinese censorship. (2014年09月29日 13:06)
  ---
 @cthreepwood @niubi @iandenisjohnson @gerardtbaker @JamesFallows NYT Chinese/SCMP Chinese/FT Chinese/ BBC Chinese all post in time. (2014年09月29日 13:03)
- ---
-WSJ editors @gerardtbaker and @LiYuan6 didn't even read the FIRST paragraph of our story before commenting <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 13:02)
  ---
