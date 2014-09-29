@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @oBlank: 网友修正的优酷、土豆、搜狐、奇艺、PPTV 的TV版亲测可用，除了腾讯，主流视频网站已经齐了，广电接下来怎么办？强制各大应用修改后台接口？！ <a href="https://github.com/oblank/NewTvApks" target="_BLANK">github.com/oblank/NewTvApks</a> <a href="https://twitter.com/oBlank/status/515774174976311296/photo/1" target="_BLANK">twitter.com/oBlank/status/515774174976311296/photo/1</a> (2014年09月29日 08:01)
+ ---
 香港民主示威 路透社和华尔街日报中文网“失声 <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/181" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年09月29日 06:11)
  ---
 RT @killerdarkGhost: @GreatFireChina 这俩破报社的中文网关了算了，要么就直接投奔到中宣部门下成为坏球屎报的兄弟好了！ (2014年09月29日 06:04)
@@ -99,6 +101,4 @@ Photos of Hong Kong protest are the reason behind the block of Instagram. <a hre
 中国今日屏蔽Instagram <a href="https://zh.greatfire.org/instagram.com" target="_BLANK">zh.greatfire.org/instagram.com</a> 今年6月其安卓应用已经被下架。 (2014年09月29日 02:42)
  ---
 Instagram blocked in China today. <a href="https://en.greatfire.org/instagram.com" target="_BLANK">en.greatfire.org/instagram.com</a> Its app was taken down in China in July this year. (2014年09月29日 01:44)
- ---
-香港学生民主运动拉开“占领中环”序幕 <a href="http://cn.nytimes.com/china/20140928/c28hongkong/" target="_BLANK">cn.nytimes.com/china/20140928/c28hongkong/</a> (2014年09月28日 23:56)
  ---
