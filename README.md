@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+.@ynliuwq @ChineseWSJ 这个我们也考虑了。但全球头条要隔24小时才发是在匪夷所思。纽约时报，南华早报等也需要翻译，但都即使发布了。 (2014年09月29日 10:16)
+ ---
 Reuters Chinese still posts nothing about HK protests. We recommend it work for @XHNews. (2014年09月29日 10:14)
  ---
 华尔街日报中文良心发现，对占中进行了报告。路透社中文网仍然什么都没有，建议投靠环球时报算了。 (2014年09月29日 10:12)
@@ -100,6 +102,4 @@ WSJ CN just posted an article about HK protest, 24 hours late and only after bei
 WSJ CN just now posted HK protest related stuff after being called out self-censorhip. Nothing from Reuters CN. <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 08:13)
  ---
 Reuters and WSJ have done some great reporting on Hong Kong protests in English. Shamfeul they are self-censoring same content in Chinese. (2014年09月29日 08:06)
- ---
-RT @oBlank: 网友修正的优酷、土豆、搜狐、奇艺、PPTV 的TV版亲测可用，除了腾讯，主流视频网站已经齐了，广电接下来怎么办？强制各大应用修改后台接口？！ <a href="https://github.com/oblank/NewTvApks" target="_BLANK">github.com/oblank/NewTvApks</a> <a href="https://twitter.com/oBlank/status/515774174976311296/photo/1" target="_BLANK">twitter.com/oBlank/status/515774174976311296/photo/1</a> (2014年09月29日 08:01)
  ---
