@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+路透社中文网终于发表关于香港占中的报道，比一般英文媒体迟了30小时。 估计因为我们揭发了它自我审查才发篇文章做做样子 <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/181" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年09月29日 14:57)
+ ---
+Reuters Chinese, do you only report about HK protest because we called you out for self-censorship? Its "news" is 30 hours late (2014年09月29日 14:55)
+ ---
 Reuters Chinese also published an article about the protest, 30 hours late. <a href="http://cn.reuters.com/article/CNTopGenNews/idCNKCS0HO06M20140929" target="_BLANK">cn.reuters.com/article/CNTopGenNews/idCNKCS0HO06M20140929</a> (2014年09月29日 14:53)
  ---
 RT @cthreepwood: @GreatFireChina @WSJ if reporters busy or office understaffed just explain.
@@ -98,8 +102,4 @@ One Chinese user: Best of all the Instagram. #BlockedinChina <a href="https://tw
 .@ynliuwq @ChineseWSJ 这个我们也考虑了。但全球头条要隔24小时才发是在匪夷所思。纽约时报，南华早报等也需要翻译，但都即使发布了。 (2014年09月29日 10:16)
  ---
 Reuters Chinese still posts nothing about HK protests. We recommend it work for @XHNews. (2014年09月29日 10:14)
- ---
-华尔街日报中文良心发现，对占中进行了报告。路透社中文网仍然什么都没有，建议投靠环球时报算了。 (2014年09月29日 10:12)
- ---
-@LiYuan6 Can WSJ CN make an official statement that it has not self-censored China related articles and will not do so in the future? (2014年09月29日 09:48)
  ---
