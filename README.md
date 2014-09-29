@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@cthreepwood @niubi @iandenisjohnson @gerardtbaker @JamesFallows NYT Chinese/SCMP Chinese/FT Chinese/ BBC Chinese all post in time. (2014年09月29日 13:03)
+ ---
+WSJ editors @gerardtbaker and @LiYuan6 didn't even read the FIRST paragraph of our story before commenting <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 13:02)
+ ---
 . @iandenisjohnson @gerardtbaker @JamesFallows We mentioned that WSJ blocked in China in the FIRST paragraph. <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 12:58)
  ---
 @gerardtbaker We know WSJ is blocked. We broke the news in June. We mentioned that in the FIRST paragraph. <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 12:56)
@@ -97,9 +101,4 @@ RT @niubi: I was a college jr in beijing in spring of 1989, remember the hope &a
 .@LiYuan6 In fact, it will be more damaging if you claim that WSJ CN is incapable of covering such an event within 24 hours. (2014年09月29日 09:05)
  ---
 @LiYuan6 I've already updated our post to indicate that WSJ CN just posted an article about the protest, just 24 hours late. (2014年09月29日 09:04)
- ---
-@LiYuan6 @niubi We have monitored censorship in China for years, including self-censorship. We're the first to point out WSJ was blocked. (2014年09月29日 09:02)
- ---
-华尔街日报中文版终于报道了关于香港占中。中文版报道相比英文版晚了24小时，而且是在我们发布华尔街日报中文版和路透社中文版自我审查的博文后才发布
-@ChineseWSJ (2014年09月29日 08:59)
  ---
