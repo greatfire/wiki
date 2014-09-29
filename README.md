@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@NBtrade7 @hu_jia 文章墙内可以访问。 (2014年09月30日 07:40)
+ ---
 RT @roanmartigan: @GreatFireChina @niubi @ChineseWSJ Maybe self censorship is too strong. "Lack of commitment" to the Chinese readership ma… (2014年09月30日 07:14)
  ---
 @deryckchan @hkdemonow 今年6月解封了， <a href="https://en.greatfire.org/www.theguardian.com" target="_BLANK">en.greatfire.org/www.theguardian.com</a> (2014年09月30日 07:12)
@@ -91,7 +93,7 @@ RT @KCollierWrites: In honor of Hong Kong/China, I looked at @GreatFireChina and
  ---
 Sorry - wrong call on Vine @vineapp - our latest tests show everything is a-okay  <a href="https://en.greatfire.org/vine.co" target="_BLANK">en.greatfire.org/vine.co</a> (2014年09月29日 21:17)
  ---
-.@ReutersChina Weibo: HK protests likely to scare Chinese tourists away over holiday - expect drop in retail sales <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1589353923%2FBpfwXANH5%3Fmod%3Dweibotime&_rand=1412034009.4877" target="_BLANK">passport.weibo.com/visitor/visitor</a> (2014年09月29日 21:00)
+.@ReutersChina Weibo: HK protests likely to scare Chinese tourists away over holiday - expect drop in retail sales <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1589353923%2FBpfwXANH5%3Fmod%3Dweibotime&_rand=1412034309.9826" target="_BLANK">passport.weibo.com/visitor/visitor</a> (2014年09月29日 21:00)
  ---
 "The radical activists are doomed." China censors images of Hong Kong protests in TV broadcasts to mainland <a href="http://www.theguardian.com/world/2014/sep/29/china-censors-images-hong-kong-protests?CMP=twt_gu" target="_BLANK">www.theguardian.com/world/2014/sep/29/china-censors-images-hong-kong-protests</a> (2014年09月29日 20:53)
  ---
@@ -100,6 +102,4 @@ Sorry - wrong call on Vine @vineapp - our latest tests show everything is a-okay
 RT @horwitzjosh: @PaulCarsten @GreatFireChina @vineapp Working fine for TIA in afternoon and just now, got our eye on it. (2014年09月29日 20:20)
  ---
 @PaulCarsten @vineapp might be wrong on this but might also be the case that we caught it early and the block is filtering down (2014年09月29日 20:17)
- ---
-RT @jasonfeng7: @GreatFireChina @vineapp It's not blocked here in Shenzhen so far. I can still use it and visit the website. (2014年09月29日 20:16)
  ---
