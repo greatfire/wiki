@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+.@LiYuan6 @gerardtbaker how come u didn't run Chinese translation of title of English story with "more details 2 follow" as is normally done (2014年09月29日 16:58)
+ ---
 .@LiYuan6 @niubi sorry but a blocked website in china ≠ no self-censorship. Our point - maybe u are trying to make amends by self-censoring. (2014年09月29日 16:42)
  ---
 Someone made this image in July. Today we have the answer: Instagram <a href="https://twitter.com/GreatFireChina/status/516494524894289920/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516494524894289920/photo/1</a> (2014年09月29日 15:47)
@@ -101,6 +103,4 @@ WSJ editors @gerardtbaker and @LiYuan6 didn't even read the FIRST paragraph of o
 GFW解封了南华早报中文网后，因为首页上都是关于占中的内容，只能将每篇文章网址一个个加入黑名单。 <a href="https://zh.greatfire.org/search/all/nanzao.com" target="_BLANK">zh.greatfire.org/search/all/nanzao.com</a> (2014年09月29日 12:39)
  ---
 Instagram成为微博最热门的搜索。 GFW你墙了Instagram香港人还是照样能用啊。 香港人抗议，你GFW欺负大陆人，太欺软怕硬了 <a href="https://twitter.com/GreatFireChina/status/516443879076163584/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516443879076163584/photo/1</a> (2014年09月29日 12:26)
- ---
-#ins top search on weibo after Instagram was blocked b/c HK protest. <a href="https://twitter.com/GreatFireChina/status/516443390888534017/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516443390888534017/photo/1</a> (2014年09月29日 12:24)
  ---
