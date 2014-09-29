@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+"The radical activists are doomed." China censors images of Hong Kong protests in TV broadcasts to mainland <a href="http://www.theguardian.com/world/2014/sep/29/china-censors-images-hong-kong-protests?CMP=twt_gu" target="_BLANK">www.theguardian.com/world/2014/sep/29/china-censors-images-hong-kong-protests</a> (2014年09月29日 20:53)
+ ---
 @PaulCarsten @SirSteven @vineapp not a small number of posts being shared <a href="https://vine.co/tags/Occupycentral" target="_BLANK">vine.co/tags/Occupycentral</a> (2014年09月29日 20:22)
  ---
 RT @horwitzjosh: @PaulCarsten @GreatFireChina @vineapp Working fine for TIA in afternoon and just now, got our eye on it. (2014年09月29日 20:20)
@@ -101,6 +103,4 @@ Someone made this image in July. Today we have the answer: Instagram <a href="ht
 Instagram被封锁，请各位把翻墙方式转发到国内 <a href="https://edgecastcdn.net/00107ED/lantern/?u=viewtopic.php?f=1&t=15" target="_BLANK">edgecastcdn.net/00107ED/lantern/</a> (2014年09月29日 15:41)
  ---
 GFW好不容易逼路透社中文和华尔街中文自我审查了香港占中内容。但我们一曝光，这两中文网马上把占中内容放到了头条，GFW枉费心机。 (2014年09月29日 15:36)
- ---
-路透社中文网终于发表关于香港占中的报道，比一般英文媒体迟了30小时。 估计因为我们揭发了它自我审查才发篇文章做做样子 <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/181" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年09月29日 14:57)
  ---
