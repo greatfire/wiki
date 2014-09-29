@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+I'm living on a Chinese rock. All my best things are in hock. #OccupyCentral #HongKong <a href="https://vine.co/v/OZTd7pgweqT" target="_BLANK">vine.co/v/OZTd7pgweqT</a> via @vineapp (2014年09月29日 18:18)
+ ---
 RT @niubi: Appears WSJ Chinese Wechat can only post limited selection.9.29 11:20 am update 4 example has 0 re Hong Kong protest http://t.co… (2014年09月29日 18:11)
  ---
 RT @niubi: Interesting that Wall Street Journal Chinese site blocked in China but can still publish to Wechat account <a href="https://twitter.com/niubi/status/516494469160382464/photo/1" target="_BLANK">twitter.com/niubi/status/516494469160382464/photo/1</a> (2014年09月29日 18:03)
@@ -102,6 +104,4 @@ WSJ said because it is blocked, no motivation for self-censorship. We said WSJ t
 WSJ editors @gerardtbaker and @LiYuan6 didn't even read the FIRST paragraph of our story before commenting <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 13:02)
  ---
 . @iandenisjohnson @gerardtbaker @JamesFallows We mentioned that WSJ blocked in China in the FIRST paragraph. <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 12:58)
- ---
-@gerardtbaker We know WSJ is blocked. We broke the news in June. We mentioned that in the FIRST paragraph. <a href="https://en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/reuters-chinese-and-chinese-wsj-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 12:56)
  ---
