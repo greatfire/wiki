@@ -63,6 +63,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@PaulCarsten @vineapp might be wrong on this but might also be the case that we caught it early and the block is filtering down (2014年09月29日 20:17)
+ ---
+RT @jasonfeng7: @GreatFireChina @vineapp It's not blocked here in Shenzhen so far. I can still use it and visit the website. (2014年09月29日 20:16)
+ ---
+RT @zaneyuhwang: @GreatFireChina @vineapp I'm in mainland. Just tried. Successfully registered and watched videos without VPN or proxy conn… (2014年09月29日 20:16)
+ ---
 RT @PaulCarsten: @GreatFireChina @vineapp Still working fine for me. No VPN. Anyone else having issues with Vine in China? (2014年09月29日 20:12)
  ---
 It appears that Vine @vineapp was blocked in China today which comes as a surprise to exactly nobody. <a href="https://en.greatfire.org/vine.co" target="_BLANK">en.greatfire.org/vine.co</a> (2014年09月29日 20:03)
@@ -97,11 +103,4 @@ GFW好不容易逼路透社中文和华尔街中文自我审查了香港占中�
 Reuters Chinese, do you only report about HK protest because we called you out for self-censorship? Its "news" is 30 hours late (2014年09月29日 14:55)
  ---
 Reuters Chinese also published an article about the protest, 30 hours late. <a href="http://cn.reuters.com/article/CNTopGenNews/idCNKCS0HO06M20140929" target="_BLANK">cn.reuters.com/article/CNTopGenNews/idCNKCS0HO06M20140929</a> (2014年09月29日 14:53)
- ---
-RT @cthreepwood: @GreatFireChina @WSJ if reporters busy or office understaffed just explain.
-“We’ve been blocked in China” misses point ent… (2014年09月29日 13:20)
- ---
-RT @JamesFallows: @gerardtbaker @iandenisjohnson … between its English and Chinese-language play of the story was so striking, during fast … (2014年09月29日 13:19)
- ---
-@niubi @iandenisjohnson @gerardtbaker @JamesFallows Example: <a href="http://cn.wsj.com/gb/20140423/BCH094835.asp" target="_BLANK">cn.wsj.com/gb/20140423/BCH094835.asp</a> We have 12,600 examples <a href="https://www.google.com/search?q=%E8%AF%B7%E7%9C%8B%E7%A8%8D%E5%90%8E%E8%AF%A6%E7%BB%86%E6%8A%A5%E9%81%93&oq=%E8%AF%B7%E7%9C%8B%E7%A8%8D%E5%90%8E%E8%AF%A6%E7%BB%86%E6%8A%A5%E9%81%93&aqs=chrome..69i57.3992j0j7&sourceid=chrome&es_sm=91&ie=UTF-8#q=%E8%AF%B7%E7%9C%8B%E7%A8%8D%E5%90%8E%E8%AF%A6%E7%BB%86%E6%8A%A5%E9%81%93+site:cn.wsj.com&start=0" target="_BLANK">www.google.com/search</a> (2014年09月29日 13:15)
  ---
