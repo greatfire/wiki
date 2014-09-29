@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+国内朋友不明真相，问你香港发生了什么，你怎么回答？ <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/185" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年09月30日 04:47)
+ ---
 卫报占中专题报道还没被屏蔽。英文看不懂可只看图，请转墙内 <a href="http://www.theguardian.com/world/live/2014/sep/29/hong-kong-protests-thousands-pro-democracy" target="_BLANK">www.theguardian.com/world/live/2014/sep/29/hong-kong-protests-thousands-pro-democracy</a> (2014年09月30日 04:24)
  ---
 南华早报和南华早报中文网被完全屏蔽。 <a href="https://zh.greatfire.org/nanzao.com" target="_BLANK">zh.greatfire.org/nanzao.com</a> 当然是因为香港占中。 (2014年09月30日 04:18)
@@ -81,7 +83,7 @@ RT @KCollierWrites: In honor of Hong Kong/China, I looked at @GreatFireChina and
  ---
 Sorry - wrong call on Vine @vineapp - our latest tests show everything is a-okay  <a href="https://en.greatfire.org/vine.co" target="_BLANK">en.greatfire.org/vine.co</a> (2014年09月29日 21:17)
  ---
-.@ReutersChina Weibo: HK protests likely to scare Chinese tourists away over holiday - expect drop in retail sales <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1589353923%2FBpfwXANH5%3Fmod%3Dweibotime&_rand=1412023506.6938" target="_BLANK">passport.weibo.com/visitor/visitor</a> (2014年09月29日 21:00)
+.@ReutersChina Weibo: HK protests likely to scare Chinese tourists away over holiday - expect drop in retail sales <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1589353923%2FBpfwXANH5%3Fmod%3Dweibotime&_rand=1412023808.0237" target="_BLANK">passport.weibo.com/visitor/visitor</a> (2014年09月29日 21:00)
  ---
 "The radical activists are doomed." China censors images of Hong Kong protests in TV broadcasts to mainland <a href="http://www.theguardian.com/world/2014/sep/29/china-censors-images-hong-kong-protests?CMP=twt_gu" target="_BLANK">www.theguardian.com/world/2014/sep/29/china-censors-images-hong-kong-protests</a> (2014年09月29日 20:53)
  ---
@@ -100,6 +102,4 @@ RT @PaulCarsten: @GreatFireChina @vineapp Still working fine for me. No VPN. Any
 RT @AdamMinter: Hong Kong's business community needs to speak up for the students in the streets. <a href="http://www.bloombergview.com/articles/2014-09-29/defending-hong-kong-s-students" target="_BLANK">www.bloombergview.com/articles/2014-09-29/defending-hong-kong-s-students</a> by me for @bv (2014年09月29日 19:33)
  ---
 Chinese censors are trying to erase Hong Kong’s pro-democracy movement <a href="http://qz.com/272690/chinese-censors-are-trying-to-erase-hong-kongs-pro-democracy-movement/" target="_BLANK">qz.com/272690/chinese-censors-are-trying-to-erase-hong-kongs-pro-democracy-movement/</a> via @lilkuo (2014年09月29日 19:23)
- ---
-RT @ChineseWSJ: 【香港抗议人群扩大 防暴警察撤离】- 随着时间的推移，香港“占领中环”运动规模扩大，抗议者在香港的三个重要地区聚集，而前夜用催泪弹和胡椒粉未能驱散人群的防暴警察已经撤离。<a href="http://cn.wsj.com/gb/20140929/bch075501.asp" target="_BLANK">cn.wsj.com/gb/20140929/bch075501.asp</a> (Reuters) http:… (2014年09月29日 19:19)
  ---
