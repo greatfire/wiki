@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+.@LiYuan6 In fact, it will be more damaging if you claim that WSJ CN is incapable of covering such an event within 24 hours. (2014年09月29日 09:05)
+ ---
 @LiYuan6 I've already updated our post to indicate that WSJ CN just posted an article about the protest, just 24 hours late. (2014年09月29日 09:04)
  ---
 @LiYuan6 @niubi We have monitored censorship in China for years, including self-censorship. We're the first to point out WSJ was blocked. (2014年09月29日 09:02)
@@ -100,6 +102,4 @@ RT @telegram: Detecting a 150+ Gbit/s DDoS now, an attack three times as large a
 RT @GuestsZhen: telegram 的服务器正在遭受DDOS攻击。 telegram亦是本次香港现场群众重要的安全网络通信工具之一。 @telegram Detecting a 150+ Gbit/s DDoS now, an attack… http://t.c… (2014年09月29日 05:57)
  ---
 华尔街日报中文网和路透社中文网进行了自我审查，没有任何关于香港占中抗议的报道。 两家媒体英文版对此报道都是头条。 <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 05:54)
- ---
-@BobPort @ChinaFile @BloombergNews Unless you have the Great FireWall of China <a href="https://en.greatfire.org/search/alexa-top-1000-domains" target="_BLANK">en.greatfire.org/search/alexa-top-1000-domains</a> (2014年09月29日 05:50)
  ---
