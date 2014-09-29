@@ -62,6 +62,17 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+华尔街日报中文版终于报道了关于香港占中。中文版报道相比英文版晚了24小时，而且是在我们发布华尔街日报中文版和路透社中文版自我审查的博文后才发布
+@ChineseWSJ (2014年09月29日 08:59)
+ ---
+RT @ChineseWSJ: 【香港警方施放催泪瓦斯驱散抗议者】- 周日，香港警方动用胡椒喷雾和催泪瓦斯，试图驱散几处进行民主示威活动的人群，这是近10年来警方对抗议者做出的最激烈回应。 <a href="http://cn.wsj.com/gb/20140929/bch075501.asp" target="_BLANK">cn.wsj.com/gb/20140929/bch075501.asp</a> <a href="https://twitter.com/ChineseWSJ/status/516378391117713409/photo/1" target="_BLANK">twitter.com/ChineseWSJ/status/516378391117713409/photo/1</a> (2014年09月29日 08:57)
+ ---
+@jeffjarvis @zeynep @dangillmor 24 hours late than its English version. Wonder why. I've updated the blog post <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 08:56)
+ ---
+RT @jeffjarvis: @zeynep @GreatFireChina @dangillmor Far be it from me to defend a Murdoch pub but the story is atop WSJ China now. http://t… (2014年09月29日 08:56)
+ ---
+@LiYuan6 Can you explain why the Chinese version covers the protest 24 hours later than the English one? (2014年09月29日 08:55)
+ ---
 @LiYuan6 @niubi I know and I mentioned it in the post <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 08:54)
  ---
 @LiYuan6 @niubi No actual coverage of the protest until 24 hours later. Within those 24 hours, the protest is the headline around the globe (2014年09月29日 08:53)
@@ -91,14 +102,4 @@ RT @GuestsZhen: telegram 的服务器正在遭受DDOS攻击。 telegram亦是本
 @BobPort @ChinaFile @BloombergNews Or not. Even foreign media is not covering it in Chinese. (2014年09月29日 05:49)
  ---
 @BobPort @ChinaFile @BloombergNews Of course not covered. Nothing from any mainland media. (2014年09月29日 05:45)
- ---
-@JeffreyGuterman @forlornhope888 @TheAPJournalist We searched the front page manually &amp; used google to examine the entire website. (2014年09月29日 05:41)
- ---
-RT @JeffreyGuterman: . @TheAPJournalist @GreatFireChina I visited <a href="http://cn.mobile.reuters.com/home?irpc=932" target="_BLANK">cn.mobile.reuters.com/home</a>, translated English, found no mention #OccupyCentr… (2014年09月29日 05:38)
- ---
-@BobPort @ChinaFile @BloombergNews It's on Bloomberg's headline. But Bloomberg doesn't have a Chinese version. (2014年09月29日 05:37)
- ---
-@VivienneChow SCMP, good job. But Chinese WSJ and Reuters Chinese self-censor on Hong Kong democracy protest <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 05:11)
- ---
-Chinese WSJ and Reuters Chinese self-censor on Hong Kong democracy protest <a href="https://en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest" target="_BLANK">en.greatfire.org/blog/2014/sep/chinese-wsj-and-reuters-chinese-self-censor-hong-kong-democracy-protest</a> (2014年09月29日 04:42)
  ---
