@@ -36,8 +36,9 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="_BLANK">长期有效 1</a>，            
-                <a href="https://objects.dreamhost.com/lantern/index.html" target="_BLANK">长期有效 2</a>，            
+                <a href="https://edgecastcdn.net/00107ED/lantern/" target="_BLANK">长期有效 1</a>，            
+                <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="_BLANK">长期有效 2</a>，            
+                <a href="https://objects.dreamhost.com/lantern/index.html" target="_BLANK">长期有效 3</a>，            
                 <a href="https://c7511.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
