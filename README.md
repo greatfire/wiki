@@ -102,7 +102,7 @@ For every1 involved in #OccupyCentral #OCLPHK using Firechat do read the @citize
 RT @n8fr8: Look out for censorship or tracking of #HongKong WeChat users. Next wk @berkmancenter talk on this: <a href="http://cyber.law.harvard.edu/events/luncheon/2014/10/freitas" target="_BLANK">cyber.law.harvard.edu/events/luncheon/2014/10/freitas</a>
 #occu… (2014年09月30日 16:02)
  ---
-RT @RonDeibert: Article on growing popularity of Firechat in Hong Kong <a href="HTTP://http:////www-nc.nytimes.com/2014/09/29/hong-kong-protesters-flock-to-off-grid-messaging-app/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&" target="_BLANK">http////www-nc.nytimes.com/2014/09/29/hong-kong-protesters-flock-to-off-grid-messaging-app/</a> says nothing about security issues https://t.… (2014年09月30日 16:02)
+RT @RonDeibert: Article on growing popularity of Firechat in Hong Kong <a href="http://nyti.ms/YB5k08" target="_BLANK">nyti.ms/YB5k08</a> says nothing about security issues https://t.… (2014年09月30日 16:02)
  ---
 RT @thewireradio: As thousands are tear-gassed in #OccupyCentral even Reuters isn't reporting it in Chinese. We talk to @GreatFireChina htt… (2014年09月30日 15:52)
  ---
