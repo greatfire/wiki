@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @thewireradio: As thousands are tear-gassed in #OccupyCentral even Reuters isn't reporting it in Chinese. We talk to @GreatFireChina htt… (2014年09月30日 15:52)
+ ---
 Meet "umbrella" - the latest word to get censored on social media in China. <a href="https://freeweibo.com/weibo/%E9%9B%A8%E4%BC%9E?censored" target="_BLANK">freeweibo.com/weibo/雨伞</a> see @FreeWeibo (2014年09月30日 15:28)
  ---
 @hejian49 @remonwangxt 这个链接墙内也可以访问，请转发到墙内。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/185" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年09月30日 10:25)
@@ -100,6 +102,4 @@ RT @kuyo6677: 請勿使用神奇寶貝攻擊港民 <a href="https://twitter.com/
 RT @osullivan65Tom: It is 1.18am in Hong Kong but the #UmbrellaRevolution is continuing on the streets amid rumours that Beijing is to ban.… (2014年09月30日 01:25)
  ---
 RT @MiaFarrow: Stunning photo by @daledelarey of Hong Kong tonight. <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F30%2Fworld%2Fasia%2Fhong-kong-protests.html%3Fsmid%3Dtw-share%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> <a href="https://twitter.com/DavidFurstNYT/status/516616052214857728/photo/1" target="_BLANK">twitter.com/DavidFurstNYT/status/516616052214857728/photo/1</a> via @DavidFurstNYT (2014年09月30日 01:24)
- ---
-Fear and loathing in Tor network <a href="http://kernelmag.dailydot.com/issue-sections/features-issue-sections/10386/tor-network-surveillance/" target="_BLANK">kernelmag.dailydot.com/issue-sections/features-issue-sections/10386/tor-network-surveillance/</a> work w/ people who r under surveillance eventually you will be surveilled @abditum (2014年09月30日 00:36)
  ---
