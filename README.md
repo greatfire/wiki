@@ -63,6 +63,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @adamcathcart: Here is one of Wang Long's (@cnlong88) tweets from Shenzhen; BBC coverage of Occupy Central support in #London. http://t.… (2014年09月30日 19:53)
+ ---
+RT @adamcathcart: Wang Long, in Shenzhen, arrested for posting Hong Kong protest photos on Weibo. <a href="http://t.qq.com/long88" target="_BLANK">t.qq.com/long88</a> @ChuBailiang http:… (2014年09月30日 19:53)
+ ---
 对雅虎的中间人攻击没有包括email等域名。 (2014年09月30日 18:19)
  ---
 @chenshaoju 没有攻击login页面，只攻击了www，hk等首页 (2014年09月30日 18:08)
@@ -99,8 +103,4 @@ CNN把香港占中放在头条，把关于白宫的袭击报道放在底下。 �
 RT @roanmartigan: @GreatFireChina @niubi @ChineseWSJ Maybe self censorship is too strong. "Lack of commitment" to the Chinese readership ma… (2014年09月30日 07:14)
  ---
 @deryckchan @hkdemonow 今年6月解封了， <a href="https://en.greatfire.org/www.theguardian.com" target="_BLANK">en.greatfire.org/www.theguardian.com</a> (2014年09月30日 07:12)
- ---
-RT @doctor8888: 为什么脸皮可以这么厚？ <a href="https://twitter.com/doctor8888/status/514747899112984577/photo/1" target="_BLANK">twitter.com/doctor8888/status/514747899112984577/photo/1</a> (2014年09月30日 06:48)
- ---
-RT @kuyo6677: 請勿使用神奇寶貝攻擊港民 <a href="https://twitter.com/kuyo6677/status/516620719690874880/photo/1" target="_BLANK">twitter.com/kuyo6677/status/516620719690874880/photo/1</a> (2014年09月30日 06:40)
  ---
