@@ -63,6 +63,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @kaepora: WIRED article on Firechat and the Hong Kong protests: <a href="http://www.wired.co.uk/news/archive/2014-09/30/firechat-app-hong-kong-protesters" target="_BLANK">www.wired.co.uk/news/archive/2014-09/30/firechat-app-hong-kong-protesters</a> (2014年10月01日 03:29)
+ ---
+RT @mike_giglio: You Can’t Say “Hong Kong Police” Or “Umbrella” On Chinese Social Media Today <a href="http://www.buzzfeed.com/jamiefullerton/you-cant-say-hong-kong-police-or-umbrella-in-china-today?utm_term=3rl4ezk" target="_BLANK">www.buzzfeed.com/jamiefullerton/you-cant-say-hong-kong-police-or-umbrella-in-china-today</a> (2014年10月01日 03:26)
+ ---
 RT @george_chen: BREAKING: Many Hong Kong users of Weibo reported their accounts were suspended by Nasdaq-listed Sina after posting HK news… (2014年10月01日 03:04)
  ---
 RT @paopaonet: 自从9月28日戴耀廷等人宣布“占中启动”的几乎同时，中国大陆开始明显加强了力度屏蔽来自香港的讯息。以微信为例，身处香港的用户发现已无法发送占中现场图片和讯息在微信朋友圈──本人账号可见，互相关注的朋友们却看不见。<a href="https://t.co/pMjam" target="_BLANK">t.co/pMjam</a>… (2014年10月01日 02:47)
@@ -101,8 +105,4 @@ RT @n8fr8: Look out for censorship or tracking of #HongKong WeChat users. Next w
 RT @RonDeibert: Article on growing popularity of Firechat in Hong Kong <a href="HTTP://http:////www-nc.nytimes.com/2014/09/29/hong-kong-protesters-flock-to-off-grid-messaging-app/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&" target="_BLANK">http////www-nc.nytimes.com/2014/09/29/hong-kong-protesters-flock-to-off-grid-messaging-app/</a> says nothing about security issues https://t.… (2014年09月30日 16:02)
  ---
 RT @thewireradio: As thousands are tear-gassed in #OccupyCentral even Reuters isn't reporting it in Chinese. We talk to @GreatFireChina htt… (2014年09月30日 15:52)
- ---
-Meet "umbrella" - the latest word to get censored on social media in China. <a href="https://freeweibo.com/weibo/%E9%9B%A8%E4%BC%9E?censored" target="_BLANK">freeweibo.com/weibo/雨伞</a> see @FreeWeibo (2014年09月30日 15:28)
- ---
-@hejian49 @remonwangxt 这个链接墙内也可以访问，请转发到墙内。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/185" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年09月30日 10:25)
  ---
