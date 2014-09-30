@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @BillGatesCN: 北京时间2014年9月27日10点，我们携手Facebook Inc为身处中国的Instagram用户带来新款独享照片滤镜“One World One Dream”，即日起可在Instagram for iPhone上率先体验。 http://… (2014年09月30日 09:50)
+ ---
 CNN把香港占中放在头条，把关于白宫的袭击报道放在底下。 请问中国媒体在哪里？ <a href="https://twitter.com/GreatFireChina/status/516760700803244033/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516760700803244033/photo/1</a> (2014年09月30日 09:25)
  ---
 "instagram" Now a sensitive word on weibo. Search returns no information. (2014年09月30日 08:56)
@@ -97,9 +99,7 @@ RT @KCollierWrites: In honor of Hong Kong/China, I looked at @GreatFireChina and
  ---
 Sorry - wrong call on Vine @vineapp - our latest tests show everything is a-okay  <a href="https://en.greatfire.org/vine.co" target="_BLANK">en.greatfire.org/vine.co</a> (2014年09月29日 21:17)
  ---
-.@ReutersChina Weibo: HK protests likely to scare Chinese tourists away over holiday - expect drop in retail sales <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1589353923%2FBpfwXANH5%3Fmod%3Dweibotime&_rand=1412041812.6625" target="_BLANK">passport.weibo.com/visitor/visitor</a> (2014年09月29日 21:00)
+.@ReutersChina Weibo: HK protests likely to scare Chinese tourists away over holiday - expect drop in retail sales <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1589353923%2FBpfwXANH5%3Fmod%3Dweibotime&_rand=1412042108.7706" target="_BLANK">passport.weibo.com/visitor/visitor</a> (2014年09月29日 21:00)
  ---
 "The radical activists are doomed." China censors images of Hong Kong protests in TV broadcasts to mainland <a href="http://www.theguardian.com/world/2014/sep/29/china-censors-images-hong-kong-protests?CMP=twt_gu" target="_BLANK">www.theguardian.com/world/2014/sep/29/china-censors-images-hong-kong-protests</a> (2014年09月29日 20:53)
- ---
-@PaulCarsten @SirSteven @vineapp not a small number of posts being shared <a href="https://vine.co/tags/Occupycentral" target="_BLANK">vine.co/tags/Occupycentral</a> (2014年09月29日 20:22)
  ---
