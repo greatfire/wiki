@@ -63,6 +63,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+All #OCLPHK - @OpenGarden @Firechatapp works but not secure / not encrypted. Msgs can be intercepted. Important to note if shit hits fan. (2014年09月30日 20:38)
+ ---
+RT @OpenGarden: #OccupyCentral #HKStudentStrike 
+Pls remember msgs not encrypted yet. Dont use your real name.
+<a href="http://firech.at/" target="_BLANK">firech.at/</a> http:… (2014年09月30日 20:36)
+ ---
 RT @adamcathcart: Here is one of Wang Long's (@cnlong88) tweets from Shenzhen; BBC coverage of Occupy Central support in #London. http://t.… (2014年09月30日 19:53)
  ---
 RT @adamcathcart: Wang Long, in Shenzhen, arrested for posting Hong Kong protest photos on Weibo. <a href="http://t.qq.com/long88" target="_BLANK">t.qq.com/long88</a> @ChuBailiang http:… (2014年09月30日 19:53)
@@ -99,8 +105,4 @@ CNN把香港占中放在头条，把关于白宫的袭击报道放在底下。 �
 "instagram" Now a sensitive word on weibo. Search returns no information. (2014年09月30日 08:56)
  ---
 @NBtrade7 @hu_jia 文章墙内可以访问。 (2014年09月30日 07:40)
- ---
-RT @roanmartigan: @GreatFireChina @niubi @ChineseWSJ Maybe self censorship is too strong. "Lack of commitment" to the Chinese readership ma… (2014年09月30日 07:14)
- ---
-@deryckchan @hkdemonow 今年6月解封了， <a href="https://en.greatfire.org/www.theguardian.com" target="_BLANK">en.greatfire.org/www.theguardian.com</a> (2014年09月30日 07:12)
  ---
