@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @george_chen: BREAKING: Many Hong Kong users of Weibo reported their accounts were suspended by Nasdaq-listed Sina after posting HK news… (2014年10月01日 03:04)
+ ---
 RT @paopaonet: 自从9月28日戴耀廷等人宣布“占中启动”的几乎同时，中国大陆开始明显加强了力度屏蔽来自香港的讯息。以微信为例，身处香港的用户发现已无法发送占中现场图片和讯息在微信朋友圈──本人账号可见，互相关注的朋友们却看不见。<a href="https://t.co/pMjam" target="_BLANK">t.co/pMjam</a>… (2014年10月01日 02:47)
  ---
 @beijingscribe thanks for the advance warning - we won't hold our breath waiting for those BBRG Chinese #OCLPHK Hong Kong protest updates (2014年09月30日 22:02)
@@ -103,6 +105,4 @@ RT @thewireradio: As thousands are tear-gassed in #OccupyCentral even Reuters is
 Meet "umbrella" - the latest word to get censored on social media in China. <a href="https://freeweibo.com/weibo/%E9%9B%A8%E4%BC%9E?censored" target="_BLANK">freeweibo.com/weibo/雨伞</a> see @FreeWeibo (2014年09月30日 15:28)
  ---
 @hejian49 @remonwangxt 这个链接墙内也可以访问，请转发到墙内。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/185" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年09月30日 10:25)
- ---
-综述：香港示威者仍在街头逗留 继续向中国政府施压 <a href="http://cn.reuters.com/article/CNAnalysesNews/idCNKCS0HP00320140930?sp=true" target="_BLANK">cn.reuters.com/article/CNAnalysesNews/idCNKCS0HP00320140930</a> (2014年09月30日 10:13)
  ---
