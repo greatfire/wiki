@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@hejian49 @remonwangxt 这个链接墙内也可以访问，请转发到墙内。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/185" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年09月30日 10:25)
+ ---
 综述：香港示威者仍在街头逗留 继续向中国政府施压 <a href="http://cn.reuters.com/article/CNAnalysesNews/idCNKCS0HP00320140930?sp=true" target="_BLANK">cn.reuters.com/article/CNAnalysesNews/idCNKCS0HP00320140930</a> (2014年09月30日 10:13)
  ---
 For China, Limited Tools to Use in Hong Kong <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F30%2Fworld%2Fasia%2Fhong-kong-protests-present-a-challenge-to-xi-jinpings-rule.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年09月30日 10:11)
@@ -100,6 +102,4 @@ RT @MiaFarrow: Stunning photo by @daledelarey of Hong Kong tonight. <a href="htt
 Fear and loathing in Tor network <a href="http://kernelmag.dailydot.com/issue-sections/features-issue-sections/10386/tor-network-surveillance/" target="_BLANK">kernelmag.dailydot.com/issue-sections/features-issue-sections/10386/tor-network-surveillance/</a> work w/ people who r under surveillance eventually you will be surveilled @abditum (2014年09月30日 00:36)
  ---
 RT @KCollierWrites: In honor of Hong Kong/China, I looked at @GreatFireChina and listed the biggest sites blocked by the Great Firewall: ht… (2014年09月30日 00:18)
- ---
-Sorry - wrong call on Vine @vineapp - our latest tests show everything is a-okay  <a href="https://en.greatfire.org/vine.co" target="_BLANK">en.greatfire.org/vine.co</a> (2014年09月29日 21:17)
  ---
