@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@beijingscribe thanks for the advance warning - we won't hold our breath waiting for those BBRG Chinese #OCLPHK Hong Kong protest updates (2014年09月30日 22:02)
+ ---
 RT @trevortimm: How the FBI is trying to scare the public into believing iPhone privacy and security features are somehow dangerous: http:/… (2014年09月30日 21:51)
  ---
 RT @tomgrundy: Police would not be able to clear streets if they tried. Turnout comparable to 1989 &amp; 2003 protests - talk of up to a millio… (2014年09月30日 21:49)
@@ -103,6 +105,4 @@ Meet "umbrella" - the latest word to get censored on social media in China. <a h
 综述：香港示威者仍在街头逗留 继续向中国政府施压 <a href="http://cn.reuters.com/article/CNAnalysesNews/idCNKCS0HP00320140930?sp=true" target="_BLANK">cn.reuters.com/article/CNAnalysesNews/idCNKCS0HP00320140930</a> (2014年09月30日 10:13)
  ---
 For China, Limited Tools to Use in Hong Kong <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F30%2Fworld%2Fasia%2Fhong-kong-protests-present-a-challenge-to-xi-jinpings-rule.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年09月30日 10:11)
- ---
-RT @BillGatesCN: 北京时间2014年9月27日10点，我们携手Facebook Inc为身处中国的Instagram用户带来新款独享照片滤镜“One World One Dream”，即日起可在Instagram for iPhone上率先体验。 http://… (2014年09月30日 09:50)
  ---
