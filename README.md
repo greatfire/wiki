@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+雅虎被中间人攻击 包括了www，hk，tw等所有国家子网站。 <a href="https://twitter.com/GreatFireChina/status/516888537049088000/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516888537049088000/photo/1</a> (2014年09月30日 17:53)
+ ---
 Yahoo appears to under Man-in-the-middle attack in China. 3rd case of country-wide MITM, after Google, Github <a href="https://twitter.com/GreatFireChina/status/516872770270269440/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516872770270269440/photo/1</a> (2014年09月30日 16:50)
  ---
 For every1 involved in #OccupyCentral #OCLPHK using Firechat do read the @citizenlab piece we just tweeted and also be wary WeChat (2014年09月30日 16:06)
@@ -101,6 +103,4 @@ RT @kuyo6677: 請勿使用神奇寶貝攻擊港民 <a href="https://twitter.com/
 国内朋友不明真相，问你香港发生了什么，你怎么回答？ <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/185" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年09月30日 04:47)
  ---
 卫报占中专题报道还没被屏蔽。英文看不懂可只看图，请转墙内 <a href="http://www.theguardian.com/world/live/2014/sep/29/hong-kong-protests-thousands-pro-democracy" target="_BLANK">www.theguardian.com/world/live/2014/sep/29/hong-kong-protests-thousands-pro-democracy</a> (2014年09月30日 04:24)
- ---
-南华早报和南华早报中文网被完全屏蔽。 <a href="https://zh.greatfire.org/nanzao.com" target="_BLANK">zh.greatfire.org/nanzao.com</a> 当然是因为香港占中。 (2014年09月30日 04:18)
  ---
