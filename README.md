@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Yahoo appears to under Man-in-the-middle attack in China. 3rd case of country-wide MITM, after Google, Github <a href="https://twitter.com/GreatFireChina/status/516872770270269440/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516872770270269440/photo/1</a> (2014年09月30日 16:50)
+ ---
 For every1 involved in #OccupyCentral #OCLPHK using Firechat do read the @citizenlab piece we just tweeted and also be wary WeChat (2014年09月30日 16:06)
  ---
 RT @n8fr8: Look out for censorship or tracking of #HongKong WeChat users. Next wk @berkmancenter talk on this: <a href="http://cyber.law.harvard.edu/events/luncheon/2014/10/freitas" target="_BLANK">cyber.law.harvard.edu/events/luncheon/2014/10/freitas</a>
@@ -101,6 +103,4 @@ RT @kuyo6677: 請勿使用神奇寶貝攻擊港民 <a href="https://twitter.com/
 卫报占中专题报道还没被屏蔽。英文看不懂可只看图，请转墙内 <a href="http://www.theguardian.com/world/live/2014/sep/29/hong-kong-protests-thousands-pro-democracy" target="_BLANK">www.theguardian.com/world/live/2014/sep/29/hong-kong-protests-thousands-pro-democracy</a> (2014年09月30日 04:24)
  ---
 南华早报和南华早报中文网被完全屏蔽。 <a href="https://zh.greatfire.org/nanzao.com" target="_BLANK">zh.greatfire.org/nanzao.com</a> 当然是因为香港占中。 (2014年09月30日 04:18)
- ---
-[Breaking News]SCMP and SCMP Chinese blocked in China <a href="https://en.greatfire.org/www.scmp.com" target="_BLANK">en.greatfire.org/www.scmp.com</a> <a href="https://en.greatfire.org/nanzao.com" target="_BLANK">en.greatfire.org/nanzao.com</a> (2014年09月30日 04:17)
  ---
