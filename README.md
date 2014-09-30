@@ -63,6 +63,11 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @n8fr8: Look out for censorship or tracking of #HongKong WeChat users. Next wk @berkmancenter talk on this: <a href="http://cyber.law.harvard.edu/events/luncheon/2014/10/freitas" target="_BLANK">cyber.law.harvard.edu/events/luncheon/2014/10/freitas</a>
+#occu… (2014年09月30日 16:02)
+ ---
+RT @RonDeibert: Article on growing popularity of Firechat in Hong Kong <a href="HTTP://http:////www-nc.nytimes.com/2014/09/29/hong-kong-protesters-flock-to-off-grid-messaging-app/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&" target="_BLANK">http////www-nc.nytimes.com/2014/09/29/hong-kong-protesters-flock-to-off-grid-messaging-app/</a> says nothing about security issues https://t.… (2014年09月30日 16:02)
+ ---
 RT @thewireradio: As thousands are tear-gassed in #OccupyCentral even Reuters isn't reporting it in Chinese. We talk to @GreatFireChina htt… (2014年09月30日 15:52)
  ---
 Meet "umbrella" - the latest word to get censored on social media in China. <a href="https://freeweibo.com/weibo/%E9%9B%A8%E4%BC%9E?censored" target="_BLANK">freeweibo.com/weibo/雨伞</a> see @FreeWeibo (2014年09月30日 15:28)
@@ -98,8 +103,4 @@ RT @kuyo6677: 請勿使用神奇寶貝攻擊港民 <a href="https://twitter.com/
 [Breaking News]SCMP and SCMP Chinese blocked in China <a href="https://en.greatfire.org/www.scmp.com" target="_BLANK">en.greatfire.org/www.scmp.com</a> <a href="https://en.greatfire.org/nanzao.com" target="_BLANK">en.greatfire.org/nanzao.com</a> (2014年09月30日 04:17)
  ---
 .@guardian just started live coverage of Hong Kong protests - expect more media to pick this up at least until Oct 2 <a href="http://www.theguardian.com/world/live/2014/sep/29/hong-kong-protests-thousands-pro-democracy" target="_BLANK">www.theguardian.com/world/live/2014/sep/29/hong-kong-protests-thousands-pro-democracy</a> (2014年09月30日 03:50)
- ---
-RT @osullivan65Tom: It is 1.18am in Hong Kong but the #UmbrellaRevolution is continuing on the streets amid rumours that Beijing is to ban.… (2014年09月30日 01:25)
- ---
-RT @MiaFarrow: Stunning photo by @daledelarey of Hong Kong tonight. <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F30%2Fworld%2Fasia%2Fhong-kong-protests.html%3Fsmid%3Dtw-share%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> <a href="https://twitter.com/DavidFurstNYT/status/516616052214857728/photo/1" target="_BLANK">twitter.com/DavidFurstNYT/status/516616052214857728/photo/1</a> via @DavidFurstNYT (2014年09月30日 01:24)
  ---
