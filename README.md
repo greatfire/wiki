@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @PDChina: 10,000 pigeons go through anal security check for suspicious objects Tue, ready to be released on National Day on Wed http://t… (2014年10月01日 04:41)
+ ---
 Some poorly-paid but visa-carrying foreign copy editor is getting hammered on free drinks in 三里屯后街 for his/her anal pigeon tweet. (2014年10月01日 03:59)
  ---
 RT @kaepora: WIRED article on Firechat and the Hong Kong protests: <a href="http://www.wired.co.uk/news/archive/2014-09/30/firechat-app-hong-kong-protesters" target="_BLANK">www.wired.co.uk/news/archive/2014-09/30/firechat-app-hong-kong-protesters</a> (2014年10月01日 03:29)
@@ -103,6 +105,4 @@ For every1 involved in #OccupyCentral #OCLPHK using Firechat do read the @citize
  ---
 RT @n8fr8: Look out for censorship or tracking of #HongKong WeChat users. Next wk @berkmancenter talk on this: <a href="http://cyber.law.harvard.edu/events/luncheon/2014/10/freitas" target="_BLANK">cyber.law.harvard.edu/events/luncheon/2014/10/freitas</a>
 #occu… (2014年09月30日 16:02)
- ---
-RT @RonDeibert: Article on growing popularity of Firechat in Hong Kong <a href="HTTP://http:////www-nc.nytimes.com/2014/09/29/hong-kong-protesters-flock-to-off-grid-messaging-app/?=_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&_php=true&_type=blogs&smid=tw-share&_r=6&" target="_BLANK">http////www-nc.nytimes.com/2014/09/29/hong-kong-protesters-flock-to-off-grid-messaging-app/</a> says nothing about security issues https://t.… (2014年09月30日 16:02)
  ---
