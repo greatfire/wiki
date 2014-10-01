@@ -18,7 +18,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="_BLANK">长期有效 1</a>，            
+                <a href="https://edgecastcdn.net/00107ED/cdt/" target="_BLANK">长期有效 1</a>，            
                 <a href="https://objects.dreamhost.com/cdt/index.html" target="_BLANK">长期有效 2</a>，            
                 <a href="https://1ff2d.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
                 <a href="https://d29jekp4emy41a.cloudfront.net" target="_BLANK">短期有效 2</a>
