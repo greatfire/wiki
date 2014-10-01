@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@BethanyAllenEbr full story here: <a href="http://www.foreignpolicy.com/articles/2014/09/30/take_our_freedom_instagram_block_china" target="_BLANK">www.foreignpolicy.com/articles/2014/09/30/take_our_freedom_instagram_block_china</a> (2014年10月01日 21:07)
+ ---
+Entrepreneurial opportunism! @instagram blocked but u can recover yr photos for 15 cents! <a href="http://item.taobao.com/item.htm?id=41446625121&_fb=YTVqMWFjfDExaTcyfDF8NDE0NDY2MjUxMjF8ZzFnfDUxNDBjZA%3D%3D&spm=a310v.4.1100002.341411148&_g=s2&_g=a1100002&_n=341411148&_t=item&_tk=41446625121&tracelog=frsinazt&from=frsinazt" target="_BLANK">item.taobao.com/item.htm</a> h/t @BethanyAllenEbr (2014年10月01日 21:06)
+ ---
 China Appears to Attack Yahoo in Latest Censorship of Hong Kong Protests <a href="http://mashable.com/2014/09/30/china-attacks-yahoo-hong-kong-censorship/#:eyJzIjoidCIsImkiOiJfbWFpaXdtcGR5eW9icThncSJ9" target="_BLANK">mashable.com/2014/09/30/china-attacks-yahoo-hong-kong-censorship/</a> via @mashable (2014年10月01日 20:49)
  ---
 RT @jgriffiths: @bfcarlson Falun Gong march, unrelated to Occupy Central. (2014年10月01日 17:25)
@@ -103,8 +107,4 @@ RT @PDChina: 10,000 pigeons go through anal security check for suspicious object
 Some poorly-paid but visa-carrying foreign copy editor is getting hammered on free drinks in 三里屯后街 for his/her anal pigeon tweet. (2014年10月01日 03:59)
  ---
 RT @kaepora: WIRED article on Firechat and the Hong Kong protests: <a href="http://www.wired.co.uk/news/archive/2014-09/30/firechat-app-hong-kong-protesters" target="_BLANK">www.wired.co.uk/news/archive/2014-09/30/firechat-app-hong-kong-protesters</a> (2014年10月01日 03:29)
- ---
-RT @mike_giglio: You Can’t Say “Hong Kong Police” Or “Umbrella” On Chinese Social Media Today <a href="http://www.buzzfeed.com/jamiefullerton/you-cant-say-hong-kong-police-or-umbrella-in-china-today?utm_term=3rl4ezk" target="_BLANK">www.buzzfeed.com/jamiefullerton/you-cant-say-hong-kong-police-or-umbrella-in-china-today</a> (2014年10月01日 03:26)
- ---
-RT @george_chen: BREAKING: Many Hong Kong users of Weibo reported their accounts were suspended by Nasdaq-listed Sina after posting HK news… (2014年10月01日 03:04)
  ---
