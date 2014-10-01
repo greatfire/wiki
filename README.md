@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @klustout: In case you missed it: @AiWW on why he supports the #UmbrellaRevolution in #HongKong: <a href="https://www.youtube.com/watch?v=tuOLhwmdaoc" target="_BLANK">www.youtube.com/watch</a> (2014年10月01日 23:14)
+ ---
 RT @klustout: "This city is so poor all we have left is money." Yet @appledaily_hk media mogul Jimmy Lai has hope for #HongKong: https://t.… (2014年10月01日 23:09)
  ---
 Important for China: Every time u visit a website with "http" in URL, u leave a digital trail. That could change: <a href="http://www.fastcompany.com/3036430/the-fight-for-https" target="_BLANK">www.fastcompany.com/3036430/the-fight-for-https</a> (2014年10月01日 21:37)
@@ -105,6 +107,4 @@ RT @goldkorn: So, it was announced yesterday at 6pm that some of Beijing's bigge
 RT @tinssoldier: Filipino workers in Hong Kong warned against joining protests, reflecting unease over immig. status #OccupyHongKong http:/… (2014年10月01日 16:18)
  ---
 150 of every 10,000 Weibos being censored during HK protests - at least double normal levels.  <a href="http://mic.com/articles/100166/one-chart-shows-just-how-terrified-of-hong-kong-china-s-government-is-right-now" target="_BLANK">mic.com/articles/100166/one-chart-shows-just-how-terrified-of-hong-kong-china-s-government-is-right-now</a> via @cpwalker07 (2014年10月01日 16:16)
- ---
-RT @blogtd: 国庆快乐 <a href="https://twitter.com/blogtd/status/517185523966697473/photo/1" target="_BLANK">twitter.com/blogtd/status/517185523966697473/photo/1</a> (2014年10月01日 15:58)
  ---
