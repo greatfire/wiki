@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China Appears to Attack Yahoo in Latest Censorship of Hong Kong Protests <a href="http://mashable.com/2014/09/30/china-attacks-yahoo-hong-kong-censorship/#:eyJzIjoidCIsImkiOiJfbWFpaXdtcGR5eW9icThncSJ9" target="_BLANK">mashable.com/2014/09/30/china-attacks-yahoo-hong-kong-censorship/</a> via @mashable (2014年10月01日 20:49)
+ ---
 RT @jgriffiths: @bfcarlson Falun Gong march, unrelated to Occupy Central. (2014年10月01日 17:25)
  ---
 RT @dmychan75: Mr Zemen urges dialogue and compromise. First business person seen in #OccupyHK. Here as he's concerned for his staff. this … (2014年10月01日 17:20)
@@ -105,6 +107,4 @@ RT @kaepora: WIRED article on Firechat and the Hong Kong protests: <a href="http
 RT @mike_giglio: You Can’t Say “Hong Kong Police” Or “Umbrella” On Chinese Social Media Today <a href="http://www.buzzfeed.com/jamiefullerton/you-cant-say-hong-kong-police-or-umbrella-in-china-today?utm_term=3rl4ezk" target="_BLANK">www.buzzfeed.com/jamiefullerton/you-cant-say-hong-kong-police-or-umbrella-in-china-today</a> (2014年10月01日 03:26)
  ---
 RT @george_chen: BREAKING: Many Hong Kong users of Weibo reported their accounts were suspended by Nasdaq-listed Sina after posting HK news… (2014年10月01日 03:04)
- ---
-RT @paopaonet: 自从9月28日戴耀廷等人宣布“占中启动”的几乎同时，中国大陆开始明显加强了力度屏蔽来自香港的讯息。以微信为例，身处香港的用户发现已无法发送占中现场图片和讯息在微信朋友圈──本人账号可见，互相关注的朋友们却看不见。<a href="https://t.co/pMjam" target="_BLANK">t.co/pMjam</a>… (2014年10月01日 02:47)
  ---
