@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @klustout: "This city is so poor all we have left is money." Yet @appledaily_hk media mogul Jimmy Lai has hope for #HongKong: https://t.… (2014年10月01日 23:09)
+ ---
 Important for China: Every time u visit a website with "http" in URL, u leave a digital trail. That could change: <a href="http://www.fastcompany.com/3036430/the-fight-for-https" target="_BLANK">www.fastcompany.com/3036430/the-fight-for-https</a> (2014年10月01日 21:37)
  ---
 "Social Media Secrets of the Pharaohs" Dying to hear the view from Beijing?   @zuola Twitter list of 50 centers <a href="https://twitter.com/zuola/lists/guobao" target="_BLANK">twitter.com/zuola/lists/guobao</a> (2014年10月01日 21:18)
@@ -105,6 +107,4 @@ RT @tinssoldier: Filipino workers in Hong Kong warned against joining protests, 
 150 of every 10,000 Weibos being censored during HK protests - at least double normal levels.  <a href="http://mic.com/articles/100166/one-chart-shows-just-how-terrified-of-hong-kong-china-s-government-is-right-now" target="_BLANK">mic.com/articles/100166/one-chart-shows-just-how-terrified-of-hong-kong-china-s-government-is-right-now</a> via @cpwalker07 (2014年10月01日 16:16)
  ---
 RT @blogtd: 国庆快乐 <a href="https://twitter.com/blogtd/status/517185523966697473/photo/1" target="_BLANK">twitter.com/blogtd/status/517185523966697473/photo/1</a> (2014年10月01日 15:58)
- ---
-.@n8fr8 表示，FireChat只提供给自由抗争人士互相联系的可能，“但它并不是一款为高风险场合专门设计的软件”。Freitas说：“很多用户还是担心，他们在使用这款软件之后会成为攻击对象，或是手机通话被追踪” <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/194" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月01日 15:40)
  ---
