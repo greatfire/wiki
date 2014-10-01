@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @mashable: China appears to target @Yahoo with a "man-in-the-middle attack" to censor news of #UmbrellaRevolution protests: http://t.co/… (2014年10月02日 02:40)
+ ---
 RT @cshirky: 1/2 I have loved @github a long time (<a href="http://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government?language=en" target="_BLANK">www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government</a>), so I'm experimenting with it as a publishing platform. (2014年10月02日 02:28)
  ---
 @ChuBailiang none of them come close to def. of nerd. They are the opposite: attractive, socially adept, extroverts. They are the cool kids (2014年10月02日 01:24)
@@ -99,12 +101,4 @@ RT @dmychan75: Allen Zeman in Central @5. #UmbrellaMovement #OccupyHK <a href="h
 RT @SophieHRW: Helpful list from @CHRDnet of mainland activists detained for supporting #hongkong protests: <a href="http://www.chrdnet.com/2014/10/chrb-activists-across-mainland-china-detained-for-supporting-democracy-protests-in-hong-kong-919-1012014/" target="_BLANK">www.chrdnet.com/2014/10/chrb-activists-across-mainland-china-detained-for-supporting-democracy-protests-in-hong-kong-919-1012014/</a> (2014年10月01日 16:59)
  ---
 RT @amnestychina: 国际特赦组织发表新闻稿关于20多名中国维权人士因支持香港行动被拘留或限制行动自由。 <a href="http://amnesty.org/en/news/china-release-supporters-hong-kong-protests-2014-10-01" target="_BLANK">amnesty.org/en/news/china-release-supporters-hong-kong-protests-2014-10-01</a>  #言论自由 @oubiaofeng @hu_jia @amelia_jen @cnlong1988 (2014年10月01日 16:58)
- ---
-RT @iruitui: RT @vier_karell:RT @ryo6: 聽說香港正在暴雨，文字祝福：
-☂　　☂　☂　　☂
-☂　　☂　☂　☂
-☂☂☂☂　☂☂
-☂　　☂　☂　☂
-☂　　☂　☂　　☂
-香港加油！ (2014年10月01日 16:55)
  ---
