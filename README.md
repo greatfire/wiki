@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @goldkorn: Longish interview with me on CNN about mainland Chinese media and Occupy HK. Send rotten tomatoes. <a href="http://edition.cnn.com/video/data/2.0/video/world/2014/10/01/vassileva-goldkorn-intv-china-mainland-media.cnn.html" target="_BLANK">edition.cnn.com/video/data/2.0/video/world/2014/10/01/vassileva-goldkorn-intv-china-mainland-media.cnn.html</a> (2014年10月01日 23:35)
+ ---
 RT @kinablog: MT @WLYeung: WeChat extends censorship to HK users; images &amp; messages are filtered. Via @westmoon: <a href="http://www.solidot.org/" target="_BLANK">www.solidot.org/</a> (2014年10月01日 23:17)
  ---
 RT @wafarris: Pic from a rally in Taipei's Freedom Square in support of #OccupyCentral <a href="https://twitter.com/wafarris/status/517310206850506753/photo/1" target="_BLANK">twitter.com/wafarris/status/517310206850506753/photo/1</a> (2014年10月01日 23:15)
@@ -105,6 +107,4 @@ Joshua Wong predicts today will see largest non-violent, civil disobedience in H
 RT @zhubochubo: Baidu Starts Censoring "Occupy Central," Then Removes Censorship Notice (But Appears To Keep Censoring) <a href="http://t.co/CVM5D0r" target="_BLANK">t.co/CVM5D0r</a>… (2014年10月01日 16:46)
  ---
 RT @goldkorn: So, it was announced yesterday at 6pm that some of Beijing's biggest parks would be closed today. <a href="http://www.bjjtgl.gov.cn/publish/portal0/tab65/info55080.htm" target="_BLANK">www.bjjtgl.gov.cn/publish/portal0/tab65/info55080.htm</a> (2014年10月01日 16:33)
- ---
-@mensoh here is a list <a href="https://en.greatfire.org/search/domains" target="_BLANK">en.greatfire.org/search/domains</a> (2014年10月01日 16:25)
  ---
