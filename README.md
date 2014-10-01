@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @kinablog: MT @WLYeung: WeChat extends censorship to HK users; images &amp; messages are filtered. Via @westmoon: <a href="http://www.solidot.org/" target="_BLANK">www.solidot.org/</a> (2014年10月01日 23:17)
+ ---
+RT @wafarris: Pic from a rally in Taipei's Freedom Square in support of #OccupyCentral <a href="https://twitter.com/wafarris/status/517310206850506753/photo/1" target="_BLANK">twitter.com/wafarris/status/517310206850506753/photo/1</a> (2014年10月01日 23:15)
+ ---
 RT @klustout: In case you missed it: @AiWW on why he supports the #UmbrellaRevolution in #HongKong: <a href="https://www.youtube.com/watch?v=tuOLhwmdaoc" target="_BLANK">www.youtube.com/watch</a> (2014年10月01日 23:14)
  ---
 RT @klustout: "This city is so poor all we have left is money." Yet @appledaily_hk media mogul Jimmy Lai has hope for #HongKong: https://t.… (2014年10月01日 23:09)
@@ -103,8 +107,4 @@ RT @zhubochubo: Baidu Starts Censoring "Occupy Central," Then Removes Censorship
 RT @goldkorn: So, it was announced yesterday at 6pm that some of Beijing's biggest parks would be closed today. <a href="http://www.bjjtgl.gov.cn/publish/portal0/tab65/info55080.htm" target="_BLANK">www.bjjtgl.gov.cn/publish/portal0/tab65/info55080.htm</a> (2014年10月01日 16:33)
  ---
 @mensoh here is a list <a href="https://en.greatfire.org/search/domains" target="_BLANK">en.greatfire.org/search/domains</a> (2014年10月01日 16:25)
- ---
-RT @tinssoldier: Filipino workers in Hong Kong warned against joining protests, reflecting unease over immig. status #OccupyHongKong http:/… (2014年10月01日 16:18)
- ---
-150 of every 10,000 Weibos being censored during HK protests - at least double normal levels.  <a href="http://mic.com/articles/100166/one-chart-shows-just-how-terrified-of-hong-kong-china-s-government-is-right-now" target="_BLANK">mic.com/articles/100166/one-chart-shows-just-how-terrified-of-hong-kong-china-s-government-is-right-now</a> via @cpwalker07 (2014年10月01日 16:16)
  ---
