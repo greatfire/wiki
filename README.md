@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @blogtd: 国庆快乐 <a href="https://twitter.com/blogtd/status/517185523966697473/photo/1" target="_BLANK">twitter.com/blogtd/status/517185523966697473/photo/1</a> (2014年10月01日 15:58)
+ ---
 .@n8fr8 表示，FireChat只提供给自由抗争人士互相联系的可能，“但它并不是一款为高风险场合专门设计的软件”。Freitas说：“很多用户还是担心，他们在使用这款软件之后会成为攻击对象，或是手机通话被追踪” <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/194" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月01日 15:40)
  ---
 RT @PDChina: 10,000 pigeons go through anal security check for suspicious objects Tue, ready to be released on National Day on Wed http://t… (2014年10月01日 04:41)
@@ -102,6 +104,4 @@ RT @adamcathcart: Wang Long, in Shenzhen, arrested for posting Hong Kong protest
 雅虎被中间人攻击 包括了www，hk，tw等所有国家子网站。 <a href="https://twitter.com/GreatFireChina/status/516888537049088000/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516888537049088000/photo/1</a> (2014年09月30日 17:53)
  ---
 Yahoo appears to under Man-in-the-middle attack in China. 3rd case of country-wide MITM, after Google, Github <a href="https://twitter.com/GreatFireChina/status/516872770270269440/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/516872770270269440/photo/1</a> (2014年09月30日 16:50)
- ---
-For every1 involved in #OccupyCentral #OCLPHK using Firechat do read the @citizenlab piece we just tweeted and also be wary WeChat (2014年09月30日 16:06)
  ---
