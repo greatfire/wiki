@@ -63,6 +63,18 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @SophieHRW: Helpful list from @CHRDnet of mainland activists detained for supporting #hongkong protests: <a href="http://www.chrdnet.com/2014/10/chrb-activists-across-mainland-china-detained-for-supporting-democracy-protests-in-hong-kong-919-1012014/" target="_BLANK">www.chrdnet.com/2014/10/chrb-activists-across-mainland-china-detained-for-supporting-democracy-protests-in-hong-kong-919-1012014/</a> (2014年10月01日 16:59)
+ ---
+RT @amnestychina: 国际特赦组织发表新闻稿关于20多名中国维权人士因支持香港行动被拘留或限制行动自由。 <a href="http://amnesty.org/en/news/china-release-supporters-hong-kong-protests-2014-10-01" target="_BLANK">amnesty.org/en/news/china-release-supporters-hong-kong-protests-2014-10-01</a>  #言论自由 @oubiaofeng @hu_jia @amelia_jen @cnlong1988 (2014年10月01日 16:58)
+ ---
+RT @iruitui: RT @vier_karell:RT @ryo6: 聽說香港正在暴雨，文字祝福：
+☂　　☂　☂　　☂
+☂　　☂　☂　☂
+☂☂☂☂　☂☂
+☂　　☂　☂　☂
+☂　　☂　☂　　☂
+香港加油！ (2014年10月01日 16:55)
+ ---
 Joshua Wong predicts today will see largest non-violent, civil disobedience in Hong Kong <a href="http://www.theguardian.com/world/live/2014/oct/01/hong-kong-protests-pro-democracy-rallies-mix-with-national-day-celebrations-live" target="_BLANK">www.theguardian.com/world/live/2014/oct/01/hong-kong-protests-pro-democracy-rallies-mix-with-national-day-celebrations-live</a> (2014年10月01日 16:50)
  ---
 RT @zhubochubo: Baidu Starts Censoring "Occupy Central," Then Removes Censorship Notice (But Appears To Keep Censoring) <a href="http://t.co/CVM5D0r" target="_BLANK">t.co/CVM5D0r</a>… (2014年10月01日 16:46)
@@ -96,12 +108,4 @@ RT @paopaonet: 自从9月28日戴耀廷等人宣布“占中启动”的几乎�
 RT @trevortimm: How the FBI is trying to scare the public into believing iPhone privacy and security features are somehow dangerous: http:/… (2014年09月30日 21:51)
  ---
 RT @tomgrundy: Police would not be able to clear streets if they tried. Turnout comparable to 1989 &amp; 2003 protests - talk of up to a millio… (2014年09月30日 21:49)
- ---
-@markmackinnon @AndreaWoo finally evidence of a foreign country covertly meddling in HK affairs &amp; cultivating and training dissidents abroad (2014年09月30日 21:26)
- ---
-All #OCLPHK - @OpenGarden @Firechatapp works but not secure / not encrypted. Msgs can be intercepted. Important to note if shit hits fan. (2014年09月30日 20:38)
- ---
-RT @OpenGarden: #OccupyCentral #HKStudentStrike 
-Pls remember msgs not encrypted yet. Dont use your real name.
-<a href="http://firech.at/" target="_BLANK">firech.at/</a> http:… (2014年09月30日 20:36)
  ---
