@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @zuola: @wlyeung 我创建了一个 <a href="https://twitter.com/zuola/lists/guobao" target="_BLANK">twitter.com/zuola/lists/guobao</a> ,要是被你举报了，然后Twitter又真删光了，我就没法跟别人介绍五毛通常是怎么说话怎么工作的了。 若是被mention，就block了，这样任其自说自话就好。 (2014年10月01日 21:14)
+ ---
 @BethanyAllenEbr full story here: <a href="http://www.foreignpolicy.com/articles/2014/09/30/take_our_freedom_instagram_block_china" target="_BLANK">www.foreignpolicy.com/articles/2014/09/30/take_our_freedom_instagram_block_china</a> (2014年10月01日 21:07)
  ---
 Entrepreneurial opportunism! @instagram blocked but u can recover yr photos for 15 cents! <a href="http://item.taobao.com/item.htm?id=41446625121&_fb=YTVqMWFjfDExaTcyfDF8NDE0NDY2MjUxMjF8ZzFnfDUxNDBjZA%3D%3D&spm=a310v.4.1100002.341411148&_g=s2&_g=a1100002&_n=341411148&_t=item&_tk=41446625121&tracelog=frsinazt&from=frsinazt" target="_BLANK">item.taobao.com/item.htm</a> h/t @BethanyAllenEbr (2014年10月01日 21:06)
@@ -105,6 +107,4 @@ RT @blogtd: 国庆快乐 <a href="https://twitter.com/blogtd/status/517185523966
 RT @PDChina: 10,000 pigeons go through anal security check for suspicious objects Tue, ready to be released on National Day on Wed http://t… (2014年10月01日 04:41)
  ---
 Some poorly-paid but visa-carrying foreign copy editor is getting hammered on free drinks in 三里屯后街 for his/her anal pigeon tweet. (2014年10月01日 03:59)
- ---
-RT @kaepora: WIRED article on Firechat and the Hong Kong protests: <a href="http://www.wired.co.uk/news/archive/2014-09/30/firechat-app-hong-kong-protesters" target="_BLANK">www.wired.co.uk/news/archive/2014-09/30/firechat-app-hong-kong-protesters</a> (2014年10月01日 03:29)
  ---
