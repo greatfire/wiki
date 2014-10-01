@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @zhubochubo: Baidu Starts Censoring "Occupy Central," Then Removes Censorship Notice (But Appears To Keep Censoring) <a href="http://t.co/CVM5D0r" target="_BLANK">t.co/CVM5D0r</a>… (2014年10月01日 16:46)
+ ---
 RT @goldkorn: So, it was announced yesterday at 6pm that some of Beijing's biggest parks would be closed today. <a href="http://www.bjjtgl.gov.cn/publish/portal0/tab65/info55080.htm" target="_BLANK">www.bjjtgl.gov.cn/publish/portal0/tab65/info55080.htm</a> (2014年10月01日 16:33)
  ---
 @mensoh here is a list <a href="https://en.greatfire.org/search/domains" target="_BLANK">en.greatfire.org/search/domains</a> (2014年10月01日 16:25)
@@ -102,6 +104,4 @@ Pls remember msgs not encrypted yet. Dont use your real name.
 <a href="http://firech.at/" target="_BLANK">firech.at/</a> http:… (2014年09月30日 20:36)
  ---
 RT @adamcathcart: Here is one of Wang Long's (@cnlong88) tweets from Shenzhen; BBC coverage of Occupy Central support in #London. http://t.… (2014年09月30日 19:53)
- ---
-RT @adamcathcart: Wang Long, in Shenzhen, arrested for posting Hong Kong protest photos on Weibo. <a href="http://t.qq.com/long88" target="_BLANK">t.qq.com/long88</a> @ChuBailiang http:… (2014年09月30日 19:53)
  ---
