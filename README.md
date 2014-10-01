@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@mensoh here is a list <a href="https://en.greatfire.org/search/domains" target="_BLANK">en.greatfire.org/search/domains</a> (2014年10月01日 16:25)
+ ---
 RT @tinssoldier: Filipino workers in Hong Kong warned against joining protests, reflecting unease over immig. status #OccupyHongKong http:/… (2014年10月01日 16:18)
  ---
 150 of every 10,000 Weibos being censored during HK protests - at least double normal levels.  <a href="http://mic.com/articles/100166/one-chart-shows-just-how-terrified-of-hong-kong-china-s-government-is-right-now" target="_BLANK">mic.com/articles/100166/one-chart-shows-just-how-terrified-of-hong-kong-china-s-government-is-right-now</a> via @cpwalker07 (2014年10月01日 16:16)
@@ -102,6 +104,4 @@ RT @adamcathcart: Here is one of Wang Long's (@cnlong88) tweets from Shenzhen; B
 RT @adamcathcart: Wang Long, in Shenzhen, arrested for posting Hong Kong protest photos on Weibo. <a href="http://t.qq.com/long88" target="_BLANK">t.qq.com/long88</a> @ChuBailiang http:… (2014年09月30日 19:53)
  ---
 对雅虎的中间人攻击没有包括email等域名。 (2014年09月30日 18:19)
- ---
-@chenshaoju 没有攻击login页面，只攻击了www，hk等首页 (2014年09月30日 18:08)
  ---
