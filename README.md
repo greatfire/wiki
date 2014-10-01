@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@ChuBailiang none of them come close to def. of nerd. They are the opposite: attractive, socially adept, extroverts. They are the cool kids (2014年10月02日 01:24)
+ ---
 Some funny messages filtering through the add oil machine for #OCLPHK  <a href="http://occupier.hk/standbyyou/" target="_BLANK">occupier.hk/standbyyou/</a> <a href="https://twitter.com/GreatFireChina/status/517362716319555584/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/517362716319555584/photo/1</a> (2014年10月02日 01:17)
  ---
 RT @goldkorn: Longish interview with me on CNN about mainland Chinese media and Occupy HK. Send rotten tomatoes. <a href="http://edition.cnn.com/video/data/2.0/video/world/2014/10/01/vassileva-goldkorn-intv-china-mainland-media.cnn.html" target="_BLANK">edition.cnn.com/video/data/2.0/video/world/2014/10/01/vassileva-goldkorn-intv-china-mainland-media.cnn.html</a> (2014年10月01日 23:35)
@@ -105,6 +107,4 @@ RT @iruitui: RT @vier_karell:RT @ryo6: 聽說香港正在暴雨，文字祝福�
 香港加油！ (2014年10月01日 16:55)
  ---
 Joshua Wong predicts today will see largest non-violent, civil disobedience in Hong Kong <a href="http://www.theguardian.com/world/live/2014/oct/01/hong-kong-protests-pro-democracy-rallies-mix-with-national-day-celebrations-live" target="_BLANK">www.theguardian.com/world/live/2014/oct/01/hong-kong-protests-pro-democracy-rallies-mix-with-national-day-celebrations-live</a> (2014年10月01日 16:50)
- ---
-RT @zhubochubo: Baidu Starts Censoring "Occupy Central," Then Removes Censorship Notice (But Appears To Keep Censoring) <a href="http://t.co/CVM5D0r" target="_BLANK">t.co/CVM5D0r</a>… (2014年10月01日 16:46)
  ---
