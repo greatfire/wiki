@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@Dymaxion @alexismadrigal also check our <a href="https://freeweibo.com/" target="_BLANK">freeweibo.com/</a> website or @FreeWeibo where we monitor censored discussions and keywords (2014年10月02日 17:23)
+ ---
+RT @stefangeens: Smart of @cshirky to use Github as blog: Although US-based and HTTPS encrypted, it’s available in China (because Chinese d… (2014年10月02日 17:21)
+ ---
 RT @bryanhimself: So police were caught lying. They said a woman needed an ambulance in gov offices, but they actually wanted to sneak in r… (2014年10月02日 17:11)
  ---
 RT @niubi: “@AP: BREAKING: Hong Kong police warn of serious consequences if protesters charge government buildings” a bad idea, clear provo… (2014年10月02日 17:00)
@@ -99,8 +103,4 @@ RT @cshirky: 1/2 I have loved @github a long time (<a href="http://www.ted.com/t
 Some funny messages filtering through the add oil machine for #OCLPHK  <a href="http://occupier.hk/standbyyou/" target="_BLANK">occupier.hk/standbyyou/</a> <a href="https://twitter.com/GreatFireChina/status/517362716319555584/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/517362716319555584/photo/1</a> (2014年10月02日 01:17)
  ---
 RT @goldkorn: Longish interview with me on CNN about mainland Chinese media and Occupy HK. Send rotten tomatoes. <a href="http://edition.cnn.com/video/data/2.0/video/world/2014/10/01/vassileva-goldkorn-intv-china-mainland-media.cnn.html" target="_BLANK">edition.cnn.com/video/data/2.0/video/world/2014/10/01/vassileva-goldkorn-intv-china-mainland-media.cnn.html</a> (2014年10月01日 23:35)
- ---
-RT @kinablog: MT @WLYeung: WeChat extends censorship to HK users; images &amp; messages are filtered. Via @westmoon: <a href="http://www.solidot.org/" target="_BLANK">www.solidot.org/</a> (2014年10月01日 23:17)
- ---
-RT @wafarris: Pic from a rally in Taipei's Freedom Square in support of #OccupyCentral <a href="https://twitter.com/wafarris/status/517310206850506753/photo/1" target="_BLANK">twitter.com/wafarris/status/517310206850506753/photo/1</a> (2014年10月01日 23:15)
  ---
