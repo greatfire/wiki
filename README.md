@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @Edourdoo: 亞洲週刊獲悉，特首梁振英在衝突激烈、戰況紛雜的態勢下，明確指令，無論如何要死守政府總部，絕不能出現台灣三月「太陽花學運」佔領立法院的香港版。據悉，這也是特區政府向中南海保證的。 (2014年10月02日 17:51)
+ ---
 @taniabranigan @guardian it's a shame that the live coverage has stopped (2014年10月02日 17:43)
  ---
 RT @tomgrundy: Student leader Agnes Chow says police are amassing, asks protesters to tell friends to come #Occupycentral <a href="http://t.co/hLjnG" target="_BLANK">t.co/hLjnG</a>… (2014年10月02日 17:37)
@@ -103,6 +105,4 @@ RT @netresec: Verifying Chinese MITM of Yahoo: <a href="http://www.netresec.com/
 #GFW #UmbrellaRevolution #OccupyHongKong (2014年10月02日 09:09)
  ---
 RT @mashable: China appears to target @Yahoo with a "man-in-the-middle attack" to censor news of #UmbrellaRevolution protests: http://t.co/… (2014年10月02日 02:40)
- ---
-RT @cshirky: 1/2 I have loved @github a long time (<a href="http://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government?language=en" target="_BLANK">www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government</a>), so I'm experimenting with it as a publishing platform. (2014年10月02日 02:28)
  ---
