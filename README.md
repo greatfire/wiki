@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @mumphLT: #OccpuyHK The paid thugs are getting all their weapons ready. Please stay safe protestors &amp; don't give them an excuse to kick … (2014年10月02日 18:47)
+ ---
 HK Gov saying it plans on sending 3000 employees back to work tomorrow so "please clear the area" <a href="https://twitter.com/george_chen/status/517621349733642240/photo/1" target="_BLANK">twitter.com/george_chen/status/517621349733642240/photo/1</a> (2014年10月02日 18:41)
  ---
 RT @fion_li: Joshua Wong urges more ppl to join Harcourt Road #occupyhk as police may take actions soon #OccupyCentral <a href="http://t.co/wu0JBOot" target="_BLANK">t.co/wu0JBOot</a>… (2014年10月02日 18:16)
@@ -102,6 +104,4 @@ Beijing suspends tour groups to protest-hit Hong Kong <a href="http://www.scmp.c
  ---
 RT @ka1aok: 世界知名黑客組織 #Anonymous 向特區政府「宣戰」，表示不滿香港警方動用胡椒噴霧及催淚彈對付手無寸鐵的示威者，宣佈開展一個代號為「Operation HongKong」的網絡戰。
 <a href="http://www.youtube.com/watch?v=BFO0hN9Ptdc&feature=youtu.be&list=UUbBm6SZ235HFxwVKC7Po5IA" target="_BLANK">www.youtube.com/watch</a> (2014年10月02日 09:28)
- ---
-RT @luosheng: #在这里读懂中国 RT @phinley: 为什么中国区变这样了 <a href="https://twitter.com/phinley/status/516801030193831936/photo/1" target="_BLANK">twitter.com/phinley/status/516801030193831936/photo/1</a> (2014年10月02日 09:25)
  ---
