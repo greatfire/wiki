@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @OCLPHK: Analysis: They're trying to wrong-foot demonstrators, giving us very little to see if that buys us off, putting ball back in ou… (2014年10月02日 23:59)
+ ---
+Begs the question - if HK cops/govt have shown maximum restraint, far greater than any other nation, how much more can they be pushed? (2014年10月02日 23:58)
+ ---
 "I will not resign" (2014年10月02日 23:52)
  ---
 RT @MarkTjhung: RT @OCLPHK: #cyleung: anywhere in the world if such govt facilities were surrounded in this way, there would be serious con… (2014年10月02日 23:50)
@@ -99,8 +103,4 @@ RT @tomgrundy: Student leader Agnes Chow says police are amassing, asks proteste
 RT @HKFS1958: Police carrying red and yellow flags of warning 
 Credits to inmediahk 
 #UmbrellaRevolution #OccupyCentral #OccpuyHK http://t.… (2014年10月02日 17:31)
- ---
-@Dymaxion @alexismadrigal also check our <a href="https://freeweibo.com/" target="_BLANK">freeweibo.com/</a> website or @FreeWeibo where we monitor censored discussions and keywords (2014年10月02日 17:23)
- ---
-RT @stefangeens: Smart of @cshirky to use Github as blog: Although US-based and HTTPS encrypted, it’s available in China (because Chinese d… (2014年10月02日 17:21)
  ---
