@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+"I will not resign" (2014年10月02日 23:52)
+ ---
 RT @MarkTjhung: RT @OCLPHK: #cyleung: anywhere in the world if such govt facilities were surrounded in this way, there would be serious con… (2014年10月02日 23:50)
  ---
 @SteveChaoSC if only they blocked @cctvnews (2014年10月02日 21:51)
@@ -101,6 +103,4 @@ Credits to inmediahk
 @Dymaxion @alexismadrigal also check our <a href="https://freeweibo.com/" target="_BLANK">freeweibo.com/</a> website or @FreeWeibo where we monitor censored discussions and keywords (2014年10月02日 17:23)
  ---
 RT @stefangeens: Smart of @cshirky to use Github as blog: Although US-based and HTTPS encrypted, it’s available in China (because Chinese d… (2014年10月02日 17:21)
- ---
-RT @bryanhimself: So police were caught lying. They said a woman needed an ambulance in gov offices, but they actually wanted to sneak in r… (2014年10月02日 17:11)
  ---
