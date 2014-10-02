@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+HK Gov saying it plans on sending 3000 employees back to work tomorrow so "please clear the area" <a href="https://twitter.com/george_chen/status/517621349733642240/photo/1" target="_BLANK">twitter.com/george_chen/status/517621349733642240/photo/1</a> (2014年10月02日 18:41)
+ ---
 RT @fion_li: Joshua Wong urges more ppl to join Harcourt Road #occupyhk as police may take actions soon #OccupyCentral <a href="http://t.co/wu0JBOot" target="_BLANK">t.co/wu0JBOot</a>… (2014年10月02日 18:16)
  ---
 .@ChineseWSJ says HK organisers have lost control of protest locations 香港抗议活动超出组织者控制范围 <a href="http://cn.wsj.com/gb/20141002/bch175101.asp?source=whatnews2" target="_BLANK">cn.wsj.com/gb/20141002/bch175101.asp</a> (2014年10月02日 18:05)
@@ -102,6 +104,4 @@ RT @ka1aok: 世界知名黑客組織 #Anonymous 向特區政府「宣戰」，�
 <a href="http://www.youtube.com/watch?v=BFO0hN9Ptdc&feature=youtu.be&list=UUbBm6SZ235HFxwVKC7Po5IA" target="_BLANK">www.youtube.com/watch</a> (2014年10月02日 09:28)
  ---
 RT @luosheng: #在这里读懂中国 RT @phinley: 为什么中国区变这样了 <a href="https://twitter.com/phinley/status/516801030193831936/photo/1" target="_BLANK">twitter.com/phinley/status/516801030193831936/photo/1</a> (2014年10月02日 09:25)
- ---
-RT @paopaonet: #泡泡情系占中# 【图片集：香港占中是最好的国民教育】八张图片带你走进真实的占中。独特的视角解读这场以爱与和平为名的香港国民运动。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/news/197" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> <a href="https://twitter.com/paopaonet/status/517331943558369281/photo/1" target="_BLANK">twitter.com/paopaonet/status/517331943558369281/photo/1</a> (2014年10月02日 09:18)
  ---
