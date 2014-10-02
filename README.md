@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Beijing suspends tour groups to protest-hit Hong Kong <a href="https://twitter.com/GreatFireChina/status/517494966135054336/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/517494966135054336/photo/1</a> (2014年10月02日 10:03)
+ ---
 Beijing suspends tour groups to protest-hit Hong Kong <a href="http://www.scmp.com/news/hong-kong/article/1607259/beijing-suspends-tour-groups-protest-hit-hong-kong" target="_BLANK">www.scmp.com/news/hong-kong/article/1607259/beijing-suspends-tour-groups-protest-hit-hong-kong</a> (2014年10月02日 09:45)
  ---
 RT @ka1aok: 世界知名黑客組織 #Anonymous 向特區政府「宣戰」，表示不滿香港警方動用胡椒噴霧及催淚彈對付手無寸鐵的示威者，宣佈開展一個代號為「Operation HongKong」的網絡戰。
@@ -101,6 +103,4 @@ RT @zuola: @wlyeung 我创建了一个 <a href="https://twitter.com/zuola/lists/
 @BethanyAllenEbr full story here: <a href="http://www.foreignpolicy.com/articles/2014/09/30/take_our_freedom_instagram_block_china" target="_BLANK">www.foreignpolicy.com/articles/2014/09/30/take_our_freedom_instagram_block_china</a> (2014年10月01日 21:07)
  ---
 Entrepreneurial opportunism! @instagram blocked but u can recover yr photos for 15 cents! <a href="http://item.taobao.com/item.htm?id=41446625121&_fb=YTVqMWFjfDExaTcyfDF8NDE0NDY2MjUxMjF8ZzFnfDUxNDBjZA%3D%3D&spm=a310v.4.1100002.341411148&_g=s2&_g=a1100002&_n=341411148&_t=item&_tk=41446625121&tracelog=frsinazt&from=frsinazt" target="_BLANK">item.taobao.com/item.htm</a> h/t @BethanyAllenEbr (2014年10月01日 21:06)
- ---
-China Appears to Attack Yahoo in Latest Censorship of Hong Kong Protests <a href="http://mashable.com/2014/09/30/china-attacks-yahoo-hong-kong-censorship/#:eyJzIjoidCIsImkiOiJfbWFpaXdtcGR5eW9icThncSJ9" target="_BLANK">mashable.com/2014/09/30/china-attacks-yahoo-hong-kong-censorship/</a> via @mashable (2014年10月01日 20:49)
  ---
