@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Please don't interpret Carrie and CY smirking as signs of sadistic pleasure - just unfortunate Chinese nuance when in uncomfy situations (2014年10月03日 00:06)
+ ---
 RT @withoutdoing: "CY Leung's presser totally insincere, rhetoric increasingly CPCish" RT @jason5ng32: 梁振英的发布会完全没有诚意，而且用词越来越共产党，比如“保持最大的忍让和… (2014年10月03日 00:00)
  ---
 RT @OCLPHK: Analysis: They're trying to wrong-foot demonstrators, giving us very little to see if that buys us off, putting ball back in ou… (2014年10月02日 23:59)
@@ -99,6 +101,4 @@ RT @fion_li: Joshua Wong urges more ppl to join Harcourt Road #occupyhk as polic
 RT @Edourdoo: 亞洲週刊獲悉，特首梁振英在衝突激烈、戰況紛雜的態勢下，明確指令，無論如何要死守政府總部，絕不能出現台灣三月「太陽花學運」佔領立法院的香港版。據悉，這也是特區政府向中南海保證的。 (2014年10月02日 17:51)
  ---
 @taniabranigan @guardian it's a shame that the live coverage has stopped (2014年10月02日 17:43)
- ---
-RT @tomgrundy: Student leader Agnes Chow says police are amassing, asks protesters to tell friends to come #Occupycentral <a href="http://t.co/hLjnG" target="_BLANK">t.co/hLjnG</a>… (2014年10月02日 17:37)
  ---
