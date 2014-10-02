@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Mostly 1 guy and media people blocking Lung Wo road via <a href="https://www.reddit.com/live/tnc30xhiiqom" target="_BLANK">www.reddit.com/live/tnc30xhiiqom</a> <a href="https://twitter.com/GreatFireChina/status/517712440017309699/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/517712440017309699/photo/1</a> (2014年10月03日 00:27)
+ ---
 Please don't interpret Carrie and CY smirking as signs of sadistic pleasure - just unfortunate Chinese nuance when in uncomfy situations (2014年10月03日 00:06)
  ---
 RT @withoutdoing: "CY Leung's presser totally insincere, rhetoric increasingly CPCish" RT @jason5ng32: 梁振英的发布会完全没有诚意，而且用词越来越共产党，比如“保持最大的忍让和… (2014年10月03日 00:00)
@@ -99,6 +101,4 @@ RT @fion_li: Joshua Wong urges more ppl to join Harcourt Road #occupyhk as polic
 .@ChineseWSJ says HK organisers have lost control of protest locations 香港抗议活动超出组织者控制范围 <a href="http://cn.wsj.com/gb/20141002/bch175101.asp?source=whatnews2" target="_BLANK">cn.wsj.com/gb/20141002/bch175101.asp</a> (2014年10月02日 18:05)
  ---
 RT @Edourdoo: 亞洲週刊獲悉，特首梁振英在衝突激烈、戰況紛雜的態勢下，明確指令，無論如何要死守政府總部，絕不能出現台灣三月「太陽花學運」佔領立法院的香港版。據悉，這也是特區政府向中南海保證的。 (2014年10月02日 17:51)
- ---
-@taniabranigan @guardian it's a shame that the live coverage has stopped (2014年10月02日 17:43)
  ---
