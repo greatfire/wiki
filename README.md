@@ -73,7 +73,7 @@ Beijing suspends tour groups to protest-hit Hong Kong <a href="https://twitter.c
 Beijing suspends tour groups to protest-hit Hong Kong <a href="http://www.scmp.com/news/hong-kong/article/1607259/beijing-suspends-tour-groups-protest-hit-hong-kong" target="_BLANK">www.scmp.com/news/hong-kong/article/1607259/beijing-suspends-tour-groups-protest-hit-hong-kong</a> (2014年10月02日 09:45)
  ---
 RT @ka1aok: 世界知名黑客組織 #Anonymous 向特區政府「宣戰」，表示不滿香港警方動用胡椒噴霧及催淚彈對付手無寸鐵的示威者，宣佈開展一個代號為「Operation HongKong」的網絡戰。
-<a href="http://www.youtube.com/watch?v=BFO0hN9Ptdc&feature=youtu.be&list=UUbBm6SZ235HFxwVKC7Po5IA" target="_BLANK">www.youtube.com/watch</a> (2014年10月02日 09:28)
+<a href="https://www.youtube.com/watch?v=BFO0hN9Ptdc&feature=youtu.be&list=UUbBm6SZ235HFxwVKC7Po5IA" target="_BLANK">www.youtube.com/watch</a> (2014年10月02日 09:28)
  ---
 RT @luosheng: #在这里读懂中国 RT @phinley: 为什么中国区变这样了 <a href="https://twitter.com/phinley/status/516801030193831936/photo/1" target="_BLANK">twitter.com/phinley/status/516801030193831936/photo/1</a> (2014年10月02日 09:25)
  ---
