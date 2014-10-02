@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @PhelimKine: #China threatens #HongKong protesters w/ "unimaginable consequences" <a href="http://www.washingtonpost.com/world/china-warns-hong-kong-protesters-of-unimaginable-consequences/2014/10/02/245eb391-e506-4c24-9cdc-f1c62528e6fb_story.html" target="_BLANK">www.washingtonpost.com/world/china-warns-hong-kong-protesters-of-unimaginable-consequences/2014/10/02/245eb391-e506-4c24-9cdc-f1c62528e6fb_story.html</a> Protesters like these two http:… (2014年10月03日 02:02)
+ ---
+@CloudFlare how come only China was impacted? (2014年10月03日 02:00)
+ ---
 RT @emilyrauhala: #HongKong: Another warning from the police about getting off the road. Situation still seems pretty volatile, despite cal… (2014年10月03日 01:58)
  ---
 @MuskieMcKay sea turtles with VPNs (2014年10月03日 01:58)
@@ -97,8 +101,4 @@ RT @PDChina: Facebook and YouTube have refused to delete material involving terr
 RT @goldkorn: "A Chinese government-backed agency…said Facebook &amp; YouTube…refused to delete material involving terrorism &amp;violence" http://… (2014年10月02日 20:21)
  ---
 中国至少20人因网上声援占中运动被捕 <a href="https://pao-pao.net/article/199" target="_BLANK">pao-pao.net/article/199</a> (2014年10月02日 20:13)
- ---
-RT @mumphLT: #OccpuyHK The paid thugs are getting all their weapons ready. Please stay safe protestors &amp; don't give them an excuse to kick … (2014年10月02日 18:47)
- ---
-HK Gov saying it plans on sending 3000 employees back to work tomorrow so "please clear the area" <a href="https://twitter.com/george_chen/status/517621349733642240/photo/1" target="_BLANK">twitter.com/george_chen/status/517621349733642240/photo/1</a> (2014年10月02日 18:41)
  ---
