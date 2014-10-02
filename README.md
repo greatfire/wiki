@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: #泡泡情系占中# 【图片集：香港占中是最好的国民教育】八张图片带你走进真实的占中。独特的视角解读这场以爱与和平为名的香港国民运动。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/news/197" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> <a href="https://twitter.com/paopaonet/status/517331943558369281/photo/1" target="_BLANK">twitter.com/paopaonet/status/517331943558369281/photo/1</a> (2014年10月02日 09:18)
+ ---
 RT @netresec: Verifying Chinese MITM of Yahoo: <a href="http://www.netresec.com/?page=Blog&month=2014-10&post=Verifying-Chinese-MITM-of-Yahoo" target="_BLANK">www.netresec.com/</a>
 #GFW #UmbrellaRevolution #OccupyHongKong (2014年10月02日 09:09)
  ---
@@ -100,6 +102,4 @@ RT @jgriffiths: @bfcarlson Falun Gong march, unrelated to Occupy Central. (2014�
 RT @dmychan75: Mr Zemen urges dialogue and compromise. First business person seen in #OccupyHK. Here as he's concerned for his staff. this … (2014年10月01日 17:20)
  ---
 RT @dmychan75: Allen Zeman in Central @5. #UmbrellaMovement #OccupyHK <a href="https://twitter.com/dmychan75/status/517238580616253440/photo/1" target="_BLANK">twitter.com/dmychan75/status/517238580616253440/photo/1</a> (2014年10月01日 17:20)
- ---
-RT @SophieHRW: Helpful list from @CHRDnet of mainland activists detained for supporting #hongkong protests: <a href="http://www.chrdnet.com/2014/10/chrb-activists-across-mainland-china-detained-for-supporting-democracy-protests-in-hong-kong-919-1012014/" target="_BLANK">www.chrdnet.com/2014/10/chrb-activists-across-mainland-china-detained-for-supporting-democracy-protests-in-hong-kong-919-1012014/</a> (2014年10月01日 16:59)
  ---
