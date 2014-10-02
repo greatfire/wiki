@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @george_chen: IMPORTANT: Protesters stay calm after Gov presser; Bloodshed not worth before negotiation begins - HK student leaders http… (2014年10月03日 02:12)
+ ---
 RT @PhelimKine: #China threatens #HongKong protesters w/ "unimaginable consequences" <a href="http://www.washingtonpost.com/world/china-warns-hong-kong-protesters-of-unimaginable-consequences/2014/10/02/245eb391-e506-4c24-9cdc-f1c62528e6fb_story.html" target="_BLANK">www.washingtonpost.com/world/china-warns-hong-kong-protesters-of-unimaginable-consequences/2014/10/02/245eb391-e506-4c24-9cdc-f1c62528e6fb_story.html</a> Protesters like these two http:… (2014年10月03日 02:02)
  ---
 @CloudFlare how come only China was impacted? (2014年10月03日 02:00)
@@ -99,6 +101,4 @@ RT @PDChina: Facebook and YouTube have refused to delete material involving terr
 @niubi expect more requests given the willingness of some companies to capitulate - like LinkedIn (2014年10月02日 20:22)
  ---
 RT @goldkorn: "A Chinese government-backed agency…said Facebook &amp; YouTube…refused to delete material involving terrorism &amp;violence" http://… (2014年10月02日 20:21)
- ---
-中国至少20人因网上声援占中运动被捕 <a href="https://pao-pao.net/article/199" target="_BLANK">pao-pao.net/article/199</a> (2014年10月02日 20:13)
  ---
