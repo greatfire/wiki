@@ -62,6 +62,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @PDChina: Facebook and YouTube have refused to delete material involving terrorism and #jihad, said Internet Society of China http://t.c… (2014年10月02日 20:23)
+ ---
+@niubi expect more requests given the willingness of some companies to capitulate - like LinkedIn (2014年10月02日 20:22)
+ ---
+RT @goldkorn: "A Chinese government-backed agency…said Facebook &amp; YouTube…refused to delete material involving terrorism &amp;violence" http://… (2014年10月02日 20:21)
+ ---
 中国至少20人因网上声援占中运动被捕 <a href="https://pao-pao.net/article/199" target="_BLANK">pao-pao.net/article/199</a> (2014年10月02日 20:13)
  ---
 RT @mumphLT: #OccpuyHK The paid thugs are getting all their weapons ready. Please stay safe protestors &amp; don't give them an excuse to kick … (2014年10月02日 18:47)
@@ -97,10 +103,4 @@ Anonymous to police: "Take this opp to stand down while we give it to you, or it
 RT @mgtphoto: 自己选特首，开什么玩笑，我们连活佛都是任命的 (2014年10月02日 11:06)
  ---
 Yahoo Restricted in China as Hong Kong Protests Spur New Control <a href="http://www.bloomberg.com/news/2014-09-30/yahoo-restricted-in-china-as-hong-kong-protests-spur-new-control.html" target="_BLANK">www.bloomberg.com/news/2014-09-30/yahoo-restricted-in-china-as-hong-kong-protests-spur-new-control.html</a> (2014年10月02日 11:00)
- ---
-goagent 3.2.0 正式版发布(注意: 需要重新上传服务端，并且重启浏览器)。 <a href="https://code.google.com/p/goagent/" target="_BLANK">code.google.com/p/goagent/</a> (2014年10月02日 10:16)
- ---
-Beijing suspends tour groups to protest-hit Hong Kong <a href="https://twitter.com/GreatFireChina/status/517494966135054336/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/517494966135054336/photo/1</a> (2014年10月02日 10:03)
- ---
-Beijing suspends tour groups to protest-hit Hong Kong <a href="http://www.scmp.com/news/hong-kong/article/1607259/beijing-suspends-tour-groups-protest-hit-hong-kong" target="_BLANK">www.scmp.com/news/hong-kong/article/1607259/beijing-suspends-tour-groups-protest-hit-hong-kong</a> (2014年10月02日 09:45)
  ---
