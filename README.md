@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @niubi: “@AP: BREAKING: Hong Kong police warn of serious consequences if protesters charge government buildings” a bad idea, clear provo… (2014年10月02日 17:00)
+ ---
 RT @hschollgogo: @GreatFireChina help support the #UmbrellaRevolution with a NY times full page ad for Hong Kong democracy now http://t.co/… (2014年10月02日 16:56)
  ---
 Anonymous to police: "Take this opp to stand down while we give it to you, or it will get a lot worse." <a href="http://news2share.com/start/2014/10/01/anonymous-declares-war-against-hong-kong/" target="_BLANK">news2share.com/start/2014/10/01/anonymous-declares-war-against-hong-kong/</a> #OpHK (2014年10月02日 16:55)
@@ -101,6 +103,4 @@ RT @kinablog: MT @WLYeung: WeChat extends censorship to HK users; images &amp; m
 RT @wafarris: Pic from a rally in Taipei's Freedom Square in support of #OccupyCentral <a href="https://twitter.com/wafarris/status/517310206850506753/photo/1" target="_BLANK">twitter.com/wafarris/status/517310206850506753/photo/1</a> (2014年10月01日 23:15)
  ---
 RT @klustout: In case you missed it: @AiWW on why he supports the #UmbrellaRevolution in #HongKong: <a href="https://www.youtube.com/watch?v=tuOLhwmdaoc" target="_BLANK">www.youtube.com/watch</a> (2014年10月01日 23:14)
- ---
-RT @klustout: "This city is so poor all we have left is money." Yet @appledaily_hk media mogul Jimmy Lai has hope for #HongKong: https://t.… (2014年10月01日 23:09)
  ---
