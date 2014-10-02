@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @bryanhimself: So police were caught lying. They said a woman needed an ambulance in gov offices, but they actually wanted to sneak in r… (2014年10月02日 17:11)
+ ---
 RT @niubi: “@AP: BREAKING: Hong Kong police warn of serious consequences if protesters charge government buildings” a bad idea, clear provo… (2014年10月02日 17:00)
  ---
 RT @hschollgogo: @GreatFireChina help support the #UmbrellaRevolution with a NY times full page ad for Hong Kong democracy now http://t.co/… (2014年10月02日 16:56)
@@ -101,6 +103,4 @@ RT @goldkorn: Longish interview with me on CNN about mainland Chinese media and 
 RT @kinablog: MT @WLYeung: WeChat extends censorship to HK users; images &amp; messages are filtered. Via @westmoon: <a href="http://www.solidot.org/" target="_BLANK">www.solidot.org/</a> (2014年10月01日 23:17)
  ---
 RT @wafarris: Pic from a rally in Taipei's Freedom Square in support of #OccupyCentral <a href="https://twitter.com/wafarris/status/517310206850506753/photo/1" target="_BLANK">twitter.com/wafarris/status/517310206850506753/photo/1</a> (2014年10月01日 23:15)
- ---
-RT @klustout: In case you missed it: @AiWW on why he supports the #UmbrellaRevolution in #HongKong: <a href="https://www.youtube.com/watch?v=tuOLhwmdaoc" target="_BLANK">www.youtube.com/watch</a> (2014年10月01日 23:14)
  ---
