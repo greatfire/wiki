@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Yahoo Restricted in China as Hong Kong Protests Spur New Control <a href="http://www.bloomberg.com/news/2014-09-30/yahoo-restricted-in-china-as-hong-kong-protests-spur-new-control.html" target="_BLANK">www.bloomberg.com/news/2014-09-30/yahoo-restricted-in-china-as-hong-kong-protests-spur-new-control.html</a> (2014年10月02日 11:00)
+ ---
 goagent 3.2.0 正式版发布(注意: 需要重新上传服务端，并且重启浏览器)。 <a href="https://code.google.com/p/goagent/" target="_BLANK">code.google.com/p/goagent/</a> (2014年10月02日 10:16)
  ---
 Beijing suspends tour groups to protest-hit Hong Kong <a href="https://twitter.com/GreatFireChina/status/517494966135054336/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/517494966135054336/photo/1</a> (2014年10月02日 10:03)
@@ -101,6 +103,4 @@ Important for China: Every time u visit a website with "http" in URL, u leave a 
 "Social Media Secrets of the Pharaohs" Dying to hear the view from Beijing?   @zuola Twitter list of 50 centers <a href="https://twitter.com/zuola/lists/guobao" target="_BLANK">twitter.com/zuola/lists/guobao</a> (2014年10月01日 21:18)
  ---
 RT @zuola: @wlyeung 我创建了一个 <a href="https://twitter.com/zuola/lists/guobao" target="_BLANK">twitter.com/zuola/lists/guobao</a> ,要是被你举报了，然后Twitter又真删光了，我就没法跟别人介绍五毛通常是怎么说话怎么工作的了。 若是被mention，就block了，这样任其自说自话就好。 (2014年10月01日 21:14)
- ---
-@BethanyAllenEbr full story here: <a href="http://www.foreignpolicy.com/articles/2014/09/30/take_our_freedom_instagram_block_china" target="_BLANK">www.foreignpolicy.com/articles/2014/09/30/take_our_freedom_instagram_block_china</a> (2014年10月01日 21:07)
  ---
