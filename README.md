@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China’s strange support for Apple’s latest security features <a href="http://pando.com/2014/09/30/chinas-strange-support-for-apples-latest-security-features/" target="_BLANK">pando.com/2014/09/30/chinas-strange-support-for-apples-latest-security-features/</a> (2014年10月03日 04:32)
+ ---
 RT @george_chen: IMPORTANT: Protesters stay calm after Gov presser; Bloodshed not worth before negotiation begins - HK student leaders http… (2014年10月03日 02:12)
  ---
 RT @PhelimKine: #China threatens #HongKong protesters w/ "unimaginable consequences" <a href="http://www.washingtonpost.com/world/china-warns-hong-kong-protesters-of-unimaginable-consequences/2014/10/02/245eb391-e506-4c24-9cdc-f1c62528e6fb_story.html" target="_BLANK">www.washingtonpost.com/world/china-warns-hong-kong-protesters-of-unimaginable-consequences/2014/10/02/245eb391-e506-4c24-9cdc-f1c62528e6fb_story.html</a> Protesters like these two http:… (2014年10月03日 02:02)
@@ -99,6 +101,4 @@ RT @stevecheckoway: Shorter @stewartbaker: iOS should have a backdoor because Ch
 RT @PDChina: Facebook and YouTube have refused to delete material involving terrorism and #jihad, said Internet Society of China http://t.c… (2014年10月02日 20:23)
  ---
 @niubi expect more requests given the willingness of some companies to capitulate - like LinkedIn (2014年10月02日 20:22)
- ---
-RT @goldkorn: "A Chinese government-backed agency…said Facebook &amp; YouTube…refused to delete material involving terrorism &amp;violence" http://… (2014年10月02日 20:21)
  ---
