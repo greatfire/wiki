@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China needs way for citizens to shape governance other than protests that risk becoming struggle for nation’s soul. <a href="http://www.economist.com/news/leaders/21621803-communist-party-faces-its-toughest-challenge-tiananmen-time-it-must-make-wiser?fsrc=scn/tw_ec/the_party_v_the_people" target="_BLANK">www.economist.com/news/leaders/21621803-communist-party-faces-its-toughest-challenge-tiananmen-time-it-must-make-wiser</a> (2014年10月02日 21:08)
+ ---
 RT @joshuawong1013: 對方瘋狂，不要和他們瘋狂。 (2014年10月02日 20:58)
  ---
 RT @stevecheckoway: Shorter @stewartbaker: iOS should have a backdoor because China might want one. (2014年10月02日 20:41)
@@ -101,6 +103,4 @@ RT @bryanhimself: So police were caught lying. They said a woman needed an ambul
 RT @niubi: “@AP: BREAKING: Hong Kong police warn of serious consequences if protesters charge government buildings” a bad idea, clear provo… (2014年10月02日 17:00)
  ---
 RT @hschollgogo: @GreatFireChina help support the #UmbrellaRevolution with a NY times full page ad for Hong Kong democracy now http://t.co/… (2014年10月02日 16:56)
- ---
-Anonymous to police: "Take this opp to stand down while we give it to you, or it will get a lot worse." <a href="http://news2share.com/start/2014/10/01/anonymous-declares-war-against-hong-kong/" target="_BLANK">news2share.com/start/2014/10/01/anonymous-declares-war-against-hong-kong/</a> #OpHK (2014年10月02日 16:55)
  ---
