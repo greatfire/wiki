@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @stevecheckoway: Shorter @stewartbaker: iOS should have a backdoor because China might want one. (2014年10月02日 20:41)
+ ---
 RT @PDChina: Facebook and YouTube have refused to delete material involving terrorism and #jihad, said Internet Society of China http://t.c… (2014年10月02日 20:23)
  ---
 @niubi expect more requests given the willingness of some companies to capitulate - like LinkedIn (2014年10月02日 20:22)
@@ -101,6 +103,4 @@ RT @hschollgogo: @GreatFireChina help support the #UmbrellaRevolution with a NY 
 Anonymous to police: "Take this opp to stand down while we give it to you, or it will get a lot worse." <a href="http://news2share.com/start/2014/10/01/anonymous-declares-war-against-hong-kong/" target="_BLANK">news2share.com/start/2014/10/01/anonymous-declares-war-against-hong-kong/</a> #OpHK (2014年10月02日 16:55)
  ---
 RT @mgtphoto: 自己选特首，开什么玩笑，我们连活佛都是任命的 (2014年10月02日 11:06)
- ---
-Yahoo Restricted in China as Hong Kong Protests Spur New Control <a href="http://www.bloomberg.com/news/2014-09-30/yahoo-restricted-in-china-as-hong-kong-protests-spur-new-control.html" target="_BLANK">www.bloomberg.com/news/2014-09-30/yahoo-restricted-in-china-as-hong-kong-protests-spur-new-control.html</a> (2014年10月02日 11:00)
  ---
