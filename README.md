@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+中国至少20人因网上声援占中运动被捕 <a href="https://pao-pao.net/article/199" target="_BLANK">pao-pao.net/article/199</a> (2014年10月02日 20:13)
+ ---
 RT @mumphLT: #OccpuyHK The paid thugs are getting all their weapons ready. Please stay safe protestors &amp; don't give them an excuse to kick … (2014年10月02日 18:47)
  ---
 HK Gov saying it plans on sending 3000 employees back to work tomorrow so "please clear the area" <a href="https://twitter.com/george_chen/status/517621349733642240/photo/1" target="_BLANK">twitter.com/george_chen/status/517621349733642240/photo/1</a> (2014年10月02日 18:41)
@@ -101,7 +103,4 @@ goagent 3.2.0 正式版发布(注意: 需要重新上传服务端，并且重启
 Beijing suspends tour groups to protest-hit Hong Kong <a href="https://twitter.com/GreatFireChina/status/517494966135054336/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/517494966135054336/photo/1</a> (2014年10月02日 10:03)
  ---
 Beijing suspends tour groups to protest-hit Hong Kong <a href="http://www.scmp.com/news/hong-kong/article/1607259/beijing-suspends-tour-groups-protest-hit-hong-kong" target="_BLANK">www.scmp.com/news/hong-kong/article/1607259/beijing-suspends-tour-groups-protest-hit-hong-kong</a> (2014年10月02日 09:45)
- ---
-RT @ka1aok: 世界知名黑客組織 #Anonymous 向特區政府「宣戰」，表示不滿香港警方動用胡椒噴霧及催淚彈對付手無寸鐵的示威者，宣佈開展一個代號為「Operation HongKong」的網絡戰。
-<a href="http://www.youtube.com/watch?v=BFO0hN9Ptdc&feature=youtu.be&list=UUbBm6SZ235HFxwVKC7Po5IA" target="_BLANK">www.youtube.com/watch</a> (2014年10月02日 09:28)
  ---
