@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+.@ChineseWSJ says HK organisers have lost control of protest locations 香港抗议活动超出组织者控制范围 <a href="http://cn.wsj.com/gb/20141002/bch175101.asp?source=whatnews2" target="_BLANK">cn.wsj.com/gb/20141002/bch175101.asp</a> (2014年10月02日 18:05)
+ ---
 RT @Edourdoo: 亞洲週刊獲悉，特首梁振英在衝突激烈、戰況紛雜的態勢下，明確指令，無論如何要死守政府總部，絕不能出現台灣三月「太陽花學運」佔領立法院的香港版。據悉，這也是特區政府向中南海保證的。 (2014年10月02日 17:51)
  ---
 @taniabranigan @guardian it's a shame that the live coverage has stopped (2014年10月02日 17:43)
@@ -103,6 +105,4 @@ RT @paopaonet: #泡泡情系占中# 【图片集：香港占中是最好的国�
  ---
 RT @netresec: Verifying Chinese MITM of Yahoo: <a href="http://www.netresec.com/?page=Blog&month=2014-10&post=Verifying-Chinese-MITM-of-Yahoo" target="_BLANK">www.netresec.com/</a>
 #GFW #UmbrellaRevolution #OccupyHongKong (2014年10月02日 09:09)
- ---
-RT @mashable: China appears to target @Yahoo with a "man-in-the-middle attack" to censor news of #UmbrellaRevolution protests: http://t.co/… (2014年10月02日 02:40)
  ---
