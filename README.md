@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @OCLPHK: Red warning flag shown in Mong Kok. Police with shields and wearing helmets form a line (2014年10月04日 02:24)
+ ---
+RT @OCLPHK: Benny Tai &amp; Joshua Wong urge supporters to leave Mong Kok &amp; Causeway Bay, continue peaceful struggle in Admiralty <a href="https://twitter.com/jagatsastry" target="_BLANK">twitter.com/jagatsastry</a>… (2014年10月04日 02:24)
+ ---
 RT @wilfredchan: Overall: I think the situation grew in complexity &amp; volatility tonight. There’s deepening anger and mistrust on all sides.… (2014年10月04日 01:08)
  ---
 RT @tomgrundy: #Occupycentral press release <a href="https://twitter.com/tomgrundy/status/517991409840705536/photo/1" target="_BLANK">twitter.com/tomgrundy/status/517991409840705536/photo/1</a> (2014年10月03日 20:03)
@@ -101,8 +105,4 @@ RT @PhelimKine: #China threatens #HongKong protesters w/ "unimaginable consequen
 RT @emilyrauhala: #HongKong: Another warning from the police about getting off the road. Situation still seems pretty volatile, despite cal… (2014年10月03日 01:58)
  ---
 @MuskieMcKay sea turtles with VPNs (2014年10月03日 01:58)
- ---
-Mostly 1 guy and media people blocking Lung Wo road via <a href="https://www.reddit.com/live/tnc30xhiiqom" target="_BLANK">www.reddit.com/live/tnc30xhiiqom</a> <a href="https://twitter.com/GreatFireChina/status/517712440017309699/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/517712440017309699/photo/1</a> (2014年10月03日 00:27)
- ---
-Please don't interpret Carrie and CY smirking as signs of sadistic pleasure - just unfortunate Chinese nuance when in uncomfy situations (2014年10月03日 00:06)
  ---
