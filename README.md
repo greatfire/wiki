@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @wilfredchan: Overall: I think the situation grew in complexity &amp; volatility tonight. There’s deepening anger and mistrust on all sides.… (2014年10月04日 01:08)
+ ---
 RT @tomgrundy: #Occupycentral press release <a href="https://twitter.com/tomgrundy/status/517991409840705536/photo/1" target="_BLANK">twitter.com/tomgrundy/status/517991409840705536/photo/1</a> (2014年10月03日 20:03)
  ---
 RT @bitinn: Day 6: 最后攻击学生、媒体乃至警察的，不是前几天的示威者。而是反对占中的爱国者们。
@@ -103,6 +105,4 @@ RT @emilyrauhala: #HongKong: Another warning from the police about getting off t
 Mostly 1 guy and media people blocking Lung Wo road via <a href="https://www.reddit.com/live/tnc30xhiiqom" target="_BLANK">www.reddit.com/live/tnc30xhiiqom</a> <a href="https://twitter.com/GreatFireChina/status/517712440017309699/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/517712440017309699/photo/1</a> (2014年10月03日 00:27)
  ---
 Please don't interpret Carrie and CY smirking as signs of sadistic pleasure - just unfortunate Chinese nuance when in uncomfy situations (2014年10月03日 00:06)
- ---
-RT @withoutdoing: "CY Leung's presser totally insincere, rhetoric increasingly CPCish" RT @jason5ng32: 梁振英的发布会完全没有诚意，而且用词越来越共产党，比如“保持最大的忍让和… (2014年10月03日 00:00)
  ---
