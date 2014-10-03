@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Possible reports of Microsoft's <a href="https://login.live.com/" target="_BLANK">login.live.com/</a> MITMed in China. Cannot confirm. If true, 4th case after Yahoo, Google, Github (2014年10月04日 07:04)
+ ---
 RT @OCLPHK: Red warning flag shown in Mong Kok. Police with shields and wearing helmets form a line (2014年10月04日 02:24)
  ---
 RT @OCLPHK: Benny Tai &amp; Joshua Wong urge supporters to leave Mong Kok &amp; Causeway Bay, continue peaceful struggle in Admiralty <a href="https://twitter.com/jagatsastry" target="_BLANK">twitter.com/jagatsastry</a>… (2014年10月04日 02:24)
@@ -103,6 +105,4 @@ RT @PhelimKine: #China threatens #HongKong protesters w/ "unimaginable consequen
 @CloudFlare how come only China was impacted? (2014年10月03日 02:00)
  ---
 RT @emilyrauhala: #HongKong: Another warning from the police about getting off the road. Situation still seems pretty volatile, despite cal… (2014年10月03日 01:58)
- ---
-@MuskieMcKay sea turtles with VPNs (2014年10月03日 01:58)
  ---
