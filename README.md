@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+连FireChat上都有五毛了。。。 <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/198" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月03日 10:27)
+ ---
 新华视点,头条新闻, 大公報等反对占中的报道都被新浪微博删除了，为什么？ <a href="https://freeweibo.com/weibo/%E9%A6%99%E6%B8%AF?censored" target="_BLANK">freeweibo.com/weibo/香港</a> (2014年10月03日 08:22)
  ---
 RT @dxzhao: 这两天对我而言感触最大的新闻就是，黄芝锋被港警拘48小时，求刑3到5年之后，港高院可以直接判无罪，并予以人身保护令。这就是为什么要三权分立的活生生例子！ (2014年10月03日 08:18)
@@ -99,6 +101,4 @@ Begs the question - if HK cops/govt have shown maximum restraint, far greater th
 RT @MarkTjhung: RT @OCLPHK: #cyleung: anywhere in the world if such govt facilities were surrounded in this way, there would be serious con… (2014年10月02日 23:50)
  ---
 @SteveChaoSC if only they blocked @cctvnews (2014年10月02日 21:51)
- ---
-China needs way for citizens to shape governance other than protests that risk becoming struggle for nation’s soul. <a href="http://www.economist.com/news/leaders/21621803-communist-party-faces-its-toughest-challenge-tiananmen-time-it-must-make-wiser?fsrc=scn/tw_ec/the_party_v_the_people" target="_BLANK">www.economist.com/news/leaders/21621803-communist-party-faces-its-toughest-challenge-tiananmen-time-it-must-make-wiser</a> (2014年10月02日 21:08)
  ---
