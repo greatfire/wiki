@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+新华视点,头条新闻, 大公報等反对占中的报道都被新浪微博删除了，为什么？ <a href="https://freeweibo.com/weibo/%E9%A6%99%E6%B8%AF?censored" target="_BLANK">freeweibo.com/weibo/香港</a> (2014年10月03日 08:22)
+ ---
 RT @dxzhao: 这两天对我而言感触最大的新闻就是，黄芝锋被港警拘48小时，求刑3到5年之后，港高院可以直接判无罪，并予以人身保护令。这就是为什么要三权分立的活生生例子！ (2014年10月03日 08:18)
  ---
 RT @Vergismeinich: 这几天真的被你们的祖国母亲给恶心到了。最好笑的莫过于已有116年历史的北京大学，其官微在微博祝贺65岁的祖国母亲生日快乐。当然了，后来其微博维护者也觉得不对劲，立马就删了，就好比把自己拉的屎又吃了。草泥马，祖国。 (2014年10月03日 08:17)
@@ -99,6 +101,4 @@ RT @MarkTjhung: RT @OCLPHK: #cyleung: anywhere in the world if such govt facilit
 @SteveChaoSC if only they blocked @cctvnews (2014年10月02日 21:51)
  ---
 China needs way for citizens to shape governance other than protests that risk becoming struggle for nation’s soul. <a href="http://www.economist.com/news/leaders/21621803-communist-party-faces-its-toughest-challenge-tiananmen-time-it-must-make-wiser?fsrc=scn/tw_ec/the_party_v_the_people" target="_BLANK">www.economist.com/news/leaders/21621803-communist-party-faces-its-toughest-challenge-tiananmen-time-it-must-make-wiser</a> (2014年10月02日 21:08)
- ---
-RT @joshuawong1013: 對方瘋狂，不要和他們瘋狂。 (2014年10月02日 20:58)
  ---
