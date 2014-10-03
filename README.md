@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Lantern 1.5.3测试版发布，解决了无法登录或者无法连接的问题 <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=182" target="_BLANK">lanternforum.greatfire.org/viewtopic.php</a> (2014年10月03日 08:10)
+ ---
 RT @rmack: R U a journalist reporting on the protests in HK? Helpful tips from @pressfreedom <a href="http://cpj.org/blog/2014/10/journalist-in-hong-kong-these-tips-will-keep-you-s.php" target="_BLANK">cpj.org/blog/2014/10/journalist-in-hong-kong-these-tips-will-keep-you-s.php</a> #UmbrellaRevolution (2014年10月03日 04:50)
  ---
 China’s strange support for Apple’s latest security features <a href="http://pando.com/2014/09/30/chinas-strange-support-for-apples-latest-security-features/" target="_BLANK">pando.com/2014/09/30/chinas-strange-support-for-apples-latest-security-features/</a> (2014年10月03日 04:32)
@@ -75,8 +77,6 @@ RT @PhelimKine: #China threatens #HongKong protesters w/ "unimaginable consequen
 RT @emilyrauhala: #HongKong: Another warning from the police about getting off the road. Situation still seems pretty volatile, despite cal… (2014年10月03日 01:58)
  ---
 @MuskieMcKay sea turtles with VPNs (2014年10月03日 01:58)
- ---
-“@Ctrip_deals: 作为中国线上旅游网领导品牌，我们能给你最优惠的机票和酒店！马上下载！ <a href="https://itunes.apple.com/app/id681752345" target="_BLANK">itunes.apple.com/app/id681752345</a>” - Ctrip ad in Chinese on Twitter weird - who they speaking to? (2014年10月03日 01:55)
  ---
 Mostly 1 guy and media people blocking Lung Wo road via <a href="https://www.reddit.com/live/tnc30xhiiqom" target="_BLANK">www.reddit.com/live/tnc30xhiiqom</a> <a href="https://twitter.com/GreatFireChina/status/517712440017309699/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/517712440017309699/photo/1</a> (2014年10月03日 00:27)
  ---
