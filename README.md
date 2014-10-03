@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@JohnRoss43 John are the authorities trying to censor you? <a href="https://freeweibo.com/weibo/JohnRoss431?censored" target="_BLANK">freeweibo.com/weibo/JohnRoss431</a> (2014年10月03日 15:04)
+ ---
 连FireChat上都有五毛了。。。 <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/198" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月03日 10:27)
  ---
 新华视点,头条新闻, 大公報等反对占中的报道都被新浪微博删除了，为什么？ <a href="https://freeweibo.com/weibo/%E9%A6%99%E6%B8%AF?censored" target="_BLANK">freeweibo.com/weibo/香港</a> (2014年10月03日 08:22)
@@ -99,6 +101,4 @@ Begs the question - if HK cops/govt have shown maximum restraint, far greater th
 "I will not resign" (2014年10月02日 23:52)
  ---
 RT @MarkTjhung: RT @OCLPHK: #cyleung: anywhere in the world if such govt facilities were surrounded in this way, there would be serious con… (2014年10月02日 23:50)
- ---
-@SteveChaoSC if only they blocked @cctvnews (2014年10月02日 21:51)
  ---
