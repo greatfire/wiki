@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@ChinaRealTime gov.hk, silentmajority.hk, <a href="http://wenweipo.com" target="_BLANK">wenweipo.com</a> all seem to be operating normally. DAB has a problem (2014年10月03日 17:53)
+ ---
 RT @goldkorn: "since Facebook &amp; YouTube…blocked by China's firewall, improving… relationship with Chinese govt may not be easy" http://t.co… (2014年10月03日 15:43)
  ---
 @JohnRoss43 John are the authorities trying to censor you? <a href="https://freeweibo.com/weibo/JohnRoss431?censored" target="_BLANK">freeweibo.com/weibo/JohnRoss431</a> (2014年10月03日 15:04)
@@ -99,6 +101,4 @@ RT @withoutdoing: "CY Leung's presser totally insincere, rhetoric increasingly C
 RT @OCLPHK: Analysis: They're trying to wrong-foot demonstrators, giving us very little to see if that buys us off, putting ball back in ou… (2014年10月02日 23:59)
  ---
 Begs the question - if HK cops/govt have shown maximum restraint, far greater than any other nation, how much more can they be pushed? (2014年10月02日 23:58)
- ---
-"I will not resign" (2014年10月02日 23:52)
  ---
