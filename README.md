@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @dxzhao: 这两天对我而言感触最大的新闻就是，黄芝锋被港警拘48小时，求刑3到5年之后，港高院可以直接判无罪，并予以人身保护令。这就是为什么要三权分立的活生生例子！ (2014年10月03日 08:18)
+ ---
+RT @Vergismeinich: 这几天真的被你们的祖国母亲给恶心到了。最好笑的莫过于已有116年历史的北京大学，其官微在微博祝贺65岁的祖国母亲生日快乐。当然了，后来其微博维护者也觉得不对劲，立马就删了，就好比把自己拉的屎又吃了。草泥马，祖国。 (2014年10月03日 08:17)
+ ---
 Lantern 1.5.3测试版发布，解决了无法登录或者无法连接的问题 <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=182" target="_BLANK">lanternforum.greatfire.org/viewtopic.php</a> (2014年10月03日 08:10)
  ---
 RT @rmack: R U a journalist reporting on the protests in HK? Helpful tips from @pressfreedom <a href="http://cpj.org/blog/2014/10/journalist-in-hong-kong-these-tips-will-keep-you-s.php" target="_BLANK">cpj.org/blog/2014/10/journalist-in-hong-kong-these-tips-will-keep-you-s.php</a> #UmbrellaRevolution (2014年10月03日 04:50)
@@ -97,8 +101,4 @@ RT @MarkTjhung: RT @OCLPHK: #cyleung: anywhere in the world if such govt facilit
 China needs way for citizens to shape governance other than protests that risk becoming struggle for nation’s soul. <a href="http://www.economist.com/news/leaders/21621803-communist-party-faces-its-toughest-challenge-tiananmen-time-it-must-make-wiser?fsrc=scn/tw_ec/the_party_v_the_people" target="_BLANK">www.economist.com/news/leaders/21621803-communist-party-faces-its-toughest-challenge-tiananmen-time-it-must-make-wiser</a> (2014年10月02日 21:08)
  ---
 RT @joshuawong1013: 對方瘋狂，不要和他們瘋狂。 (2014年10月02日 20:58)
- ---
-RT @stevecheckoway: Shorter @stewartbaker: iOS should have a backdoor because China might want one. (2014年10月02日 20:41)
- ---
-RT @PDChina: Facebook and YouTube have refused to delete material involving terrorism and #jihad, said Internet Society of China http://t.c… (2014年10月02日 20:23)
  ---
