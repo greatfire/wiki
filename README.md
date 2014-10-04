@@ -98,7 +98,7 @@ Lantern 1.5.3测试版发布，解决了无法登录或者无法连接的问题 
  ---
 RT @rmack: R U a journalist reporting on the protests in HK? Helpful tips from @pressfreedom <a href="http://cpj.org/blog/2014/10/journalist-in-hong-kong-these-tips-will-keep-you-s.php" target="_BLANK">cpj.org/blog/2014/10/journalist-in-hong-kong-these-tips-will-keep-you-s.php</a> #UmbrellaRevolution (2014年10月03日 04:50)
  ---
-China’s strange support for Apple’s latest security features <a href="http://pando.com/2014/09/30/chinas-strange-support-for-apples-latest-security-features/" target="_BLANK">pando.com/2014/09/30/chinas-strange-support-for-apples-latest-security-features/</a> (2014年10月03日 04:32)
+China’s strange support for Apple’s latest security features <a href="http://flip.it/E1i9Q" target="_BLANK">flip.it/E1i9Q</a> (2014年10月03日 04:32)
  ---
 RT @george_chen: IMPORTANT: Protesters stay calm after Gov presser; Bloodshed not worth before negotiation begins - HK student leaders http… (2014年10月03日 02:12)
  ---
