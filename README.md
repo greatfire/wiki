@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+"如果你们继续向示威者施暴，我们将继续攻击和瘫痪你们政府的网站。这不是要挟，这是一个承诺” <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/202" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月04日 11:54)
+ ---
 Possible reports of Microsoft's <a href="https://login.live.com/" target="_BLANK">login.live.com/</a> MITMed in China. Cannot confirm. If true, 4th case after Yahoo, Google, Github (2014年10月04日 07:04)
  ---
 RT @OCLPHK: Red warning flag shown in Mong Kok. Police with shields and wearing helmets form a line (2014年10月04日 02:24)
@@ -103,6 +105,4 @@ RT @george_chen: IMPORTANT: Protesters stay calm after Gov presser; Bloodshed no
 RT @PhelimKine: #China threatens #HongKong protesters w/ "unimaginable consequences" <a href="http://www.washingtonpost.com/world/china-warns-hong-kong-protesters-of-unimaginable-consequences/2014/10/02/245eb391-e506-4c24-9cdc-f1c62528e6fb_story.html" target="_BLANK">www.washingtonpost.com/world/china-warns-hong-kong-protesters-of-unimaginable-consequences/2014/10/02/245eb391-e506-4c24-9cdc-f1c62528e6fb_story.html</a> Protesters like these two http:… (2014年10月03日 02:02)
  ---
 @CloudFlare how come only China was impacted? (2014年10月03日 02:00)
- ---
-RT @emilyrauhala: #HongKong: Another warning from the police about getting off the road. Situation still seems pretty volatile, despite cal… (2014年10月03日 01:58)
  ---
