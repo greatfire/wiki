@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@Eland_Zhou 访问网址使用的ip地址是什么？ (2014年10月05日 14:28)
+ ---
 Year of the RAT: China’s malware war on activists goes mobile <a href="http://arstechnica.com/security/2014/10/year-of-the-rat-chinas-malware-war-on-activists-goes-mobile/" target="_BLANK">arstechnica.com/security/2014/10/year-of-the-rat-chinas-malware-war-on-activists-goes-mobile/</a> (2014年10月05日 05:18)
  ---
 Hong Kong protesters must be cleared by Monday, chief executive says <a href="http://www.theguardian.com/world/2014/oct/04/hong-kong-protesters-cleared-monday-chief-executive" target="_BLANK">www.theguardian.com/world/2014/oct/04/hong-kong-protesters-cleared-monday-chief-executive</a> (2014年10月05日 05:16)
@@ -103,6 +105,4 @@ RT @goldkorn: "since Facebook &amp; YouTube…blocked by China's firewall, impro
 RT @dxzhao: 这两天对我而言感触最大的新闻就是，黄芝锋被港警拘48小时，求刑3到5年之后，港高院可以直接判无罪，并予以人身保护令。这就是为什么要三权分立的活生生例子！ (2014年10月03日 08:18)
  ---
 RT @Vergismeinich: 这几天真的被你们的祖国母亲给恶心到了。最好笑的莫过于已有116年历史的北京大学，其官微在微博祝贺65岁的祖国母亲生日快乐。当然了，后来其微博维护者也觉得不对劲，立马就删了，就好比把自己拉的屎又吃了。草泥马，祖国。 (2014年10月03日 08:17)
- ---
-Lantern 1.5.3测试版发布，解决了无法登录或者无法连接的问题 <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=182" target="_BLANK">lanternforum.greatfire.org/viewtopic.php</a> (2014年10月03日 08:10)
  ---
