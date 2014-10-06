@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @BethanyAllenEbr: Despite violence in Hong Kong last night and shocking images of violence, censorship on Weibo is now lowest since Occu… (2014年10月06日 20:43)
+ ---
 LinkedIn "relinquishes" 7% of local entity to Jiang Zemin connection so they can operate in China <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F10%2F06%2Ftechnology%2Fto-reach-china-linkedin-plays-by-local-rules.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年10月06日 18:02)
  ---
 RT @chenshaoju: 可惜被删了 #截图存档 <a href="https://twitter.com/chenshaoju/status/518633576074448897/photo/1" target="_BLANK">twitter.com/chenshaoju/status/518633576074448897/photo/1</a> (2014年10月06日 12:19)
@@ -103,6 +105,4 @@ RT @bitinn: Day 6: 最后攻击学生、媒体乃至警察的，不是前几天�
 @ChinaRealTime gov.hk, silentmajority.hk, <a href="http://wenweipo.com" target="_BLANK">wenweipo.com</a> all seem to be operating normally. DAB has a problem (2014年10月03日 17:53)
  ---
 RT @goldkorn: "since Facebook &amp; YouTube…blocked by China's firewall, improving… relationship with Chinese govt may not be easy" http://t.co… (2014年10月03日 15:43)
- ---
-@JohnRoss43 John are the authorities trying to censor you? <a href="https://freeweibo.com/weibo/JohnRoss431?censored" target="_BLANK">freeweibo.com/weibo/JohnRoss431</a> (2014年10月03日 15:04)
  ---
