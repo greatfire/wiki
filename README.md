@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Jiang Zemin berates Hong Kong journalist - tells them they shld be more like Mike Wallace  <a href="https://www.facebook.com/unsupportedbrowser" target="_BLANK">www.facebook.com/unsupportedbrowser</a> (2014年10月07日 18:02)
+ ---
 RT @Garvey_B: Some keep taking photos of me, interrupt as i try to interview people...… (2014年10月07日 17:13)
  ---
 Seven Held in Beijing's Artists' Village Over Support For Hong Kong Protests <a href="http://www.rfa.org/english/news/china/detention-10062014173949.html" target="_BLANK">www.rfa.org/english/news/china/detention-10062014173949.html</a> (2014年10月07日 17:07)
@@ -100,6 +102,4 @@ Lantern 1.5.3 正式版发布，有用户反馈Youtube 1080P都稳定快速。 �
 "如果你们继续向示威者施暴，我们将继续攻击和瘫痪你们政府的网站。这不是要挟，这是一个承诺” <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/202" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月04日 11:54)
  ---
 Possible reports of Microsoft's <a href="https://login.live.com/" target="_BLANK">login.live.com/</a> MITMed in China. Cannot confirm. If true, 4th case after Yahoo, Google, Github (2014年10月04日 07:04)
- ---
-RT @OCLPHK: Red warning flag shown in Mong Kok. Police with shields and wearing helmets form a line (2014年10月04日 02:24)
  ---
