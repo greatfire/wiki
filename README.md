@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+"Friends in HK told me how bad gov't is, but CCTV told me how irrational protesters are - don’t know who to believe" <a href="http://www.washingtonpost.com/world/in-beijing-support-for-dialogue-in-hong-kong-but-not-democracy/2014/10/06/fd6863be-8a62-4e35-8ded-329db3e33a70_story.html" target="_BLANK">www.washingtonpost.com/world/in-beijing-support-for-dialogue-in-hong-kong-but-not-democracy/2014/10/06/fd6863be-8a62-4e35-8ded-329db3e33a70_story.html</a> (2014年10月07日 22:47)
+ ---
 Jiang Zemin berates Hong Kong journalist - tells them they shld be more like Mike Wallace  <a href="https://www.facebook.com/unsupportedbrowser" target="_BLANK">www.facebook.com/unsupportedbrowser</a> (2014年10月07日 18:02)
  ---
 RT @Garvey_B: Some keep taking photos of me, interrupt as i try to interview people...… (2014年10月07日 17:13)
@@ -100,6 +102,4 @@ RT @byAlanWong: "Support Hong Kong's fight for freedom!" Democracy advocates in 
 Lantern 1.5.3 正式版发布，有用户反馈Youtube 1080P都稳定快速。 下载地址 <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=182#p663" target="_BLANK">lanternforum.greatfire.org/viewtopic.php</a> (2014年10月05日 02:39)
  ---
 "如果你们继续向示威者施暴，我们将继续攻击和瘫痪你们政府的网站。这不是要挟，这是一个承诺” <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/202" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月04日 11:54)
- ---
-Possible reports of Microsoft's <a href="https://login.live.com/" target="_BLANK">login.live.com/</a> MITMed in China. Cannot confirm. If true, 4th case after Yahoo, Google, Github (2014年10月04日 07:04)
  ---
