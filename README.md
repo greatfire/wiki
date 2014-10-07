@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @Jessica0805: 我操你媽的689！連 #wechat 都覆蓋我封面照片！ <a href="https://twitter.com/Jessica0805/status/519336298641752065/photo/1" target="_BLANK">twitter.com/Jessica0805/status/519336298641752065/photo/1</a> (2014年10月07日 16:48)
+ ---
 RT @austinramzy: Think Hong Kong's density and highly-wired population make daily protest counts matter less. Lots could mobilize quickly i… (2014年10月07日 15:44)
  ---
 RT @iaskfq: cc @GreatFireChina RT @love_sci4ever: 保存在印象笔记的文章的公开共享链接失效。这就是保存信息在“印象笔记”而不是保存在国际版Evernote的后果。亦由此可见国内网络封锁之疯狂与Evernote公司的妥协。  cc … (2014年10月07日 15:18)
@@ -100,6 +102,4 @@ RT @OCLPHK: Red warning flag shown in Mong Kok. Police with shields and wearing 
 RT @OCLPHK: Benny Tai &amp; Joshua Wong urge supporters to leave Mong Kok &amp; Causeway Bay, continue peaceful struggle in Admiralty <a href="https://twitter.com/jagatsastry" target="_BLANK">twitter.com/jagatsastry</a>… (2014年10月04日 02:24)
  ---
 RT @wilfredchan: Overall: I think the situation grew in complexity &amp; volatility tonight. There’s deepening anger and mistrust on all sides.… (2014年10月04日 01:08)
- ---
-RT @tomgrundy: #Occupycentral press release <a href="https://twitter.com/tomgrundy/status/517991409840705536/photo/1" target="_BLANK">twitter.com/tomgrundy/status/517991409840705536/photo/1</a> (2014年10月03日 20:03)
  ---
