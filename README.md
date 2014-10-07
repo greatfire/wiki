@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @Garvey_B: Some keep taking photos of me, interrupt as i try to interview people...… (2014年10月07日 17:13)
+ ---
 Seven Held in Beijing's Artists' Village Over Support For Hong Kong Protests <a href="http://www.rfa.org/english/news/china/detention-10062014173949.html" target="_BLANK">www.rfa.org/english/news/china/detention-10062014173949.html</a> (2014年10月07日 17:07)
  ---
 RT @Jessica0805: 我操你媽的689！連 #wechat 都覆蓋我封面照片！ <a href="https://twitter.com/Jessica0805/status/519336298641752065/photo/1" target="_BLANK">twitter.com/Jessica0805/status/519336298641752065/photo/1</a> (2014年10月07日 16:48)
@@ -100,6 +102,4 @@ Lantern 1.5.3 正式版发布，有用户反馈Youtube 1080P都稳定快速。 �
 Possible reports of Microsoft's <a href="https://login.live.com/" target="_BLANK">login.live.com/</a> MITMed in China. Cannot confirm. If true, 4th case after Yahoo, Google, Github (2014年10月04日 07:04)
  ---
 RT @OCLPHK: Red warning flag shown in Mong Kok. Police with shields and wearing helmets form a line (2014年10月04日 02:24)
- ---
-RT @OCLPHK: Benny Tai &amp; Joshua Wong urge supporters to leave Mong Kok &amp; Causeway Bay, continue peaceful struggle in Admiralty <a href="https://twitter.com/jagatsastry" target="_BLANK">twitter.com/jagatsastry</a>… (2014年10月04日 02:24)
  ---
