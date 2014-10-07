@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @iaskfq: cc @GreatFireChina RT @love_sci4ever: 保存在印象笔记的文章的公开共享链接失效。这就是保存信息在“印象笔记”而不是保存在国际版Evernote的后果。亦由此可见国内网络封锁之疯狂与Evernote公司的妥协。  cc … (2014年10月07日 15:18)
+ ---
 RT @rajivpant: To news media sites: Pledge your support to be fully on https before end of 2015 with hashtag #https2015
 <a href="https://t.co/XdEX61" target="_BLANK">t.co/XdEX61</a>… (2014年10月06日 23:14)
  ---
@@ -104,6 +106,4 @@ RT @bitinn: Day 6: 最后攻击学生、媒体乃至警察的，不是前几天�
 爱国至此，也是醉了。
 
 <a href="https://vine.co/v/OmxbBt3UMra" target="_BLANK">vine.co/v/OmxbBt3UMra</a> via @tomgrundy (2014年10月03日 18:10)
- ---
-@ChinaRealTime gov.hk, silentmajority.hk, <a href="http://wenweipo.com" target="_BLANK">wenweipo.com</a> all seem to be operating normally. DAB has a problem (2014年10月03日 17:53)
  ---
