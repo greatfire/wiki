@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @rmack: RankingDigitalRights pilot study on ICT companies' policies/practices on freedom of expression &amp; privacy <a href="https://rankingdigitalrights.org/2014/10/06/phase-1-pilot-study-launched/" target="_BLANK">rankingdigitalrights.org/2014/10/06/phase-1-pilot-study-launched/</a>… (2014年10月08日 20:50)
+ ---
+RT @zuola: 五毛其实很好找，搜索“蛊惑”或“破坏”等文革用语就能找到不少，刚才发现一个发推4万3千的无名五毛，翻了几页后发现这只是一个程序轮番自动发推的五毛，可能忘记关了，所以一直在重复发推也没人知道。 <a href="https://twitter.com/zuola/status/519827422619774977/photo/1" target="_BLANK">twitter.com/zuola/status/519827422619774977/photo/1</a> (2014年10月08日 20:50)
+ ---
 .@citizenlab research may indicate authorities 4shadowed / censored "tyranny" b4 #OccupyCentral protests in HK <a href="https://citizenlab.org/2014/10/asia-chats-line-keyword-filtering-upgraded-include-regular-expressions/" target="_BLANK">citizenlab.org/2014/10/asia-chats-line-keyword-filtering-upgraded-include-regular-expressions/</a> (2014年10月08日 19:59)
  ---
 Tsering Woeser: "Gov't blocks info, blocks truth, many don’t know this is happening, many don't care" <a href="http://womennewsnetwork.net/2014/10/06/tibetan-woman-poet-freedom/" target="_BLANK">womennewsnetwork.net/2014/10/06/tibetan-woman-poet-freedom/</a> h/t @pjmooney (2014年10月08日 14:18)
@@ -98,8 +102,4 @@ RT @rajivpant: To news media sites: Pledge your support to be fully on https bef
 RT @BethanyAllenEbr: Despite violence in Hong Kong last night and shocking images of violence, censorship on Weibo is now lowest since Occu… (2014年10月06日 20:43)
  ---
 LinkedIn "relinquishes" 7% of local entity to Jiang Zemin connection so they can operate in China <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F10%2F06%2Ftechnology%2Fto-reach-china-linkedin-plays-by-local-rules.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年10月06日 18:02)
- ---
-RT @chenshaoju: 可惜被删了 #截图存档 <a href="https://twitter.com/chenshaoju/status/518633576074448897/photo/1" target="_BLANK">twitter.com/chenshaoju/status/518633576074448897/photo/1</a> (2014年10月06日 12:19)
- ---
-RT @kgen: 看图，香港人在争取的，就是自己不要被沦陷为这样的世界。 <a href="https://twitter.com/kgen/status/517720485396619264/photo/1" target="_BLANK">twitter.com/kgen/status/517720485396619264/photo/1</a> (2014年10月06日 12:10)
  ---
