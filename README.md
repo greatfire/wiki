@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+中华名将，军中鹰帝戴旭认为，他在微博上打不出“占中”，只能以“Z中”指代，原因是新浪已被美资控制，系美国的政治黑手设立了敏感词。／／还真不是段子。原文 <a href="https://freeweibo.com/weibo/3763173297053613" target="_BLANK">freeweibo.com/weibo/3763173297053613</a> (2014年10月08日 10:54)
+ ---
 五毛评论香港占中说：“学生被煽动了，一定是后面有人在搞事。” 你怎么回答？ <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/208" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月08日 10:27)
  ---
 RT @paopaonet: 香港怎么了（二） ：事情发展至此，已远远超越原来的“占领中环”运动... <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/208" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月08日 10:22)
@@ -100,6 +102,4 @@ RT @remonwangxt: 轉：【谁把学生教坏了？】发现一个规律，但凡
 Year of the RAT: China’s malware war on activists goes mobile <a href="http://arstechnica.com/security/2014/10/year-of-the-rat-chinas-malware-war-on-activists-goes-mobile/" target="_BLANK">arstechnica.com/security/2014/10/year-of-the-rat-chinas-malware-war-on-activists-goes-mobile/</a> (2014年10月05日 05:18)
  ---
 Hong Kong protesters must be cleared by Monday, chief executive says <a href="http://www.theguardian.com/world/2014/oct/04/hong-kong-protesters-cleared-monday-chief-executive" target="_BLANK">www.theguardian.com/world/2014/oct/04/hong-kong-protesters-cleared-monday-chief-executive</a> (2014年10月05日 05:16)
- ---
-RT @TheAPJournalist: HK Police statement: "Police appeal to the public to exercise restraint." <a href="http://www.info.gov.hk/gia/general/201410/05/P201410050169.htm" target="_BLANK">www.info.gov.hk/gia/general/201410/05/P201410050169.htm</a> #UmbrellaMovement htt… (2014年10月05日 05:03)
  ---
