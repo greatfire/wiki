@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Tsering Woeser: "Gov't blocks info, blocks truth, many don’t know this is happening, many don't care" <a href="http://womennewsnetwork.net/2014/10/06/tibetan-woman-poet-freedom/" target="_BLANK">womennewsnetwork.net/2014/10/06/tibetan-woman-poet-freedom/</a> h/t @pjmooney (2014年10月08日 14:18)
+ ---
 RT @jasonqng: Must read: how #UmbrellaRevolution (key word: revolution) hurt the #OccupyCentral movement by @jasonli @88_bartenders http://… (2014年10月08日 13:40)
  ---
 RT @Edourdoo: Hawkish PLA general Dai Xu believes weibo is under US control since he cannot mention "Occupy Central". #段子 <a href="http://t.co/A1wnP" target="_BLANK">t.co/A1wnP</a>… (2014年10月08日 13:38)
@@ -100,6 +102,4 @@ RT @chenshaoju: 可惜被删了 #截图存档 <a href="https://twitter.com/chens
 RT @kgen: 看图，香港人在争取的，就是自己不要被沦陷为这样的世界。 <a href="https://twitter.com/kgen/status/517720485396619264/photo/1" target="_BLANK">twitter.com/kgen/status/517720485396619264/photo/1</a> (2014年10月06日 12:10)
  ---
 RT @remonwangxt: 轉：【谁把学生教坏了？】发现一个规律，但凡一九四九以前的学生运动，从五四运动到12.9到47年反饥饿反内战，都是爱国运动，而一九四九后，所有的学生运动都是境外势力煽动的。我忍不住思考，为什么建国以后，学生就变坏了？ (2014年10月06日 11:58)
- ---
-@Eland_Zhou 访问网址使用的ip地址是什么？ (2014年10月05日 14:28)
  ---
