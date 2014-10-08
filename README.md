@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China's increasing reluctance towards international Internet integration may bring considerable harm <a href="http://standingcommittee.org/2014/10/06/virtual-lines-in-the-sand-chinas-demands-for-internet-sovereignty/" target="_BLANK">standingcommittee.org/2014/10/06/virtual-lines-in-the-sand-chinas-demands-for-internet-sovereignty/</a> h/t @niubi (2014年10月08日 21:59)
+ ---
 RT @rmack: RankingDigitalRights pilot study on ICT companies' policies/practices on freedom of expression &amp; privacy <a href="https://rankingdigitalrights.org/2014/10/06/phase-1-pilot-study-launched/" target="_BLANK">rankingdigitalrights.org/2014/10/06/phase-1-pilot-study-launched/</a>… (2014年10月08日 20:50)
  ---
 RT @zuola: 五毛其实很好找，搜索“蛊惑”或“破坏”等文革用语就能找到不少，刚才发现一个发推4万3千的无名五毛，翻了几页后发现这只是一个程序轮番自动发推的五毛，可能忘记关了，所以一直在重复发推也没人知道。 <a href="https://twitter.com/zuola/status/519827422619774977/photo/1" target="_BLANK">twitter.com/zuola/status/519827422619774977/photo/1</a> (2014年10月08日 20:50)
@@ -100,6 +102,4 @@ RT @rajivpant: To news media sites: Pledge your support to be fully on https bef
 <a href="https://t.co/XdEX61" target="_BLANK">t.co/XdEX61</a>… (2014年10月06日 23:14)
  ---
 RT @BethanyAllenEbr: Despite violence in Hong Kong last night and shocking images of violence, censorship on Weibo is now lowest since Occu… (2014年10月06日 20:43)
- ---
-LinkedIn "relinquishes" 7% of local entity to Jiang Zemin connection so they can operate in China <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F10%2F06%2Ftechnology%2Fto-reach-china-linkedin-plays-by-local-rules.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年10月06日 18:02)
  ---
