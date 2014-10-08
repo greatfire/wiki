@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: 香港怎么了（二） ：事情发展至此，已远远超越原来的“占领中环”运动... <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/208" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月08日 10:22)
+ ---
 RT @RTKcn: 51+ RT @CoChinaOnline: 自修室一位女生大喊“非礼呀”，各位同学的反应。（转自@Hongkongdash ） <a href="https://twitter.com/CoChinaOnline/status/518726591963480064/photo/1" target="_BLANK">twitter.com/CoChinaOnline/status/518726591963480064/photo/1</a> (2014年10月08日 09:07)
  ---
 "Friends in HK told me how bad gov't is, but CCTV told me how irrational protesters are - don’t know who to believe" <a href="http://www.washingtonpost.com/world/in-beijing-support-for-dialogue-in-hong-kong-but-not-democracy/2014/10/06/fd6863be-8a62-4e35-8ded-329db3e33a70_story.html" target="_BLANK">www.washingtonpost.com/world/in-beijing-support-for-dialogue-in-hong-kong-but-not-democracy/2014/10/06/fd6863be-8a62-4e35-8ded-329db3e33a70_story.html</a> (2014年10月07日 22:47)
@@ -100,6 +102,4 @@ Hong Kong protesters must be cleared by Monday, chief executive says <a href="ht
 RT @TheAPJournalist: HK Police statement: "Police appeal to the public to exercise restraint." <a href="http://www.info.gov.hk/gia/general/201410/05/P201410050169.htm" target="_BLANK">www.info.gov.hk/gia/general/201410/05/P201410050169.htm</a> #UmbrellaMovement htt… (2014年10月05日 05:03)
  ---
 RT @byAlanWong: "Support Hong Kong's fight for freedom!" Democracy advocates in Guangzhou taken away after posting this: @weiquanwang http:… (2014年10月05日 04:53)
- ---
-Lantern 1.5.3 正式版发布，有用户反馈Youtube 1080P都稳定快速。 下载地址 <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=182#p663" target="_BLANK">lanternforum.greatfire.org/viewtopic.php</a> (2014年10月05日 02:39)
  ---
