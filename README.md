@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @botherder: Russell Brand on the protests in Hong Kong <a href="https://www.youtube.com/watch?v=Lin7KVMbmdk" target="_BLANK">www.youtube.com/watch</a> (2014年10月08日 22:23)
+ ---
 China's increasing reluctance towards international Internet integration may bring considerable harm <a href="http://standingcommittee.org/2014/10/06/virtual-lines-in-the-sand-chinas-demands-for-internet-sovereignty/" target="_BLANK">standingcommittee.org/2014/10/06/virtual-lines-in-the-sand-chinas-demands-for-internet-sovereignty/</a> h/t @niubi (2014年10月08日 21:59)
  ---
 RT @rmack: RankingDigitalRights pilot study on ICT companies' policies/practices on freedom of expression &amp; privacy <a href="https://rankingdigitalrights.org/2014/10/06/phase-1-pilot-study-launched/" target="_BLANK">rankingdigitalrights.org/2014/10/06/phase-1-pilot-study-launched/</a>… (2014年10月08日 20:50)
@@ -100,6 +102,4 @@ RT @iaskfq: cc @GreatFireChina RT @love_sci4ever: 保存在印象笔记的文章
  ---
 RT @rajivpant: To news media sites: Pledge your support to be fully on https before end of 2015 with hashtag #https2015
 <a href="https://t.co/XdEX61" target="_BLANK">t.co/XdEX61</a>… (2014年10月06日 23:14)
- ---
-RT @BethanyAllenEbr: Despite violence in Hong Kong last night and shocking images of violence, censorship on Weibo is now lowest since Occu… (2014年10月06日 20:43)
  ---
