@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @ReutersWorld: Hong Kong pro-democracy student leader urges more people to rally and continue occupation after government calls off talk… (2014年10月09日 21:32)
+ ---
+RT @PDChina: HK govt said it’ll suspend the meeting w/ #OccupyCentral students, after they launched new plan undermined the agreed-upon bas… (2014年10月09日 21:32)
+ ---
 RT @anjalitsui: Student protesters will respond to the government's decision to cancel talks at 9pm HKT. (2014年10月09日 19:57)
  ---
 RT @JournoDannyAsia: NEW @SCMP_News: HK government cancels talks after students call for show of strength #OccupyCentral (2014年10月09日 19:57)
@@ -97,8 +101,4 @@ RT @Edourdoo: Hawkish PLA general Dai Xu believes weibo is under US control sinc
 五毛评论香港占中说：“学生被煽动了，一定是后面有人在搞事。” 你怎么回答？ <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/208" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月08日 10:27)
  ---
 RT @paopaonet: 香港怎么了（二） ：事情发展至此，已远远超越原来的“占领中环”运动... <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/208" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月08日 10:22)
- ---
-RT @RTKcn: 51+ RT @CoChinaOnline: 自修室一位女生大喊“非礼呀”，各位同学的反应。（转自@Hongkongdash ） <a href="https://twitter.com/CoChinaOnline/status/518726591963480064/photo/1" target="_BLANK">twitter.com/CoChinaOnline/status/518726591963480064/photo/1</a> (2014年10月08日 09:07)
- ---
-"Friends in HK told me how bad gov't is, but CCTV told me how irrational protesters are - don’t know who to believe" <a href="http://www.washingtonpost.com/world/in-beijing-support-for-dialogue-in-hong-kong-but-not-democracy/2014/10/06/fd6863be-8a62-4e35-8ded-329db3e33a70_story.html" target="_BLANK">www.washingtonpost.com/world/in-beijing-support-for-dialogue-in-hong-kong-but-not-democracy/2014/10/06/fd6863be-8a62-4e35-8ded-329db3e33a70_story.html</a> (2014年10月07日 22:47)
  ---
