@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Instagram blocked for 10 days; Google blocked for 130 days ; Youtube blocked for 2026 days; and coutning <a href="https://en.greatfire.org/search/alexa-top-1000-domains" target="_BLANK">en.greatfire.org/search/alexa-top-1000-domains</a> (2014年10月10日 07:08)
+ ---
 RT @paopaonet: 梁振英涉黑金，微博“不审查”，梁或已成中央“负资产” <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/211" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> <a href="https://twitter.com/paopaonet/status/520136490366816256/photo/1" target="_BLANK">twitter.com/paopaonet/status/520136490366816256/photo/1</a> (2014年10月10日 04:49)
  ---
 中国厂商拟推55寸平板。 <a href="https://edgecastcdn.net/00107ED/paopao/?u=article/212" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> 只在中国存在的奇葩，干死广电总局。 (2014年10月10日 04:49)
@@ -100,6 +102,4 @@ RT @zuola: 五毛其实很好找，搜索“蛊惑”或“破坏”等文革用
 .@citizenlab research may indicate authorities 4shadowed / censored "tyranny" b4 #OccupyCentral protests in HK <a href="https://citizenlab.org/2014/10/asia-chats-line-keyword-filtering-upgraded-include-regular-expressions/" target="_BLANK">citizenlab.org/2014/10/asia-chats-line-keyword-filtering-upgraded-include-regular-expressions/</a> (2014年10月08日 19:59)
  ---
 Tsering Woeser: "Gov't blocks info, blocks truth, many don’t know this is happening, many don't care" <a href="http://womennewsnetwork.net/2014/10/06/tibetan-woman-poet-freedom/" target="_BLANK">womennewsnetwork.net/2014/10/06/tibetan-woman-poet-freedom/</a> h/t @pjmooney (2014年10月08日 14:18)
- ---
-RT @jasonqng: Must read: how #UmbrellaRevolution (key word: revolution) hurt the #OccupyCentral movement by @jasonli @88_bartenders http://… (2014年10月08日 13:40)
  ---
