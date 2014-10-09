@@ -62,6 +62,11 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+It Looks Like China's Instagram Blockage Is Here To Stay
+ <a href="http://adage.com/article/digital/instagram-s-blockage-china-a-blow-marketers/295322/" target="_BLANK">adage.com/article/digital/instagram-s-blockage-china-a-blow-marketers/295322/</a> - seems increasingly likely (2014年10月09日 23:44)
+ ---
+Opinion Battle on H.K. Protest Plays Out Across Firewall <a href="http://www.businessweek.com/news/2014-10-08/opinion-battle-on-h-dot-k-dot-protest-plays-out-across-firewall" target="_BLANK">www.businessweek.com/news/2014-10-08/opinion-battle-on-h-dot-k-dot-protest-plays-out-across-firewall</a> via @BW (2014年10月09日 23:42)
+ ---
 RT @ReutersWorld: Hong Kong pro-democracy student leader urges more people to rally and continue occupation after government calls off talk… (2014年10月09日 21:32)
  ---
 RT @PDChina: HK govt said it’ll suspend the meeting w/ #OccupyCentral students, after they launched new plan undermined the agreed-upon bas… (2014年10月09日 21:32)
@@ -97,8 +102,4 @@ RT @jasonqng: Must read: how #UmbrellaRevolution (key word: revolution) hurt the
 RT @Edourdoo: Hawkish PLA general Dai Xu believes weibo is under US control since he cannot mention "Occupy Central". #段子 <a href="http://t.co/A1wnP" target="_BLANK">t.co/A1wnP</a>… (2014年10月08日 13:38)
  ---
 中华名将，军中鹰帝戴旭认为，他在微博上打不出“占中”，只能以“Z中”指代，原因是新浪已被美资控制，系美国的政治黑手设立了敏感词。／／还真不是段子。原文 <a href="https://freeweibo.com/weibo/3763173297053613" target="_BLANK">freeweibo.com/weibo/3763173297053613</a> (2014年10月08日 10:54)
- ---
-五毛评论香港占中说：“学生被煽动了，一定是后面有人在搞事。” 你怎么回答？ <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/208" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月08日 10:27)
- ---
-RT @paopaonet: 香港怎么了（二） ：事情发展至此，已远远超越原来的“占领中环”运动... <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/208" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月08日 10:22)
  ---
