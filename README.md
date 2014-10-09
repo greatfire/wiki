@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @S_Rabinovitch: Yes @hancocktom Bloomberg can't get visas for new foreign staff after reporting on wealth of Chinese leaders. So can't r… (2014年10月09日 16:26)
+ ---
 @nerysinchina @thenanfang less filling (2014年10月09日 15:48)
  ---
 RT @botherder: Russell Brand on the protests in Hong Kong <a href="https://www.youtube.com/watch?v=Lin7KVMbmdk" target="_BLANK">www.youtube.com/watch</a> (2014年10月08日 22:23)
@@ -99,6 +101,4 @@ Seven Held in Beijing's Artists' Village Over Support For Hong Kong Protests <a 
 RT @Jessica0805: 我操你媽的689！連 #wechat 都覆蓋我封面照片！ <a href="https://twitter.com/Jessica0805/status/519336298641752065/photo/1" target="_BLANK">twitter.com/Jessica0805/status/519336298641752065/photo/1</a> (2014年10月07日 16:48)
  ---
 RT @austinramzy: Think Hong Kong's density and highly-wired population make daily protest counts matter less. Lots could mobilize quickly i… (2014年10月07日 15:44)
- ---
-RT @iaskfq: cc @GreatFireChina RT @love_sci4ever: 保存在印象笔记的文章的公开共享链接失效。这就是保存信息在“印象笔记”而不是保存在国际版Evernote的后果。亦由此可见国内网络封锁之疯狂与Evernote公司的妥协。  cc … (2014年10月07日 15:18)
  ---
