@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @anjalitsui: Student protesters will respond to the government's decision to cancel talks at 9pm HKT. (2014年10月09日 19:57)
+ ---
+RT @JournoDannyAsia: NEW @SCMP_News: HK government cancels talks after students call for show of strength #OccupyCentral (2014年10月09日 19:57)
+ ---
 Also 17 million messages deleted RT @XHNews: Beijing police nab 30,000 suspects in crackdown <a href="http://www.icrosschina.com/news/2014/1009/4280.shtml" target="_BLANK">www.icrosschina.com/news/2014/1009/4280.shtml</a> <a href="https://twitter.com/XHNews/status/520160231066587136/photo/1" target="_BLANK">twitter.com/XHNews/status/520160231066587136/photo/1</a> (2014年10月09日 18:45)
  ---
 RT @XHNews: Beijing police nab 30,000 suspects in cyber crime crackdown <a href="http://www.icrosschina.com/news/2014/1009/4280.shtml" target="_BLANK">www.icrosschina.com/news/2014/1009/4280.shtml</a> <a href="https://twitter.com/XHNews/status/520160231066587136/photo/1" target="_BLANK">twitter.com/XHNews/status/520160231066587136/photo/1</a> (2014年10月09日 18:42)
@@ -97,8 +101,4 @@ RT @paopaonet: 香港怎么了（二） ：事情发展至此，已远远超越�
 RT @RTKcn: 51+ RT @CoChinaOnline: 自修室一位女生大喊“非礼呀”，各位同学的反应。（转自@Hongkongdash ） <a href="https://twitter.com/CoChinaOnline/status/518726591963480064/photo/1" target="_BLANK">twitter.com/CoChinaOnline/status/518726591963480064/photo/1</a> (2014年10月08日 09:07)
  ---
 "Friends in HK told me how bad gov't is, but CCTV told me how irrational protesters are - don’t know who to believe" <a href="http://www.washingtonpost.com/world/in-beijing-support-for-dialogue-in-hong-kong-but-not-democracy/2014/10/06/fd6863be-8a62-4e35-8ded-329db3e33a70_story.html" target="_BLANK">www.washingtonpost.com/world/in-beijing-support-for-dialogue-in-hong-kong-but-not-democracy/2014/10/06/fd6863be-8a62-4e35-8ded-329db3e33a70_story.html</a> (2014年10月07日 22:47)
- ---
-Jiang Zemin berates Hong Kong journalist - tells them they shld be more like Mike Wallace  <a href="https://www.facebook.com/unsupportedbrowser" target="_BLANK">www.facebook.com/unsupportedbrowser</a> (2014年10月07日 18:02)
- ---
-RT @Garvey_B: Some keep taking photos of me, interrupt as i try to interview people...… (2014年10月07日 17:13)
  ---
