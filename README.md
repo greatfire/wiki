@@ -21,7 +21,7 @@
                 <a href="https://edgecastcdn.net/00107ED/cdt/" target="_BLANK">长期有效 1</a>，            
                 <a href="https://objects.dreamhost.com/cdt/index.html" target="_BLANK">长期有效 2</a>，            
                 <a href="https://1ff2d.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
-                <a href="https://d29jekp4emy41a.cloudfront.net" target="_BLANK">短期有效 2</a>
+                <a href="https://dazdu2iuzl72b.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
         </tr>    
         <tr>
@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @XHNews: Beijing police nab 30,000 suspects in cyber crime crackdown <a href="http://www.icrosschina.com/news/2014/1009/4280.shtml" target="_BLANK">www.icrosschina.com/news/2014/1009/4280.shtml</a> <a href="https://twitter.com/XHNews/status/520160231066587136/photo/1" target="_BLANK">twitter.com/XHNews/status/520160231066587136/photo/1</a> (2014年10月09日 18:42)
+ ---
+@XHNews there is a typo here - the online population at end of 2013 was more like 600 million not 16 million right? (2014年10月09日 18:42)
+ ---
 RT @S_Rabinovitch: Yes @hancocktom Bloomberg can't get visas for new foreign staff after reporting on wealth of Chinese leaders. So can't r… (2014年10月09日 16:26)
  ---
 @nerysinchina @thenanfang less filling (2014年10月09日 15:48)
@@ -97,8 +101,4 @@ Jiang Zemin berates Hong Kong journalist - tells them they shld be more like Mik
 RT @Garvey_B: Some keep taking photos of me, interrupt as i try to interview people...… (2014年10月07日 17:13)
  ---
 Seven Held in Beijing's Artists' Village Over Support For Hong Kong Protests <a href="http://www.rfa.org/english/news/china/detention-10062014173949.html" target="_BLANK">www.rfa.org/english/news/china/detention-10062014173949.html</a> (2014年10月07日 17:07)
- ---
-RT @Jessica0805: 我操你媽的689！連 #wechat 都覆蓋我封面照片！ <a href="https://twitter.com/Jessica0805/status/519336298641752065/photo/1" target="_BLANK">twitter.com/Jessica0805/status/519336298641752065/photo/1</a> (2014年10月07日 16:48)
- ---
-RT @austinramzy: Think Hong Kong's density and highly-wired population make daily protest counts matter less. Lots could mobilize quickly i… (2014年10月07日 15:44)
  ---
