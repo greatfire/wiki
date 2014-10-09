@@ -70,7 +70,7 @@ RT @anjalitsui: Student protesters will respond to the government's decision to 
  ---
 RT @JournoDannyAsia: NEW @SCMP_News: HK government cancels talks after students call for show of strength #OccupyCentral (2014年10月09日 19:57)
  ---
-Also 17 million messages deleted RT @XHNews: Beijing police nab 30,000 suspects in crackdown <a href="http://www.icrosschina.com/news/2014/1009/4280.shtml" target="_BLANK">www.icrosschina.com/news/2014/1009/4280.shtml</a> <a href="http://flip.it/QqY9X" target="_BLANK">flip.it/QqY9X</a> (2014年10月09日 18:45)
+Also 17 million messages deleted RT @XHNews: Beijing police nab 30,000 suspects in crackdown <a href="http://www.icrosschina.com/news/2014/1009/4280.shtml" target="_BLANK">www.icrosschina.com/news/2014/1009/4280.shtml</a> <a href="https://twitter.com/XHNews/status/520160231066587136/photo/1" target="_BLANK">twitter.com/XHNews/status/520160231066587136/photo/1</a> (2014年10月09日 18:45)
  ---
 RT @XHNews: Beijing police nab 30,000 suspects in cyber crime crackdown <a href="http://www.icrosschina.com/news/2014/1009/4280.shtml" target="_BLANK">www.icrosschina.com/news/2014/1009/4280.shtml</a> <a href="https://twitter.com/XHNews/status/520160231066587136/photo/1" target="_BLANK">twitter.com/XHNews/status/520160231066587136/photo/1</a> (2014年10月09日 18:42)
  ---
