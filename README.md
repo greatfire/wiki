@@ -78,7 +78,7 @@ RT @S_Rabinovitch: Yes @hancocktom Bloomberg can't get visas for new foreign sta
  ---
 RT @botherder: Russell Brand on the protests in Hong Kong <a href="https://www.youtube.com/watch?v=Lin7KVMbmdk" target="_BLANK">www.youtube.com/watch</a> (2014年10月08日 22:23)
  ---
-China's increasing reluctance towards international Internet integration may bring considerable harm <a href="http://standingcommittee.org/2014/10/06/virtual-lines-in-the-sand-chinas-demands-for-internet-sovereignty/" target="_BLANK">standingcommittee.org/2014/10/06/virtual-lines-in-the-sand-chinas-demands-for-internet-sovereignty/</a> h/t @niubi (2014年10月08日 21:59)
+China's increasing reluctance towards international Internet integration may bring considerable harm <a href="http://flip.it/DgCbN" target="_BLANK">flip.it/DgCbN</a> h/t @niubi (2014年10月08日 21:59)
  ---
 RT @rmack: RankingDigitalRights pilot study on ICT companies' policies/practices on freedom of expression &amp; privacy <a href="https://rankingdigitalrights.org/2014/10/06/phase-1-pilot-study-launched/" target="_BLANK">rankingdigitalrights.org/2014/10/06/phase-1-pilot-study-launched/</a>… (2014年10月08日 20:50)
  ---
