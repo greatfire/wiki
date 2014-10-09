@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: 梁振英涉黑金，微博“不审查”，梁或已成中央“负资产” <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/211" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> <a href="https://twitter.com/paopaonet/status/520136490366816256/photo/1" target="_BLANK">twitter.com/paopaonet/status/520136490366816256/photo/1</a> (2014年10月10日 04:49)
+ ---
+中国厂商拟推55寸平板。 <a href="https://edgecastcdn.net/00107ED/paopao/?u=article/212" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> 只在中国存在的奇葩，干死广电总局。 (2014年10月10日 04:49)
+ ---
 It Looks Like China's Instagram Blockage Is Here To Stay
  <a href="http://adage.com/abstract?article_id=295322" target="_BLANK">adage.com/abstract</a> - seems increasingly likely (2014年10月09日 23:44)
  ---
@@ -98,8 +102,4 @@ RT @zuola: 五毛其实很好找，搜索“蛊惑”或“破坏”等文革用
 Tsering Woeser: "Gov't blocks info, blocks truth, many don’t know this is happening, many don't care" <a href="http://womennewsnetwork.net/2014/10/06/tibetan-woman-poet-freedom/" target="_BLANK">womennewsnetwork.net/2014/10/06/tibetan-woman-poet-freedom/</a> h/t @pjmooney (2014年10月08日 14:18)
  ---
 RT @jasonqng: Must read: how #UmbrellaRevolution (key word: revolution) hurt the #OccupyCentral movement by @jasonli @88_bartenders http://… (2014年10月08日 13:40)
- ---
-RT @Edourdoo: Hawkish PLA general Dai Xu believes weibo is under US control since he cannot mention "Occupy Central". #段子 <a href="http://t.co/A1wnP" target="_BLANK">t.co/A1wnP</a>… (2014年10月08日 13:38)
- ---
-中华名将，军中鹰帝戴旭认为，他在微博上打不出“占中”，只能以“Z中”指代，原因是新浪已被美资控制，系美国的政治黑手设立了敏感词。／／还真不是段子。原文 <a href="https://freeweibo.com/weibo/3763173297053613" target="_BLANK">freeweibo.com/weibo/3763173297053613</a> (2014年10月08日 10:54)
  ---
