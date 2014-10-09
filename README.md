@@ -63,7 +63,7 @@
     
 ## 新闻
 It Looks Like China's Instagram Blockage Is Here To Stay
- <a href="http://adage.com/article/digital/instagram-s-blockage-china-a-blow-marketers/295322/" target="_BLANK">adage.com/article/digital/instagram-s-blockage-china-a-blow-marketers/295322/</a> - seems increasingly likely (2014年10月09日 23:44)
+ <a href="http://adage.com/abstract?article_id=295322" target="_BLANK">adage.com/abstract</a> - seems increasingly likely (2014年10月09日 23:44)
  ---
 Opinion Battle on H.K. Protest Plays Out Across Firewall <a href="http://www.businessweek.com/news/2014-10-08/opinion-battle-on-h-dot-k-dot-protest-plays-out-across-firewall" target="_BLANK">www.businessweek.com/news/2014-10-08/opinion-battle-on-h-dot-k-dot-protest-plays-out-across-firewall</a> via @BW (2014年10月09日 23:42)
  ---
