@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @RTKcn: 21+ RT @hnjhj: 中共也是蛮拼的，关键时刻把梁振英狠狠卖了，豁出去要把斗争焦点从争普选转移到弹劾梁振英上。香港民众不要被迷惑，梁振英当然要滚，但这是次要的。 (2014年10月10日 11:45)
+ ---
 Instagram blocked for 10 days; Google blocked for 130 days ; Youtube blocked for 2026 days; and coutning <a href="https://en.greatfire.org/search/alexa-top-1000-domains" target="_BLANK">en.greatfire.org/search/alexa-top-1000-domains</a> (2014年10月10日 07:08)
  ---
 RT @paopaonet: 梁振英涉黑金，微博“不审查”，梁或已成中央“负资产” <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/211" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> <a href="https://twitter.com/paopaonet/status/520136490366816256/photo/1" target="_BLANK">twitter.com/paopaonet/status/520136490366816256/photo/1</a> (2014年10月10日 04:49)
@@ -100,6 +102,4 @@ RT @rmack: RankingDigitalRights pilot study on ICT companies' policies/practices
 RT @zuola: 五毛其实很好找，搜索“蛊惑”或“破坏”等文革用语就能找到不少，刚才发现一个发推4万3千的无名五毛，翻了几页后发现这只是一个程序轮番自动发推的五毛，可能忘记关了，所以一直在重复发推也没人知道。 <a href="https://twitter.com/zuola/status/519827422619774977/photo/1" target="_BLANK">twitter.com/zuola/status/519827422619774977/photo/1</a> (2014年10月08日 20:50)
  ---
 .@citizenlab research may indicate authorities 4shadowed / censored "tyranny" b4 #OccupyCentral protests in HK <a href="https://citizenlab.org/2014/10/asia-chats-line-keyword-filtering-upgraded-include-regular-expressions/" target="_BLANK">citizenlab.org/2014/10/asia-chats-line-keyword-filtering-upgraded-include-regular-expressions/</a> (2014年10月08日 19:59)
- ---
-Tsering Woeser: "Gov't blocks info, blocks truth, many don’t know this is happening, many don't care" <a href="http://womennewsnetwork.net/2014/10/06/tibetan-woman-poet-freedom/" target="_BLANK">womennewsnetwork.net/2014/10/06/tibetan-woman-poet-freedom/</a> h/t @pjmooney (2014年10月08日 14:18)
  ---
