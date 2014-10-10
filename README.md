@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+吾人打的监视通过使用加密 <a href="https://www.ifightsurveillance.org/cmn" target="_BLANK">www.ifightsurveillance.org/cmn</a> (2014年10月10日 17:49)
+ ---
 RT @KnowsNothing: “We Are Not Robots,” Say Striking Foxconn Workers <a href="http://chinadigitaltimes.net/2014/10/workers-strike-foxconn-hp-order-cut/" target="_BLANK">chinadigitaltimes.net/2014/10/workers-strike-foxconn-hp-order-cut/</a> &gt; cost innovation (2014年10月10日 16:11)
  ---
 "Sometimes it just makes sense to keep your mouth shut" MT @AndrewJacobsNYT: Finding sympathy for HK protest not easy <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F10%2F10%2Fworld%2Fasia%2Fin-beijing-young-chinese-see-little-to-cheer-in-hong-kong-protests.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年10月10日 16:09)
@@ -100,6 +102,4 @@ RT @XHNews: Beijing police nab 30,000 suspects in cyber crime crackdown <a href=
 RT @S_Rabinovitch: Yes @hancocktom Bloomberg can't get visas for new foreign staff after reporting on wealth of Chinese leaders. So can't r… (2014年10月09日 16:26)
  ---
 @nerysinchina @thenanfang less filling (2014年10月09日 15:48)
- ---
-RT @botherder: Russell Brand on the protests in Hong Kong <a href="https://www.youtube.com/watch?v=Lin7KVMbmdk" target="_BLANK">www.youtube.com/watch</a> (2014年10月08日 22:23)
  ---
