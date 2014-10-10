@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China May Have Committed A Tiananmen Square-Scale Massacre This Year — And Totally Covered It Up <a href="http://www.businessinsider.com/chinas-other-major-protests-2014-10" target="_BLANK">www.businessinsider.com/chinas-other-major-protests-2014-10</a> via @BI_Defense (2014年10月10日 14:48)
+ ---
 买国行iPhone的注意，国行阉割了FaceTime音频，因为没法监听。 用FaceTime退后台后用的也是扬声器，和FaceTime音频效果不一样。有需要的朋友请买水货。 (2014年10月10日 13:53)
  ---
 RT @RTKcn: 21+ RT @hnjhj: 中共也是蛮拼的，关键时刻把梁振英狠狠卖了，豁出去要把斗争焦点从争普选转移到弹劾梁振英上。香港民众不要被迷惑，梁振英当然要滚，但这是次要的。 (2014年10月10日 11:45)
@@ -100,6 +102,4 @@ RT @botherder: Russell Brand on the protests in Hong Kong <a href="https://www.y
 China's increasing reluctance towards international Internet integration may bring considerable harm <a href="http://standingcommittee.org/2014/10/06/virtual-lines-in-the-sand-chinas-demands-for-internet-sovereignty/" target="_BLANK">standingcommittee.org/2014/10/06/virtual-lines-in-the-sand-chinas-demands-for-internet-sovereignty/</a> h/t @niubi (2014年10月08日 21:59)
  ---
 RT @rmack: RankingDigitalRights pilot study on ICT companies' policies/practices on freedom of expression &amp; privacy <a href="https://rankingdigitalrights.org/2014/10/06/phase-1-pilot-study-launched/" target="_BLANK">rankingdigitalrights.org/2014/10/06/phase-1-pilot-study-launched/</a>… (2014年10月08日 20:50)
- ---
-RT @zuola: 五毛其实很好找，搜索“蛊惑”或“破坏”等文革用语就能找到不少，刚才发现一个发推4万3千的无名五毛，翻了几页后发现这只是一个程序轮番自动发推的五毛，可能忘记关了，所以一直在重复发推也没人知道。 <a href="https://twitter.com/zuola/status/519827422619774977/photo/1" target="_BLANK">twitter.com/zuola/status/519827422619774977/photo/1</a> (2014年10月08日 20:50)
  ---
