@@ -29,7 +29,7 @@
             <td>            
                 <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">长期有效 1</a>，            
                 <a href="https://objects.dreamhost.com/goo/index.html" target="_BLANK">长期有效 2</a>，            
-                <a href="https://865ba.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
+                <a href="https://google1.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
         </tr>    
