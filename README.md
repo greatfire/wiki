@@ -62,6 +62,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+懂技术的朋友自己搭建VPN吧。1年才4美元，好给家人朋友用。 <a href="https://edgecastcdn.net/00107ED/paopao/?u=article/213" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月11日 10:36)
+ ---
+Deleted article on Jimmy Lai sheds light on China’s state media spin <a href="http://www.scmp.com/news/china-insider/article/1613838/deleted-article-jimmy-lai-sheds-light-chinas-state-media-spin" target="_BLANK">www.scmp.com/news/china-insider/article/1613838/deleted-article-jimmy-lai-sheds-light-chinas-state-media-spin</a> (2014年10月11日 10:25)
+ ---
+贺江兵发文做空不可能赚10亿，微博被清空。 <a href="https://freeweibo.com/weibo/%40%E8%B4%BA%E6%B1%9F%E5%85%B5" target="_BLANK">freeweibo.com/weibo/@贺江兵</a> (2014年10月11日 10:23)
+ ---
 黑客组织Anonymous威胁将大规模攻击中国政府网站 <a href="http://cn.reuters.com/article/CNTopGenNews/idCNKCS0I001D20141011" target="_BLANK">cn.reuters.com/article/CNTopGenNews/idCNKCS0I001D20141011</a> “注意了，准备迎战吧，试试阻止攻击，你们唯一能做到的是让你们所有网站离线。中国，你无法阻止我们。你在对香港公民滥用权力前就该想到我们。”Anonymous在网上发布声明称。 (2014年10月11日 09:23)
  ---
 吾人打的监视通过使用加密 <a href="https://www.ifightsurveillance.org/cmn" target="_BLANK">www.ifightsurveillance.org/cmn</a> (2014年10月10日 17:49)
@@ -96,10 +102,4 @@ RT @anjalitsui: Student protesters will respond to the government's decision to 
 RT @JournoDannyAsia: NEW @SCMP_News: HK government cancels talks after students call for show of strength #OccupyCentral (2014年10月09日 19:57)
  ---
 Also 17 million messages deleted RT @XHNews: Beijing police nab 30,000 suspects in crackdown <a href="http://www.icrosschina.com/news/2014/1009/4280.shtml" target="_BLANK">www.icrosschina.com/news/2014/1009/4280.shtml</a> <a href="https://twitter.com/XHNews/status/520160231066587136/photo/1" target="_BLANK">twitter.com/XHNews/status/520160231066587136/photo/1</a> (2014年10月09日 18:45)
- ---
-RT @XHNews: Beijing police nab 30,000 suspects in cyber crime crackdown <a href="http://www.icrosschina.com/news/2014/1009/4280.shtml" target="_BLANK">www.icrosschina.com/news/2014/1009/4280.shtml</a> <a href="https://twitter.com/XHNews/status/520160231066587136/photo/1" target="_BLANK">twitter.com/XHNews/status/520160231066587136/photo/1</a> (2014年10月09日 18:42)
- ---
-@XHNews there is a typo here - the online population at end of 2013 was more like 600 million not 16 million right? (2014年10月09日 18:42)
- ---
-RT @S_Rabinovitch: Yes @hancocktom Bloomberg can't get visas for new foreign staff after reporting on wealth of Chinese leaders. So can't r… (2014年10月09日 16:26)
  ---
