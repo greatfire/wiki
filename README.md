@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @phuslu: 顺藤摸瓜发现了更多不错的东东， <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a> (2014年10月11日 10:54)
+ ---
+RT @phuslu: 我非常关注这个事情，推上有人能确认吗？ @lilydjwg @phuslu 今天刚刚看到的，有人遇到了伪造的 GoAgent 署名的证书，未证实： <a href="http://segmentfault.com/q/1010000000652858/a-1020000000714904" target="_BLANK">segmentfault.com/q/1010000000652858/a-1020000000714904</a> … (2014年10月11日 10:51)
+ ---
 懂技术的朋友自己搭建VPN吧。1年才4美元，好给家人朋友用。 <a href="https://edgecastcdn.net/00107ED/paopao/?u=article/213" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月11日 10:36)
  ---
 Deleted article on Jimmy Lai sheds light on China’s state media spin <a href="http://www.scmp.com/news/china-insider/article/1613838/deleted-article-jimmy-lai-sheds-light-chinas-state-media-spin" target="_BLANK">www.scmp.com/news/china-insider/article/1613838/deleted-article-jimmy-lai-sheds-light-chinas-state-media-spin</a> (2014年10月11日 10:25)
@@ -98,8 +102,4 @@ RT @ReutersWorld: Hong Kong pro-democracy student leader urges more people to ra
 RT @PDChina: HK govt said it’ll suspend the meeting w/ #OccupyCentral students, after they launched new plan undermined the agreed-upon bas… (2014年10月09日 21:32)
  ---
 RT @anjalitsui: Student protesters will respond to the government's decision to cancel talks at 9pm HKT. (2014年10月09日 19:57)
- ---
-RT @JournoDannyAsia: NEW @SCMP_News: HK government cancels talks after students call for show of strength #OccupyCentral (2014年10月09日 19:57)
- ---
-Also 17 million messages deleted RT @XHNews: Beijing police nab 30,000 suspects in crackdown <a href="http://www.icrosschina.com/news/2014/1009/4280.shtml" target="_BLANK">www.icrosschina.com/news/2014/1009/4280.shtml</a> <a href="https://twitter.com/XHNews/status/520160231066587136/photo/1" target="_BLANK">twitter.com/XHNews/status/520160231066587136/photo/1</a> (2014年10月09日 18:45)
  ---
