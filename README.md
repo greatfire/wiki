@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+机智的当当网：那些即将买不到的书 <a href="https://edgecastcdn.net/00107ED/cdt/?u=/chinese/2014/10/%E6%9C%BA%E6%99%BA%E7%9A%84%E5%BD%93%E5%BD%93%E7%BD%91%EF%BC%9A%E9%82%A3%E4%BA%9B%E5%8D%B3%E5%B0%86%E4%B9%B0%E4%B8%8D%E5%88%B0%E7%9A%84%E4%B9%A6/" target="_BLANK">edgecastcdn.net/00107ED/cdt/</a> (2014年10月13日 06:57)
+ ---
 Here we go Reuters China. It has posted many articles converging #OccupyCental and not censored by Sina <a href="https://freeweibo.com/weibo/3764258418660339" target="_BLANK">freeweibo.com/weibo/3764258418660339</a> (2014年10月13日 04:24)
  ---
 Yahoo确认被中国中间人攻击 英文原文 <a href="http://mashable.com/2014/09/30/china-attacks-yahoo-hong-kong-censorship/" target="_BLANK">mashable.com/2014/09/30/china-attacks-yahoo-hong-kong-censorship/</a> (2014年10月13日 03:47)
@@ -99,7 +101,4 @@ Instagram blocked for 10 days; Google blocked for 130 days ; Youtube blocked for
 RT @paopaonet: 梁振英涉黑金，微博“不审查”，梁或已成中央“负资产” <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/211" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> <a href="https://twitter.com/paopaonet/status/520136490366816256/photo/1" target="_BLANK">twitter.com/paopaonet/status/520136490366816256/photo/1</a> (2014年10月10日 04:49)
  ---
 中国厂商拟推55寸平板。 <a href="https://edgecastcdn.net/00107ED/paopao/?u=article/212" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> 只在中国存在的奇葩，干死广电总局。 (2014年10月10日 04:49)
- ---
-It Looks Like China's Instagram Blockage Is Here To Stay
- <a href="http://adage.com/abstract?article_id=295322" target="_BLANK">adage.com/abstract</a> - seems increasingly likely (2014年10月09日 23:44)
  ---
