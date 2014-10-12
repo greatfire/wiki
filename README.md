@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Yahoo确认被中国中间人攻击 英文原文 <a href="http://mashable.com/2014/09/30/china-attacks-yahoo-hong-kong-censorship/" target="_BLANK">mashable.com/2014/09/30/china-attacks-yahoo-hong-kong-censorship/</a> (2014年10月13日 03:47)
+ ---
 @phuslu 更多链接见这里 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年10月12日 11:03)
  ---
 翻墙软件Lantern招聘程序员 <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=186&p=675#p675" target="_BLANK">lanternforum.greatfire.org/viewtopic.php</a> 愿意拆墙的开发者赶紧来加入。 (2014年10月12日 11:00)
@@ -100,6 +102,4 @@ It Looks Like China's Instagram Blockage Is Here To Stay
  <a href="http://adage.com/abstract?article_id=295322" target="_BLANK">adage.com/abstract</a> - seems increasingly likely (2014年10月09日 23:44)
  ---
 Opinion Battle on H.K. Protest Plays Out Across Firewall <a href="http://www.businessweek.com/news/2014-10-08/opinion-battle-on-h-dot-k-dot-protest-plays-out-across-firewall" target="_BLANK">www.businessweek.com/news/2014-10-08/opinion-battle-on-h-dot-k-dot-protest-plays-out-across-firewall</a> via @BW (2014年10月09日 23:42)
- ---
-RT @ReutersWorld: Hong Kong pro-democracy student leader urges more people to rally and continue occupation after government calls off talk… (2014年10月09日 21:32)
  ---
