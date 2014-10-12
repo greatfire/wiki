@@ -82,7 +82,7 @@ Deleted article on Jimmy Lai sheds light on China’s state media spin <a href="
  ---
 RT @KnowsNothing: “We Are Not Robots,” Say Striking Foxconn Workers <a href="http://chinadigitaltimes.net/2014/10/workers-strike-foxconn-hp-order-cut/" target="_BLANK">chinadigitaltimes.net/2014/10/workers-strike-foxconn-hp-order-cut/</a> &gt; cost innovation (2014年10月10日 16:11)
  ---
-"Sometimes it just makes sense to keep your mouth shut" MT @AndrewJacobsNYT: Finding sympathy for HK protest not easy <a href="http://www.nytimes.com/2014/10/10/world/asia/in-beijing-young-chinese-see-little-to-cheer-in-hong-kong-protests.html" target="_BLANK">www.nytimes.com/2014/10/10/world/asia/in-beijing-young-chinese-see-little-to-cheer-in-hong-kong-protests.html</a> (2014年10月10日 16:09)
+"Sometimes it just makes sense to keep your mouth shut" MT @AndrewJacobsNYT: Finding sympathy for HK protest not easy <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F10%2F10%2Fworld%2Fasia%2Fin-beijing-young-chinese-see-little-to-cheer-in-hong-kong-protests.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年10月10日 16:09)
  ---
 China May Have Committed A Tiananmen Square-Scale Massacre This Year — And Totally Covered It Up <a href="http://www.businessinsider.com/chinas-other-major-protests-2014-10" target="_BLANK">www.businessinsider.com/chinas-other-major-protests-2014-10</a> via @BI_Defense (2014年10月10日 14:48)
  ---
