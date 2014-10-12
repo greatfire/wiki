@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@phuslu 更多链接见这里 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年10月12日 11:03)
+ ---
+翻墙软件Lantern招聘程序员 <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=186&p=675#p675" target="_BLANK">lanternforum.greatfire.org/viewtopic.php</a> 愿意拆墙的开发者赶紧来加入。 (2014年10月12日 11:00)
+ ---
 RT @phuslu: 顺藤摸瓜发现了更多不错的东东， <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a> (2014年10月11日 10:54)
  ---
 RT @phuslu: 我非常关注这个事情，推上有人能确认吗？ @lilydjwg @phuslu 今天刚刚看到的，有人遇到了伪造的 GoAgent 署名的证书，未证实： <a href="http://segmentfault.com/q/1010000000652858/a-1020000000714904" target="_BLANK">segmentfault.com/q/1010000000652858/a-1020000000714904</a> … (2014年10月11日 10:51)
@@ -98,8 +102,4 @@ It Looks Like China's Instagram Blockage Is Here To Stay
 Opinion Battle on H.K. Protest Plays Out Across Firewall <a href="http://www.businessweek.com/news/2014-10-08/opinion-battle-on-h-dot-k-dot-protest-plays-out-across-firewall" target="_BLANK">www.businessweek.com/news/2014-10-08/opinion-battle-on-h-dot-k-dot-protest-plays-out-across-firewall</a> via @BW (2014年10月09日 23:42)
  ---
 RT @ReutersWorld: Hong Kong pro-democracy student leader urges more people to rally and continue occupation after government calls off talk… (2014年10月09日 21:32)
- ---
-RT @PDChina: HK govt said it’ll suspend the meeting w/ #OccupyCentral students, after they launched new plan undermined the agreed-upon bas… (2014年10月09日 21:32)
- ---
-RT @anjalitsui: Student protesters will respond to the government's decision to cancel talks at 9pm HKT. (2014年10月09日 19:57)
  ---
