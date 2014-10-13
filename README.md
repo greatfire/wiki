@@ -62,8 +62,6 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-RT @wikileaks: We denounce Iceland's shutdown the 'Islamic State' news site. Everyone has the right to judge IS on its arguments. http://t.… (2014年10月14日 01:46)
- ---
 Sometime during initial student strike, the Hong Kong Jockey Club website got blocked in China. Collateral damage? <a href="https://en.greatfire.org/www.hkjc.com" target="_BLANK">en.greatfire.org/www.hkjc.com</a> (2014年10月14日 00:07)
  ---
 RT @larrysalibra: Friends in mainland complaining @telegram is blocked. Anyone else? @GreatFireChina (2014年10月13日 23:58)
@@ -103,4 +101,6 @@ Deleted article on Jimmy Lai sheds light on China’s state media spin <a href="
 黑客组织Anonymous威胁将大规模攻击中国政府网站 <a href="http://cn.reuters.com/article/CNTopGenNews/idCNKCS0I001D20141011" target="_BLANK">cn.reuters.com/article/CNTopGenNews/idCNKCS0I001D20141011</a> “注意了，准备迎战吧，试试阻止攻击，你们唯一能做到的是让你们所有网站离线。中国，你无法阻止我们。你在对香港公民滥用权力前就该想到我们。”Anonymous在网上发布声明称。 (2014年10月11日 09:23)
  ---
 吾人打的监视通过使用加密 <a href="https://www.ifightsurveillance.org/cmn" target="_BLANK">www.ifightsurveillance.org/cmn</a> (2014年10月10日 17:49)
+ ---
+RT @KnowsNothing: “We Are Not Robots,” Say Striking Foxconn Workers <a href="http://chinadigitaltimes.net/2014/10/workers-strike-foxconn-hp-order-cut/" target="_BLANK">chinadigitaltimes.net/2014/10/workers-strike-foxconn-hp-order-cut/</a> &gt; cost innovation (2014年10月10日 16:11)
  ---
