@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @nytchinese: 大陆年轻人同情香港“占中”者寥寥，这不仅是政府审查和压制所致。看好莱坞长大的中国80后、90后，即使在私下场合，也很少同情香港抗议者。By @AndrewJacobsNYT #OccupyCentral <a href="http://cn.nytimes.com/china/20141011/c11beijing/" target="_BLANK">cn.nytimes.com/china/20141011/c11beijing/</a> (2014年10月13日 16:58)
+ ---
 Which LinkedIn execs spoke out against self-censorship in China? Certainly not @jeffweiner <a href="http://www.businessweek.com/videos/2014-10-10/linkedin-ceo-learned-a-lot-by-expanding-into-china" target="_BLANK">www.businessweek.com/videos/2014-10-10/linkedin-ceo-learned-a-lot-by-expanding-into-china</a> (2014年10月13日 16:35)
  ---
 Snapchat self-censorship? Will influx of Chinese capital influence sensibilities of U.S. startups around free speech? <a href="http://techcrunch.com/2014/10/10/snapchat-hong-kong/" target="_BLANK">techcrunch.com/2014/10/10/snapchat-hong-kong/</a> (2014年10月13日 16:22)
@@ -99,6 +101,4 @@ China May Have Committed A Tiananmen Square-Scale Massacre This Year — And Tot
 买国行iPhone的注意，国行阉割了FaceTime音频，因为没法监听。 用FaceTime退后台后用的也是扬声器，和FaceTime音频效果不一样。有需要的朋友请买水货。 (2014年10月10日 13:53)
  ---
 RT @RTKcn: 21+ RT @hnjhj: 中共也是蛮拼的，关键时刻把梁振英狠狠卖了，豁出去要把斗争焦点从争普选转移到弹劾梁振英上。香港民众不要被迷惑，梁振英当然要滚，但这是次要的。 (2014年10月10日 11:45)
- ---
-Instagram blocked for 10 days; Google blocked for 130 days ; Youtube blocked for 2026 days; and coutning <a href="https://en.greatfire.org/search/alexa-top-1000-domains" target="_BLANK">en.greatfire.org/search/alexa-top-1000-domains</a> (2014年10月10日 07:08)
  ---
