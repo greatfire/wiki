@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Sometime during initial student strike, the Hong Kong Jockey Club website got blocked in China. Collateral damage? <a href="https://en.greatfire.org/www.hkjc.com" target="_BLANK">en.greatfire.org/www.hkjc.com</a> (2014年10月14日 00:07)
+ ---
 RT @larrysalibra: Friends in mainland complaining @telegram is blocked. Anyone else? @GreatFireChina (2014年10月13日 23:58)
  ---
 @larrysalibra @telegram we don't test apps but if app is blocked then often website blocked too. Not the case here <a href="https://en.greatfire.org/www.telegram.org" target="_BLANK">en.greatfire.org/www.telegram.org</a> (2014年10月13日 23:58)
@@ -101,6 +103,4 @@ Deleted article on Jimmy Lai sheds light on China’s state media spin <a href="
 吾人打的监视通过使用加密 <a href="https://www.ifightsurveillance.org/cmn" target="_BLANK">www.ifightsurveillance.org/cmn</a> (2014年10月10日 17:49)
  ---
 RT @KnowsNothing: “We Are Not Robots,” Say Striking Foxconn Workers <a href="http://chinadigitaltimes.net/2014/10/workers-strike-foxconn-hp-order-cut/" target="_BLANK">chinadigitaltimes.net/2014/10/workers-strike-foxconn-hp-order-cut/</a> &gt; cost innovation (2014年10月10日 16:11)
- ---
-"Sometimes it just makes sense to keep your mouth shut" MT @AndrewJacobsNYT: Finding sympathy for HK protest not easy <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F10%2F10%2Fworld%2Fasia%2Fin-beijing-young-chinese-see-little-to-cheer-in-hong-kong-protests.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年10月10日 16:09)
  ---
