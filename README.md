@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Which LinkedIn execs spoke out against self-censorship in China? Certainly not @jeffweiner <a href="http://www.businessweek.com/videos/2014-10-10/linkedin-ceo-learned-a-lot-by-expanding-into-china" target="_BLANK">www.businessweek.com/videos/2014-10-10/linkedin-ceo-learned-a-lot-by-expanding-into-china</a> (2014年10月13日 16:35)
+ ---
 Snapchat self-censorship? Will influx of Chinese capital influence sensibilities of U.S. startups around free speech? <a href="http://techcrunch.com/2014/10/10/snapchat-hong-kong/" target="_BLANK">techcrunch.com/2014/10/10/snapchat-hong-kong/</a> (2014年10月13日 16:22)
  ---
 机智的当当网：那些即将买不到的书 <a href="https://edgecastcdn.net/00107ED/cdt/?u=/chinese/2014/10/%E6%9C%BA%E6%99%BA%E7%9A%84%E5%BD%93%E5%BD%93%E7%BD%91%EF%BC%9A%E9%82%A3%E4%BA%9B%E5%8D%B3%E5%B0%86%E4%B9%B0%E4%B8%8D%E5%88%B0%E7%9A%84%E4%B9%A6/" target="_BLANK">edgecastcdn.net/00107ED/cdt/</a> (2014年10月13日 06:57)
@@ -99,6 +101,4 @@ China May Have Committed A Tiananmen Square-Scale Massacre This Year — And Tot
 RT @RTKcn: 21+ RT @hnjhj: 中共也是蛮拼的，关键时刻把梁振英狠狠卖了，豁出去要把斗争焦点从争普选转移到弹劾梁振英上。香港民众不要被迷惑，梁振英当然要滚，但这是次要的。 (2014年10月10日 11:45)
  ---
 Instagram blocked for 10 days; Google blocked for 130 days ; Youtube blocked for 2026 days; and coutning <a href="https://en.greatfire.org/search/alexa-top-1000-domains" target="_BLANK">en.greatfire.org/search/alexa-top-1000-domains</a> (2014年10月10日 07:08)
- ---
-RT @paopaonet: 梁振英涉黑金，微博“不审查”，梁或已成中央“负资产” <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/211" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> <a href="https://twitter.com/paopaonet/status/520136490366816256/photo/1" target="_BLANK">twitter.com/paopaonet/status/520136490366816256/photo/1</a> (2014年10月10日 04:49)
  ---
