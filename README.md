@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @niubi: 【国平：港版颜色革命注定要失败】<a href="http://m2.people.cn/r/MV8xXzI1ODI0NTcyXzEwMDNfMTQxMzE4NzQyMg==?tt_group_id=3591733093&tt_from=twitter&iid=2337015665&app=news_article" target="_BLANK">m2.people.cn/r/MV8xXzI1ODI0NTcyXzEwMDNfMTQxMzE4NzQyMg==</a> (分享自 #今日头条#) so occupy hk is defined as "color revolution", what happens to the leaders? (2014年10月14日 14:24)
+ ---
 Coming soon to Chinese streets <a href="http://www.youtube.com/watch?v=zJwZyW2Uels&feature=youtu.be&list=UUR2lg_YchvWGbpMxHg-EIgg" target="_BLANK">www.youtube.com/watch</a> especially love the folks who can't drive their cars backwards (2014年10月14日 02:00)
  ---
 Sometime during initial student strike, the Hong Kong Jockey Club website got blocked in China. Collateral damage? <a href="https://en.greatfire.org/www.hkjc.com" target="_BLANK">en.greatfire.org/www.hkjc.com</a> (2014年10月14日 00:07)
@@ -101,6 +103,4 @@ Deleted article on Jimmy Lai sheds light on China’s state media spin <a href="
 贺江兵发文做空不可能赚10亿，微博被清空。 <a href="https://freeweibo.com/weibo/%40%E8%B4%BA%E6%B1%9F%E5%85%B5" target="_BLANK">freeweibo.com/weibo/@贺江兵</a> (2014年10月11日 10:23)
  ---
 黑客组织Anonymous威胁将大规模攻击中国政府网站 <a href="http://cn.reuters.com/article/CNTopGenNews/idCNKCS0I001D20141011" target="_BLANK">cn.reuters.com/article/CNTopGenNews/idCNKCS0I001D20141011</a> “注意了，准备迎战吧，试试阻止攻击，你们唯一能做到的是让你们所有网站离线。中国，你无法阻止我们。你在对香港公民滥用权力前就该想到我们。”Anonymous在网上发布声明称。 (2014年10月11日 09:23)
- ---
-吾人打的监视通过使用加密 <a href="https://www.ifightsurveillance.org/cmn" target="_BLANK">www.ifightsurveillance.org/cmn</a> (2014年10月10日 17:49)
  ---
