@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @austinramzy: Democracy not excuse for turmoil @XHNews summary of commentary in Wednesday's People's Daily <a href="http://www.icrosschina.com/news/2014/1014/4439.shtml" target="_BLANK">www.icrosschina.com/news/2014/1014/4439.shtml</a> (2014年10月14日 23:47)
+ ---
 RT @torproject: A closer look at the great firewall of China, <a href="https://blog.torproject.org/blog/closer-look-great-firewall-china" target="_BLANK">blog.torproject.org/blog/closer-look-great-firewall-china</a>  #china #tor #firewall #greatfirewall #rivercrabs #ce… (2014年10月14日 23:10)
  ---
 RT @ThePekingDuck: Spread the word: Shaun Rein wants your help! A new blog post. <a href="http://www.pekingduck.org/2014/10/shaun-rein-wants-your-help-marketing-the-end-of-copycat-china/" target="_BLANK">www.pekingduck.org/2014/10/shaun-rein-wants-your-help-marketing-the-end-of-copycat-china/</a> Oh, brother. (2014年10月14日 14:41)
@@ -101,6 +103,4 @@ RT @phuslu: 顺藤摸瓜发现了更多不错的东东， <a href="https://edgec
 RT @phuslu: 我非常关注这个事情，推上有人能确认吗？ @lilydjwg @phuslu 今天刚刚看到的，有人遇到了伪造的 GoAgent 署名的证书，未证实： <a href="http://segmentfault.com/q/1010000000652858/a-1020000000714904" target="_BLANK">segmentfault.com/q/1010000000652858/a-1020000000714904</a> … (2014年10月11日 10:51)
  ---
 懂技术的朋友自己搭建VPN吧。1年才4美元，好给家人朋友用。 <a href="https://edgecastcdn.net/00107ED/paopao/?u=article/213" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月11日 10:36)
- ---
-Deleted article on Jimmy Lai sheds light on China’s state media spin <a href="http://www.scmp.com/news/china-insider/article/1613838/deleted-article-jimmy-lai-sheds-light-chinas-state-media-spin" target="_BLANK">www.scmp.com/news/china-insider/article/1613838/deleted-article-jimmy-lai-sheds-light-chinas-state-media-spin</a> (2014年10月11日 10:25)
  ---
