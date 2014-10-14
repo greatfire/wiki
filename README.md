@@ -62,7 +62,7 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-Coming soon to Chinese streets <a href="https://www.youtube.com/watch?v=zJwZyW2Uels&feature=youtu.be&list=UUR2lg_YchvWGbpMxHg-EIgg" target="_BLANK">www.youtube.com/watch</a> especially love the folks who can't drive their cars backwards (2014年10月14日 02:00)
+Coming soon to Chinese streets <a href="http://www.youtube.com/watch?v=zJwZyW2Uels&feature=youtu.be&list=UUR2lg_YchvWGbpMxHg-EIgg" target="_BLANK">www.youtube.com/watch</a> especially love the folks who can't drive their cars backwards (2014年10月14日 02:00)
  ---
 Sometime during initial student strike, the Hong Kong Jockey Club website got blocked in China. Collateral damage? <a href="https://en.greatfire.org/www.hkjc.com" target="_BLANK">en.greatfire.org/www.hkjc.com</a> (2014年10月14日 00:07)
  ---
