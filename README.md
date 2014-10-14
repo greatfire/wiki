@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@telegram @larrysalibra We saw some IP addresses time out. You can keep monitoring the situation on <a href="https://en.greatfire.org/https/telegram.org" target="_BLANK">en.greatfire.org/https/telegram.org</a> (2014年10月15日 02:08)
+ ---
 China GFW research: blocks happen at national, not provincial level; Tor works on CERNET; GFW not bullet proof <a href="http://cs.unm.edu/~royaen/gfw/techreport.pdf" target="_BLANK">cs.unm.edu/~royaen/gfw/techreport.pdf</a> (2014年10月15日 00:30)
  ---
 RT @austinramzy: Democracy not excuse for turmoil @XHNews summary of commentary in Wednesday's People's Daily <a href="http://www.icrosschina.com/news/2014/1014/4439.shtml" target="_BLANK">www.icrosschina.com/news/2014/1014/4439.shtml</a> (2014年10月14日 23:47)
@@ -101,6 +103,4 @@ Yahoo确认被中国中间人攻击 英文原文 <a href="http://mashable.com/20
 翻墙软件Lantern招聘程序员 <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=186&p=675#p675" target="_BLANK">lanternforum.greatfire.org/viewtopic.php</a> 愿意拆墙的开发者赶紧来加入。 (2014年10月12日 11:00)
  ---
 RT @phuslu: 顺藤摸瓜发现了更多不错的东东， <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a> (2014年10月11日 10:54)
- ---
-RT @phuslu: 我非常关注这个事情，推上有人能确认吗？ @lilydjwg @phuslu 今天刚刚看到的，有人遇到了伪造的 GoAgent 署名的证书，未证实： <a href="http://segmentfault.com/q/1010000000652858/a-1020000000714904" target="_BLANK">segmentfault.com/q/1010000000652858/a-1020000000714904</a> … (2014年10月11日 10:51)
  ---
