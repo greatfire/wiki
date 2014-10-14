@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+腾讯的图片识别功能，图片中如出现敏感图样或文字，发布后会无法显示。经记者和几位朋友的测试，在腾讯微博发布一张日文报纸的照片，图中有一个很小的热比娅的头像，结果数次发布都没有成功。<a href="https://objects.dreamhost.com/paopao/index.html?u=/article/206" target="_BLANK">objects.dreamhost.com/paopao/index.html</a> (2014年10月15日 02:58)
+ ---
 @telegram @larrysalibra We saw some IP addresses time out. You can keep monitoring the situation on <a href="https://en.greatfire.org/https/telegram.org" target="_BLANK">en.greatfire.org/https/telegram.org</a> (2014年10月15日 02:08)
  ---
 China GFW research: blocks happen at national, not provincial level; Tor works on CERNET; GFW not bullet proof <a href="http://cs.unm.edu/~royaen/gfw/techreport.pdf" target="_BLANK">cs.unm.edu/~royaen/gfw/techreport.pdf</a> (2014年10月15日 00:30)
@@ -101,6 +103,4 @@ Yahoo确认被中国中间人攻击 英文原文 <a href="http://mashable.com/20
 @phuslu 更多链接见这里 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年10月12日 11:03)
  ---
 翻墙软件Lantern招聘程序员 <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=186&p=675#p675" target="_BLANK">lanternforum.greatfire.org/viewtopic.php</a> 愿意拆墙的开发者赶紧来加入。 (2014年10月12日 11:00)
- ---
-RT @phuslu: 顺藤摸瓜发现了更多不错的东东， <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a> (2014年10月11日 10:54)
  ---
