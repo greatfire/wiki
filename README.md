@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China also blocks many non-English language news sources: @DeutscheWelle @el_pais and @lemondefr have all been blocked long term. (2014年10月16日 03:42)
+ ---
 RT @tomgrundy: Clearest footage I've seen yet of the Ken Tsang police beating: <a href="http://online.wsj.com/articles/footage-of-beating-prompts-hong-kong-police-to-launch-investigation-1413343131" target="_BLANK">online.wsj.com/articles/footage-of-beating-prompts-hong-kong-police-to-launch-investigation-1413343131</a> #occupyhk (2014年10月16日 02:34)
  ---
 RT @PekingMike: A bit ironic now. <a href="https://twitter.com/PekingMike/status/522315672580132864/photo/1" target="_BLANK">twitter.com/PekingMike/status/522315672580132864/photo/1</a> (2014年10月16日 02:25)
@@ -99,6 +101,4 @@ RT @austinramzy: Democracy not excuse for turmoil @XHNews summary of commentary 
 RT @torproject: A closer look at the great firewall of China, <a href="https://blog.torproject.org/blog/closer-look-great-firewall-china" target="_BLANK">blog.torproject.org/blog/closer-look-great-firewall-china</a>  #china #tor #firewall #greatfirewall #rivercrabs #ce… (2014年10月14日 23:10)
  ---
 RT @ThePekingDuck: Spread the word: Shaun Rein wants your help! A new blog post. <a href="http://www.pekingduck.org/2014/10/shaun-rein-wants-your-help-marketing-the-end-of-copycat-china/" target="_BLANK">www.pekingduck.org/2014/10/shaun-rein-wants-your-help-marketing-the-end-of-copycat-china/</a> Oh, brother. (2014年10月14日 14:41)
- ---
-RT @niubi: 【国平：港版颜色革命注定要失败】<a href="http://m2.people.cn/r/MV8xXzI1ODI0NTcyXzEwMDNfMTQxMzE4NzQyMg==?tt_group_id=3591733093&tt_from=twitter&iid=2337015665&app=news_article" target="_BLANK">m2.people.cn/r/MV8xXzI1ODI0NTcyXzEwMDNfMTQxMzE4NzQyMg==</a> (分享自 #今日头条#) so occupy hk is defined as "color revolution", what happens to the leaders? (2014年10月14日 14:24)
  ---
