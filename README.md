@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @RTKcn: 21+ RT @beidaijin: 网爆 「公务员、公职人员的微博洗地成风，不是秘密，是任务」 #标记 <a href="https://twitter.com/beidaijin/status/522248440177123328/photo/1" target="_BLANK">twitter.com/beidaijin/status/522248440177123328/photo/1</a> (2014年10月15日 13:15)
+ ---
 RT @Alex_Ogle: Sequence of pictures before and after this protester got pepper sprayed, as police advanced this morning in Hong Kong http:/… (2014年10月15日 10:23)
  ---
 香港市民高举双手，仍然被喷辣椒水，然后被警察在地上打。 南华早报视频 <a href="http://widgets.scmp.com/video/video_iframe.php?id=997293&movideo_m=997293" target="_BLANK">widgets.scmp.com/video/video_iframe.php</a> (2014年10月15日 10:21)
@@ -72,7 +74,7 @@ RT @Alex_Ogle: Sequence of pictures before and after this protester got pepper s
  ---
 China GFW research: blocks happen at national, not provincial level; Tor works on CERNET; GFW not bullet proof <a href="http://cs.unm.edu/~royaen/gfw/techreport.pdf" target="_BLANK">cs.unm.edu/~royaen/gfw/techreport.pdf</a> (2014年10月15日 00:30)
  ---
-RT @austinramzy: Democracy not excuse for turmoil @XHNews summary of commentary in Wednesday's People's Daily <a href="http://xhne.ws/uX709" target="_BLANK">xhne.ws/uX709</a> (2014年10月14日 23:47)
+RT @austinramzy: Democracy not excuse for turmoil @XHNews summary of commentary in Wednesday's People's Daily <a href="http://www.icrosschina.com/news/2014/1014/4439.shtml" target="_BLANK">www.icrosschina.com/news/2014/1014/4439.shtml</a> (2014年10月14日 23:47)
  ---
 RT @torproject: A closer look at the great firewall of China, <a href="https://blog.torproject.org/blog/closer-look-great-firewall-china" target="_BLANK">blog.torproject.org/blog/closer-look-great-firewall-china</a>  #china #tor #firewall #greatfirewall #rivercrabs #ce… (2014年10月14日 23:10)
  ---
@@ -101,6 +103,4 @@ Snapchat self-censorship? Will influx of Chinese capital influence sensibilities
 机智的当当网：那些即将买不到的书 <a href="https://edgecastcdn.net/00107ED/cdt/?u=/chinese/2014/10/%E6%9C%BA%E6%99%BA%E7%9A%84%E5%BD%93%E5%BD%93%E7%BD%91%EF%BC%9A%E9%82%A3%E4%BA%9B%E5%8D%B3%E5%B0%86%E4%B9%B0%E4%B8%8D%E5%88%B0%E7%9A%84%E4%B9%A6/" target="_BLANK">edgecastcdn.net/00107ED/cdt/</a> (2014年10月13日 06:57)
  ---
 Here we go Reuters China. It has posted many articles converging #OccupyCental and not censored by Sina <a href="https://freeweibo.com/weibo/3764258418660339" target="_BLANK">freeweibo.com/weibo/3764258418660339</a> (2014年10月13日 04:24)
- ---
-Yahoo确认被中国中间人攻击 英文原文 <a href="http://mashable.com/2014/09/30/china-attacks-yahoo-hong-kong-censorship/" target="_BLANK">mashable.com/2014/09/30/china-attacks-yahoo-hong-kong-censorship/</a> (2014年10月13日 03:47)
  ---
