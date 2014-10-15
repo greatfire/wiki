@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @bbcchinese: BBC英文网在中国大陆受到封锁: 尽管BBC中文网在中国大陆一直受到封锁，但用户还是能够访问BBC英文网。 <a href="http://www.bbc.co.uk/zhongwen/simp/china/2014/10/141015_bbc_news_blocked" target="_BLANK">www.bbc.co.uk/zhongwen/simp/china/2014/10/141015_bbc_news_blocked</a> (2014年10月16日 02:03)
+ ---
 .@Number10gov comments regarding Hong Kong: "we should stand up for rights and freedoms" <a href="http://www.parliament.uk/business/publications/hansard/commons/todays-commons-debates/read/unknown/12/" target="_BLANK">www.parliament.uk/business/publications/hansard/commons/todays-commons-debates/read/unknown/12/</a> unrelated to BBC block (2014年10月16日 01:13)
  ---
 RT @PeterHorrocks1: BBC News site is being blocked in China today. I have issued strong protest at apparent deliberate censorship. http://t… (2014年10月15日 21:53)
@@ -99,6 +101,4 @@ Coming soon to Chinese streets <a href="https://www.youtube.com/watch?v=zJwZyW2U
 Sometime during initial student strike, the Hong Kong Jockey Club website got blocked in China. Collateral damage? <a href="https://en.greatfire.org/www.hkjc.com" target="_BLANK">en.greatfire.org/www.hkjc.com</a> (2014年10月14日 00:07)
  ---
 RT @larrysalibra: Friends in mainland complaining @telegram is blocked. Anyone else? @GreatFireChina (2014年10月13日 23:58)
- ---
-@larrysalibra @telegram we don't test apps but if app is blocked then often website blocked too. Not the case here <a href="https://en.greatfire.org/www.telegram.org" target="_BLANK">en.greatfire.org/www.telegram.org</a> (2014年10月13日 23:58)
  ---
