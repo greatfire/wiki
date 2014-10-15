@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @PeterHorrocks1: BBC News site is being blocked in China today. I have issued strong protest at apparent deliberate censorship. http://t… (2014年10月15日 21:53)
+ ---
 BBC will complain to authorities about its site being blocked. Delighted they made that public - eager to see result <a href="http://www.bbc.com/news/world-asia-china-29628356" target="_BLANK">www.bbc.com/news/world-asia-china-29628356</a> (2014年10月15日 21:49)
  ---
 RT @JoFloto: Extra censorship in mainland China today. @bbcnews website blocked + usual practice of blacking out @BBCWorld during Hong Kong… (2014年10月15日 18:06)
@@ -101,6 +103,4 @@ RT @larrysalibra: Friends in mainland complaining @telegram is blocked. Anyone e
 RT @tomgrundy: #OccupyHK protesters using cement to reinforce barriers in Causeway Bay 
 
 Photos from @JeromeTaylor &amp; @tricialing http://t.c… (2014年10月13日 20:05)
- ---
-RT @nytchinese: 大陆年轻人同情香港“占中”者寥寥，这不仅是政府审查和压制所致。看好莱坞长大的中国80后、90后，即使在私下场合，也很少同情香港抗议者。By @AndrewJacobsNYT #OccupyCentral <a href="http://cn.nytimes.com/china/20141011/c11beijing/" target="_BLANK">cn.nytimes.com/china/20141011/c11beijing/</a> (2014年10月13日 16:58)
  ---
