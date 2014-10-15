@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @PekingMike: A bit ironic now. <a href="https://twitter.com/PekingMike/status/522315672580132864/photo/1" target="_BLANK">twitter.com/PekingMike/status/522315672580132864/photo/1</a> (2014年10月16日 02:25)
+ ---
 RT @AFP: China blocks BBC website amid Hong Kong protests <a href="http://news.yahoo.com/china-blocks-bbc-website-amid-hong-kong-protests-114030353.html" target="_BLANK">news.yahoo.com/china-blocks-bbc-website-amid-hong-kong-protests-114030353.html</a> (2014年10月16日 02:19)
  ---
 RT @bbcchinese: BBC英文网在中国大陆受到封锁: 尽管BBC中文网在中国大陆一直受到封锁，但用户还是能够访问BBC英文网。 <a href="http://www.bbc.co.uk/zhongwen/simp/china/2014/10/141015_bbc_news_blocked" target="_BLANK">www.bbc.co.uk/zhongwen/simp/china/2014/10/141015_bbc_news_blocked</a> (2014年10月16日 02:03)
@@ -98,7 +100,5 @@ RT @ThePekingDuck: Spread the word: Shaun Rein wants your help! A new blog post.
  ---
 RT @niubi: 【国平：港版颜色革命注定要失败】<a href="http://m2.people.cn/r/MV8xXzI1ODI0NTcyXzEwMDNfMTQxMzE4NzQyMg==?tt_group_id=3591733093&tt_from=twitter&iid=2337015665&app=news_article" target="_BLANK">m2.people.cn/r/MV8xXzI1ODI0NTcyXzEwMDNfMTQxMzE4NzQyMg==</a> (分享自 #今日头条#) so occupy hk is defined as "color revolution", what happens to the leaders? (2014年10月14日 14:24)
  ---
-Coming soon to Chinese streets <a href="https://www.youtube.com/watch?v=zJwZyW2Uels&feature=youtu.be&list=UUR2lg_YchvWGbpMxHg-EIgg" target="_BLANK">www.youtube.com/watch</a> especially love the folks who can't drive their cars backwards (2014年10月14日 02:00)
- ---
-Sometime during initial student strike, the Hong Kong Jockey Club website got blocked in China. Collateral damage? <a href="https://en.greatfire.org/www.hkjc.com" target="_BLANK">en.greatfire.org/www.hkjc.com</a> (2014年10月14日 00:07)
+Coming soon to Chinese streets <a href="http://www.youtube.com/watch?v=zJwZyW2Uels&feature=youtu.be&list=UUR2lg_YchvWGbpMxHg-EIgg" target="_BLANK">www.youtube.com/watch</a> especially love the folks who can't drive their cars backwards (2014年10月14日 02:00)
  ---
