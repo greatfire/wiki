@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @KentCh: This could be it. I hope I'm wrong. #BBC blocked in #China today. #censorship #TheGreatFirewall #UmbrellaMovement <a href="http://t.co/Q" target="_BLANK">t.co/Q</a>… (2014年10月15日 17:16)
+ ---
 BREAKING entire @BBC blocked in China <a href="https://en.greatfire.org/www.bbc.com" target="_BLANK">en.greatfire.org/www.bbc.com</a>. @bbcchinese already blocked for long time h/t @KentCh @feliciasonmez (2014年10月15日 17:12)
  ---
 RT @RTKcn: 21+ RT @beidaijin: 网爆 「公务员、公职人员的微博洗地成风，不是秘密，是任务」 #标记 <a href="https://twitter.com/beidaijin/status/522248440177123328/photo/1" target="_BLANK">twitter.com/beidaijin/status/522248440177123328/photo/1</a> (2014年10月15日 13:15)
@@ -101,6 +103,4 @@ RT @nytchinese: 大陆年轻人同情香港“占中”者寥寥，这不仅是�
 Which LinkedIn execs spoke out against self-censorship in China? Certainly not @jeffweiner <a href="http://www.businessweek.com/videos/2014-10-10/linkedin-ceo-learned-a-lot-by-expanding-into-china" target="_BLANK">www.businessweek.com/videos/2014-10-10/linkedin-ceo-learned-a-lot-by-expanding-into-china</a> (2014年10月13日 16:35)
  ---
 Snapchat self-censorship? Will influx of Chinese capital influence sensibilities of U.S. startups around free speech? <a href="http://techcrunch.com/2014/10/10/snapchat-hong-kong/" target="_BLANK">techcrunch.com/2014/10/10/snapchat-hong-kong/</a> (2014年10月13日 16:22)
- ---
-机智的当当网：那些即将买不到的书 <a href="https://edgecastcdn.net/00107ED/cdt/?u=/chinese/2014/10/%E6%9C%BA%E6%99%BA%E7%9A%84%E5%BD%93%E5%BD%93%E7%BD%91%EF%BC%9A%E9%82%A3%E4%BA%9B%E5%8D%B3%E5%B0%86%E4%B9%B0%E4%B8%8D%E5%88%B0%E7%9A%84%E4%B9%A6/" target="_BLANK">edgecastcdn.net/00107ED/cdt/</a> (2014年10月13日 06:57)
  ---
