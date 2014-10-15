@@ -72,7 +72,7 @@ RT @Alex_Ogle: Sequence of pictures before and after this protester got pepper s
  ---
 China GFW research: blocks happen at national, not provincial level; Tor works on CERNET; GFW not bullet proof <a href="http://cs.unm.edu/~royaen/gfw/techreport.pdf" target="_BLANK">cs.unm.edu/~royaen/gfw/techreport.pdf</a> (2014年10月15日 00:30)
  ---
-RT @austinramzy: Democracy not excuse for turmoil @XHNews summary of commentary in Wednesday's People's Daily <a href="http://www.icrosschina.com/news/2014/1014/4439.shtml" target="_BLANK">www.icrosschina.com/news/2014/1014/4439.shtml</a> (2014年10月14日 23:47)
+RT @austinramzy: Democracy not excuse for turmoil @XHNews summary of commentary in Wednesday's People's Daily <a href="http://xhne.ws/uX709" target="_BLANK">xhne.ws/uX709</a> (2014年10月14日 23:47)
  ---
 RT @torproject: A closer look at the great firewall of China, <a href="https://blog.torproject.org/blog/closer-look-great-firewall-china" target="_BLANK">blog.torproject.org/blog/closer-look-great-firewall-china</a>  #china #tor #firewall #greatfirewall #rivercrabs #ce… (2014年10月14日 23:10)
  ---
