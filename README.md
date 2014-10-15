@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @Alex_Ogle: Sequence of pictures before and after this protester got pepper sprayed, as police advanced this morning in Hong Kong http:/… (2014年10月15日 10:23)
+ ---
+香港市民高举双手，仍然被喷辣椒水，然后被警察在地上打。 南华早报视频 <a href="http://widgets.scmp.com/video/video_iframe.php?id=997293&movideo_m=997293" target="_BLANK">widgets.scmp.com/video/video_iframe.php</a> (2014年10月15日 10:21)
+ ---
 腾讯的图片识别功能，图片中如出现敏感图样或文字，发布后会无法显示。经记者和几位朋友的测试，在腾讯微博发布一张日文报纸的照片，图中有一个很小的热比娅的头像，结果数次发布都没有成功。<a href="https://objects.dreamhost.com/paopao/index.html?u=/article/206" target="_BLANK">objects.dreamhost.com/paopao/index.html</a> (2014年10月15日 02:58)
  ---
 @telegram @larrysalibra We saw some IP addresses time out. You can keep monitoring the situation on <a href="https://en.greatfire.org/https/telegram.org" target="_BLANK">en.greatfire.org/https/telegram.org</a> (2014年10月15日 02:08)
@@ -99,8 +103,4 @@ Snapchat self-censorship? Will influx of Chinese capital influence sensibilities
 Here we go Reuters China. It has posted many articles converging #OccupyCental and not censored by Sina <a href="https://freeweibo.com/weibo/3764258418660339" target="_BLANK">freeweibo.com/weibo/3764258418660339</a> (2014年10月13日 04:24)
  ---
 Yahoo确认被中国中间人攻击 英文原文 <a href="http://mashable.com/2014/09/30/china-attacks-yahoo-hong-kong-censorship/" target="_BLANK">mashable.com/2014/09/30/china-attacks-yahoo-hong-kong-censorship/</a> (2014年10月13日 03:47)
- ---
-@phuslu 更多链接见这里 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年10月12日 11:03)
- ---
-翻墙软件Lantern招聘程序员 <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=186&p=675#p675" target="_BLANK">lanternforum.greatfire.org/viewtopic.php</a> 愿意拆墙的开发者赶紧来加入。 (2014年10月12日 11:00)
  ---
