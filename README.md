@@ -80,7 +80,7 @@ RT @torproject: A closer look at the great firewall of China, <a href="https://b
  ---
 RT @ThePekingDuck: Spread the word: Shaun Rein wants your help! A new blog post. <a href="http://www.pekingduck.org/2014/10/shaun-rein-wants-your-help-marketing-the-end-of-copycat-china/" target="_BLANK">www.pekingduck.org/2014/10/shaun-rein-wants-your-help-marketing-the-end-of-copycat-china/</a> Oh, brother. (2014年10月14日 14:41)
  ---
-RT @niubi: 【国平：港版颜色革命注定要失败】<a href="http://m2.people.cn/r/MV8xXzI1ODI0NTcyXzEwMDNfMTQxMzE4NzQyMg==?tt_group_id=3591733093&tt_from=twitter&iid=2337015665&app=news_article" target="_BLANK">m2.people.cn/r/MV8xXzI1ODI0NTcyXzEwMDNfMTQxMzE4NzQyMg==</a> (分享自 #今日头条#) so occupy hk is defined as "color revolution", what happens to the leaders? (2014年10月14日 14:24)
+RT @niubi: 【国平：港版颜色革命注定要失败】<a href="http://web.toutiao.com/i/group/article/3591733093/?iid=2337015665&app=news_article&tt_from=twitter" target="_BLANK">web.toutiao.com/i/group/article/3591733093/</a> (分享自 #今日头条#) so occupy hk is defined as "color revolution", what happens to the leaders? (2014年10月14日 14:24)
  ---
 Coming soon to Chinese streets <a href="http://www.youtube.com/watch?v=zJwZyW2Uels&feature=youtu.be&list=UUR2lg_YchvWGbpMxHg-EIgg" target="_BLANK">www.youtube.com/watch</a> especially love the folks who can't drive their cars backwards (2014年10月14日 02:00)
  ---
