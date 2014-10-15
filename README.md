@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: #泡泡报道  “人家再也看不到BBC了啦哭哭～” BBC 网站于昨天开始（10月15日）在中国遭到全面封锁。这次封锁似乎与BBC近期对香港抗争运动、以及香港警察镇压示威者的报道有关。<a href="https://edgecastcdn.net/00107ED/paopao/" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http://t.… (2014年10月16日 04:37)
+ ---
 China also blocks many non-English language news sources: @DeutscheWelle @el_pais and @lemondefr have all been blocked long term. (2014年10月16日 03:42)
  ---
 RT @tomgrundy: Clearest footage I've seen yet of the Ken Tsang police beating: <a href="http://online.wsj.com/articles/footage-of-beating-prompts-hong-kong-police-to-launch-investigation-1413343131" target="_BLANK">online.wsj.com/articles/footage-of-beating-prompts-hong-kong-police-to-launch-investigation-1413343131</a> #occupyhk (2014年10月16日 02:34)
@@ -99,6 +101,4 @@ China GFW research: blocks happen at national, not provincial level; Tor works o
 RT @austinramzy: Democracy not excuse for turmoil @XHNews summary of commentary in Wednesday's People's Daily <a href="http://www.icrosschina.com/news/2014/1014/4439.shtml" target="_BLANK">www.icrosschina.com/news/2014/1014/4439.shtml</a> (2014年10月14日 23:47)
  ---
 RT @torproject: A closer look at the great firewall of China, <a href="https://blog.torproject.org/blog/closer-look-great-firewall-china" target="_BLANK">blog.torproject.org/blog/closer-look-great-firewall-china</a>  #china #tor #firewall #greatfirewall #rivercrabs #ce… (2014年10月14日 23:10)
- ---
-RT @ThePekingDuck: Spread the word: Shaun Rein wants your help! A new blog post. <a href="http://www.pekingduck.org/2014/10/shaun-rein-wants-your-help-marketing-the-end-of-copycat-china/" target="_BLANK">www.pekingduck.org/2014/10/shaun-rein-wants-your-help-marketing-the-end-of-copycat-china/</a> Oh, brother. (2014年10月14日 14:41)
  ---
