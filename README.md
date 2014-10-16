@@ -62,6 +62,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+中国封锁的媒体：纽约时报，华尔街日报，彭博社，美国之音，德国之音， 南华早报，苹果日报，朝日新闻， 雅虎。还有么？ 可以在这里测试 <a href="https://zh.greatfire.org/" target="_BLANK">zh.greatfire.org/</a> (2014年10月16日 14:10)
+ ---
 Blocked media in China: NYT, WSJ, BBC, VOA, SCMP, Apple Daily,  DW, CBC, lemonde, elpais, ndr, lesoir, newstapa,trouw, asahichinese,yahoo (2014年10月16日 13:44)
  ---
 Besides BBC English, VOA English is also blocked since July this year. <a href="https://en.greatfire.org/www.voanews.com" target="_BLANK">en.greatfire.org/www.voanews.com</a> <a href="https://en.greatfire.org/www.bbc.co.uk" target="_BLANK">en.greatfire.org/www.bbc.co.uk</a> (2014年10月16日 13:28)
@@ -99,6 +101,4 @@ RT @Alex_Ogle: Sequence of pictures before and after this protester got pepper s
 香港市民高举双手，仍然被喷辣椒水，然后被警察在地上打。 南华早报视频 <a href="http://widgets.scmp.com/video/video_iframe.php?id=997293&movideo_m=997293" target="_BLANK">widgets.scmp.com/video/video_iframe.php</a> (2014年10月15日 10:21)
  ---
 腾讯的图片识别功能，图片中如出现敏感图样或文字，发布后会无法显示。经记者和几位朋友的测试，在腾讯微博发布一张日文报纸的照片，图中有一个很小的热比娅的头像，结果数次发布都没有成功。<a href="https://objects.dreamhost.com/paopao/index.html?u=/article/206" target="_BLANK">objects.dreamhost.com/paopao/index.html</a> (2014年10月15日 02:58)
- ---
-@telegram @larrysalibra We saw some IP addresses time out. You can keep monitoring the situation on <a href="https://en.greatfire.org/https/telegram.org" target="_BLANK">en.greatfire.org/https/telegram.org</a> (2014年10月15日 02:08)
  ---
