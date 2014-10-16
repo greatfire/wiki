@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@jimmy_wales enjoy your time in Shanghai. We are still hoping you will take a bold step on China. <a href="https://en.greatfire.org/blog/2013/jun/wikimedia-foundation-says-it-doesnt-hold-chinese-readers-any-less-regard-we-disagree" target="_BLANK">en.greatfire.org/blog/2013/jun/wikimedia-foundation-says-it-doesnt-hold-chinese-readers-any-less-regard-we-disagree</a> (2014年10月16日 19:34)
+ ---
 @niubi @shaunrein I think paywall helps keep <a href="http://www.ft.com/www.ft.com//" target="_BLANK">www.ft.com/www.ft.com//</a> unblocked but do note plenty <a href="http://ftchinese.com" target="_BLANK">ftchinese.com</a> stories blocked (2014年10月16日 18:17)
  ---
 中国封锁的媒体：纽约时报，华尔街日报，彭博社，美国之音，德国之音， 南华早报，苹果日报，朝日新闻， 雅虎。还有么？ 可以在这里测试 <a href="https://zh.greatfire.org/" target="_BLANK">zh.greatfire.org/</a> (2014年10月16日 14:10)
@@ -100,6 +102,4 @@ BREAKING entire @BBC blocked in China <a href="https://en.greatfire.org/www.bbc.
 RT @RTKcn: 21+ RT @beidaijin: 网爆 「公务员、公职人员的微博洗地成风，不是秘密，是任务」 #标记 <a href="https://twitter.com/beidaijin/status/522248440177123328/photo/1" target="_BLANK">twitter.com/beidaijin/status/522248440177123328/photo/1</a> (2014年10月15日 13:15)
  ---
 RT @Alex_Ogle: Sequence of pictures before and after this protester got pepper sprayed, as police advanced this morning in Hong Kong http:/… (2014年10月15日 10:23)
- ---
-香港市民高举双手，仍然被喷辣椒水，然后被警察在地上打。 南华早报视频 <a href="http://widgets.scmp.com/video/video_iframe.php?id=997293&movideo_m=997293" target="_BLANK">widgets.scmp.com/video/video_iframe.php</a> (2014年10月15日 10:21)
  ---
