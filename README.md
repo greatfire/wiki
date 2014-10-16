@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@niubi @shaunrein I think paywall helps keep <a href="http://www.ft.com/www.ft.com//" target="_BLANK">www.ft.com/www.ft.com//</a> unblocked but do note plenty <a href="http://ftchinese.com" target="_BLANK">ftchinese.com</a> stories blocked (2014年10月16日 18:17)
+ ---
 中国封锁的媒体：纽约时报，华尔街日报，彭博社，美国之音，德国之音， 南华早报，苹果日报，朝日新闻， 雅虎。还有么？ 可以在这里测试 <a href="https://zh.greatfire.org/" target="_BLANK">zh.greatfire.org/</a> (2014年10月16日 14:10)
  ---
 Blocked media in China: NYT, WSJ, BBC, VOA, SCMP, Apple Daily,  DW, CBC, lemonde, elpais, ndr, lesoir, newstapa,trouw, asahichinese,yahoo (2014年10月16日 13:44)
@@ -100,6 +102,4 @@ RT @RTKcn: 21+ RT @beidaijin: 网爆 「公务员、公职人员的微博洗地�
 RT @Alex_Ogle: Sequence of pictures before and after this protester got pepper sprayed, as police advanced this morning in Hong Kong http:/… (2014年10月15日 10:23)
  ---
 香港市民高举双手，仍然被喷辣椒水，然后被警察在地上打。 南华早报视频 <a href="http://widgets.scmp.com/video/video_iframe.php?id=997293&movideo_m=997293" target="_BLANK">widgets.scmp.com/video/video_iframe.php</a> (2014年10月15日 10:21)
- ---
-腾讯的图片识别功能，图片中如出现敏感图样或文字，发布后会无法显示。经记者和几位朋友的测试，在腾讯微博发布一张日文报纸的照片，图中有一个很小的热比娅的头像，结果数次发布都没有成功。<a href="https://objects.dreamhost.com/paopao/index.html?u=/article/206" target="_BLANK">objects.dreamhost.com/paopao/index.html</a> (2014年10月15日 02:58)
  ---
