@@ -62,6 +62,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Besides BBC English, VOA English is also blocked since July this year. <a href="https://en.greatfire.org/www.voanews.com" target="_BLANK">en.greatfire.org/www.voanews.com</a> <a href="https://en.greatfire.org/www.bbc.co.uk" target="_BLANK">en.greatfire.org/www.bbc.co.uk</a> (2014年10月16日 13:28)
+ ---
+BBC在中国遭全面封锁 <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/216" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月16日 13:25)
+ ---
 RT @paopaonet: #泡泡报道  “人家再也看不到BBC了啦哭哭～” BBC 网站于昨天开始（10月15日）在中国遭到全面封锁。这次封锁似乎与BBC近期对香港抗争运动、以及香港警察镇压示威者的报道有关。<a href="https://edgecastcdn.net/00107ED/paopao/" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http://t.… (2014年10月16日 04:37)
  ---
 China also blocks many non-English language news sources: @DeutscheWelle @el_pais and @lemondefr have all been blocked long term. (2014年10月16日 03:42)
@@ -97,8 +101,4 @@ RT @Alex_Ogle: Sequence of pictures before and after this protester got pepper s
 @telegram @larrysalibra We saw some IP addresses time out. You can keep monitoring the situation on <a href="https://en.greatfire.org/https/telegram.org" target="_BLANK">en.greatfire.org/https/telegram.org</a> (2014年10月15日 02:08)
  ---
 China GFW research: blocks happen at national, not provincial level; Tor works on CERNET; GFW not bullet proof <a href="http://cs.unm.edu/~royaen/gfw/techreport.pdf" target="_BLANK">cs.unm.edu/~royaen/gfw/techreport.pdf</a> (2014年10月15日 00:30)
- ---
-RT @austinramzy: Democracy not excuse for turmoil @XHNews summary of commentary in Wednesday's People's Daily <a href="http://www.icrosschina.com/news/2014/1014/4439.shtml" target="_BLANK">www.icrosschina.com/news/2014/1014/4439.shtml</a> (2014年10月14日 23:47)
- ---
-RT @torproject: A closer look at the great firewall of China, <a href="https://blog.torproject.org/blog/closer-look-great-firewall-china" target="_BLANK">blog.torproject.org/blog/closer-look-great-firewall-china</a>  #china #tor #firewall #greatfirewall #rivercrabs #ce… (2014年10月14日 23:10)
  ---
