@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Possible reports of Facebook MITMed in China over IPV6. Previous confirmed MITM attacks are Microsoft account, Yahoo, Google, Github. (2014年10月17日 11:49)
+ ---
 RT @george_chen: I'm EXTREMELY SAD to see some of my fellow Chinese on Weibo now urge Beijing to send tanks into Hong Kong. Who's making ou… (2014年10月17日 03:18)
  ---
 @jimmy_wales enjoy your time in Shanghai. We are still hoping you will take a bold step on China. <a href="https://en.greatfire.org/blog/2013/jun/wikimedia-foundation-says-it-doesnt-hold-chinese-readers-any-less-regard-we-disagree" target="_BLANK">en.greatfire.org/blog/2013/jun/wikimedia-foundation-says-it-doesnt-hold-chinese-readers-any-less-regard-we-disagree</a> (2014年10月16日 19:34)
@@ -100,6 +102,4 @@ RT @JoFloto: Extra censorship in mainland China today. @bbcnews website blocked 
 RT @KentCh: This could be it. I hope I'm wrong. #BBC blocked in #China today. #censorship #TheGreatFirewall #UmbrellaMovement <a href="http://t.co/Q" target="_BLANK">t.co/Q</a>… (2014年10月15日 17:16)
  ---
 BREAKING entire @BBC blocked in China <a href="https://en.greatfire.org/www.bbc.com" target="_BLANK">en.greatfire.org/www.bbc.com</a>. @bbcchinese already blocked for long time h/t @KentCh @feliciasonmez (2014年10月15日 17:12)
- ---
-RT @RTKcn: 21+ RT @beidaijin: 网爆 「公务员、公职人员的微博洗地成风，不是秘密，是任务」 #标记 <a href="https://twitter.com/beidaijin/status/522248440177123328/photo/1" target="_BLANK">twitter.com/beidaijin/status/522248440177123328/photo/1</a> (2014年10月15日 13:15)
  ---
