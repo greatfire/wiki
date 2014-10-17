@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Student pepper-sprayed and beaten brands police a 'gang of thugs' <a href="http://www.scmp.com/news/hong-kong/article/1617963/beaten-occupy-protester-calls-police-gang-thugs" target="_BLANK">www.scmp.com/news/hong-kong/article/1617963/beaten-occupy-protester-calls-police-gang-thugs</a> (2014年10月17日 12:31)
+ ---
 Possible reports of Facebook MITMed in China over IPV6. Previous confirmed MITM attacks are Microsoft account, Yahoo, Google, Github. (2014年10月17日 11:49)
  ---
 RT @george_chen: I'm EXTREMELY SAD to see some of my fellow Chinese on Weibo now urge Beijing to send tanks into Hong Kong. Who's making ou… (2014年10月17日 03:18)
@@ -100,6 +102,4 @@ BBC will complain to authorities about its site being blocked. Delighted they ma
 RT @JoFloto: Extra censorship in mainland China today. @bbcnews website blocked + usual practice of blacking out @BBCWorld during Hong Kong… (2014年10月15日 18:06)
  ---
 RT @KentCh: This could be it. I hope I'm wrong. #BBC blocked in #China today. #censorship #TheGreatFirewall #UmbrellaMovement <a href="http://t.co/Q" target="_BLANK">t.co/Q</a>… (2014年10月15日 17:16)
- ---
-BREAKING entire @BBC blocked in China <a href="https://en.greatfire.org/www.bbc.com" target="_BLANK">en.greatfire.org/www.bbc.com</a>. @bbcchinese already blocked for long time h/t @KentCh @feliciasonmez (2014年10月15日 17:12)
  ---
