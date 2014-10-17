@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: 谁是周小平？他的文章充满了几十年前阶级斗争式语气的表达，加上俯拾皆是的逻辑错漏。他所著的《请不要辜负这个时代》，在豆瓣上被超过95%的读者评为最低级别的一颗星，并被多达数百的豆瓣成员标签为“现代傻逼学研究材料”。<a href="http://t.co/nULc8i" target="_BLANK">t.co/nULc8i</a>… (2014年10月17日 12:52)
+ ---
 RT @RTKcn: 19+ RT @beidaijin: ＃禁令 「习近平问起的网络作家是何许人？」全网查删《新华社客户端：习近平问起的网络作家是何许人？》一文及相关内容。 (2014年10月17日 12:48)
  ---
 Student pepper-sprayed and beaten brands police a 'gang of thugs' <a href="http://www.scmp.com/news/hong-kong/article/1617963/beaten-occupy-protester-calls-police-gang-thugs" target="_BLANK">www.scmp.com/news/hong-kong/article/1617963/beaten-occupy-protester-calls-police-gang-thugs</a> (2014年10月17日 12:31)
@@ -100,6 +102,4 @@ RT @bbcchinese: BBC英文网在中国大陆受到封锁: 尽管BBC中文网在�
 RT @PeterHorrocks1: BBC News site is being blocked in China today. I have issued strong protest at apparent deliberate censorship. http://t… (2014年10月15日 21:53)
  ---
 BBC will complain to authorities about its site being blocked. Delighted they made that public - eager to see result <a href="http://www.bbc.com/news/world-asia-china-29628356" target="_BLANK">www.bbc.com/news/world-asia-china-29628356</a> (2014年10月15日 21:49)
- ---
-RT @JoFloto: Extra censorship in mainland China today. @bbcnews website blocked + usual practice of blacking out @BBCWorld during Hong Kong… (2014年10月15日 18:06)
  ---
