@@ -9,9 +9,9 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="https://edgecastcdn.net/00107ED/freeweibo/" target="_BLANK">长期有效 1</a>，            
-                <a href="https://objects.dreamhost.com/freeweibo/index.html" target="_BLANK">长期有效 2</a>，            
-                <a href="https://secure.footprint.net/pingfan/fw" target="_BLANK">长期有效 3</a>，            
+                <a href="https://secure.footprint.net/pingfan/fw" target="_BLANK">长期有效 1</a>，            
+                <a href="https://edgecastcdn.net/00107ED/freeweibo/" target="_BLANK">长期有效 2</a>，            
+                <a href="https://objects.dreamhost.com/freeweibo/index.html" target="_BLANK">长期有效 3</a>，            
                 <a href="https://fw3.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
@@ -63,6 +63,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @RTKcn: 19+ RT @beidaijin: ＃禁令 「习近平问起的网络作家是何许人？」全网查删《新华社客户端：习近平问起的网络作家是何许人？》一文及相关内容。 (2014年10月17日 12:48)
+ ---
 Student pepper-sprayed and beaten brands police a 'gang of thugs' <a href="http://www.scmp.com/news/hong-kong/article/1617963/beaten-occupy-protester-calls-police-gang-thugs" target="_BLANK">www.scmp.com/news/hong-kong/article/1617963/beaten-occupy-protester-calls-police-gang-thugs</a> (2014年10月17日 12:31)
  ---
 Possible reports of Facebook MITMed in China over IPV6. Previous confirmed MITM attacks are Microsoft account, Yahoo, Google, Github. (2014年10月17日 11:49)
@@ -100,6 +102,4 @@ RT @PeterHorrocks1: BBC News site is being blocked in China today. I have issued
 BBC will complain to authorities about its site being blocked. Delighted they made that public - eager to see result <a href="http://www.bbc.com/news/world-asia-china-29628356" target="_BLANK">www.bbc.com/news/world-asia-china-29628356</a> (2014年10月15日 21:49)
  ---
 RT @JoFloto: Extra censorship in mainland China today. @bbcnews website blocked + usual practice of blacking out @BBCWorld during Hong Kong… (2014年10月15日 18:06)
- ---
-RT @KentCh: This could be it. I hope I'm wrong. #BBC blocked in #China today. #censorship #TheGreatFirewall #UmbrellaMovement <a href="http://t.co/Q" target="_BLANK">t.co/Q</a>… (2014年10月15日 17:16)
  ---
