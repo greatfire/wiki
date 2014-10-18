@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+The only report on IBTimes Chinese home page quoted police, police, fire dept, chief executive. Totally opposite of IBTimes English. (2014年10月19日 07:05)
+ ---
 IBTimes Chinese has little coverage on #OccupyCentral while IBTimes English put it on headlines. (2014年10月19日 07:00)
  ---
 焦点：香港示威者重新占领旺角部分区 <a href="http://cn.reuters.com/article/CNAnalysesNews/idCNKCS0I703V20141018" target="_BLANK">cn.reuters.com/article/CNAnalysesNews/idCNKCS0I703V20141018</a> GFW还没屏蔽，赶快转墙内。 (2014年10月19日 06:48)
@@ -103,6 +105,4 @@ BBC在中国遭全面封锁 <a href="https://edgecastcdn.net/00107ED/paopao/?u=/
 RT @paopaonet: #泡泡报道  “人家再也看不到BBC了啦哭哭～” BBC 网站于昨天开始（10月15日）在中国遭到全面封锁。这次封锁似乎与BBC近期对香港抗争运动、以及香港警察镇压示威者的报道有关。<a href="https://edgecastcdn.net/00107ED/paopao/" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http://t.… (2014年10月16日 04:37)
  ---
 China also blocks many non-English language news sources: @DeutscheWelle @el_pais and @lemondefr have all been blocked long term. (2014年10月16日 03:42)
- ---
-RT @tomgrundy: Clearest footage I've seen yet of the Ken Tsang police beating: <a href="http://online.wsj.com/articles/footage-of-beating-prompts-hong-kong-police-to-launch-investigation-1413343131" target="_BLANK">online.wsj.com/articles/footage-of-beating-prompts-hong-kong-police-to-launch-investigation-1413343131</a> #occupyhk (2014年10月16日 02:34)
  ---
