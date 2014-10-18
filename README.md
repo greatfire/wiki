@@ -92,9 +92,9 @@ RT @george_chen: I'm EXTREMELY SAD to see some of my fellow Chinese on Weibo now
  ---
 Blocked media in China: NYT, WSJ, BBC, VOA, SCMP, Apple Daily,  DW, CBC, lemonde, elpais, ndr, lesoir, newstapa,trouw, asahichinese,yahoo (2014年10月16日 13:44)
  ---
-Besides BBC English, VOA English is also blocked since July this year. <a href="https://en.greatfire.org/www.voanews.com" target="_BLANK">en.greatfire.org/www.voanews.com</a> <a href="https://en.greatfire.org/www.bbc.co.uk" target="_BLANK">en.greatfire.org/www.bbc.co.uk</a> (2014年10月16日 13:28)
+Besides BBC English, VOA English is also blocked since July this year. <a href="https://t.co/lAm2n4t68h" target="_BLANK">t.co/lAm2n4t68h</a> <a href="https://en.greatfire.org/www.bbc.co.uk" target="_BLANK">en.greatfire.org/www.bbc.co.uk</a> (2014年10月16日 13:28)
  ---
-BBC在中国遭全面封锁 <a href="https://t.co/OP6bWeFx5h" target="_BLANK">t.co/OP6bWeFx5h</a> (2014年10月16日 13:25)
+BBC在中国遭全面封锁 <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/216" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月16日 13:25)
  ---
 RT @paopaonet: #泡泡报道  “人家再也看不到BBC了啦哭哭～” BBC 网站于昨天开始（10月15日）在中国遭到全面封锁。这次封锁似乎与BBC近期对香港抗争运动、以及香港警察镇压示威者的报道有关。<a href="https://edgecastcdn.net/00107ED/paopao/" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http://t.… (2014年10月16日 04:37)
  ---
