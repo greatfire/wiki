@@ -66,6 +66,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @hawkyeee: 几年前有朋友劝我小心发言，几年后，他的作品先于我被全面封杀。一年前，德国时代杂志的张淼劝我谨慎发言，一年后，她光荣地进了看守所，而我还在外面晃悠。在这个国家，小心谨慎并没有太大用处，自我审查也不能保证平安，如果终究免不了坐牢，那就在被抓前说个痛快淋漓。 (2014年10月19日 07:24)
+ ---
+BBC still blocked in China <a href="https://en.greatfire.org/www.bbc.co.uk" target="_BLANK">en.greatfire.org/www.bbc.co.uk</a> (2014年10月19日 07:20)
+ ---
 The only report on IBTimes Chinese home page quoted police, police, fire dept, chief executive. Totally opposite of IBTimes English. (2014年10月19日 07:05)
  ---
 IBTimes Chinese has little coverage on #OccupyCentral while IBTimes English put it on headlines. (2014年10月19日 07:00)
@@ -84,7 +88,7 @@ RT @paopaonet: 谁是周小平？他的文章充满了几十年前阶级斗争�
  ---
 RT @RTKcn: 19+ RT @beidaijin: ＃禁令 「习近平问起的网络作家是何许人？」全网查删《新华社客户端：习近平问起的网络作家是何许人？》一文及相关内容。 (2014年10月17日 12:48)
  ---
-Student pepper-sprayed and beaten brands police a 'gang of thugs' <a href="http://t.co/zdx4PX6uTU" target="_BLANK">t.co/zdx4PX6uTU</a> (2014年10月17日 12:31)
+Student pepper-sprayed and beaten brands police a 'gang of thugs' <a href="http://www.scmp.com/news/hong-kong/article/1617963/beaten-occupy-protester-calls-police-gang-thugs" target="_BLANK">www.scmp.com/news/hong-kong/article/1617963/beaten-occupy-protester-calls-police-gang-thugs</a> (2014年10月17日 12:31)
  ---
 Possible reports of Facebook MITMed in China over IPV6. Previous confirmed MITM attacks are Microsoft account, Yahoo, Google, Github. (2014年10月17日 11:49)
  ---
@@ -101,8 +105,4 @@ Blocked media in China: NYT, WSJ, BBC, VOA, SCMP, Apple Daily,  DW, CBC, lemonde
 Besides BBC English, VOA English is also blocked since July this year. <a href="https://en.greatfire.org/www.voanews.com" target="_BLANK">en.greatfire.org/www.voanews.com</a> <a href="https://en.greatfire.org/www.bbc.co.uk" target="_BLANK">en.greatfire.org/www.bbc.co.uk</a> (2014年10月16日 13:28)
  ---
 BBC在中国遭全面封锁 <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/216" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月16日 13:25)
- ---
-RT @paopaonet: #泡泡报道  “人家再也看不到BBC了啦哭哭～” BBC 网站于昨天开始（10月15日）在中国遭到全面封锁。这次封锁似乎与BBC近期对香港抗争运动、以及香港警察镇压示威者的报道有关。<a href="https://edgecastcdn.net/00107ED/paopao/" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http://t.… (2014年10月16日 04:37)
- ---
-China also blocks many non-English language news sources: @DeutscheWelle @el_pais and @lemondefr have all been blocked long term. (2014年10月16日 03:42)
  ---
