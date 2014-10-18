@@ -92,7 +92,7 @@ RT @george_chen: I'm EXTREMELY SAD to see some of my fellow Chinese on Weibo now
  ---
 Blocked media in China: NYT, WSJ, BBC, VOA, SCMP, Apple Daily,  DW, CBC, lemonde, elpais, ndr, lesoir, newstapa,trouw, asahichinese,yahoo (2014年10月16日 13:44)
  ---
-Besides BBC English, VOA English is also blocked since July this year. <a href="https://t.co/lAm2n4t68h" target="_BLANK">t.co/lAm2n4t68h</a> <a href="https://en.greatfire.org/www.bbc.co.uk" target="_BLANK">en.greatfire.org/www.bbc.co.uk</a> (2014年10月16日 13:28)
+Besides BBC English, VOA English is also blocked since July this year. <a href="https://en.greatfire.org/www.voanews.com" target="_BLANK">en.greatfire.org/www.voanews.com</a> <a href="https://en.greatfire.org/www.bbc.co.uk" target="_BLANK">en.greatfire.org/www.bbc.co.uk</a> (2014年10月16日 13:28)
  ---
 BBC在中国遭全面封锁 <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/216" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月16日 13:25)
  ---
