@@ -86,7 +86,7 @@ RT @george_chen: I'm EXTREMELY SAD to see some of my fellow Chinese on Weibo now
  ---
 @jimmy_wales enjoy your time in Shanghai. We are still hoping you will take a bold step on China. <a href="https://en.greatfire.org/blog/2013/jun/wikimedia-foundation-says-it-doesnt-hold-chinese-readers-any-less-regard-we-disagree" target="_BLANK">en.greatfire.org/blog/2013/jun/wikimedia-foundation-says-it-doesnt-hold-chinese-readers-any-less-regard-we-disagree</a> (2014年10月16日 19:34)
  ---
-@niubi @shaunrein I think paywall helps keep <a href="http://www.ft.com/www.ft.com//" target="_BLANK">www.ft.com/www.ft.com//</a> unblocked but do note plenty <a href="http://t.co/Y1EIKb8Syw" target="_BLANK">t.co/Y1EIKb8Syw</a> stories blocked (2014年10月16日 18:17)
+@niubi @shaunrein I think paywall helps keep <a href="http://www.ft.com/www.ft.com//" target="_BLANK">www.ft.com/www.ft.com//</a> unblocked but do note plenty <a href="http://ftchinese.com" target="_BLANK">ftchinese.com</a> stories blocked (2014年10月16日 18:17)
  ---
 中国封锁的媒体：纽约时报，华尔街日报，彭博社，美国之音，德国之音， 南华早报，苹果日报，朝日新闻， 雅虎。还有么？ 可以在这里测试 <a href="https://zh.greatfire.org/" target="_BLANK">zh.greatfire.org/</a> (2014年10月16日 14:10)
  ---
