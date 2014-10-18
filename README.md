@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+英国没给过香港民主？最近解密的英国外交部(Foreign Office)文件显示，早在20世纪50年代，英国就提出了香港民主化问题，但中国领导人强烈抵制该主张，甘愿采取包括全面入侵在内的极端手段阻止英国这一举动。 <a href="http://www.ftchinese.com/story/001058585" target="_BLANK">www.ftchinese.com/story/001058585</a> (2014年10月19日 07:26)
+ ---
 RT @hawkyeee: 几年前有朋友劝我小心发言，几年后，他的作品先于我被全面封杀。一年前，德国时代杂志的张淼劝我谨慎发言，一年后，她光荣地进了看守所，而我还在外面晃悠。在这个国家，小心谨慎并没有太大用处，自我审查也不能保证平安，如果终究免不了坐牢，那就在被抓前说个痛快淋漓。 (2014年10月19日 07:24)
  ---
 BBC still blocked in China <a href="https://en.greatfire.org/www.bbc.co.uk" target="_BLANK">en.greatfire.org/www.bbc.co.uk</a> (2014年10月19日 07:20)
@@ -103,6 +105,4 @@ RT @george_chen: I'm EXTREMELY SAD to see some of my fellow Chinese on Weibo now
 Blocked media in China: NYT, WSJ, BBC, VOA, SCMP, Apple Daily,  DW, CBC, lemonde, elpais, ndr, lesoir, newstapa,trouw, asahichinese,yahoo (2014年10月16日 13:44)
  ---
 Besides BBC English, VOA English is also blocked since July this year. <a href="https://en.greatfire.org/www.voanews.com" target="_BLANK">en.greatfire.org/www.voanews.com</a> <a href="https://en.greatfire.org/www.bbc.co.uk" target="_BLANK">en.greatfire.org/www.bbc.co.uk</a> (2014年10月16日 13:28)
- ---
-BBC在中国遭全面封锁 <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/216" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月16日 13:25)
  ---
