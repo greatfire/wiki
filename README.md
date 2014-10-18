@@ -78,7 +78,7 @@ RT @paopaonet: 谁是周小平？他的文章充满了几十年前阶级斗争�
  ---
 RT @RTKcn: 19+ RT @beidaijin: ＃禁令 「习近平问起的网络作家是何许人？」全网查删《新华社客户端：习近平问起的网络作家是何许人？》一文及相关内容。 (2014年10月17日 12:48)
  ---
-Student pepper-sprayed and beaten brands police a 'gang of thugs' <a href="http://t.co/zdx4PX6uTU" target="_BLANK">t.co/zdx4PX6uTU</a> (2014年10月17日 12:31)
+Student pepper-sprayed and beaten brands police a 'gang of thugs' <a href="http://www.scmp.com/news/hong-kong/article/1617963/beaten-occupy-protester-calls-police-gang-thugs" target="_BLANK">www.scmp.com/news/hong-kong/article/1617963/beaten-occupy-protester-calls-police-gang-thugs</a> (2014年10月17日 12:31)
  ---
 Possible reports of Facebook MITMed in China over IPV6. Previous confirmed MITM attacks are Microsoft account, Yahoo, Google, Github. (2014年10月17日 11:49)
  ---
