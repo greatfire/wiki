@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+IBTimes Chinese has little coverage on #OccupyCentral while IBTimes English put it on headlines. (2014年10月19日 07:00)
+ ---
 焦点：香港示威者重新占领旺角部分区 <a href="http://cn.reuters.com/article/CNAnalysesNews/idCNKCS0I703V20141018" target="_BLANK">cn.reuters.com/article/CNAnalysesNews/idCNKCS0I703V20141018</a> GFW还没屏蔽，赶快转墙内。 (2014年10月19日 06:48)
  ---
 今天中文维基百科头条是六四事件，目前还未被屏蔽。 大家把维基百科主页转到墙内吧 <a href="https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" target="_BLANK">zh.wikipedia.org/wiki/Wikipedia:首页</a> (2014年10月19日 01:20)
@@ -103,6 +105,4 @@ RT @paopaonet: #泡泡报道  “人家再也看不到BBC了啦哭哭～” BBC 
 China also blocks many non-English language news sources: @DeutscheWelle @el_pais and @lemondefr have all been blocked long term. (2014年10月16日 03:42)
  ---
 RT @tomgrundy: Clearest footage I've seen yet of the Ken Tsang police beating: <a href="http://online.wsj.com/articles/footage-of-beating-prompts-hong-kong-police-to-launch-investigation-1413343131" target="_BLANK">online.wsj.com/articles/footage-of-beating-prompts-hong-kong-police-to-launch-investigation-1413343131</a> #occupyhk (2014年10月16日 02:34)
- ---
-RT @PekingMike: A bit ironic now. <a href="https://twitter.com/PekingMike/status/522315672580132864/photo/1" target="_BLANK">twitter.com/PekingMike/status/522315672580132864/photo/1</a> (2014年10月16日 02:25)
  ---
