@@ -100,7 +100,7 @@ RT @paopaonet: #泡泡报道  “人家再也看不到BBC了啦哭哭～” BBC 
  ---
 China also blocks many non-English language news sources: @DeutscheWelle @el_pais and @lemondefr have all been blocked long term. (2014年10月16日 03:42)
  ---
-RT @tomgrundy: Clearest footage I've seen yet of the Ken Tsang police beating: <a href="http://t.co/ySbGcc9mZk" target="_BLANK">t.co/ySbGcc9mZk</a> #occupyhk (2014年10月16日 02:34)
+RT @tomgrundy: Clearest footage I've seen yet of the Ken Tsang police beating: <a href="http://online.wsj.com/articles/footage-of-beating-prompts-hong-kong-police-to-launch-investigation-1413343131" target="_BLANK">online.wsj.com/articles/footage-of-beating-prompts-hong-kong-police-to-launch-investigation-1413343131</a> #occupyhk (2014年10月16日 02:34)
  ---
 RT @PekingMike: A bit ironic now. <a href="https://twitter.com/PekingMike/status/522315672580132864/photo/1" target="_BLANK">twitter.com/PekingMike/status/522315672580132864/photo/1</a> (2014年10月16日 02:25)
  ---
