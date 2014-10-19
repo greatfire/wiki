@@ -104,5 +104,5 @@ Possible reports of Facebook MITMed in China over IPV6. Previous confirmed MITM 
  ---
 RT @george_chen: I'm EXTREMELY SAD to see some of my fellow Chinese on Weibo now urge Beijing to send tanks into Hong Kong. Who's making ou… (2014年10月17日 03:18)
  ---
-@jimmy_wales enjoy your time in Shanghai. We are still hoping you will take a bold step on China. <a href="https://t.co/dDUk6mOgHc" target="_BLANK">t.co/dDUk6mOgHc</a> (2014年10月16日 19:34)
+@jimmy_wales enjoy your time in Shanghai. We are still hoping you will take a bold step on China. <a href="https://en.greatfire.org/blog/2013/jun/wikimedia-foundation-says-it-doesnt-hold-chinese-readers-any-less-regard-we-disagree" target="_BLANK">en.greatfire.org/blog/2013/jun/wikimedia-foundation-says-it-doesnt-hold-chinese-readers-any-less-regard-we-disagree</a> (2014年10月16日 19:34)
  ---
