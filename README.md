@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+記者表明身份　遭警兜面噴椒  <a href="http://hk.apple.appledaily.com/news/art/20141019/18904940" target="_BLANK">hk.apple.appledaily.com/news/art/20141019/18904940</a> (2014年10月19日 15:29)
+ ---
 Evidence of iCloud wiretapped in China. Wirecapture <a href="https://www.cloudshark.org/captures/03a6b0593436" target="_BLANK">www.cloudshark.org/captures/03a6b0593436</a> Certificate: F468B5F3FED807974476A22B32EA3137D924F7BA (2014年10月19日 08:15)
  ---
 RT @siyanmao: 深圳电信证实<a href="https://www.icloud.com/" target="_BLANK">www.icloud.com/</a> 被中间人攻击 (2014年10月19日 07:50)
@@ -103,6 +105,4 @@ Possible reports of Facebook MITMed in China over IPV6. Previous confirmed MITM 
 RT @george_chen: I'm EXTREMELY SAD to see some of my fellow Chinese on Weibo now urge Beijing to send tanks into Hong Kong. Who's making ou… (2014年10月17日 03:18)
  ---
 @jimmy_wales enjoy your time in Shanghai. We are still hoping you will take a bold step on China. <a href="https://en.greatfire.org/blog/2013/jun/wikimedia-foundation-says-it-doesnt-hold-chinese-readers-any-less-regard-we-disagree" target="_BLANK">en.greatfire.org/blog/2013/jun/wikimedia-foundation-says-it-doesnt-hold-chinese-readers-any-less-regard-we-disagree</a> (2014年10月16日 19:34)
- ---
-@niubi @shaunrein I think paywall helps keep <a href="http://www.ft.com/www.ft.com//" target="_BLANK">www.ft.com/www.ft.com//</a> unblocked but do note plenty <a href="http://ftchinese.com" target="_BLANK">ftchinese.com</a> stories blocked (2014年10月16日 18:17)
  ---
