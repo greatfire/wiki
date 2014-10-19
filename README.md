@@ -70,7 +70,7 @@
  ---
 Evidence of iCloud wiretapped in China. Wirecapture <a href="https://www.cloudshark.org/captures/03a6b0593436" target="_BLANK">www.cloudshark.org/captures/03a6b0593436</a> Certificate: F468B5F3FED807974476A22B32EA3137D924F7BA (2014年10月19日 08:15)
  ---
-RT @siyanmao: 深圳电信证实<a href="http://t.co/vHPnISdHZx" target="_BLANK">t.co/vHPnISdHZx</a> 被中间人攻击 (2014年10月19日 07:50)
+RT @siyanmao: 深圳电信证实<a href="https://www.icloud.com/" target="_BLANK">www.icloud.com/</a> 被中间人攻击 (2014年10月19日 07:50)
  ---
 [Breaking News] Apple iCloud wiretapped in China. Multiple reports indicate iCloud is Man-in-the-middled in China. (2014年10月19日 07:37)
  ---
