@@ -68,7 +68,7 @@
 ## 新闻
 記者表明身份　遭警兜面噴椒  <a href="http://hk.apple.appledaily.com/news/art/20141019/18904940" target="_BLANK">hk.apple.appledaily.com/news/art/20141019/18904940</a> (2014年10月19日 15:29)
  ---
-Evidence of iCloud wiretapped in China. Wirecapture <a href="https://t.co/eSr93B04OO" target="_BLANK">t.co/eSr93B04OO</a> Certificate: F468B5F3FED807974476A22B32EA3137D924F7BA (2014年10月19日 08:15)
+Evidence of iCloud wiretapped in China. Wirecapture <a href="https://www.cloudshark.org/captures/03a6b0593436" target="_BLANK">www.cloudshark.org/captures/03a6b0593436</a> Certificate: F468B5F3FED807974476A22B32EA3137D924F7BA (2014年10月19日 08:15)
  ---
 RT @siyanmao: 深圳电信证实<a href="https://www.icloud.com/" target="_BLANK">www.icloud.com/</a> 被中间人攻击 (2014年10月19日 07:50)
  ---
