@@ -84,7 +84,7 @@ The only report on IBTimes Chinese home page quoted police, police, fire dept, c
  ---
 IBTimes Chinese has little coverage on #OccupyCentral while IBTimes English put it on headlines. (2014年10月19日 07:00)
  ---
-焦点：香港示威者重新占领旺角部分区 <a href="http://cn.reuters.com/article/CNAnalysesNews/idCNKCS0I703V20141018" target="_BLANK">cn.reuters.com/article/CNAnalysesNews/idCNKCS0I703V20141018</a> GFW还没屏蔽，赶快转墙内。 (2014年10月19日 06:48)
+焦点：香港示威者重新占领旺角部分区 <a href="http://t.co/8EOi4LH93x" target="_BLANK">t.co/8EOi4LH93x</a> GFW还没屏蔽，赶快转墙内。 (2014年10月19日 06:48)
  ---
 今天中文维基百科头条是六四事件，目前还未被屏蔽。 大家把维基百科主页转到墙内吧 <a href="https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" target="_BLANK">zh.wikipedia.org/wiki/Wikipedia:首页</a> (2014年10月19日 01:20)
  ---
