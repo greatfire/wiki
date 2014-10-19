@@ -66,7 +66,7 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-Evidence of iCloud wiretapped in China. Wirecapture <a href="https://t.co/eSr93B04OO" target="_BLANK">t.co/eSr93B04OO</a> Certificate: F468B5F3FED807974476A22B32EA3137D924F7BA (2014年10月19日 08:15)
+Evidence of iCloud wiretapped in China. Wirecapture <a href="https://www.cloudshark.org/captures/03a6b0593436" target="_BLANK">www.cloudshark.org/captures/03a6b0593436</a> Certificate: F468B5F3FED807974476A22B32EA3137D924F7BA (2014年10月19日 08:15)
  ---
 RT @siyanmao: 深圳电信证实<a href="https://www.icloud.com/" target="_BLANK">www.icloud.com/</a> 被中间人攻击 (2014年10月19日 07:50)
  ---
