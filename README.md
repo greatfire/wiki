@@ -66,6 +66,11 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @netresec: @GreatFireChina See our iCloud MITM analysis here:
+<a href="http://www.netresec.com/?page=Blog&month=2014-10&post=Chinese-MITM-Attack-on-iCloud" target="_BLANK">www.netresec.com/</a>
+
+The attacks seem to be carried out on Chinese back… (2014年10月20日 23:40)
+ ---
 RT @zuola: New Post FYI: iCloud face man-in-the-middle attack in China <a href="http://blog.zuola.com/2014/10/icloud-face-man-in-the-middle-attack-in-china.htm?utm_source=twitterfeed&utm_medium=twitter" target="_BLANK">blog.zuola.com/2014/10/icloud-face-man-in-the-middle-attack-in-china.htm</a> #zuola #blog (2014年10月20日 18:10)
  ---
 Buying on $AAPL good fortune in China? Be wary. Clearly Apple rotten in eyes of Chinese auth. and will lose customers b/c of MITM attack. (2014年10月20日 18:09)
@@ -103,6 +108,4 @@ RT @hawkyeee: 几年前有朋友劝我小心发言，几年后，他的作品先
 BBC still blocked in China <a href="https://en.greatfire.org/www.bbc.co.uk" target="_BLANK">en.greatfire.org/www.bbc.co.uk</a> (2014年10月19日 07:20)
  ---
 The only report on IBTimes Chinese home page quoted police, police, fire dept, chief executive. Totally opposite of IBTimes English. (2014年10月19日 07:05)
- ---
-IBTimes Chinese has little coverage on #OccupyCentral while IBTimes English put it on headlines. (2014年10月19日 07:00)
  ---
