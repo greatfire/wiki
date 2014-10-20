@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China accused of wiretapping Apple iCloud data: report <a href="https://www.techinasia.com/china-accused-wiretapping-apple-icloud-data-iphones-roll-customers-report/" target="_BLANK">www.techinasia.com/china-accused-wiretapping-apple-icloud-data-iphones-roll-customers-report/</a> via @pabischoff (2014年10月20日 16:55)
+ ---
 To HongKongers: If you failed the protest this time, GFW is waiting for you. iCloud wiretapped in China <a href="https://en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone" target="_BLANK">en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone</a> (2014年10月20日 15:11)
  ---
 China collecting Apple iCloud data; attack coincides with launch of new iPhone <a href="https://en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone" target="_BLANK">en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone</a> &gt; our newest blog post (2014年10月20日 14:46)
@@ -103,6 +105,4 @@ IBTimes Chinese has little coverage on #OccupyCentral while IBTimes English put 
 今天中文维基百科头条是六四事件，目前还未被屏蔽。 大家把维基百科主页转到墙内吧 <a href="https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" target="_BLANK">zh.wikipedia.org/wiki/Wikipedia:首页</a> (2014年10月19日 01:20)
  ---
 RT @paopaonet: LINE聊天软件审查机制升级：如果LINE用户所在地选择为中国，那么审查机制就会从一个叫Naver的网站下载一份敏感词清单。审查程序采取组合词形式，让普通用户更难察觉到审查。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/219" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> <a href="http://t.co/l" target="_BLANK">t.co/l</a>… (2014年10月18日 05:19)
- ---
-RT @paopaonet: 有网友问泡泡君，周带鱼到底是谁？其实呐，就是今天火了一把的周小平同学。在博文《谣害天下，无人忏悔》中，周小平曾公开批评薛蛮子，说薛为了推销净水器，诋毁中国水质有毒，造成舟山带鱼养鱼场滞销，无数养殖户面临破产。而网友在查证后发现，根本不存在带鱼养殖，… (2014年10月17日 14:47)
  ---
