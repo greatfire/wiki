@@ -66,6 +66,11 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @netresec: #GFW #MITM attack on #iCloud SSL traffic performed on China Telecom (CHINANET) and China Unicom networks. 
+<a href="http://t.co/5W2sGF" target="_BLANK">t.co/5W2sGF</a>… (2014年10月21日 02:37)
+ ---
+.@iTunes How many iCloud/iTunes account passwords are intercepted by the Chinese gov? <a href="https://en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone" target="_BLANK">en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone</a> (2014年10月21日 02:36)
+ ---
 苹果iCloud在中国遭中间人攻击 <a href="https://secure.footprint.net/pingfan/paopao/article/224" target="_BLANK">secure.footprint.net/pingfan/paopao/article/224</a> (2014年10月21日 02:29)
  ---
 Apple’s commitment to your privacy.// Apple decline to comment on iCloud attacked in China. <a href="http://www.theguardian.com/technology/2014/oct/20/chinese-state-accused-attacking-apple-icloud" target="_BLANK">www.theguardian.com/technology/2014/oct/20/chinese-state-accused-attacking-apple-icloud</a> (2014年10月21日 02:27)
@@ -104,8 +109,4 @@ To HongKongers: If you failed the protest this time, GFW is waiting for you. iCl
 China collecting Apple iCloud data; attack coincides with launch of new iPhone <a href="https://en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone" target="_BLANK">en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone</a> &gt; our newest blog post (2014年10月20日 14:46)
  ---
 Do not click through to your Apple iCloud account if you see this warning notice!! (2014年10月20日 13:59)
- ---
-China Man-in-the-middle attack iCloud country-wide. iCloud data and password intercepted. <a href="https://twitter.com/GreatFireChina/status/524063476994420737/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/524063476994420737/photo/1</a> (2014年10月20日 13:04)
- ---
-RT @chenshaoju: 国内iCloud服务器遭遇中间人攻击，中国苹果用户隐私不保 <a href="http://www.freebuf.com/news/47744.html?utm_content=buffer64578&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_BLANK">www.freebuf.com/news/47744.html</a> //无锡电信确认，截图存档。 <a href="https://twitter.com/chenshaoju/status/523820720456216576/photo/1" target="_BLANK">twitter.com/chenshaoju/status/523820720456216576/photo/1</a> (2014年10月20日 13:00)
  ---
