@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+instagram的高管跑到庙里问大师：我们的网站被干了，如何才能让我们的网站可以在中国被访问呢？大师说：寺庙离地面有3000米的海拔，而且庙的四周都是石头垒起来的高墙，你是如何跑到我们庙里来的？！高管气喘吁吁的说：我翻墙进来的啊！大师：那你TMD还问怎么访问！ (2014年10月20日 12:53)
+ ---
 記者表明身份　遭警兜面噴椒  <a href="http://hk.apple.appledaily.com/news/art/20141019/18904940" target="_BLANK">hk.apple.appledaily.com/news/art/20141019/18904940</a> (2014年10月19日 15:29)
  ---
 Evidence of iCloud wiretapped in China. Wirecapture <a href="https://www.cloudshark.org/captures/03a6b0593436" target="_BLANK">www.cloudshark.org/captures/03a6b0593436</a> Certificate: F468B5F3FED807974476A22B32EA3137D924F7BA (2014年10月19日 08:15)
@@ -103,6 +105,4 @@ Student pepper-sprayed and beaten brands police a 'gang of thugs' <a href="http:
 Possible reports of Facebook MITMed in China over IPV6. Previous confirmed MITM attacks are Microsoft account, Yahoo, Google, Github. (2014年10月17日 11:49)
  ---
 RT @george_chen: I'm EXTREMELY SAD to see some of my fellow Chinese on Weibo now urge Beijing to send tanks into Hong Kong. Who's making ou… (2014年10月17日 03:18)
- ---
-@jimmy_wales enjoy your time in Shanghai. We are still hoping you will take a bold step on China. <a href="https://en.greatfire.org/blog/2013/jun/wikimedia-foundation-says-it-doesnt-hold-chinese-readers-any-less-regard-we-disagree" target="_BLANK">en.greatfire.org/blog/2013/jun/wikimedia-foundation-says-it-doesnt-hold-chinese-readers-any-less-regard-we-disagree</a> (2014年10月16日 19:34)
  ---
