@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Famed US-born translator and Chinese citizen Sidney Shapiro, dies aged 98 <a href="http://uk.reuters.com/article/2014/10/20/uk-china-politics-shapiro-idUKKCN0I906320141020" target="_BLANK">uk.reuters.com/article/2014/10/20/uk-china-politics-shapiro-idUKKCN0I906320141020</a> #沙博理 (2014年10月21日 04:23)
+ ---
 RT @netresec: #GFW #MITM attack on #iCloud SSL traffic performed on China Telecom (CHINANET) and China Unicom networks. 
 <a href="http://t.co/5W2sGF" target="_BLANK">t.co/5W2sGF</a>… (2014年10月21日 02:37)
  ---
@@ -107,6 +109,4 @@ China accused of wiretapping Apple iCloud data: report <a href="https://www.tech
 To HongKongers: If you failed the protest this time, GFW is waiting for you. iCloud wiretapped in China <a href="https://en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone" target="_BLANK">en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone</a> (2014年10月20日 15:11)
  ---
 China collecting Apple iCloud data; attack coincides with launch of new iPhone <a href="https://en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone" target="_BLANK">en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone</a> &gt; our newest blog post (2014年10月20日 14:46)
- ---
-Do not click through to your Apple iCloud account if you see this warning notice!! (2014年10月20日 13:59)
  ---
