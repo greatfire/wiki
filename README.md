@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China Intercepts iCloud Logins in Apparent Attempt to Steal Passwords <a href="http://mashable.com/2014/10/20/china-attacks-apple-microsoft/" target="_BLANK">mashable.com/2014/10/20/china-attacks-apple-microsoft/</a> (2014年10月21日 00:18)
+ ---
 RT @netresec: @GreatFireChina See our iCloud MITM analysis here:
 <a href="http://www.netresec.com/?page=Blog&month=2014-10&post=Chinese-MITM-Attack-on-iCloud" target="_BLANK">www.netresec.com/</a>
 
@@ -106,6 +108,4 @@ RT @siyanmao: 深圳电信证实<a href="https://www.icloud.com/" target="_BLANK
 RT @hawkyeee: 几年前有朋友劝我小心发言，几年后，他的作品先于我被全面封杀。一年前，德国时代杂志的张淼劝我谨慎发言，一年后，她光荣地进了看守所，而我还在外面晃悠。在这个国家，小心谨慎并没有太大用处，自我审查也不能保证平安，如果终究免不了坐牢，那就在被抓前说个痛快淋漓。 (2014年10月19日 07:24)
  ---
 BBC still blocked in China <a href="https://en.greatfire.org/www.bbc.co.uk" target="_BLANK">en.greatfire.org/www.bbc.co.uk</a> (2014年10月19日 07:20)
- ---
-The only report on IBTimes Chinese home page quoted police, police, fire dept, chief executive. Totally opposite of IBTimes English. (2014年10月19日 07:05)
  ---
