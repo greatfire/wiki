@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China collecting Apple iCloud data; attack coincides with launch of new iPhone <a href="https://en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone" target="_BLANK">en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone</a> &gt; our newest blog post (2014年10月20日 14:46)
+ ---
 Do not click through to your Apple iCloud account if you see this warning notice!! (2014年10月20日 13:59)
  ---
 China Man-in-the-middle attack iCloud country-wide. iCloud data and password intercepted. <a href="https://twitter.com/GreatFireChina/status/524063476994420737/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/524063476994420737/photo/1</a> (2014年10月20日 13:04)
@@ -103,6 +105,4 @@ RT @paopaonet: LINE聊天软件审查机制升级：如果LINE用户所在地选
 RT @paopaonet: 有网友问泡泡君，周带鱼到底是谁？其实呐，就是今天火了一把的周小平同学。在博文《谣害天下，无人忏悔》中，周小平曾公开批评薛蛮子，说薛为了推销净水器，诋毁中国水质有毒，造成舟山带鱼养鱼场滞销，无数养殖户面临破产。而网友在查证后发现，根本不存在带鱼养殖，… (2014年10月17日 14:47)
  ---
 全平台翻墙指南更新 <a href="https://secure.footprint.net/pingfan/lantern/viewtopic.php?f=1&t=15" target="_BLANK">secure.footprint.net/pingfan/lantern/viewtopic.php</a> (2014年10月17日 14:46)
- ---
-RT @paopaonet: 谁是周小平？他的文章充满了几十年前阶级斗争式语气的表达，加上俯拾皆是的逻辑错漏。他所著的《请不要辜负这个时代》，在豆瓣上被超过95%的读者评为最低级别的一颗星，并被多达数百的豆瓣成员标签为“现代傻逼学研究材料”。<a href="http://t.co/nULc8i" target="_BLANK">t.co/nULc8i</a>… (2014年10月17日 12:52)
  ---
