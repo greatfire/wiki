@@ -66,6 +66,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+苹果iCloud在中国遭中间人攻击 <a href="https://secure.footprint.net/pingfan/paopao/article/224" target="_BLANK">secure.footprint.net/pingfan/paopao/article/224</a> (2014年10月21日 02:29)
+ ---
+Apple’s commitment to your privacy.// Apple decline to comment on iCloud attacked in China. <a href="http://www.theguardian.com/technology/2014/oct/20/chinese-state-accused-attacking-apple-icloud" target="_BLANK">www.theguardian.com/technology/2014/oct/20/chinese-state-accused-attacking-apple-icloud</a> (2014年10月21日 02:27)
+ ---
+All Chinese iPhone users might get their data snooped by the Gov but Apple declined to comment. <a href="http://www.theguardian.com/technology/2014/oct/20/chinese-state-accused-attacking-apple-icloud" target="_BLANK">www.theguardian.com/technology/2014/oct/20/chinese-state-accused-attacking-apple-icloud</a> (2014年10月21日 02:25)
+ ---
 Chinese state accused of attacking Apple's iCloud <a href="http://www.theguardian.com/technology/2014/oct/20/chinese-state-accused-attacking-apple-icloud?CMP=twt_gu" target="_BLANK">www.theguardian.com/technology/2014/oct/20/chinese-state-accused-attacking-apple-icloud</a> via @guardian (2014年10月21日 02:20)
  ---
 RT @jasonqng: Weibo now showing "no results" for censored search terms (try 六四). Not the 1st time this has happened. From Nov 2012: http://… (2014年10月21日 02:03)
@@ -102,10 +108,4 @@ Do not click through to your Apple iCloud account if you see this warning notice
 China Man-in-the-middle attack iCloud country-wide. iCloud data and password intercepted. <a href="https://twitter.com/GreatFireChina/status/524063476994420737/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/524063476994420737/photo/1</a> (2014年10月20日 13:04)
  ---
 RT @chenshaoju: 国内iCloud服务器遭遇中间人攻击，中国苹果用户隐私不保 <a href="http://www.freebuf.com/news/47744.html?utm_content=buffer64578&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_BLANK">www.freebuf.com/news/47744.html</a> //无锡电信确认，截图存档。 <a href="https://twitter.com/chenshaoju/status/523820720456216576/photo/1" target="_BLANK">twitter.com/chenshaoju/status/523820720456216576/photo/1</a> (2014年10月20日 13:00)
- ---
-RT @RTKcn: 18+ RT @oiax: 两张图，告诉你洗脑教育与公民觉醒教育。 <a href="https://twitter.com/oiax/status/524033066105188352/photo/1" target="_BLANK">twitter.com/oiax/status/524033066105188352/photo/1</a> (2014年10月20日 12:56)
- ---
-instagram的高管跑到庙里问大师：我们的网站被干了，如何才能让我们的网站可以在中国被访问呢？大师说：寺庙离地面有3000米的海拔，而且庙的四周都是石头垒起来的高墙，你是如何跑到我们庙里来的？！高管气喘吁吁的说：我翻墙进来的啊！大师：那你TMD还问怎么访问！ (2014年10月20日 12:53)
- ---
-記者表明身份　遭警兜面噴椒  <a href="http://hk.apple.appledaily.com/news/art/20141019/18904940" target="_BLANK">hk.apple.appledaily.com/news/art/20141019/18904940</a> (2014年10月19日 15:29)
  ---
