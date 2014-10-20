@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Do not click through to your Apple iCloud account if you see this warning notice!! (2014年10月20日 13:59)
+ ---
 China Man-in-the-middle attack iCloud country-wide. iCloud data and password intercepted. <a href="https://twitter.com/GreatFireChina/status/524063476994420737/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/524063476994420737/photo/1</a> (2014年10月20日 13:04)
  ---
 RT @chenshaoju: 国内iCloud服务器遭遇中间人攻击，中国苹果用户隐私不保 <a href="http://www.freebuf.com/news/47744.html?utm_content=buffer64578&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_BLANK">www.freebuf.com/news/47744.html</a> //无锡电信确认，截图存档。 <a href="https://twitter.com/chenshaoju/status/523820720456216576/photo/1" target="_BLANK">twitter.com/chenshaoju/status/523820720456216576/photo/1</a> (2014年10月20日 13:00)
@@ -103,6 +105,4 @@ RT @paopaonet: 有网友问泡泡君，周带鱼到底是谁？其实呐，就�
 全平台翻墙指南更新 <a href="https://secure.footprint.net/pingfan/lantern/viewtopic.php?f=1&t=15" target="_BLANK">secure.footprint.net/pingfan/lantern/viewtopic.php</a> (2014年10月17日 14:46)
  ---
 RT @paopaonet: 谁是周小平？他的文章充满了几十年前阶级斗争式语气的表达，加上俯拾皆是的逻辑错漏。他所著的《请不要辜负这个时代》，在豆瓣上被超过95%的读者评为最低级别的一颗星，并被多达数百的豆瓣成员标签为“现代傻逼学研究材料”。<a href="http://t.co/nULc8i" target="_BLANK">t.co/nULc8i</a>… (2014年10月17日 12:52)
- ---
-RT @RTKcn: 19+ RT @beidaijin: ＃禁令 「习近平问起的网络作家是何许人？」全网查删《新华社客户端：习近平问起的网络作家是何许人？》一文及相关内容。 (2014年10月17日 12:48)
  ---
