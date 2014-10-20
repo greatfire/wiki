@@ -66,6 +66,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China Intercepts iCloud Logins in Apparent Attempt to Steal Passwords <a href="http://mashable.com/2014/10/20/china-attacks-apple-microsoft/#:eyJzIjoidCIsImkiOiJfMDU3NG5oMG41M2ZqeDN0aCJ9" target="_BLANK">mashable.com/2014/10/20/china-attacks-apple-microsoft/</a> via @mashable (2014年10月21日 00:33)
+ ---
+Chinese iCloud user information targeted in cyberattacks amid Hong Kong protests <a href="http://www.scmp.com/news/china-insider/article/1620631/chinese-icloud-user-information-eavesdropped-amid-hong-kong" target="_BLANK">www.scmp.com/news/china-insider/article/1620631/chinese-icloud-user-information-eavesdropped-amid-hong-kong</a> (2014年10月21日 00:31)
+ ---
 @ralphholz <a href="http://www.netresec.com/?page=Blog&month=2014-10&post=Chinese-MITM-Attack-on-iCloud" target="_BLANK">www.netresec.com/</a> and <a href="https://en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone" target="_BLANK">en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone</a> (2014年10月21日 00:26)
  ---
 China Intercepts iCloud Logins in Apparent Attempt to Steal Passwords <a href="http://mashable.com/2014/10/20/china-attacks-apple-microsoft/" target="_BLANK">mashable.com/2014/10/20/china-attacks-apple-microsoft/</a> (2014年10月21日 00:18)
@@ -104,8 +108,4 @@ Evidence of iCloud wiretapped in China. Wirecapture <a href="https://www.cloudsh
 RT @siyanmao: 深圳电信证实<a href="https://www.icloud.com/" target="_BLANK">www.icloud.com/</a> 被中间人攻击 (2014年10月19日 07:50)
  ---
 [Breaking News] Apple iCloud wiretapped in China. Multiple reports indicate iCloud is Man-in-the-middled in China. (2014年10月19日 07:37)
- ---
-英国没给过香港民主？最近解密的英国外交部(Foreign Office)文件显示，早在20世纪50年代，英国就提出了香港民主化问题，但中国领导人强烈抵制该主张，甘愿采取包括全面入侵在内的极端手段阻止英国这一举动。 <a href="http://www.ftchinese.com/story/001058585" target="_BLANK">www.ftchinese.com/story/001058585</a> (2014年10月19日 07:26)
- ---
-RT @hawkyeee: 几年前有朋友劝我小心发言，几年后，他的作品先于我被全面封杀。一年前，德国时代杂志的张淼劝我谨慎发言，一年后，她光荣地进了看守所，而我还在外面晃悠。在这个国家，小心谨慎并没有太大用处，自我审查也不能保证平安，如果终究免不了坐牢，那就在被抓前说个痛快淋漓。 (2014年10月19日 07:24)
  ---
