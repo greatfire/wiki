@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @jasonqng: Weibo now showing "no results" for censored search terms (try 六四). Not the 1st time this has happened. From Nov 2012: http://… (2014年10月21日 02:03)
+ ---
 Chinese Government Accused Of Staging ‘Malicious Attack’ On Apple’s iCloud <a href="http://techcrunch.com/2014/10/20/chinese-government-accused-of-staging-malicious-attack-on-apples-icloud-service/" target="_BLANK">techcrunch.com/2014/10/20/chinese-government-accused-of-staging-malicious-attack-on-apples-icloud-service/</a> via @techcrunch (2014年10月21日 00:39)
  ---
 So much for the Chinese government liking Apple's new security measures <a href="http://pando.com/2014/10/20/so-much-for-the-chinese-government-liking-apples-new-security-measures/" target="_BLANK">pando.com/2014/10/20/so-much-for-the-chinese-government-liking-apples-new-security-measures/</a> via @pandodaily (2014年10月21日 00:36)
@@ -106,6 +108,4 @@ instagram的高管跑到庙里问大师：我们的网站被干了，如何才�
 記者表明身份　遭警兜面噴椒  <a href="http://hk.apple.appledaily.com/news/art/20141019/18904940" target="_BLANK">hk.apple.appledaily.com/news/art/20141019/18904940</a> (2014年10月19日 15:29)
  ---
 Evidence of iCloud wiretapped in China. Wirecapture <a href="https://www.cloudshark.org/captures/03a6b0593436" target="_BLANK">www.cloudshark.org/captures/03a6b0593436</a> Certificate: F468B5F3FED807974476A22B32EA3137D924F7BA (2014年10月19日 08:15)
- ---
-RT @siyanmao: 深圳电信证实<a href="https://www.icloud.com/" target="_BLANK">www.icloud.com/</a> 被中间人攻击 (2014年10月19日 07:50)
  ---
