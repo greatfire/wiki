@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @zuola: New Post FYI: iCloud face man-in-the-middle attack in China <a href="http://blog.zuola.com/2014/10/icloud-face-man-in-the-middle-attack-in-china.htm?utm_source=twitterfeed&utm_medium=twitter" target="_BLANK">blog.zuola.com/2014/10/icloud-face-man-in-the-middle-attack-in-china.htm</a> #zuola #blog (2014年10月20日 18:10)
+ ---
 Buying on $AAPL good fortune in China? Be wary. Clearly Apple rotten in eyes of Chinese auth. and will lose customers b/c of MITM attack. (2014年10月20日 18:09)
  ---
 Chinese iCloud user information targeted in cyberattacks amid Hong Kong protests <a href="http://www.scmp.com/news/china-insider/article/1620631/chinese-icloud-user-information-eavesdropped-amid-hong-kong" target="_BLANK">www.scmp.com/news/china-insider/article/1620631/chinese-icloud-user-information-eavesdropped-amid-hong-kong</a> via @SCMP_News (2014年10月20日 17:49)
@@ -103,6 +105,4 @@ BBC still blocked in China <a href="https://en.greatfire.org/www.bbc.co.uk" targ
 The only report on IBTimes Chinese home page quoted police, police, fire dept, chief executive. Totally opposite of IBTimes English. (2014年10月19日 07:05)
  ---
 IBTimes Chinese has little coverage on #OccupyCentral while IBTimes English put it on headlines. (2014年10月19日 07:00)
- ---
-焦点：香港示威者重新占领旺角部分区 <a href="http://cn.reuters.com/article/CNAnalysesNews/idCNKCS0I703V20141018" target="_BLANK">cn.reuters.com/article/CNAnalysesNews/idCNKCS0I703V20141018</a> GFW还没屏蔽，赶快转墙内。 (2014年10月19日 06:48)
  ---
