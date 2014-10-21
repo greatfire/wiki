@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Wow. China Daily cites our blog post; authorities deny they are behind MITM attack on Apple <a href="http://www.chinadaily.com.cn/china/2014-10/21/content_18779962.htm" target="_BLANK">www.chinadaily.com.cn/china/2014-10/21/content_18779962.htm</a> h/t @sweatyinbkk (2014年10月22日 02:19)
+ ---
 CNN:China is hacking its own citizens' iCloud accounts <a href="http://money.cnn.com/2014/10/21/technology/security/china-icloud/index.html" target="_BLANK">money.cnn.com/2014/10/21/technology/security/china-icloud/index.html</a> (2014年10月22日 02:05)
  ---
 The China denied MITM iCloud. But who can implement the attack at China backbone network for weeks? <a href="http://www.bbc.co.uk/news/technology-29704371" target="_BLANK">www.bbc.co.uk/news/technology-29704371</a> (2014年10月21日 23:33)
@@ -103,6 +105,4 @@ Even Chinese state media reported that iCloud attacked, saying GFW is "busy atta
 RT @paopaonet: 网络监测组织Greatfire称，中国当局对苹果云服务iCloud发起中间人攻击。此前调查显示中国对Github、谷歌、雅虎和微软都发动过中间人攻击。此次对iCloud的攻击主要是为了盗取用户名和密码，以及储存在iCloud上的数据。https:/… (2014年10月21日 08:46)
  ---
 中国政府已经加入到iCloud豪华午餐。 <a href="https://secure.footprint.net/pingfan/paopao/article/224" target="_BLANK">secure.footprint.net/pingfan/paopao/article/224</a> (2014年10月21日 08:40)
- ---
-Famed US-born translator and Chinese citizen Sidney Shapiro, dies aged 98 <a href="http://uk.reuters.com/article/2014/10/20/uk-china-politics-shapiro-idUKKCN0I906320141020" target="_BLANK">uk.reuters.com/article/2014/10/20/uk-china-politics-shapiro-idUKKCN0I906320141020</a> #沙博理 (2014年10月21日 04:23)
  ---
