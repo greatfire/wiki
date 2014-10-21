@@ -66,6 +66,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+苹果修改了iCloud在中国的DNS地址，被中间人攻击的 https://23.59.94.46 不再使用。GFW目前还没有攻击新的IP地址，GFW会跟进么？ (2014年10月21日 11:43)
+ ---
+RT @williamlong: 方舟子打假周小平：梦里游了趟美国便控诉美国罪恶 <a href="http://news.sina.com.cn/c/2014-10-21/110531021320.shtml" target="_BLANK">news.sina.com.cn/c/2014-10-21/110531021320.shtml</a> 此文在新浪微博发出后1分钟就会被删。 (2014年10月21日 11:41)
+ ---
 Chinese users can access https://23.59.94.46 to verify the certificate is self-signed. China continues to MITM iCloud <a href="https://twitter.com/GreatFireChina/status/524402179323748352/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/524402179323748352/photo/1</a> (2014年10月21日 11:29)
  ---
 Even Chinese state media reported that iCloud attacked, saying GFW is "busy attacking websites with sophistication" <a href="http://it.people.com.cn/n/2014/1021/c1009-25874921.html" target="_BLANK">it.people.com.cn/n/2014/1021/c1009-25874921.html</a> (2014年10月21日 10:46)
@@ -102,11 +106,4 @@ China Intercepts iCloud Logins in Apparent Attempt to Steal Passwords <a href="h
 Chinese iCloud user information targeted in cyberattacks amid Hong Kong protests <a href="http://www.scmp.com/news/china-insider/article/1620631/chinese-icloud-user-information-eavesdropped-amid-hong-kong" target="_BLANK">www.scmp.com/news/china-insider/article/1620631/chinese-icloud-user-information-eavesdropped-amid-hong-kong</a> (2014年10月21日 00:31)
  ---
 @ralphholz <a href="http://www.netresec.com/?page=Blog&month=2014-10&post=Chinese-MITM-Attack-on-iCloud" target="_BLANK">www.netresec.com/</a> and <a href="https://en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone" target="_BLANK">en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone</a> (2014年10月21日 00:26)
- ---
-RT @netresec: @GreatFireChina See our iCloud MITM analysis here:
-<a href="http://www.netresec.com/?page=Blog&month=2014-10&post=Chinese-MITM-Attack-on-iCloud" target="_BLANK">www.netresec.com/</a>
-
-The attacks seem to be carried out on Chinese back… (2014年10月20日 23:40)
- ---
-RT @zuola: New Post FYI: iCloud face man-in-the-middle attack in China <a href="http://blog.zuola.com/2014/10/icloud-face-man-in-the-middle-attack-in-china.htm?utm_source=twitterfeed&utm_medium=twitter" target="_BLANK">blog.zuola.com/2014/10/icloud-face-man-in-the-middle-attack-in-china.htm</a> #zuola #blog (2014年10月20日 18:10)
  ---
