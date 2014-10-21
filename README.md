@@ -66,6 +66,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Apple created a help page for Chinese users to identify Man-in-the-middle attack against iCloud. <a href="http://support.apple.com/kb/HT6550?viewlocale=en_US" target="_BLANK">support.apple.com/kb/HT6550</a> (2014年10月22日 03:32)
+ ---
+Apple 有关 <a href="https://www.icloud.com/" target="_BLANK">www.icloud.com/</a> 安全的最新消息 <a href="http://support.apple.com/kb/HT6550?viewlocale=zh_CN" target="_BLANK">support.apple.com/kb/HT6550</a> 苹果特别为中国用户制作了鉴别中间人攻击的帮助页面 (2014年10月22日 03:31)
+ ---
 Apple Addresses iCloud Attacks While China Denies Hacking Allegations <a href="http://mashable.com/2014/10/21/apple-icloud-attacks-china/#:eyJzIjoidCIsImkiOiJfYnV5amdiNXEya3Nic240ayJ9" target="_BLANK">mashable.com/2014/10/21/apple-icloud-attacks-china/</a> via @mashable (2014年10月22日 03:29)
  ---
 中国政府和中国电信说关于其中间人攻击iCloud的报道是“不真实，没有事实依据的”。 那么抓包数据显示攻击发生在电信联通骨干网怎么解释？ <a href="https://zh.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone" target="_BLANK">zh.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone</a> (2014年10月22日 03:06)
@@ -101,8 +105,4 @@ RT @hnjhj: 擦 #猪队友 RT @GreatFireChina: 人民网都报道了iCloud，雅�
 苹果修改了iCloud在中国的DNS地址，被中间人攻击的 https://23.59.94.46 不再使用。GFW目前还没有攻击新的IP地址，GFW会跟进么？ (2014年10月21日 11:43)
  ---
 RT @williamlong: 方舟子打假周小平：梦里游了趟美国便控诉美国罪恶 <a href="http://news.sina.com.cn/c/2014-10-21/110531021320.shtml" target="_BLANK">news.sina.com.cn/c/2014-10-21/110531021320.shtml</a> 此文在新浪微博发出后1分钟就会被删。 (2014年10月21日 11:41)
- ---
-Chinese users can access https://23.59.94.46 to verify the certificate is self-signed. China continues to MITM iCloud <a href="https://twitter.com/GreatFireChina/status/524402179323748352/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/524402179323748352/photo/1</a> (2014年10月21日 11:29)
- ---
-Even Chinese state media reported that iCloud attacked, saying GFW is "busy attacking websites with sophistication" <a href="http://it.people.com.cn/n/2014/1021/c1009-25874921.html" target="_BLANK">it.people.com.cn/n/2014/1021/c1009-25874921.html</a> (2014年10月21日 10:46)
  ---
