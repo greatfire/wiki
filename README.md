@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+GFW这次中间人攻击得不偿失啊。 不仅被CNN，纽约时报头版，路透社等声讨连人民网和新华社都有报道。 外交部发言人华春莹也被迫评论“中国政府坚决反对、也打击任何形式的黑客攻击活动。”  GFW迫于压力取消了所有中间人攻击。若再犯，我们会继续报道。 (2014年10月22日 04:54)
+ ---
 Apple updated help page and confirmed iCloud MITM but avoided mentioning China <a href="http://support.apple.com/kb/HT6550?viewlocale=en_US&locale=en_US" target="_BLANK">support.apple.com/kb/HT6550</a> (2014年10月22日 04:21)
  ---
 Apple created a help page for Chinese users to identify Man-in-the-middle attack against iCloud. <a href="http://support.apple.com/kb/HT6550?viewlocale=en_US" target="_BLANK">support.apple.com/kb/HT6550</a> (2014年10月22日 03:32)
@@ -103,6 +105,4 @@ RT @paopaonet: 《彭博商业周刊》当关于香港抗议的新闻传遍全�
 RT @paopaonet: 香港占中乐高版"@JohnMcCullough_: Lego figures assembled on a table by pro-democracy activists in Hong Kong. <a href="https://twitter.com/JohnMcCullough_/status/524192724761972737/photo/1" target="_BLANK">twitter.com/JohnMcCullough_/status/524192724761972737/photo/1</a>" (2014年10月21日 12:42)
  ---
 RT @hnjhj: 擦 #猪队友 RT @GreatFireChina: 人民网都报道了iCloud，雅虎和微软被中间人攻击，称GFW“手法很熟业务很忙”。 目前还未被删除，大家围观<a href="http://it.people.com.cn/n/2014/1021/c1009-25874921.html" target="_BLANK">it.people.com.cn/n/2014/1021/c1009-25874921.html</a> 若被删, 见 <a href="https://t.co/NiC5" target="_BLANK">t.co/NiC5</a>… (2014年10月21日 12:05)
- ---
-苹果修改了iCloud在中国的DNS地址，被中间人攻击的 https://23.59.94.46 不再使用。GFW目前还没有攻击新的IP地址，GFW会跟进么？ (2014年10月21日 11:43)
  ---
