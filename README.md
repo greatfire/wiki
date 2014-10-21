@@ -94,7 +94,7 @@ Chinese iCloud user information targeted in cyberattacks amid Hong Kong protests
 @ralphholz <a href="http://www.netresec.com/?page=Blog&month=2014-10&post=Chinese-MITM-Attack-on-iCloud" target="_BLANK">www.netresec.com/</a> and <a href="https://en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone" target="_BLANK">en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone</a> (2014年10月21日 00:26)
  ---
 RT @netresec: @GreatFireChina See our iCloud MITM analysis here:
-<a href="http://www.netresec.com/?page=Blog&month=2014-10&post=Chinese-MITM-Attack-on-iCloud" target="_BLANK">www.netresec.com/</a>
+<a href="http://netresec.com/?b=14AA3E6" target="_BLANK">netresec.com/</a>
 
 The attacks seem to be carried out on Chinese back… (2014年10月20日 23:40)
  ---
