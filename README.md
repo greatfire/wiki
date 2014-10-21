@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+中国政府和中国电信说关于其中间人攻击iCloud的报道是“不真实，没有事实依据的”。 那么抓包数据显示攻击发生在电信联通骨干网怎么解释？ <a href="https://zh.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone" target="_BLANK">zh.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone</a> (2014年10月22日 03:06)
+ ---
 苹果iCloud服务可能遭中国政府支持的黑客攻击--Greatfire <a href="http://cn.reuters.com/article/cnBizNews/idCNL3S0SG1YA20141021" target="_BLANK">cn.reuters.com/article/cnBizNews/idCNL3S0SG1YA20141021</a> (2014年10月22日 02:34)
  ---
 Wow. China Daily cites our blog post; authorities deny they are behind MITM attack on Apple <a href="http://www.chinadaily.com.cn/china/2014-10/21/content_18779962.htm" target="_BLANK">www.chinadaily.com.cn/china/2014-10/21/content_18779962.htm</a> h/t @sweatyinbkk (2014年10月22日 02:19)
@@ -103,6 +105,4 @@ Chinese users can access https://23.59.94.46 to verify the certificate is self-s
 Even Chinese state media reported that iCloud attacked, saying GFW is "busy attacking websites with sophistication" <a href="http://it.people.com.cn/n/2014/1021/c1009-25874921.html" target="_BLANK">it.people.com.cn/n/2014/1021/c1009-25874921.html</a> (2014年10月21日 10:46)
  ---
 人民网都报道了iCloud，雅虎和微软被中间人攻击，称GFW“手法很熟业务很忙”。 目前还未被删除，大家围观<a href="http://it.people.com.cn/n/2014/1021/c1009-25874921.html" target="_BLANK">it.people.com.cn/n/2014/1021/c1009-25874921.html</a> 若被删, 见 <a href="https://secure.footprint.net/pingfan/paopao/article/224" target="_BLANK">secure.footprint.net/pingfan/paopao/article/224</a> (2014年10月21日 10:42)
- ---
-RT @paopaonet: 网络监测组织Greatfire称，中国当局对苹果云服务iCloud发起中间人攻击。此前调查显示中国对Github、谷歌、雅虎和微软都发动过中间人攻击。此次对iCloud的攻击主要是为了盗取用户名和密码，以及储存在iCloud上的数据。https:/… (2014年10月21日 08:46)
  ---
