@@ -52,7 +52,7 @@
                 <a href="https://edgecastcdn.net/00107ED/paopao/" target="_BLANK">长期有效 2</a>，            
                 <a href="https://objects.dreamhost.com/paopao/index.html" target="_BLANK">长期有效 3</a>，            
                 <a href="https://paopao2.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
-                <a href="https://d19ysv8o6fv16v.cloudfront.net" target="_BLANK">短期有效 2</a>
+                <a href="https://d32pt9ivjjofmj.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
         </tr>
     </tbody>
@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @chenshaoju: <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1868543394%2FBsAZzv71L&_rand=1413925216.2727" target="_BLANK">passport.weibo.com/visitor/visitor</a> 我真的怀疑360要么是一堆白痴，要么是被有关部门控制。 <a href="https://twitter.com/chenshaoju/status/524494678532440064/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524494678532440064/photo/1</a> (2014年10月22日 04:59)
+ ---
 GFW这次中间人攻击得不偿失啊。 不仅被CNN，纽约时报头版，路透社等声讨连人民网和新华社都有报道。 外交部发言人华春莹也被迫评论“中国政府坚决反对、也打击任何形式的黑客攻击活动。”  GFW迫于压力取消了所有中间人攻击。若再犯，我们会继续报道。 (2014年10月22日 04:54)
  ---
 Apple updated help page and confirmed iCloud MITM but avoided mentioning China <a href="http://support.apple.com/kb/HT6550?viewlocale=en_US&locale=en_US" target="_BLANK">support.apple.com/kb/HT6550</a> (2014年10月22日 04:21)
@@ -103,6 +105,4 @@ RT @williamlong: 同一篇英文文章，被不同的媒体翻译后竟然能表
 RT @paopaonet: 《彭博商业周刊》当关于香港抗议的新闻传遍全世界时，对于这次民主化斗争的叙述向相反的方向倾斜——这取决于社交媒体用户身处中国数码火墙的哪一边。 <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/223" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月21日 12:43)
  ---
 RT @paopaonet: 香港占中乐高版"@JohnMcCullough_: Lego figures assembled on a table by pro-democracy activists in Hong Kong. <a href="https://twitter.com/JohnMcCullough_/status/524192724761972737/photo/1" target="_BLANK">twitter.com/JohnMcCullough_/status/524192724761972737/photo/1</a>" (2014年10月21日 12:42)
- ---
-RT @hnjhj: 擦 #猪队友 RT @GreatFireChina: 人民网都报道了iCloud，雅虎和微软被中间人攻击，称GFW“手法很熟业务很忙”。 目前还未被删除，大家围观<a href="http://it.people.com.cn/n/2014/1021/c1009-25874921.html" target="_BLANK">it.people.com.cn/n/2014/1021/c1009-25874921.html</a> 若被删, 见 <a href="https://t.co/NiC5" target="_BLANK">t.co/NiC5</a>… (2014年10月21日 12:05)
  ---
