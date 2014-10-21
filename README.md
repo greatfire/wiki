@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Blocked/Attacked products: Google,iCloud,Outlook,OneDrive,Yahoo,flickr,FB,Twitter,u2b,blogspot,dropbox,soundcloud,vimeo,snapchat,slideshare (2014年10月21日 13:31)
+ ---
 Blocked media in China: NYT, WSJ, Bloomberg, BBC, VOA, SCMP, RFI, DW, CBC, lemonde, elpais, ndr, lesoir, newstapa,trouw, asahichinese, MORE (2014年10月21日 13:27)
  ---
 RT @niubi: updating iOS to 8.1. Apple servers wouldnt verify update until VPN, w a non-China IP address, was turned on. security? or diff P… (2014年10月21日 13:20)
@@ -104,6 +106,4 @@ RT @netresec: #GFW #MITM attack on #iCloud SSL traffic performed on China Teleco
 苹果iCloud在中国遭中间人攻击 <a href="https://secure.footprint.net/pingfan/paopao/article/224" target="_BLANK">secure.footprint.net/pingfan/paopao/article/224</a> (2014年10月21日 02:29)
  ---
 Apple’s commitment to your privacy.// Apple decline to comment on iCloud attacked in China. <a href="http://www.theguardian.com/technology/2014/oct/20/chinese-state-accused-attacking-apple-icloud" target="_BLANK">www.theguardian.com/technology/2014/oct/20/chinese-state-accused-attacking-apple-icloud</a> (2014年10月21日 02:27)
- ---
-All Chinese iPhone users might get their data snooped by the Gov but Apple declined to comment. <a href="http://www.theguardian.com/technology/2014/oct/20/chinese-state-accused-attacking-apple-icloud" target="_BLANK">www.theguardian.com/technology/2014/oct/20/chinese-state-accused-attacking-apple-icloud</a> (2014年10月21日 02:25)
  ---
