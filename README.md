@@ -66,11 +66,13 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @fangshimin: 从2004年我开通新浪博客开始算起，到今天我因为揭露了一名“网络作家代表”导致在国内的所有自媒体帐号全部被下令封杀，刚好十年。以后大概还是只能以国外网站为据点。 (2014年10月22日 05:29)
+ ---
 RT @paopaonet: 错过了直播的小伙伴，可以在这里找到港府与学联代表对话实录全文：<a href="https://edgecastcdn.net/00107ED/paopao/?u=/news/226" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月22日 05:10)
  ---
 Qihoo 360 browser complicit in China's MITM attack against iCloud. The browser will access the website even if the certificate is invalid. (2014年10月22日 05:05)
  ---
-RT @chenshaoju: <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1868543394%2FBsAZzv71L&_rand=1413926706.9317" target="_BLANK">passport.weibo.com/visitor/visitor</a> 我真的怀疑360要么是一堆白痴，要么是被有关部门控制。 <a href="https://twitter.com/chenshaoju/status/524494678532440064/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524494678532440064/photo/1</a> (2014年10月22日 04:59)
+RT @chenshaoju: <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1868543394%2FBsAZzv71L&_rand=1413927008.9331" target="_BLANK">passport.weibo.com/visitor/visitor</a> 我真的怀疑360要么是一堆白痴，要么是被有关部门控制。 <a href="https://twitter.com/chenshaoju/status/524494678532440064/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524494678532440064/photo/1</a> (2014年10月22日 04:59)
  ---
 GFW这次中间人攻击得不偿失啊。 不仅被CNN，纽约时报头版，路透社等声讨连人民网和新华社都有报道。 外交部发言人华春莹也被迫评论“中国政府坚决反对、也打击任何形式的黑客攻击活动。”  GFW迫于压力取消了所有中间人攻击。若再犯，我们会继续报道。 (2014年10月22日 04:54)
  ---
@@ -103,6 +105,4 @@ Blocked media in China: NYT, WSJ, Bloomberg, BBC, VOA, SCMP, RFI, DW, CBC, lemon
 RT @niubi: updating iOS to 8.1. Apple servers wouldnt verify update until VPN, w a non-China IP address, was turned on. security? or diff P… (2014年10月21日 13:20)
  ---
 香港特区行政长官梁振英周一对部分外国媒体表示，不能接受自由选举，部分因香港的贫困人群和工薪阶层将因此在政治上获得主导。 －路透社 <a href="http://cn.reuters.com/article/CNAnalysesNews/idCNKCS0IA06L20141021" target="_BLANK">cn.reuters.com/article/CNAnalysesNews/idCNKCS0IA06L20141021</a> (2014年10月21日 13:09)
- ---
-RT @williamlong: 同一篇英文文章，被不同的媒体翻译后竟然能表达出完全相反的两种观点，不信的话，请看：环球时报：《美退役上将：中国掌控南海局势 美插手将被攻击》 <a href="http://mil.news.sina.com.cn/2014-10-13/0814805205.html" target="_BLANK">mil.news.sina.com.cn/2014-10-13/0814805205.html</a> ；纽约时报中文网：《是时候对中国动真格的了》 http:… (2014年10月21日 12:46)
  ---
