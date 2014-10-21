@@ -70,8 +70,6 @@ RT @klustout: Epic #UmbrellaMovement street art RT @frostyhk: Fake HSBC ad in Ad
  ---
 Apple changed <a href="https://www.icloud.com/" target="_BLANK">www.icloud.com/</a> DNS in China to avoid MITM. The attacked 23.59.94.46 is no longer used. But will GFW attack new IP? (2014年10月21日 14:28)
  ---
-RT @virushuo: 梁振英说：“普选将让商界的蛋糕被别人分享“，这实在是说了大实话啊，无论香港人还是大陆人，这句话都看懂了吧，非普选政府是不会考虑普通人利益的，除非你是商界人士，不然没有什么福利政策是考虑你的，连分享都不行。 (2014年10月21日 14:26)
- ---
 Blocked/Attacked products: Google,iCloud,Outlook,OneDrive,Yahoo,flickr,FB,Twitter,u2b,blogspot,dropbox,soundcloud,vimeo,snapchat,slideshare (2014年10月21日 13:31)
  ---
 Blocked media in China: NYT, WSJ, Bloomberg, BBC, VOA, SCMP, RFI, DW, CBC, lemonde, elpais, ndr, lesoir, newstapa,trouw, asahichinese, MORE (2014年10月21日 13:27)
@@ -106,4 +104,6 @@ Famed US-born translator and Chinese citizen Sidney Shapiro, dies aged 98 <a hre
  ---
 RT @netresec: #GFW #MITM attack on #iCloud SSL traffic performed on China Telecom (CHINANET) and China Unicom networks. 
 <a href="http://t.co/5W2sGF" target="_BLANK">t.co/5W2sGF</a>… (2014年10月21日 02:37)
+ ---
+.@iTunes How many iCloud/iTunes account passwords are intercepted by the Chinese gov? <a href="https://en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone" target="_BLANK">en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone</a> (2014年10月21日 02:36)
  ---
