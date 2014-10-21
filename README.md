@@ -66,6 +66,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: 《彭博商业周刊》当关于香港抗议的新闻传遍全世界时，对于这次民主化斗争的叙述向相反的方向倾斜——这取决于社交媒体用户身处中国数码火墙的哪一边。 <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/223" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月21日 12:43)
+ ---
+RT @paopaonet: 香港占中乐高版"@JohnMcCullough_: Lego figures assembled on a table by pro-democracy activists in Hong Kong. <a href="https://twitter.com/JohnMcCullough_/status/524192724761972737/photo/1" target="_BLANK">twitter.com/JohnMcCullough_/status/524192724761972737/photo/1</a>" (2014年10月21日 12:42)
+ ---
 RT @hnjhj: 擦 #猪队友 RT @GreatFireChina: 人民网都报道了iCloud，雅虎和微软被中间人攻击，称GFW“手法很熟业务很忙”。 目前还未被删除，大家围观<a href="http://it.people.com.cn/n/2014/1021/c1009-25874921.html" target="_BLANK">it.people.com.cn/n/2014/1021/c1009-25874921.html</a> 若被删, 见 <a href="https://t.co/NiC5" target="_BLANK">t.co/NiC5</a>… (2014年10月21日 12:05)
  ---
 苹果修改了iCloud在中国的DNS地址，被中间人攻击的 https://23.59.94.46 不再使用。GFW目前还没有攻击新的IP地址，GFW会跟进么？ (2014年10月21日 11:43)
@@ -102,8 +106,4 @@ RT @jasonqng: Weibo now showing "no results" for censored search terms (try 六�
 Chinese Government Accused Of Staging ‘Malicious Attack’ On Apple’s iCloud <a href="http://techcrunch.com/2014/10/20/chinese-government-accused-of-staging-malicious-attack-on-apples-icloud-service/" target="_BLANK">techcrunch.com/2014/10/20/chinese-government-accused-of-staging-malicious-attack-on-apples-icloud-service/</a> via @techcrunch (2014年10月21日 00:39)
  ---
 So much for the Chinese government liking Apple's new security measures <a href="http://pando.com/2014/10/20/so-much-for-the-chinese-government-liking-apples-new-security-measures/" target="_BLANK">pando.com/2014/10/20/so-much-for-the-chinese-government-liking-apples-new-security-measures/</a> via @pandodaily (2014年10月21日 00:36)
- ---
-China Intercepts iCloud Logins in Apparent Attempt to Steal Passwords <a href="http://mashable.com/2014/10/20/china-attacks-apple-microsoft/#:eyJzIjoidCIsImkiOiJfMDU3NG5oMG41M2ZqeDN0aCJ9" target="_BLANK">mashable.com/2014/10/20/china-attacks-apple-microsoft/</a> via @mashable (2014年10月21日 00:33)
- ---
-Chinese iCloud user information targeted in cyberattacks amid Hong Kong protests <a href="http://www.scmp.com/news/china-insider/article/1620631/chinese-icloud-user-information-eavesdropped-amid-hong-kong" target="_BLANK">www.scmp.com/news/china-insider/article/1620631/chinese-icloud-user-information-eavesdropped-amid-hong-kong</a> (2014年10月21日 00:31)
  ---
