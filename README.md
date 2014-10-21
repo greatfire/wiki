@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Apple updated help page and confirmed iCloud MITM but avoided mentioning China <a href="http://support.apple.com/kb/HT6550?viewlocale=en_US&locale=en_US" target="_BLANK">support.apple.com/kb/HT6550</a> (2014年10月22日 04:21)
+ ---
 Apple created a help page for Chinese users to identify Man-in-the-middle attack against iCloud. <a href="http://support.apple.com/kb/HT6550?viewlocale=en_US" target="_BLANK">support.apple.com/kb/HT6550</a> (2014年10月22日 03:32)
  ---
 Apple 有关 <a href="https://www.icloud.com/" target="_BLANK">www.icloud.com/</a> 安全的最新消息 <a href="http://support.apple.com/kb/HT6550?viewlocale=zh_CN" target="_BLANK">support.apple.com/kb/HT6550</a> 苹果特别为中国用户制作了鉴别中间人攻击的帮助页面 (2014年10月22日 03:31)
@@ -103,6 +105,4 @@ RT @paopaonet: 香港占中乐高版"@JohnMcCullough_: Lego figures assembled on
 RT @hnjhj: 擦 #猪队友 RT @GreatFireChina: 人民网都报道了iCloud，雅虎和微软被中间人攻击，称GFW“手法很熟业务很忙”。 目前还未被删除，大家围观<a href="http://it.people.com.cn/n/2014/1021/c1009-25874921.html" target="_BLANK">it.people.com.cn/n/2014/1021/c1009-25874921.html</a> 若被删, 见 <a href="https://t.co/NiC5" target="_BLANK">t.co/NiC5</a>… (2014年10月21日 12:05)
  ---
 苹果修改了iCloud在中国的DNS地址，被中间人攻击的 https://23.59.94.46 不再使用。GFW目前还没有攻击新的IP地址，GFW会跟进么？ (2014年10月21日 11:43)
- ---
-RT @williamlong: 方舟子打假周小平：梦里游了趟美国便控诉美国罪恶 <a href="http://news.sina.com.cn/c/2014-10-21/110531021320.shtml" target="_BLANK">news.sina.com.cn/c/2014-10-21/110531021320.shtml</a> 此文在新浪微博发出后1分钟就会被删。 (2014年10月21日 11:41)
  ---
