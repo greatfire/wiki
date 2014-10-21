@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: 网络监测组织Greatfire称，中国当局对苹果云服务iCloud发起中间人攻击。此前调查显示中国对Github、谷歌、雅虎和微软都发动过中间人攻击。此次对iCloud的攻击主要是为了盗取用户名和密码，以及储存在iCloud上的数据。https:/… (2014年10月21日 08:46)
+ ---
 中国政府已经加入到iCloud豪华午餐。 <a href="https://secure.footprint.net/pingfan/paopao/article/224" target="_BLANK">secure.footprint.net/pingfan/paopao/article/224</a> (2014年10月21日 08:40)
  ---
 Famed US-born translator and Chinese citizen Sidney Shapiro, dies aged 98 <a href="http://uk.reuters.com/article/2014/10/20/uk-china-politics-shapiro-idUKKCN0I906320141020" target="_BLANK">uk.reuters.com/article/2014/10/20/uk-china-politics-shapiro-idUKKCN0I906320141020</a> #沙博理 (2014年10月21日 04:23)
@@ -96,7 +98,7 @@ Chinese iCloud user information targeted in cyberattacks amid Hong Kong protests
 @ralphholz <a href="http://www.netresec.com/?page=Blog&month=2014-10&post=Chinese-MITM-Attack-on-iCloud" target="_BLANK">www.netresec.com/</a> and <a href="https://en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone" target="_BLANK">en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone</a> (2014年10月21日 00:26)
  ---
 RT @netresec: @GreatFireChina See our iCloud MITM analysis here:
-<a href="http://netresec.com/?b=14AA3E6" target="_BLANK">netresec.com/</a>
+<a href="http://www.netresec.com/?page=Blog&month=2014-10&post=Chinese-MITM-Attack-on-iCloud" target="_BLANK">www.netresec.com/</a>
 
 The attacks seem to be carried out on Chinese back… (2014年10月20日 23:40)
  ---
@@ -107,6 +109,4 @@ Buying on $AAPL good fortune in China? Be wary. Clearly Apple rotten in eyes of 
 Chinese iCloud user information targeted in cyberattacks amid Hong Kong protests <a href="http://www.scmp.com/news/china-insider/article/1620631/chinese-icloud-user-information-eavesdropped-amid-hong-kong" target="_BLANK">www.scmp.com/news/china-insider/article/1620631/chinese-icloud-user-information-eavesdropped-amid-hong-kong</a> via @SCMP_News (2014年10月20日 17:49)
  ---
 China accused of wiretapping Apple iCloud data: report <a href="https://www.techinasia.com/china-accused-wiretapping-apple-icloud-data-iphones-roll-customers-report/" target="_BLANK">www.techinasia.com/china-accused-wiretapping-apple-icloud-data-iphones-roll-customers-report/</a> via @pabischoff (2014年10月20日 16:55)
- ---
-To HongKongers: If you failed the protest this time, GFW is waiting for you. iCloud wiretapped in China <a href="https://en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone" target="_BLANK">en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone</a> (2014年10月20日 15:11)
  ---
