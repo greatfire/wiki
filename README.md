@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+The China denied MITM iCloud. But who can implement the attack at China backbone network for weeks? <a href="http://www.bbc.co.uk/news/technology-29704371" target="_BLANK">www.bbc.co.uk/news/technology-29704371</a> (2014年10月21日 23:33)
+ ---
 RT @klustout: Epic #UmbrellaMovement street art RT @frostyhk: Fake HSBC ad in Admiralty #OccupyHK <a href="https://twitter.com/frostyhk/status/523999565892968448/photo/1" target="_BLANK">twitter.com/frostyhk/status/523999565892968448/photo/1</a> #umhk (2014年10月21日 15:50)
  ---
 Apple changed <a href="https://www.icloud.com/" target="_BLANK">www.icloud.com/</a> DNS in China to avoid MITM. The attacked 23.59.94.46 is no longer used. But will GFW attack new IP? (2014年10月21日 14:28)
@@ -104,6 +106,4 @@ Famed US-born translator and Chinese citizen Sidney Shapiro, dies aged 98 <a hre
  ---
 RT @netresec: #GFW #MITM attack on #iCloud SSL traffic performed on China Telecom (CHINANET) and China Unicom networks. 
 <a href="http://t.co/5W2sGF" target="_BLANK">t.co/5W2sGF</a>… (2014年10月21日 02:37)
- ---
-.@iTunes How many iCloud/iTunes account passwords are intercepted by the Chinese gov? <a href="https://en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone" target="_BLANK">en.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone</a> (2014年10月21日 02:36)
  ---
