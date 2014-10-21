@@ -66,7 +66,9 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-RT @chenshaoju: <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1868543394%2FBsAZzv71L&_rand=1413925503.8218" target="_BLANK">passport.weibo.com/visitor/visitor</a> 我真的怀疑360要么是一堆白痴，要么是被有关部门控制。 <a href="https://twitter.com/chenshaoju/status/524494678532440064/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524494678532440064/photo/1</a> (2014年10月22日 04:59)
+Qihoo 360 browser complicit in China's MITM attack against iCloud. The browser will access the website even if the certificate is invalid. (2014年10月22日 05:05)
+ ---
+RT @chenshaoju: <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1868543394%2FBsAZzv71L&_rand=1413925804.3126" target="_BLANK">passport.weibo.com/visitor/visitor</a> 我真的怀疑360要么是一堆白痴，要么是被有关部门控制。 <a href="https://twitter.com/chenshaoju/status/524494678532440064/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524494678532440064/photo/1</a> (2014年10月22日 04:59)
  ---
 GFW这次中间人攻击得不偿失啊。 不仅被CNN，纽约时报头版，路透社等声讨连人民网和新华社都有报道。 外交部发言人华春莹也被迫评论“中国政府坚决反对、也打击任何形式的黑客攻击活动。”  GFW迫于压力取消了所有中间人攻击。若再犯，我们会继续报道。 (2014年10月22日 04:54)
  ---
@@ -103,6 +105,4 @@ RT @niubi: updating iOS to 8.1. Apple servers wouldnt verify update until VPN, w
 RT @williamlong: 同一篇英文文章，被不同的媒体翻译后竟然能表达出完全相反的两种观点，不信的话，请看：环球时报：《美退役上将：中国掌控南海局势 美插手将被攻击》 <a href="http://mil.news.sina.com.cn/2014-10-13/0814805205.html" target="_BLANK">mil.news.sina.com.cn/2014-10-13/0814805205.html</a> ；纽约时报中文网：《是时候对中国动真格的了》 http:… (2014年10月21日 12:46)
  ---
 RT @paopaonet: 《彭博商业周刊》当关于香港抗议的新闻传遍全世界时，对于这次民主化斗争的叙述向相反的方向倾斜——这取决于社交媒体用户身处中国数码火墙的哪一边。 <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/223" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月21日 12:43)
- ---
-RT @paopaonet: 香港占中乐高版"@JohnMcCullough_: Lego figures assembled on a table by pro-democracy activists in Hong Kong. <a href="https://twitter.com/JohnMcCullough_/status/524192724761972737/photo/1" target="_BLANK">twitter.com/JohnMcCullough_/status/524192724761972737/photo/1</a>" (2014年10月21日 12:42)
  ---
