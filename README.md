@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @niubi: updating iOS to 8.1. Apple servers wouldnt verify update until VPN, w a non-China IP address, was turned on. security? or diff P… (2014年10月21日 13:20)
+ ---
 香港特区行政长官梁振英周一对部分外国媒体表示，不能接受自由选举，部分因香港的贫困人群和工薪阶层将因此在政治上获得主导。 －路透社 <a href="http://cn.reuters.com/article/CNAnalysesNews/idCNKCS0IA06L20141021" target="_BLANK">cn.reuters.com/article/CNAnalysesNews/idCNKCS0IA06L20141021</a> (2014年10月21日 13:09)
  ---
 RT @williamlong: 同一篇英文文章，被不同的媒体翻译后竟然能表达出完全相反的两种观点，不信的话，请看：环球时报：《美退役上将：中国掌控南海局势 美插手将被攻击》 <a href="http://mil.news.sina.com.cn/2014-10-13/0814805205.html" target="_BLANK">mil.news.sina.com.cn/2014-10-13/0814805205.html</a> ；纽约时报中文网：《是时候对中国动真格的了》 http:… (2014年10月21日 12:46)
@@ -104,6 +106,4 @@ Apple’s commitment to your privacy.// Apple decline to comment on iCloud attac
 All Chinese iPhone users might get their data snooped by the Gov but Apple declined to comment. <a href="http://www.theguardian.com/technology/2014/oct/20/chinese-state-accused-attacking-apple-icloud" target="_BLANK">www.theguardian.com/technology/2014/oct/20/chinese-state-accused-attacking-apple-icloud</a> (2014年10月21日 02:25)
  ---
 Chinese state accused of attacking Apple's iCloud <a href="http://www.theguardian.com/technology/2014/oct/20/chinese-state-accused-attacking-apple-icloud?CMP=twt_gu" target="_BLANK">www.theguardian.com/technology/2014/oct/20/chinese-state-accused-attacking-apple-icloud</a> via @guardian (2014年10月21日 02:20)
- ---
-RT @jasonqng: Weibo now showing "no results" for censored search terms (try 六四). Not the 1st time this has happened. From Nov 2012: http://… (2014年10月21日 02:03)
  ---
