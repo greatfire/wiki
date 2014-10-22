@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@theSteveCarton No. 12306 REQUIRES users to install their own CA. Many Chinese bank do the same. Conspiracy to make users ignore warnings? (2014年10月22日 14:58)
+ ---
 周小平梦游美利坚 <a href="https://freeweibo.com/weibo/3768059619835796" target="_BLANK">freeweibo.com/weibo/3768059619835796</a> @fangshimin (2014年10月22日 05:36)
  ---
 RT @fangshimin: 从2004年我开通新浪博客开始算起，到今天我因为揭露了一名“网络作家代表”导致在国内的所有自媒体帐号全部被下令封杀，刚好十年。以后大概还是只能以国外网站为据点。 (2014年10月22日 05:29)
@@ -74,7 +76,7 @@ RT @paopaonet: 错过了直播的小伙伴，可以在这里找到港府与学�
  ---
 Qihoo 360 browser complicit in China's MITM attack against iCloud. The browser will access the website even if the certificate is invalid. (2014年10月22日 05:05)
  ---
-RT @chenshaoju: <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1868543394%2FBsAZzv71L&_rand=1413960903.5847" target="_BLANK">passport.weibo.com/visitor/visitor</a> 我真的怀疑360要么是一堆白痴，要么是被有关部门控制。 <a href="https://twitter.com/chenshaoju/status/524494678532440064/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524494678532440064/photo/1</a> (2014年10月22日 04:59)
+RT @chenshaoju: <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1868543394%2FBsAZzv71L&_rand=1413961205.6004" target="_BLANK">passport.weibo.com/visitor/visitor</a> 我真的怀疑360要么是一堆白痴，要么是被有关部门控制。 <a href="https://twitter.com/chenshaoju/status/524494678532440064/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524494678532440064/photo/1</a> (2014年10月22日 04:59)
  ---
 GFW这次中间人攻击得不偿失啊。 不仅被CNN，纽约时报头版，路透社等声讨连人民网和新华社都有报道。 外交部发言人华春莹也被迫评论“中国政府坚决反对、也打击任何形式的黑客攻击活动。”  GFW迫于压力取消了所有中间人攻击。若再犯，我们会继续报道。 (2014年10月22日 04:54)
  ---
@@ -103,6 +105,4 @@ Apple changed <a href="https://www.icloud.com/" target="_BLANK">www.icloud.com/<
 Blocked/Attacked products: Google,iCloud,Outlook,OneDrive,Yahoo,flickr,FB,Twitter,u2b,blogspot,dropbox,soundcloud,vimeo,snapchat,slideshare (2014年10月21日 13:31)
  ---
 Blocked media in China: NYT, WSJ, Bloomberg, BBC, VOA, SCMP, RFI, DW, CBC, lemonde, elpais, ndr, lesoir, newstapa,trouw, asahichinese, MORE (2014年10月21日 13:27)
- ---
-RT @niubi: updating iOS to 8.1. Apple servers wouldnt verify update until VPN, w a non-China IP address, was turned on. security? or diff P… (2014年10月21日 13:20)
  ---
