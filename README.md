@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @EdmondLococo: Apple's CEO @Tim_Cook met #China Vice Premier, two days after @greatfirechina report of  iCloud #hacker attack http://t.c… (2014年10月22日 21:53)
+ ---
 RT @remonwangxt: 方舟子對王的男人，這一場決戰才剛熱身，勝負就已經分出，肘子遭遇了出道以來最慘重的打擊──全網封殺，希望他和他的菊花一切都好 <a href="https://twitter.com/remonwangxt/status/524589608810455040/photo/1" target="_BLANK">twitter.com/remonwangxt/status/524589608810455040/photo/1</a> (2014年10月22日 15:26)
  ---
 RT @RTKcn: 18+ RT @szstupidcool: 这里不是今天的旺角，是当年的天安门。 <a href="https://twitter.com/szstupidcool/status/524810084778405889/photo/1" target="_BLANK">twitter.com/szstupidcool/status/524810084778405889/photo/1</a> (2014年10月22日 15:24)
@@ -82,7 +84,7 @@ RT @paopaonet: 错过了直播的小伙伴，可以在这里找到港府与学�
  ---
 Qihoo 360 browser complicit in China's MITM attack against iCloud. The browser will access the website even if the certificate is invalid. (2014年10月22日 05:05)
  ---
-RT @chenshaoju: <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1868543394%2FBsAZzv71L&_rand=1413985807.408" target="_BLANK">passport.weibo.com/visitor/visitor</a> 我真的怀疑360要么是一堆白痴，要么是被有关部门控制。 <a href="https://twitter.com/chenshaoju/status/524494678532440064/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524494678532440064/photo/1</a> (2014年10月22日 04:59)
+RT @chenshaoju: <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1868543394%2FBsAZzv71L&_rand=1413986104.5535" target="_BLANK">passport.weibo.com/visitor/visitor</a> 我真的怀疑360要么是一堆白痴，要么是被有关部门控制。 <a href="https://twitter.com/chenshaoju/status/524494678532440064/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524494678532440064/photo/1</a> (2014年10月22日 04:59)
  ---
 GFW这次中间人攻击得不偿失啊。 不仅被CNN，纽约时报头版，路透社等声讨连人民网和新华社都有报道。 外交部发言人华春莹也被迫评论“中国政府坚决反对、也打击任何形式的黑客攻击活动。”  GFW迫于压力取消了所有中间人攻击。若再犯，我们会继续报道。 (2014年10月22日 04:54)
  ---
@@ -103,6 +105,4 @@ Wow. China Daily cites our blog post; authorities deny they are behind MITM atta
 CNN:China is hacking its own citizens' iCloud accounts <a href="http://money.cnn.com/2014/10/21/technology/security/china-icloud/index.html" target="_BLANK">money.cnn.com/2014/10/21/technology/security/china-icloud/index.html</a> (2014年10月22日 02:05)
  ---
 The China denied MITM iCloud. But who can implement the attack at China backbone network for weeks? <a href="http://www.bbc.co.uk/news/technology-29704371" target="_BLANK">www.bbc.co.uk/news/technology-29704371</a> (2014年10月21日 23:33)
- ---
-RT @klustout: Epic #UmbrellaMovement street art RT @frostyhk: Fake HSBC ad in Admiralty #OccupyHK <a href="https://twitter.com/frostyhk/status/523999565892968448/photo/1" target="_BLANK">twitter.com/frostyhk/status/523999565892968448/photo/1</a> #umhk (2014年10月21日 15:50)
  ---
