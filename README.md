@@ -12,7 +12,7 @@
                 <a href="https://secure.footprint.net/pingfan/fw" target="_BLANK">长期有效 1</a>，            
                 <a href="https://edgecastcdn.net/00107ED/freeweibo/" target="_BLANK">长期有效 2</a>，            
                 <a href="https://objects.dreamhost.com/freeweibo/index.html" target="_BLANK">长期有效 3</a>，            
-                <a href="https://fw3.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
+                <a href="https://fw5.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
         </tr>    
@@ -82,7 +82,7 @@ RT @paopaonet: 错过了直播的小伙伴，可以在这里找到港府与学�
  ---
 Qihoo 360 browser complicit in China's MITM attack against iCloud. The browser will access the website even if the certificate is invalid. (2014年10月22日 05:05)
  ---
-RT @chenshaoju: <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1868543394%2FBsAZzv71L&_rand=1413967810.5019" target="_BLANK">passport.weibo.com/visitor/visitor</a> 我真的怀疑360要么是一堆白痴，要么是被有关部门控制。 <a href="https://twitter.com/chenshaoju/status/524494678532440064/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524494678532440064/photo/1</a> (2014年10月22日 04:59)
+RT @chenshaoju: <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1868543394%2FBsAZzv71L&_rand=1413968107.5022" target="_BLANK">passport.weibo.com/visitor/visitor</a> 我真的怀疑360要么是一堆白痴，要么是被有关部门控制。 <a href="https://twitter.com/chenshaoju/status/524494678532440064/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524494678532440064/photo/1</a> (2014年10月22日 04:59)
  ---
 GFW这次中间人攻击得不偿失啊。 不仅被CNN，纽约时报头版，路透社等声讨连人民网和新华社都有报道。 外交部发言人华春莹也被迫评论“中国政府坚决反对、也打击任何形式的黑客攻击活动。”  GFW迫于压力取消了所有中间人攻击。若再犯，我们会继续报道。 (2014年10月22日 04:54)
  ---
