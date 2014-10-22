@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @xiucai1911: 逛街累了，走到路边休息下，拍照留念 <a href="https://twitter.com/xiucai1911/status/524826985269592065/photo/1" target="_BLANK">twitter.com/xiucai1911/status/524826985269592065/photo/1</a> (2014年10月23日 00:05)
+ ---
 博讯新闻网镜像上线。<a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/</a> 版权归博讯所有。文章不代表GreatFire立场。 (2014年10月22日 23:54)
  ---
 RT @EdmondLococo: Apple's CEO @Tim_Cook met #China Vice Premier, two days after @greatfirechina report of  iCloud #hacker attack http://t.c… (2014年10月22日 21:53)
@@ -86,7 +88,7 @@ RT @paopaonet: 错过了直播的小伙伴，可以在这里找到港府与学�
  ---
 Qihoo 360 browser complicit in China's MITM attack against iCloud. The browser will access the website even if the certificate is invalid. (2014年10月22日 05:05)
  ---
-RT @chenshaoju: <a href="http://www.weibo.com/1868543394/BsAZzv71L" target="_BLANK">www.weibo.com/1868543394/BsAZzv71L</a> 我真的怀疑360要么是一堆白痴，要么是被有关部门控制。 <a href="https://twitter.com/chenshaoju/status/524494678532440064/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524494678532440064/photo/1</a> (2014年10月22日 04:59)
+RT @chenshaoju: <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1868543394%2FBsAZzv71L&_rand=1413994206.1" target="_BLANK">passport.weibo.com/visitor/visitor</a> 我真的怀疑360要么是一堆白痴，要么是被有关部门控制。 <a href="https://twitter.com/chenshaoju/status/524494678532440064/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524494678532440064/photo/1</a> (2014年10月22日 04:59)
  ---
 GFW这次中间人攻击得不偿失啊。 不仅被CNN，纽约时报头版，路透社等声讨连人民网和新华社都有报道。 外交部发言人华春莹也被迫评论“中国政府坚决反对、也打击任何形式的黑客攻击活动。”  GFW迫于压力取消了所有中间人攻击。若再犯，我们会继续报道。 (2014年10月22日 04:54)
  ---
@@ -103,6 +105,4 @@ Apple Addresses iCloud Attacks While China Denies Hacking Allegations <a href="h
 苹果iCloud服务可能遭中国政府支持的黑客攻击--Greatfire <a href="http://cn.reuters.com/article/cnBizNews/idCNL3S0SG1YA20141021" target="_BLANK">cn.reuters.com/article/cnBizNews/idCNL3S0SG1YA20141021</a> (2014年10月22日 02:34)
  ---
 Wow. China Daily cites our blog post; authorities deny they are behind MITM attack on Apple <a href="http://www.chinadaily.com.cn/china/2014-10/21/content_18779962.htm" target="_BLANK">www.chinadaily.com.cn/china/2014-10/21/content_18779962.htm</a> h/t @sweatyinbkk (2014年10月22日 02:19)
- ---
-CNN:China is hacking its own citizens' iCloud accounts <a href="http://money.cnn.com/2014/10/21/technology/security/china-icloud/index.html" target="_BLANK">money.cnn.com/2014/10/21/technology/security/china-icloud/index.html</a> (2014年10月22日 02:05)
  ---
