@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+If you are unfamiliar with @Boxun, @isaacstonefish has story with great backround here: <a href="http://blog.foreignpolicy.com/posts/2012/04/26/inside_boxun_chinas_media_muckraker" target="_BLANK">blog.foreignpolicy.com/posts/2012/04/26/inside_boxun_chinas_media_muckraker</a> (2014年10月23日 15:26)
+ ---
 We have unblocked <a href="http://boxun.com" target="_BLANK">boxun.com</a> - anybody in China can access the site without a VPN via this link <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/</a> (2014年10月23日 15:24)
  ---
 RT @chenshaoju: 试了一下360“安全”浏览器７（7.1.1.516），如果遭遇MITM不会出现任何警告，只会在左上角网址区域显示一个“证书风险”，不会像Chrome、IE、Firefox出现全屏警告。 <a href="https://twitter.com/chenshaoju/status/524478147194941440/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524478147194941440/photo/1</a> (2014年10月23日 12:50)
@@ -98,7 +100,7 @@ RT @paopaonet: 错过了直播的小伙伴，可以在这里找到港府与学�
  ---
 Qihoo 360 browser complicit in China's MITM attack against iCloud. The browser will access the website even if the certificate is invalid. (2014年10月22日 05:05)
  ---
-RT @chenshaoju: <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1868543394%2FBsAZzv71L&_rand=1414049106.6729" target="_BLANK">passport.weibo.com/visitor/visitor</a> 我真的怀疑360要么是一堆白痴，要么是被有关部门控制。 <a href="https://twitter.com/chenshaoju/status/524494678532440064/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524494678532440064/photo/1</a> (2014年10月22日 04:59)
+RT @chenshaoju: <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1868543394%2FBsAZzv71L&_rand=1414049407.2" target="_BLANK">passport.weibo.com/visitor/visitor</a> 我真的怀疑360要么是一堆白痴，要么是被有关部门控制。 <a href="https://twitter.com/chenshaoju/status/524494678532440064/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524494678532440064/photo/1</a> (2014年10月22日 04:59)
  ---
 GFW这次中间人攻击得不偿失啊。 不仅被CNN，纽约时报头版，路透社等声讨连人民网和新华社都有报道。 外交部发言人华春莹也被迫评论“中国政府坚决反对、也打击任何形式的黑客攻击活动。”  GFW迫于压力取消了所有中间人攻击。若再犯，我们会继续报道。 (2014年10月22日 04:54)
  ---
@@ -109,6 +111,4 @@ Apple created a help page for Chinese users to identify Man-in-the-middle attack
 Apple 有关 <a href="https://www.icloud.com/" target="_BLANK">www.icloud.com/</a> 安全的最新消息 <a href="http://support.apple.com/kb/HT6550?viewlocale=zh_CN" target="_BLANK">support.apple.com/kb/HT6550</a> 苹果特别为中国用户制作了鉴别中间人攻击的帮助页面 (2014年10月22日 03:31)
  ---
 Apple Addresses iCloud Attacks While China Denies Hacking Allegations <a href="http://mashable.com/2014/10/21/apple-icloud-attacks-china/#:eyJzIjoidCIsImkiOiJfYnV5amdiNXEya3Nic240ayJ9" target="_BLANK">mashable.com/2014/10/21/apple-icloud-attacks-china/</a> via @mashable (2014年10月22日 03:29)
- ---
-中国政府和中国电信说关于其中间人攻击iCloud的报道是“不真实，没有事实依据的”。 那么抓包数据显示攻击发生在电信联通骨干网怎么解释？ <a href="https://zh.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone" target="_BLANK">zh.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone</a> (2014年10月22日 03:06)
  ---
