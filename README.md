@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Steam unblocked in China <a href="https://en.greatfire.org/store.steampowered.com" target="_BLANK">en.greatfire.org/store.steampowered.com</a> Just a mistake? (2014年10月24日 12:32)
+ ---
 RT @tinyfool: 所以说，言论自由就是周小平可以说，方舟子不可以说，赞，我们重新发明了言论自由 <a href="https://twitter.com/tinyfool/status/525326209060597760/photo/1" target="_BLANK">twitter.com/tinyfool/status/525326209060597760/photo/1</a> (2014年10月24日 09:59)
  ---
 .@fangshimin 关于方舟子的所有微博基本都被删除 <a href="https://secure.footprint.net/pingfan/fw/weibo/%E6%96%B9%E8%88%9F%E5%AD%90" target="_BLANK">secure.footprint.net/pingfan/fw/weibo/方舟子</a> (2014年10月24日 09:40)
@@ -110,6 +112,4 @@ RT @RTKcn: 18+ RT @szstupidcool: 这里不是今天的旺角，是当年的天�
 @theSteveCarton No. 12306 REQUIRES users to install their own CA. Many Chinese bank do the same. Conspiracy to make users ignore warnings? (2014年10月22日 14:58)
  ---
 周小平梦游美利坚 <a href="https://freeweibo.com/weibo/3768059619835796" target="_BLANK">freeweibo.com/weibo/3768059619835796</a> @fangshimin (2014年10月22日 05:36)
- ---
-RT @fangshimin: 从2004年我开通新浪博客开始算起，到今天我因为揭露了一名“网络作家代表”导致在国内的所有自媒体帐号全部被下令封杀，刚好十年。以后大概还是只能以国外网站为据点。 (2014年10月22日 05:29)
  ---
