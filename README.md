@@ -72,6 +72,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @fangshimin: 中央文明办真幽默，写错人名了吧？【中央文明办：网络上，对于周小平的观念持否定态度的人很多，但是你可以不同意周小平的观点，但是不能不让周小平说话。如果超越言论自由限制人家说话的权利，那就是一种强权和暴力了。<a href="http://t.co/haSZzie6e" target="_BLANK">t.co/haSZzie6e</a>… (2014年10月24日 09:38)
+ ---
+RT @virushuo: 方舟子14.3Kfo了。之前是4000多，我估计至少有6000~8000是被带来的新翻墙用户。保守估计这甚至可能已经超过了现在翻墙上来的中文*活跃*用户的数量。这算不算大事，您自己看着办。 (2014年10月24日 09:36)
+ ---
 RT @larrysalibra: HSBC's corporate portal HSBCnet apparently blocked in China cc @GreatFireChina  <a href="http://www.hsbcnet.com/gbm/global-utilities/customers-logging-in-from-china.html" target="_BLANK">www.hsbcnet.com/gbm/global-utilities/customers-logging-in-from-china.html</a> <a href="http://t.co/uEnTBw" target="_BLANK">t.co/uEnTBw</a>… (2014年10月24日 09:08)
  ---
 [Breaking News] Steam blocked in China, including its client software. <a href="https://en.greatfire.org/store.steampowered.com" target="_BLANK">en.greatfire.org/store.steampowered.com</a> (2014年10月23日 23:50)
@@ -108,8 +112,4 @@ RT @fangshimin: 从2004年我开通新浪博客开始算起，到今天我因为
 RT @paopaonet: 错过了直播的小伙伴，可以在这里找到港府与学联代表对话实录全文：<a href="https://edgecastcdn.net/00107ED/paopao/?u=/news/226" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月22日 05:10)
  ---
 Qihoo 360 browser complicit in China's MITM attack against iCloud. The browser will access the website even if the certificate is invalid. (2014年10月22日 05:05)
- ---
-RT @chenshaoju: <a href="http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F1868543394%2FBsAZzv71L&_rand=1414114508.1047" target="_BLANK">passport.weibo.com/visitor/visitor</a> 我真的怀疑360要么是一堆白痴，要么是被有关部门控制。 <a href="https://twitter.com/chenshaoju/status/524494678532440064/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524494678532440064/photo/1</a> (2014年10月22日 04:59)
- ---
-GFW这次中间人攻击得不偿失啊。 不仅被CNN，纽约时报头版，路透社等声讨连人民网和新华社都有报道。 外交部发言人华春莹也被迫评论“中国政府坚决反对、也打击任何形式的黑客攻击活动。”  GFW迫于压力取消了所有中间人攻击。若再犯，我们会继续报道。 (2014年10月22日 04:54)
  ---
