@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+.@fangshimin 关于方舟子的所有微博基本都被删除 <a href="https://secure.footprint.net/pingfan/fw/weibo/%E6%96%B9%E8%88%9F%E5%AD%90" target="_BLANK">secure.footprint.net/pingfan/fw/weibo/方舟子</a> (2014年10月24日 09:40)
+ ---
 RT @fangshimin: 中央文明办真幽默，写错人名了吧？【中央文明办：网络上，对于周小平的观念持否定态度的人很多，但是你可以不同意周小平的观点，但是不能不让周小平说话。如果超越言论自由限制人家说话的权利，那就是一种强权和暴力了。<a href="http://t.co/haSZzie6e" target="_BLANK">t.co/haSZzie6e</a>… (2014年10月24日 09:38)
  ---
 RT @virushuo: 方舟子14.3Kfo了。之前是4000多，我估计至少有6000~8000是被带来的新翻墙用户。保守估计这甚至可能已经超过了现在翻墙上来的中文*活跃*用户的数量。这算不算大事，您自己看着办。 (2014年10月24日 09:36)
@@ -110,6 +112,4 @@ RT @RTKcn: 18+ RT @szstupidcool: 这里不是今天的旺角，是当年的天�
 RT @fangshimin: 从2004年我开通新浪博客开始算起，到今天我因为揭露了一名“网络作家代表”导致在国内的所有自媒体帐号全部被下令封杀，刚好十年。以后大概还是只能以国外网站为据点。 (2014年10月22日 05:29)
  ---
 RT @paopaonet: 错过了直播的小伙伴，可以在这里找到港府与学联代表对话实录全文：<a href="https://edgecastcdn.net/00107ED/paopao/?u=/news/226" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月22日 05:10)
- ---
-Qihoo 360 browser complicit in China's MITM attack against iCloud. The browser will access the website even if the certificate is invalid. (2014年10月22日 05:05)
  ---
