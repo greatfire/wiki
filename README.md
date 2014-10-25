@@ -72,5 +72,44 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
- (1970年01月01日 08:00)
+扎克伯格清华座谈全程中文 <a href="http://cn.wsj.com/gb/20141023/rth140224.asp?source=mostpopular" target="_BLANK">cn.wsj.com/gb/20141023/rth140224.asp</a> (2014年10月25日 09:59)
+ ---
+这个网站售卖枪支弹药，一只沙漠之鹰手枪公开叫卖1.836BTC，在700美元左右.通过wiki还可以找到办理假证的，雇佣杀手的，销赃的（主要是Iphone手机），还有各种成人色情网站.  <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/230" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月25日 08:57)
+ ---
+RT @paopaonet: #泡泡推荐 【洋葱路由 - Tor】这个目前让美国国家安全局联邦调查局头疼不已的玩意可以避免人们的行迹在Internet上被追踪到，被称为“深网指路人”。而登陆“深网”以后就能完全脱离世间法律或NSA等政府管制力量的钳制和监管。https://t.… (2014年10月25日 08:55)
+ ---
+Steam unblocked in China <a href="https://en.greatfire.org/store.steampowered.com" target="_BLANK">en.greatfire.org/store.steampowered.com</a> Just a mistake? (2014年10月24日 12:32)
+ ---
+RT @tinyfool: 所以说，言论自由就是周小平可以说，方舟子不可以说，赞，我们重新发明了言论自由 <a href="https://twitter.com/tinyfool/status/525326209060597760/photo/1" target="_BLANK">twitter.com/tinyfool/status/525326209060597760/photo/1</a> (2014年10月24日 09:59)
+ ---
+.@fangshimin 关于方舟子的所有微博基本都被删除 <a href="https://secure.footprint.net/pingfan/fw/weibo/%E6%96%B9%E8%88%9F%E5%AD%90" target="_BLANK">secure.footprint.net/pingfan/fw/weibo/方舟子</a> (2014年10月24日 09:40)
+ ---
+RT @fangshimin: 中央文明办真幽默，写错人名了吧？【中央文明办：网络上，对于周小平的观念持否定态度的人很多，但是你可以不同意周小平的观点，但是不能不让周小平说话。如果超越言论自由限制人家说话的权利，那就是一种强权和暴力了。<a href="http://t.co/haSZzie6e" target="_BLANK">t.co/haSZzie6e</a>… (2014年10月24日 09:38)
+ ---
+RT @virushuo: 方舟子14.3Kfo了。之前是4000多，我估计至少有6000~8000是被带来的新翻墙用户。保守估计这甚至可能已经超过了现在翻墙上来的中文*活跃*用户的数量。这算不算大事，您自己看着办。 (2014年10月24日 09:36)
+ ---
+RT @larrysalibra: HSBC's corporate portal HSBCnet apparently blocked in China cc @GreatFireChina  <a href="http://www.hsbcnet.com/gbm/global-utilities/customers-logging-in-from-china.html" target="_BLANK">www.hsbcnet.com/gbm/global-utilities/customers-logging-in-from-china.html</a> <a href="http://t.co/uEnTBw" target="_BLANK">t.co/uEnTBw</a>… (2014年10月24日 09:08)
+ ---
+[Breaking News] Steam blocked in China, including its client software. <a href="https://en.greatfire.org/store.steampowered.com" target="_BLANK">en.greatfire.org/store.steampowered.com</a> (2014年10月23日 23:50)
+ ---
+RT @jackievoncanton: Steam商店頁面在大陸遭到屏蔽
+<a href="http://store.steampowered.com" target="_BLANK">store.steampowered.com</a> <a href="https://zh.greatfire.org/store.steampowered.com#.VEjcSTx08hQ.twitter" target="_BLANK">zh.greatfire.org/store.steampowered.com</a> from @GreatFireChina (2014年10月23日 23:49)
+ ---
+RT @dtiffroberts: Twitter’s Developer Tools Put Company Deeper Into China <a href="http://www.bloomberg.com/news/2014-10-22/twitter-s-developer-tools-put-company-deeper-into-china.html" target="_BLANK">www.bloomberg.com/news/2014-10-22/twitter-s-developer-tools-put-company-deeper-into-china.html</a> via @BloombergNews (2014年10月23日 16:29)
+ ---
+If you are unfamiliar with @Boxun, @isaacstonefish has story with great backround here: <a href="http://blog.foreignpolicy.com/posts/2012/04/26/inside_boxun_chinas_media_muckraker" target="_BLANK">blog.foreignpolicy.com/posts/2012/04/26/inside_boxun_chinas_media_muckraker</a> (2014年10月23日 15:26)
+ ---
+We have unblocked <a href="http://boxun.com" target="_BLANK">boxun.com</a> - anybody in China can access the site without a VPN via this link <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/</a> (2014年10月23日 15:24)
+ ---
+RT @chenshaoju: 试了一下360“安全”浏览器７（7.1.1.516），如果遭遇MITM不会出现任何警告，只会在左上角网址区域显示一个“证书风险”，不会像Chrome、IE、Firefox出现全屏警告。 <a href="https://twitter.com/chenshaoju/status/524478147194941440/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524478147194941440/photo/1</a> (2014年10月23日 12:50)
+ ---
+RT @xiucai1911: 逛街累了，走到路边休息下，拍照留念 <a href="https://twitter.com/xiucai1911/status/524826985269592065/photo/1" target="_BLANK">twitter.com/xiucai1911/status/524826985269592065/photo/1</a> (2014年10月23日 00:05)
+ ---
+博讯新闻网镜像上线。<a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/</a> 版权归博讯所有。文章不代表GreatFire立场。 (2014年10月22日 23:54)
+ ---
+RT @EdmondLococo: Apple's CEO @Tim_Cook met #China Vice Premier, two days after @greatfirechina report of  iCloud #hacker attack http://t.c… (2014年10月22日 21:53)
+ ---
+RT @remonwangxt: 方舟子對王的男人，這一場決戰才剛熱身，勝負就已經分出，肘子遭遇了出道以來最慘重的打擊──全網封殺，希望他和他的菊花一切都好 <a href="https://twitter.com/remonwangxt/status/524589608810455040/photo/1" target="_BLANK">twitter.com/remonwangxt/status/524589608810455040/photo/1</a> (2014年10月22日 15:26)
+ ---
+RT @RTKcn: 18+ RT @szstupidcool: 这里不是今天的旺角，是当年的天安门。 <a href="https://twitter.com/szstupidcool/status/524810084778405889/photo/1" target="_BLANK">twitter.com/szstupidcool/status/524810084778405889/photo/1</a> (2014年10月22日 15:24)
  ---
