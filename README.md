@@ -72,6 +72,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+这个网站售卖枪支弹药，一只沙漠之鹰手枪公开叫卖1.836BTC，在700美元左右.通过wiki还可以找到办理假证的，雇佣杀手的，销赃的（主要是Iphone手机），还有各种成人色情网站.  <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/230" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月25日 08:57)
+ ---
+RT @paopaonet: #泡泡推荐 【洋葱路由 - Tor】这个目前让美国国家安全局联邦调查局头疼不已的玩意可以避免人们的行迹在Internet上被追踪到，被称为“深网指路人”。而登陆“深网”以后就能完全脱离世间法律或NSA等政府管制力量的钳制和监管。https://t.… (2014年10月25日 08:55)
+ ---
 Steam unblocked in China <a href="https://en.greatfire.org/store.steampowered.com" target="_BLANK">en.greatfire.org/store.steampowered.com</a> Just a mistake? (2014年10月24日 12:32)
  ---
 RT @tinyfool: 所以说，言论自由就是周小平可以说，方舟子不可以说，赞，我们重新发明了言论自由 <a href="https://twitter.com/tinyfool/status/525326209060597760/photo/1" target="_BLANK">twitter.com/tinyfool/status/525326209060597760/photo/1</a> (2014年10月24日 09:59)
@@ -108,8 +112,4 @@ RT @remonwangxt: 方舟子對王的男人，這一場決戰才剛熱身，勝負
 RT @RTKcn: 18+ RT @szstupidcool: 这里不是今天的旺角，是当年的天安门。 <a href="https://twitter.com/szstupidcool/status/524810084778405889/photo/1" target="_BLANK">twitter.com/szstupidcool/status/524810084778405889/photo/1</a> (2014年10月22日 15:24)
  ---
 .@chenshaoju 360不会这么白痴。360浏览器内核是Chrome，但特意改为自动加载被攻击网页只能算是和GFW合作。 (2014年10月22日 15:14)
- ---
-@theSteveCarton No. 12306 REQUIRES users to install their own CA. Many Chinese bank do the same. Conspiracy to make users ignore warnings? (2014年10月22日 14:58)
- ---
-周小平梦游美利坚 <a href="https://freeweibo.com/weibo/3768059619835796" target="_BLANK">freeweibo.com/weibo/3768059619835796</a> @fangshimin (2014年10月22日 05:36)
  ---
