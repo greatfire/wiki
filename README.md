@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: 泡泡采访变态辣椒 @remonwangxt :"‘汉奸’头衔坚定了我异议创作的决心" <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/234" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月26日 09:15)
+ ---
 RT @fangshimin: 我在Tumblr新开通的博客（<a href="http://fangzhouzi.tumblr.com" target="_BLANK">fangzhouzi.tumblr.com</a> ）国内可以连上，但只要国内网民点击《“网络作家”梦游美利坚》一文，就会导致整个网站被暂时封死，过一段时间才能看其他文章。对一篇文章如此害怕，如临大敌，不敢让国内网民读到，… (2014年10月25日 11:20)
  ---
 扎克伯格清华座谈全程中文 <a href="http://cn.wsj.com/gb/20141023/rth140224.asp?source=mostpopular" target="_BLANK">cn.wsj.com/gb/20141023/rth140224.asp</a> (2014年10月25日 09:59)
@@ -110,6 +112,4 @@ RT @xiucai1911: 逛街累了，走到路边休息下，拍照留念 <a href="htt
 博讯新闻网镜像上线。<a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/</a> 版权归博讯所有。文章不代表GreatFire立场。 (2014年10月22日 23:54)
  ---
 RT @EdmondLococo: Apple's CEO @Tim_Cook met #China Vice Premier, two days after @greatfirechina report of  iCloud #hacker attack http://t.c… (2014年10月22日 21:53)
- ---
-RT @remonwangxt: 方舟子對王的男人，這一場決戰才剛熱身，勝負就已經分出，肘子遭遇了出道以來最慘重的打擊──全網封殺，希望他和他的菊花一切都好 <a href="https://twitter.com/remonwangxt/status/524589608810455040/photo/1" target="_BLANK">twitter.com/remonwangxt/status/524589608810455040/photo/1</a> (2014年10月22日 15:26)
  ---
