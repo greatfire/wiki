@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China's president lauded Zhou Xiaoping for spreading "positive energy." Many of his writings are rants against U.S. <a href="http://www.foreignpolicy.com/articles/2014/10/21/is_this_the_new_face_of_chinas_silent_majority" target="_BLANK">www.foreignpolicy.com/articles/2014/10/21/is_this_the_new_face_of_chinas_silent_majority</a> (2014年10月27日 07:39)
+ ---
 RT @fangshimin: 网文可以偷偷改，印出来的书却没法改。《梦碎美利坚》一文收入南海出版公司出版的《请不要辜负这个时代》一书，有网友贴出该书照片，我引用的部分在该书中都可以找到，足见我引用的就是原文，不是“他人篡改”，周梦游撒谎可谓铁证。 <a href="http://t.co/Ug" target="_BLANK">t.co/Ug</a>… (2014年10月27日 04:32)
  ---
 RT @fangshimin: 看看周梦游的翼下之风公司落户成都投资洽谈会的参会人员名单，清一色的宣传部门官员。宣传部门要和周梦游一起办公司赚钱呢。我又断了人家财路了。 <a href="https://twitter.com/fangshimin/status/526221685226471424/photo/1" target="_BLANK">twitter.com/fangshimin/status/526221685226471424/photo/1</a> (2014年10月27日 04:32)
@@ -110,6 +112,4 @@ RT @jackievoncanton: Steam商店頁面在大陸遭到屏蔽
 <a href="http://store.steampowered.com" target="_BLANK">store.steampowered.com</a> <a href="https://zh.greatfire.org/store.steampowered.com#.VEjcSTx08hQ.twitter" target="_BLANK">zh.greatfire.org/store.steampowered.com</a> from @GreatFireChina (2014年10月23日 23:49)
  ---
 RT @dtiffroberts: Twitter’s Developer Tools Put Company Deeper Into China <a href="http://www.bloomberg.com/news/2014-10-22/twitter-s-developer-tools-put-company-deeper-into-china.html" target="_BLANK">www.bloomberg.com/news/2014-10-22/twitter-s-developer-tools-put-company-deeper-into-china.html</a> via @BloombergNews (2014年10月23日 16:29)
- ---
-If you are unfamiliar with @Boxun, @isaacstonefish has story with great backround here: <a href="http://blog.foreignpolicy.com/posts/2012/04/26/inside_boxun_chinas_media_muckraker" target="_BLANK">blog.foreignpolicy.com/posts/2012/04/26/inside_boxun_chinas_media_muckraker</a> (2014年10月23日 15:26)
  ---
