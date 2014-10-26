@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @williamlong: 我刚测试在新浪微博已经发不出包含“方舟子”这个关键词的信息了，发了后会自动设置为只有自己才能看到，别人看不到。 (2014年10月27日 03:34)
+ ---
 自由微博Android新版上线 <a href="https://play.google.com/store/apps/details?id=org.greatfire.freeweibo" target="_BLANK">play.google.com/store/apps/details</a> 直接下载地址 <a href="https://edgecastcdn.net/00107ED/freeweibo/FreeWeibo1.3.apk" target="_BLANK">edgecastcdn.net/00107ED/freeweibo/FreeWeibo1.3.apk</a> (2014年10月27日 02:44)
  ---
 RT @fangshimin: 洛杉矶时报整版报道周梦游事件，举例说明我是怎么反驳周的，但只说随后我的文章被删除，没有说我因此被全网封杀，大概那超出了记者想像。该报道署名“时报人员”，未署具体人名，不想遭到报复？<a href="http://www.latimes.com/world/asia/la-fg-china-blogger-awkward-20141022-story.html" target="_BLANK">www.latimes.com/world/asia/la-fg-china-blogger-awkward-20141022-story.html</a> http://t.c… (2014年10月26日 09:36)
@@ -110,6 +112,4 @@ If you are unfamiliar with @Boxun, @isaacstonefish has story with great backroun
 We have unblocked <a href="http://boxun.com" target="_BLANK">boxun.com</a> - anybody in China can access the site without a VPN via this link <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/</a> (2014年10月23日 15:24)
  ---
 RT @chenshaoju: 试了一下360“安全”浏览器７（7.1.1.516），如果遭遇MITM不会出现任何警告，只会在左上角网址区域显示一个“证书风险”，不会像Chrome、IE、Firefox出现全屏警告。 <a href="https://twitter.com/chenshaoju/status/524478147194941440/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524478147194941440/photo/1</a> (2014年10月23日 12:50)
- ---
-RT @xiucai1911: 逛街累了，走到路边休息下，拍照留念 <a href="https://twitter.com/xiucai1911/status/524826985269592065/photo/1" target="_BLANK">twitter.com/xiucai1911/status/524826985269592065/photo/1</a> (2014年10月23日 00:05)
  ---
