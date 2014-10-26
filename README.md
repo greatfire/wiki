@@ -72,6 +72,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @fangshimin: 网文可以偷偷改，印出来的书却没法改。《梦碎美利坚》一文收入南海出版公司出版的《请不要辜负这个时代》一书，有网友贴出该书照片，我引用的部分在该书中都可以找到，足见我引用的就是原文，不是“他人篡改”，周梦游撒谎可谓铁证。 <a href="http://t.co/Ug" target="_BLANK">t.co/Ug</a>… (2014年10月27日 04:32)
+ ---
+RT @fangshimin: 看看周梦游的翼下之风公司落户成都投资洽谈会的参会人员名单，清一色的宣传部门官员。宣传部门要和周梦游一起办公司赚钱呢。我又断了人家财路了。 <a href="https://twitter.com/fangshimin/status/526221685226471424/photo/1" target="_BLANK">twitter.com/fangshimin/status/526221685226471424/photo/1</a> (2014年10月27日 04:32)
+ ---
 RT @williamlong: 我刚测试在新浪微博已经发不出包含“方舟子”这个关键词的信息了，发了后会自动设置为只有自己才能看到，别人看不到。 (2014年10月27日 03:34)
  ---
 自由微博Android新版上线 <a href="https://play.google.com/store/apps/details?id=org.greatfire.freeweibo" target="_BLANK">play.google.com/store/apps/details</a> 直接下载地址 <a href="https://edgecastcdn.net/00107ED/freeweibo/FreeWeibo1.3.apk" target="_BLANK">edgecastcdn.net/00107ED/freeweibo/FreeWeibo1.3.apk</a> (2014年10月27日 02:44)
@@ -108,8 +112,4 @@ RT @jackievoncanton: Steam商店頁面在大陸遭到屏蔽
 RT @dtiffroberts: Twitter’s Developer Tools Put Company Deeper Into China <a href="http://www.bloomberg.com/news/2014-10-22/twitter-s-developer-tools-put-company-deeper-into-china.html" target="_BLANK">www.bloomberg.com/news/2014-10-22/twitter-s-developer-tools-put-company-deeper-into-china.html</a> via @BloombergNews (2014年10月23日 16:29)
  ---
 If you are unfamiliar with @Boxun, @isaacstonefish has story with great backround here: <a href="http://blog.foreignpolicy.com/posts/2012/04/26/inside_boxun_chinas_media_muckraker" target="_BLANK">blog.foreignpolicy.com/posts/2012/04/26/inside_boxun_chinas_media_muckraker</a> (2014年10月23日 15:26)
- ---
-We have unblocked <a href="http://boxun.com" target="_BLANK">boxun.com</a> - anybody in China can access the site without a VPN via this link <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/</a> (2014年10月23日 15:24)
- ---
-RT @chenshaoju: 试了一下360“安全”浏览器７（7.1.1.516），如果遭遇MITM不会出现任何警告，只会在左上角网址区域显示一个“证书风险”，不会像Chrome、IE、Firefox出现全屏警告。 <a href="https://twitter.com/chenshaoju/status/524478147194941440/photo/1" target="_BLANK">twitter.com/chenshaoju/status/524478147194941440/photo/1</a> (2014年10月23日 12:50)
  ---
