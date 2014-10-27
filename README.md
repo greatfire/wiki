@@ -70,7 +70,7 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-Mozilla, Microsoft and Apple continue to trust CNNIC, putting user data at risk everywhere. <a href="https://en.greatfire.org/blog/2014/oct/love-all-trust-few" target="_BLANK">en.greatfire.org/blog/2014/oct/love-all-trust-few</a> (2014年10月28日 01:27)
+Mozilla, Microsoft and Apple continue to trust CNNIC, putting user data at risk everywhere. <a href="https://en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication" target="_BLANK">en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication</a> (2014年10月28日 01:27)
  ---
 RT @paopaonet: 【 感受公民抗命，黄雨伞游戏应运而生】新近推出的一款视频游戏可以让没有亲身体验过香港占中抗议的人感受一下这场公民抗命运动。<a href="http://www.scmp.com/news/hong-kong/article/1622165/yellow-umbrella-video-game-tasks-players-defending-occupy-central" target="_BLANK">www.scmp.com/news/hong-kong/article/1622165/yellow-umbrella-video-game-tasks-players-defending-occupy-central</a> <a href="https://twitter.com/paopaonet/status/526753501754687488/photo/1" target="_BLANK">twitter.com/paopaonet/status/526753501754687488/photo/1</a> (2014年10月28日 00:12)
  ---
