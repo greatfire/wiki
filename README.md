@@ -70,6 +70,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Mozilla, Microsoft and Apple continue to trust CNNIC, putting user data at risk everywhere. <a href="https://en.greatfire.org/blog/2014/oct/love-all-trust-few" target="_BLANK">en.greatfire.org/blog/2014/oct/love-all-trust-few</a> (2014年10月28日 01:27)
+ ---
 RT @paopaonet: 【 感受公民抗命，黄雨伞游戏应运而生】新近推出的一款视频游戏可以让没有亲身体验过香港占中抗议的人感受一下这场公民抗命运动。<a href="http://www.scmp.com/news/hong-kong/article/1622165/yellow-umbrella-video-game-tasks-players-defending-occupy-central" target="_BLANK">www.scmp.com/news/hong-kong/article/1622165/yellow-umbrella-video-game-tasks-players-defending-occupy-central</a> <a href="https://twitter.com/paopaonet/status/526753501754687488/photo/1" target="_BLANK">twitter.com/paopaonet/status/526753501754687488/photo/1</a> (2014年10月28日 00:12)
  ---
 RT @fangshimin: 官方网站接连发表文章批我，如果是要来跟我商榷，我当然欢迎，我并不能保证我就是百分百正确。但是在批我之前先把我的嘴堵得严严实实的，再扯上美帝阴谋，这种做法，40年前在国内很流行。《新华网：周小平花千芳传递爱国正能量 方舟子发文批驳是苛求》http:… (2014年10月27日 14:00)
@@ -107,6 +109,4 @@ RT @fangshimin: 我在Tumblr新开通的博客（<a href="http://fangzhouzi.tumb
 RT @paopaonet: #泡泡推荐 【洋葱路由 - Tor】这个目前让美国国家安全局联邦调查局头疼不已的玩意可以避免人们的行迹在Internet上被追踪到，被称为“深网指路人”。而登陆“深网”以后就能完全脱离世间法律或NSA等政府管制力量的钳制和监管。https://t.… (2014年10月25日 08:55)
  ---
 Steam unblocked in China <a href="https://en.greatfire.org/store.steampowered.com" target="_BLANK">en.greatfire.org/store.steampowered.com</a> Just a mistake? (2014年10月24日 12:32)
- ---
-RT @tinyfool: 所以说，言论自由就是周小平可以说，方舟子不可以说，赞，我们重新发明了言论自由 <a href="https://twitter.com/tinyfool/status/525326209060597760/photo/1" target="_BLANK">twitter.com/tinyfool/status/525326209060597760/photo/1</a> (2014年10月24日 09:59)
  ---
