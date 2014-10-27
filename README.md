@@ -70,6 +70,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Apple and Microsoft trust Chinese government to protect your communication <a href="https://en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication" target="_BLANK">en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication</a> (2014年10月28日 03:44)
+ ---
 Mozilla, Microsoft and Apple continue to trust CNNIC, putting user data at risk everywhere. <a href="https://en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication" target="_BLANK">en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication</a> (2014年10月28日 01:27)
  ---
 RT @paopaonet: 【 感受公民抗命，黄雨伞游戏应运而生】新近推出的一款视频游戏可以让没有亲身体验过香港占中抗议的人感受一下这场公民抗命运动。<a href="http://www.scmp.com/news/hong-kong/article/1622165/yellow-umbrella-video-game-tasks-players-defending-occupy-central" target="_BLANK">www.scmp.com/news/hong-kong/article/1622165/yellow-umbrella-video-game-tasks-players-defending-occupy-central</a> <a href="https://twitter.com/paopaonet/status/526753501754687488/photo/1" target="_BLANK">twitter.com/paopaonet/status/526753501754687488/photo/1</a> (2014年10月28日 00:12)
@@ -107,6 +109,4 @@ RT @fangshimin: 我在Tumblr新开通的博客（<a href="http://fangzhouzi.tumb
 这个网站售卖枪支弹药，一只沙漠之鹰手枪公开叫卖1.836BTC，在700美元左右.通过wiki还可以找到办理假证的，雇佣杀手的，销赃的（主要是Iphone手机），还有各种成人色情网站.  <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/230" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月25日 08:57)
  ---
 RT @paopaonet: #泡泡推荐 【洋葱路由 - Tor】这个目前让美国国家安全局联邦调查局头疼不已的玩意可以避免人们的行迹在Internet上被追踪到，被称为“深网指路人”。而登陆“深网”以后就能完全脱离世间法律或NSA等政府管制力量的钳制和监管。https://t.… (2014年10月25日 08:55)
- ---
-Steam unblocked in China <a href="https://en.greatfire.org/store.steampowered.com" target="_BLANK">en.greatfire.org/store.steampowered.com</a> Just a mistake? (2014年10月24日 12:32)
  ---
