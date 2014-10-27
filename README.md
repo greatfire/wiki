@@ -70,6 +70,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: 【 感受公民抗命，黄雨伞游戏应运而生】新近推出的一款视频游戏可以让没有亲身体验过香港占中抗议的人感受一下这场公民抗命运动。<a href="http://www.scmp.com/news/hong-kong/article/1622165/yellow-umbrella-video-game-tasks-players-defending-occupy-central" target="_BLANK">www.scmp.com/news/hong-kong/article/1622165/yellow-umbrella-video-game-tasks-players-defending-occupy-central</a> <a href="https://twitter.com/paopaonet/status/526753501754687488/photo/1" target="_BLANK">twitter.com/paopaonet/status/526753501754687488/photo/1</a> (2014年10月28日 00:12)
+ ---
 RT @fangshimin: 官方网站接连发表文章批我，如果是要来跟我商榷，我当然欢迎，我并不能保证我就是百分百正确。但是在批我之前先把我的嘴堵得严严实实的，再扯上美帝阴谋，这种做法，40年前在国内很流行。《新华网：周小平花千芳传递爱国正能量 方舟子发文批驳是苛求》http:… (2014年10月27日 14:00)
  ---
 RT @iruitui: RT @DawnChen:应用市场可以先搞准入和监管嘛，还搞不死你们？ RT @beidaijin: #标记  冲APP来了：新京报26日讯，今日从全国网信办主任座谈会上获悉，国家网信办将出台APP应用程序发展管理办法。根据国务院授权，国家网信办负责网… (2014年10月27日 13:54)
@@ -107,6 +109,4 @@ RT @paopaonet: #泡泡推荐 【洋葱路由 - Tor】这个目前让美国国家
 Steam unblocked in China <a href="https://en.greatfire.org/store.steampowered.com" target="_BLANK">en.greatfire.org/store.steampowered.com</a> Just a mistake? (2014年10月24日 12:32)
  ---
 RT @tinyfool: 所以说，言论自由就是周小平可以说，方舟子不可以说，赞，我们重新发明了言论自由 <a href="https://twitter.com/tinyfool/status/525326209060597760/photo/1" target="_BLANK">twitter.com/tinyfool/status/525326209060597760/photo/1</a> (2014年10月24日 09:59)
- ---
-.@fangshimin 关于方舟子的所有微博基本都被删除 <a href="https://edgecastcdn.net/00107ED/freeweibo/" target="_BLANK">edgecastcdn.net/00107ED/freeweibo/</a> (2014年10月24日 09:40)
  ---
