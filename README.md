@@ -17,9 +17,8 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="https://secure.footprint.net/pingfan/fw" target="_BLANK">长期有效 1</a>，            
-                <a href="https://edgecastcdn.net/00107ED/freeweibo/" target="_BLANK">长期有效 2</a>，            
-                <a href="https://objects.dreamhost.com/freeweibo/index.html" target="_BLANK">长期有效 3</a>，            
+                <a href="https://edgecastcdn.net/00107ED/freeweibo/" target="_BLANK">长期有效 1</a>，            
+                <a href="https://objects.dreamhost.com/freeweibo/index.html" target="_BLANK">长期有效 2</a>，            
                 <a href="https://fw4.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
@@ -27,9 +26,8 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="https://secure.footprint.net/pingfan/cdt" target="_BLANK">长期有效 1</a>，            
-                <a href="https://edgecastcdn.net/00107ED/cdt/" target="_BLANK">长期有效 2</a>，            
-                <a href="https://objects.dreamhost.com/cdt/index.html" target="_BLANK">长期有效 3</a>，            
+                <a href="https://edgecastcdn.net/00107ED/cdt/" target="_BLANK">长期有效 1</a>，            
+                <a href="https://objects.dreamhost.com/cdt/index.html" target="_BLANK">长期有效 2</a>，            
                 <a href="https://770b3.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
@@ -46,9 +44,8 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="https://secure.footprint.net/pingfan/lantern" target="_BLANK">长期有效 1</a>，            
-                <a href="https://edgecastcdn.net/00107ED/lantern/" target="_BLANK">长期有效 2</a>，            
-                <a href="https://objects.dreamhost.com/lantern/index.html" target="_BLANK">长期有效 3</a>，            
+                <a href="https://edgecastcdn.net/00107ED/lantern/" target="_BLANK">长期有效 1</a>，            
+                <a href="https://objects.dreamhost.com/lantern/index.html" target="_BLANK">长期有效 2</a>，            
                 <a href="https://c7511.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
@@ -56,9 +53,8 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="https://secure.footprint.net/pingfan/paopao" target="_BLANK">长期有效 1</a>，            
-                <a href="https://edgecastcdn.net/00107ED/paopao/" target="_BLANK">长期有效 2</a>，            
-                <a href="https://objects.dreamhost.com/paopao/index.html" target="_BLANK">长期有效 3</a>，            
+                <a href="https://edgecastcdn.net/00107ED/paopao/" target="_BLANK">长期有效 1</a>，            
+                <a href="https://objects.dreamhost.com/paopao/index.html" target="_BLANK">长期有效 2</a>，            
                 <a href="https://paopao2.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
@@ -108,7 +104,7 @@ Steam unblocked in China <a href="https://en.greatfire.org/store.steampowered.co
  ---
 RT @tinyfool: 所以说，言论自由就是周小平可以说，方舟子不可以说，赞，我们重新发明了言论自由 <a href="https://twitter.com/tinyfool/status/525326209060597760/photo/1" target="_BLANK">twitter.com/tinyfool/status/525326209060597760/photo/1</a> (2014年10月24日 09:59)
  ---
-.@fangshimin 关于方舟子的所有微博基本都被删除 <a href="https://secure.footprint.net/pingfan/fw/weibo/%E6%96%B9%E8%88%9F%E5%AD%90" target="_BLANK">secure.footprint.net/pingfan/fw/weibo/方舟子</a> (2014年10月24日 09:40)
+.@fangshimin 关于方舟子的所有微博基本都被删除 <a href="https://secure.footprint.net/pingfan/fw" target="_BLANK">secure.footprint.net/pingfan/fw</a> (2014年10月24日 09:40)
  ---
 RT @fangshimin: 中央文明办真幽默，写错人名了吧？【中央文明办：网络上，对于周小平的观念持否定态度的人很多，但是你可以不同意周小平的观点，但是不能不让周小平说话。如果超越言论自由限制人家说话的权利，那就是一种强权和暴力了。<a href="http://t.co/haSZzie6e" target="_BLANK">t.co/haSZzie6e</a>… (2014年10月24日 09:38)
  ---
