@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @menghanfei: 2014年10月23日，浙江杭州师范大学附属中学举办运动会，58个班级在开幕式上表演“职业梦想show”，一个班级的学生手捧毛主席语录入场…没有人告诉他们史实，这段恐怖的历史于他们就是个cosplay，他们不是傻逼是无知逗逼。 http://t.… (2014年10月27日 12:13)
+ ---
 周小平走红是该警惕的危险信号 <a href="http://www.21ccom.net/articles/culture/pinglun/20141009114356.html" target="_BLANK">www.21ccom.net/articles/culture/pinglun/20141009114356.html</a> (2014年10月27日 07:48)
  ---
 China's president lauded Zhou Xiaoping for spreading "positive energy." Many of his writings are rants against U.S. <a href="http://www.foreignpolicy.com/articles/2014/10/21/is_this_the_new_face_of_chinas_silent_majority" target="_BLANK">www.foreignpolicy.com/articles/2014/10/21/is_this_the_new_face_of_chinas_silent_majority</a> (2014年10月27日 07:39)
@@ -111,7 +113,4 @@ RT @virushuo: 方舟子14.3Kfo了。之前是4000多，我估计至少有6000~80
 RT @larrysalibra: HSBC's corporate portal HSBCnet apparently blocked in China cc @GreatFireChina  <a href="http://www.hsbcnet.com/gbm/global-utilities/customers-logging-in-from-china.html" target="_BLANK">www.hsbcnet.com/gbm/global-utilities/customers-logging-in-from-china.html</a> <a href="http://t.co/uEnTBw" target="_BLANK">t.co/uEnTBw</a>… (2014年10月24日 09:08)
  ---
 [Breaking News] Steam blocked in China, including its client software. <a href="https://en.greatfire.org/store.steampowered.com" target="_BLANK">en.greatfire.org/store.steampowered.com</a> (2014年10月23日 23:50)
- ---
-RT @jackievoncanton: Steam商店頁面在大陸遭到屏蔽
-<a href="http://store.steampowered.com" target="_BLANK">store.steampowered.com</a> <a href="https://zh.greatfire.org/store.steampowered.com#.VEjcSTx08hQ.twitter" target="_BLANK">zh.greatfire.org/store.steampowered.com</a> from @GreatFireChina (2014年10月23日 23:49)
  ---
