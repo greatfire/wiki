@@ -70,6 +70,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @iruitui: RT @DawnChen:应用市场可以先搞准入和监管嘛，还搞不死你们？ RT @beidaijin: #标记  冲APP来了：新京报26日讯，今日从全国网信办主任座谈会上获悉，国家网信办将出台APP应用程序发展管理办法。根据国务院授权，国家网信办负责网… (2014年10月27日 13:54)
+ ---
 博讯：令计划的小弟令完成被抓 新华社一干人慌了 免翻墙镜像 <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/news/gb/china/2014/10/201410260845.shtml" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/news/gb/china/2014/10/201410260845.shtml</a> (2014年10月27日 12:23)
  ---
 博讯新闻免翻墙镜像上线，永不被墙！ <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/</a> 其他网址 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年10月27日 12:15)
@@ -107,6 +109,4 @@ RT @tinyfool: 所以说，言论自由就是周小平可以说，方舟子不可
 .@fangshimin 关于方舟子的所有微博基本都被删除 <a href="https://edgecastcdn.net/00107ED/freeweibo/" target="_BLANK">edgecastcdn.net/00107ED/freeweibo/</a> (2014年10月24日 09:40)
  ---
 RT @fangshimin: 中央文明办真幽默，写错人名了吧？【中央文明办：网络上，对于周小平的观念持否定态度的人很多，但是你可以不同意周小平的观点，但是不能不让周小平说话。如果超越言论自由限制人家说话的权利，那就是一种强权和暴力了。<a href="http://t.co/haSZzie6e" target="_BLANK">t.co/haSZzie6e</a>… (2014年10月24日 09:38)
- ---
-RT @virushuo: 方舟子14.3Kfo了。之前是4000多，我估计至少有6000~8000是被带来的新翻墙用户。保守估计这甚至可能已经超过了现在翻墙上来的中文*活跃*用户的数量。这算不算大事，您自己看着办。 (2014年10月24日 09:36)
  ---
