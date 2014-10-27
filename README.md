@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+博讯：令计划的小弟令完成被抓 新华社一干人慌了 免翻墙镜像 <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/news/gb/china/2014/10/201410260845.shtml" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/news/gb/china/2014/10/201410260845.shtml</a> (2014年10月27日 12:23)
+ ---
 博讯新闻免翻墙镜像上线，永不被墙！ <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/</a> 其他网址 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年10月27日 12:15)
  ---
 RT @menghanfei: 2014年10月23日，浙江杭州师范大学附属中学举办运动会，58个班级在开幕式上表演“职业梦想show”，一个班级的学生手捧毛主席语录入场…没有人告诉他们史实，这段恐怖的历史于他们就是个cosplay，他们不是傻逼是无知逗逼。 http://t.… (2014年10月27日 12:13)
@@ -111,6 +113,4 @@ RT @tinyfool: 所以说，言论自由就是周小平可以说，方舟子不可
 RT @fangshimin: 中央文明办真幽默，写错人名了吧？【中央文明办：网络上，对于周小平的观念持否定态度的人很多，但是你可以不同意周小平的观点，但是不能不让周小平说话。如果超越言论自由限制人家说话的权利，那就是一种强权和暴力了。<a href="http://t.co/haSZzie6e" target="_BLANK">t.co/haSZzie6e</a>… (2014年10月24日 09:38)
  ---
 RT @virushuo: 方舟子14.3Kfo了。之前是4000多，我估计至少有6000~8000是被带来的新翻墙用户。保守估计这甚至可能已经超过了现在翻墙上来的中文*活跃*用户的数量。这算不算大事，您自己看着办。 (2014年10月24日 09:36)
- ---
-RT @larrysalibra: HSBC's corporate portal HSBCnet apparently blocked in China cc @GreatFireChina  <a href="http://www.hsbcnet.com/gbm/global-utilities/customers-logging-in-from-china.html" target="_BLANK">www.hsbcnet.com/gbm/global-utilities/customers-logging-in-from-china.html</a> <a href="http://t.co/uEnTBw" target="_BLANK">t.co/uEnTBw</a>… (2014年10月24日 09:08)
  ---
