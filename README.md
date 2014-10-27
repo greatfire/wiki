@@ -104,7 +104,7 @@ Steam unblocked in China <a href="https://en.greatfire.org/store.steampowered.co
  ---
 RT @tinyfool: 所以说，言论自由就是周小平可以说，方舟子不可以说，赞，我们重新发明了言论自由 <a href="https://twitter.com/tinyfool/status/525326209060597760/photo/1" target="_BLANK">twitter.com/tinyfool/status/525326209060597760/photo/1</a> (2014年10月24日 09:59)
  ---
-.@fangshimin 关于方舟子的所有微博基本都被删除 <a href="https://secure.footprint.net/pingfan/fw/weibo/(((ALIAS_ABSOLUTE_URL)))" target="_BLANK">secure.footprint.net/pingfan/fw/weibo/(((ALIAS_ABSOLUTE_URL)))</a> (2014年10月24日 09:40)
+.@fangshimin 关于方舟子的所有微博基本都被删除 <a href="https://edgecastcdn.net/00107ED/freeweibo/" target="_BLANK">edgecastcdn.net/00107ED/freeweibo/</a> (2014年10月24日 09:40)
  ---
 RT @fangshimin: 中央文明办真幽默，写错人名了吧？【中央文明办：网络上，对于周小平的观念持否定态度的人很多，但是你可以不同意周小平的观点，但是不能不让周小平说话。如果超越言论自由限制人家说话的权利，那就是一种强权和暴力了。<a href="http://t.co/haSZzie6e" target="_BLANK">t.co/haSZzie6e</a>… (2014年10月24日 09:38)
  ---
