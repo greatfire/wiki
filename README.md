@@ -70,6 +70,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @fangshimin: 官方网站接连发表文章批我，如果是要来跟我商榷，我当然欢迎，我并不能保证我就是百分百正确。但是在批我之前先把我的嘴堵得严严实实的，再扯上美帝阴谋，这种做法，40年前在国内很流行。《新华网：周小平花千芳传递爱国正能量 方舟子发文批驳是苛求》http:… (2014年10月27日 14:00)
+ ---
 RT @iruitui: RT @DawnChen:应用市场可以先搞准入和监管嘛，还搞不死你们？ RT @beidaijin: #标记  冲APP来了：新京报26日讯，今日从全国网信办主任座谈会上获悉，国家网信办将出台APP应用程序发展管理办法。根据国务院授权，国家网信办负责网… (2014年10月27日 13:54)
  ---
 博讯：令计划的小弟令完成被抓 新华社一干人慌了 免翻墙镜像 <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/news/gb/china/2014/10/201410260845.shtml" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/news/gb/china/2014/10/201410260845.shtml</a> (2014年10月27日 12:23)
@@ -107,6 +109,4 @@ Steam unblocked in China <a href="https://en.greatfire.org/store.steampowered.co
 RT @tinyfool: 所以说，言论自由就是周小平可以说，方舟子不可以说，赞，我们重新发明了言论自由 <a href="https://twitter.com/tinyfool/status/525326209060597760/photo/1" target="_BLANK">twitter.com/tinyfool/status/525326209060597760/photo/1</a> (2014年10月24日 09:59)
  ---
 .@fangshimin 关于方舟子的所有微博基本都被删除 <a href="https://edgecastcdn.net/00107ED/freeweibo/" target="_BLANK">edgecastcdn.net/00107ED/freeweibo/</a> (2014年10月24日 09:40)
- ---
-RT @fangshimin: 中央文明办真幽默，写错人名了吧？【中央文明办：网络上，对于周小平的观念持否定态度的人很多，但是你可以不同意周小平的观点，但是不能不让周小平说话。如果超越言论自由限制人家说话的权利，那就是一种强权和暴力了。<a href="http://t.co/haSZzie6e" target="_BLANK">t.co/haSZzie6e</a>… (2014年10月24日 09:38)
  ---
