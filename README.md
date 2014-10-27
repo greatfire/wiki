@@ -20,7 +20,7 @@
                 <a href="https://secure.footprint.net/pingfan/fw" target="_BLANK">长期有效 1</a>，            
                 <a href="https://edgecastcdn.net/00107ED/freeweibo/" target="_BLANK">长期有效 2</a>，            
                 <a href="https://objects.dreamhost.com/freeweibo/index.html" target="_BLANK">长期有效 3</a>，            
-                <a href="https://fw5.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
+                <a href="https://fw4.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
         </tr>    
