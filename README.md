@@ -70,6 +70,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+谷歌在华被封150天纪念，免翻墙访问地址，永不被墙！ <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a> <a href="https://wen.lu" target="_BLANK">wen.lu</a> <a href="https://objects.dreamhost.com/goo/index.html" target="_BLANK">objects.dreamhost.com/goo/index.html</a> (2014年10月29日 03:03)
+ ---
 RT @paopaonet: #泡泡报道 【中国将继续收紧APP管理办法】APP的管制令很多人担心App Store会被封锁，加上当前的苹果CEO库克被认为比前掌门人乔布斯更注重中国大陆的市场，很可能将严格遵从这种中国式监管。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/239" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月29日 02:58)
  ---
 RT @jschauma: How to disable/distrust CNNIC in OS X keychain, firefox. (Re <a href="https://en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication" target="_BLANK">en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication</a>  @GreatFireChina) <a href="https://twitter.com/jschauma/status/527094003951751168/photo/1" target="_BLANK">twitter.com/jschauma/status/527094003951751168/photo/1</a> (2014年10月29日 02:57)
@@ -107,6 +109,4 @@ RT @williamlong: 我刚测试在新浪微博已经发不出包含“方舟子”
 自由微博Android新版上线 <a href="https://play.google.com/store/apps/details?id=org.greatfire.freeweibo" target="_BLANK">play.google.com/store/apps/details</a> 直接下载地址 <a href="https://edgecastcdn.net/00107ED/freeweibo/FreeWeibo1.3.apk" target="_BLANK">edgecastcdn.net/00107ED/freeweibo/FreeWeibo1.3.apk</a> (2014年10月27日 02:44)
  ---
 RT @fangshimin: 洛杉矶时报整版报道周梦游事件，举例说明我是怎么反驳周的，但只说随后我的文章被删除，没有说我因此被全网封杀，大概那超出了记者想像。该报道署名“时报人员”，未署具体人名，不想遭到报复？<a href="http://www.latimes.com/world/asia/la-fg-china-blogger-awkward-20141022-story.html" target="_BLANK">www.latimes.com/world/asia/la-fg-china-blogger-awkward-20141022-story.html</a> http://t.c… (2014年10月26日 09:36)
- ---
-RT @paopaonet: 泡泡采访变态辣椒 @remonwangxt :"‘汉奸’头衔坚定了我异议创作的决心" <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/234" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月26日 09:15)
  ---
