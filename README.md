@@ -70,6 +70,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: #兔泡泡Oo 【安全联盟宣布阻止了一次中国黑客行动】发动攻击的黑客组织被称为公理队（Axiom）。它的一个目标是持不同政见的中国公民。安全研究人员发现一个HiKit样本针对的目标是美国的中文机器，中国和香港的电脑都有被发现感染该程序。http://… (2014年10月29日 05:34)
+ ---
+China-Linked Hacking Foiled by Private-Sector Sleuthing <a href="http://www.bloomberg.com/news/2014-10-28/china-linked-hacking-foiled-by-private-sector-sleuthing.html" target="_BLANK">www.bloomberg.com/news/2014-10-28/china-linked-hacking-foiled-by-private-sector-sleuthing.html</a> (2014年10月29日 05:33)
+ ---
 RT @IlariaMariaSala: In Hong Kong, Fears of a Police Crackdown Online, via @nytimes <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F10%2F29%2Fworld%2Fasia%2Fin-hong-kong-fears-of-a-police-crackdown-online.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年10月29日 05:10)
  ---
 谷歌在华被封150天纪念，免翻墙访问地址，永不被墙！ <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a> <a href="https://wen.lu" target="_BLANK">wen.lu</a> <a href="https://objects.dreamhost.com/goo/index.html" target="_BLANK">objects.dreamhost.com/goo/index.html</a> (2014年10月29日 03:03)
@@ -105,8 +109,4 @@ China's president lauded Zhou Xiaoping for spreading "positive energy." Many of 
 RT @fangshimin: 网文可以偷偷改，印出来的书却没法改。《梦碎美利坚》一文收入南海出版公司出版的《请不要辜负这个时代》一书，有网友贴出该书照片，我引用的部分在该书中都可以找到，足见我引用的就是原文，不是“他人篡改”，周梦游撒谎可谓铁证。 <a href="http://t.co/Ug" target="_BLANK">t.co/Ug</a>… (2014年10月27日 04:32)
  ---
 RT @fangshimin: 看看周梦游的翼下之风公司落户成都投资洽谈会的参会人员名单，清一色的宣传部门官员。宣传部门要和周梦游一起办公司赚钱呢。我又断了人家财路了。 <a href="https://twitter.com/fangshimin/status/526221685226471424/photo/1" target="_BLANK">twitter.com/fangshimin/status/526221685226471424/photo/1</a> (2014年10月27日 04:32)
- ---
-RT @williamlong: 我刚测试在新浪微博已经发不出包含“方舟子”这个关键词的信息了，发了后会自动设置为只有自己才能看到，别人看不到。 (2014年10月27日 03:34)
- ---
-自由微博Android新版上线 <a href="https://play.google.com/store/apps/details?id=org.greatfire.freeweibo" target="_BLANK">play.google.com/store/apps/details</a> 直接下载地址 <a href="https://edgecastcdn.net/00107ED/freeweibo/FreeWeibo1.3.apk" target="_BLANK">edgecastcdn.net/00107ED/freeweibo/FreeWeibo1.3.apk</a> (2014年10月27日 02:44)
  ---
