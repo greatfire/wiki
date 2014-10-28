@@ -70,6 +70,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @IlariaMariaSala: In Hong Kong, Fears of a Police Crackdown Online, via @nytimes <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F10%2F29%2Fworld%2Fasia%2Fin-hong-kong-fears-of-a-police-crackdown-online.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年10月29日 05:10)
+ ---
 谷歌在华被封150天纪念，免翻墙访问地址，永不被墙！ <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a> <a href="https://wen.lu" target="_BLANK">wen.lu</a> <a href="https://objects.dreamhost.com/goo/index.html" target="_BLANK">objects.dreamhost.com/goo/index.html</a> (2014年10月29日 03:03)
  ---
 RT @paopaonet: #泡泡报道 【中国将继续收紧APP管理办法】APP的管制令很多人担心App Store会被封锁，加上当前的苹果CEO库克被认为比前掌门人乔布斯更注重中国大陆的市场，很可能将严格遵从这种中国式监管。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/239" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月29日 02:58)
@@ -107,6 +109,4 @@ RT @fangshimin: 看看周梦游的翼下之风公司落户成都投资洽谈会�
 RT @williamlong: 我刚测试在新浪微博已经发不出包含“方舟子”这个关键词的信息了，发了后会自动设置为只有自己才能看到，别人看不到。 (2014年10月27日 03:34)
  ---
 自由微博Android新版上线 <a href="https://play.google.com/store/apps/details?id=org.greatfire.freeweibo" target="_BLANK">play.google.com/store/apps/details</a> 直接下载地址 <a href="https://edgecastcdn.net/00107ED/freeweibo/FreeWeibo1.3.apk" target="_BLANK">edgecastcdn.net/00107ED/freeweibo/FreeWeibo1.3.apk</a> (2014年10月27日 02:44)
- ---
-RT @fangshimin: 洛杉矶时报整版报道周梦游事件，举例说明我是怎么反驳周的，但只说随后我的文章被删除，没有说我因此被全网封杀，大概那超出了记者想像。该报道署名“时报人员”，未署具体人名，不想遭到报复？<a href="http://www.latimes.com/world/asia/la-fg-china-blogger-awkward-20141022-story.html" target="_BLANK">www.latimes.com/world/asia/la-fg-china-blogger-awkward-20141022-story.html</a> http://t.c… (2014年10月26日 09:36)
  ---
