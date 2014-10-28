@@ -70,6 +70,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: #泡泡报道 【中国将继续收紧APP管理办法】APP的管制令很多人担心App Store会被封锁，加上当前的苹果CEO库克被认为比前掌门人乔布斯更注重中国大陆的市场，很可能将严格遵从这种中国式监管。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/239" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月29日 02:58)
+ ---
+RT @jschauma: How to disable/distrust CNNIC in OS X keychain, firefox. (Re <a href="https://en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication" target="_BLANK">en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication</a>  @GreatFireChina) <a href="https://twitter.com/jschauma/status/527094003951751168/photo/1" target="_BLANK">twitter.com/jschauma/status/527094003951751168/photo/1</a> (2014年10月29日 02:57)
+ ---
+RT @rediantoday: [本來人家要殺你全家，現在只強姦了你老婆，還不跪下謝恩！]--&gt;阿里巴巴云计算部高级经理就GFW问题教训高春辉。。。 同为灵长目人科动物，认知差异何以大到这种程度，唉。！！ <a href="http://redian.today/t/220648" target="_BLANK">redian.today/t/220648</a> http://t.co/… (2014年10月29日 02:56)
+ ---
 泡泡 @paopaonet Android应用1.4发布 <a href="https://play.google.com/store/apps/details?id=org.greatfire.paopao" target="_BLANK">play.google.com/store/apps/details</a> 直接下载地址 <a href="https://edgecastcdn.net/00107ED/paopao/index.html" target="_BLANK">edgecastcdn.net/00107ED/paopao/index.html</a> (2014年10月28日 11:20)
  ---
 Apple and Microsoft trust Chinese government to protect your communication <a href="https://en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication" target="_BLANK">en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication</a> (2014年10月28日 03:44)
@@ -103,10 +109,4 @@ RT @williamlong: 我刚测试在新浪微博已经发不出包含“方舟子”
 RT @fangshimin: 洛杉矶时报整版报道周梦游事件，举例说明我是怎么反驳周的，但只说随后我的文章被删除，没有说我因此被全网封杀，大概那超出了记者想像。该报道署名“时报人员”，未署具体人名，不想遭到报复？<a href="http://www.latimes.com/world/asia/la-fg-china-blogger-awkward-20141022-story.html" target="_BLANK">www.latimes.com/world/asia/la-fg-china-blogger-awkward-20141022-story.html</a> http://t.c… (2014年10月26日 09:36)
  ---
 RT @paopaonet: 泡泡采访变态辣椒 @remonwangxt :"‘汉奸’头衔坚定了我异议创作的决心" <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/234" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月26日 09:15)
- ---
-RT @fangshimin: 我在Tumblr新开通的博客（<a href="http://fangzhouzi.tumblr.com" target="_BLANK">fangzhouzi.tumblr.com</a> ）国内可以连上，但只要国内网民点击《“网络作家”梦游美利坚》一文，就会导致整个网站被暂时封死，过一段时间才能看其他文章。对一篇文章如此害怕，如临大敌，不敢让国内网民读到，… (2014年10月25日 11:20)
- ---
-扎克伯格清华座谈全程中文 <a href="http://cn.wsj.com/gb/20141023/rth140224.asp?source=mostpopular" target="_BLANK">cn.wsj.com/gb/20141023/rth140224.asp</a> (2014年10月25日 09:59)
- ---
-这个网站售卖枪支弹药，一只沙漠之鹰手枪公开叫卖1.836BTC，在700美元左右.通过wiki还可以找到办理假证的，雇佣杀手的，销赃的（主要是Iphone手机），还有各种成人色情网站.  <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/230" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月25日 08:57)
  ---
