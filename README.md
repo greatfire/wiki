@@ -70,6 +70,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @19835735991: 梁书记到旺角就餐，服务员递上菜单：“猪肝爆炒豆腐”，梁书记大怒：“怎么只一个菜”，服务员慌忙递上另一本菜谱，上面赫然“豆腐怒炒猪肝”，梁书记怒发冲冠，重重拍了一下桌子：“其它菜呢？”服务员答：“就两菜”梁书记暴怒：“叫你老板来”，服务员说：“我… (2014年10月29日 11:43)
+ ---
+RT @ZealYi: 他妈的奇文啊：“近20年前，有高层…差点封杀互联网，另外一群体制内有远见的人，为了保护互联网产业当时幼小的生命，给出了GFW这个折衷方案”。据我所知，千多年前还有一群体制内有远见的人，为了保护侍候皇帝的男人们，给出了阉割这个折衷方案 #此处应有掌声 @H… (2014年10月29日 11:42)
+ ---
+香港近九成示威者表示要坚持一年以上--路透非正式调查 <a href="http://cn.reuters.com/article/CNAnalysesNews/idCNKBS0IH2I920141028?sp=true" target="_BLANK">cn.reuters.com/article/CNAnalysesNews/idCNKBS0IH2I920141028</a> 颤抖吧，政府 (2014年10月29日 11:40)
+ ---
 RT @paopaonet: #兔泡泡Oo 【安全联盟宣布阻止了一次中国黑客行动】发动攻击的黑客组织被称为公理队（Axiom）。它的一个目标是持不同政见的中国公民。安全研究人员发现一个HiKit样本针对的目标是美国的中文机器，中国和香港的电脑都有被发现感染该程序。http://… (2014年10月29日 05:34)
  ---
 China-Linked Hacking Foiled by Private-Sector Sleuthing <a href="http://www.bloomberg.com/news/2014-10-28/china-linked-hacking-foiled-by-private-sector-sleuthing.html" target="_BLANK">www.bloomberg.com/news/2014-10-28/china-linked-hacking-foiled-by-private-sector-sleuthing.html</a> (2014年10月29日 05:33)
@@ -103,10 +109,4 @@ RT @iruitui: RT @DawnChen:应用市场可以先搞准入和监管嘛，还搞不
 RT @menghanfei: 2014年10月23日，浙江杭州师范大学附属中学举办运动会，58个班级在开幕式上表演“职业梦想show”，一个班级的学生手捧毛主席语录入场…没有人告诉他们史实，这段恐怖的历史于他们就是个cosplay，他们不是傻逼是无知逗逼。 http://t.… (2014年10月27日 12:13)
  ---
 周小平走红是该警惕的危险信号 <a href="http://www.21ccom.net/articles/culture/pinglun/20141009114356.html" target="_BLANK">www.21ccom.net/articles/culture/pinglun/20141009114356.html</a> (2014年10月27日 07:48)
- ---
-China's president lauded Zhou Xiaoping for spreading "positive energy." Many of his writings are rants against U.S. <a href="http://www.foreignpolicy.com/articles/2014/10/21/is_this_the_new_face_of_chinas_silent_majority" target="_BLANK">www.foreignpolicy.com/articles/2014/10/21/is_this_the_new_face_of_chinas_silent_majority</a> (2014年10月27日 07:39)
- ---
-RT @fangshimin: 网文可以偷偷改，印出来的书却没法改。《梦碎美利坚》一文收入南海出版公司出版的《请不要辜负这个时代》一书，有网友贴出该书照片，我引用的部分在该书中都可以找到，足见我引用的就是原文，不是“他人篡改”，周梦游撒谎可谓铁证。 <a href="http://t.co/Ug" target="_BLANK">t.co/Ug</a>… (2014年10月27日 04:32)
- ---
-RT @fangshimin: 看看周梦游的翼下之风公司落户成都投资洽谈会的参会人员名单，清一色的宣传部门官员。宣传部门要和周梦游一起办公司赚钱呢。我又断了人家财路了。 <a href="https://twitter.com/fangshimin/status/526221685226471424/photo/1" target="_BLANK">twitter.com/fangshimin/status/526221685226471424/photo/1</a> (2014年10月27日 04:32)
  ---
