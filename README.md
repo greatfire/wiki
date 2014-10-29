@@ -94,7 +94,7 @@ RT @jschauma: How to disable/distrust CNNIC in OS X keychain, firefox. (Re <a hr
  ---
 RT @rediantoday: [本來人家要殺你全家，現在只強姦了你老婆，還不跪下謝恩！]--&gt;阿里巴巴云计算部高级经理就GFW问题教训高春辉。。。 同为灵长目人科动物，认知差异何以大到这种程度，唉。！！ <a href="http://redian.today/t/220648" target="_BLANK">redian.today/t/220648</a> http://t.co/… (2014年10月29日 02:56)
  ---
-泡泡 @paopaonet Android应用1.4发布 <a href="https://play.google.com/store/apps/details?id=org.greatfire.paopao" target="_BLANK">play.google.com/store/apps/details</a> 直接下载地址 <a href="https://t.co/NlNTcWf5y5" target="_BLANK">t.co/NlNTcWf5y5</a> (2014年10月28日 11:20)
+泡泡 @paopaonet Android应用1.4发布 <a href="https://play.google.com/store/apps/details?id=org.greatfire.paopao" target="_BLANK">play.google.com/store/apps/details</a> 直接下载地址 <a href="https://edgecastcdn.net/00107ED/paopao/index.html" target="_BLANK">edgecastcdn.net/00107ED/paopao/index.html</a> (2014年10月28日 11:20)
  ---
 Apple and Microsoft trust Chinese government to protect your communication <a href="https://en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication" target="_BLANK">en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication</a> (2014年10月28日 03:44)
  ---
