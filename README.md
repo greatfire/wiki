@@ -70,6 +70,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @FreeWeibo: 博讯新闻网直接访问地址 <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/</a> 无需翻墙。 技术处理，永远无法被封锁。 更多地址 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年10月29日 12:35)
+ ---
 北京曾多次反对港英政府引入选举 <a href="http://cn.nytimes.com/china/20141028/c28hongkong/" target="_BLANK">cn.nytimes.com/china/20141028/c28hongkong/</a> (2014年10月29日 11:52)
  ---
 方舟子Tumblr被连接重置 <a href="https://zh.greatfire.org/fangzhouzi.tumblr.com" target="_BLANK">zh.greatfire.org/fangzhouzi.tumblr.com</a> (2014年10月29日 11:51)
@@ -107,6 +109,4 @@ RT @iruitui: RT @DawnChen:应用市场可以先搞准入和监管嘛，还搞不
 博讯：令计划的小弟令完成被抓 新华社一干人慌了 免翻墙镜像 <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/news/gb/china/2014/10/201410260845.shtml" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/news/gb/china/2014/10/201410260845.shtml</a> (2014年10月27日 12:23)
  ---
 博讯新闻免翻墙镜像上线，永不被墙！ <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/</a> 其他网址 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年10月27日 12:15)
- ---
-RT @menghanfei: 2014年10月23日，浙江杭州师范大学附属中学举办运动会，58个班级在开幕式上表演“职业梦想show”，一个班级的学生手捧毛主席语录入场…没有人告诉他们史实，这段恐怖的历史于他们就是个cosplay，他们不是傻逼是无知逗逼。 http://t.… (2014年10月27日 12:13)
  ---
