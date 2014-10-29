@@ -70,6 +70,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: 网络监测组织@GreatFireChina 再次呼吁取消CNNIC作为根证书的资格。CNNIC的安全证书被许多开源产品（包括火狐、微软、苹果）默认设置为可信任。据报道CNNIC曾审查网络（并试图隐瞒）、发布恶意软件，安全记录不良。https://t… (2014年10月29日 23:57)
+ ---
 RT @FreeWeibo: 博讯新闻网直接访问地址 <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/</a> 无需翻墙。 技术处理，永远无法被封锁。 更多地址 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年10月29日 12:35)
  ---
 北京曾多次反对港英政府引入选举 <a href="http://cn.nytimes.com/china/20141028/c28hongkong/" target="_BLANK">cn.nytimes.com/china/20141028/c28hongkong/</a> (2014年10月29日 11:52)
@@ -107,6 +109,4 @@ RT @fangshimin: 官方网站接连发表文章批我，如果是要来跟我商�
 RT @iruitui: RT @DawnChen:应用市场可以先搞准入和监管嘛，还搞不死你们？ RT @beidaijin: #标记  冲APP来了：新京报26日讯，今日从全国网信办主任座谈会上获悉，国家网信办将出台APP应用程序发展管理办法。根据国务院授权，国家网信办负责网… (2014年10月27日 13:54)
  ---
 博讯：令计划的小弟令完成被抓 新华社一干人慌了 免翻墙镜像 <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/news/gb/china/2014/10/201410260845.shtml" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/news/gb/china/2014/10/201410260845.shtml</a> (2014年10月27日 12:23)
- ---
-博讯新闻免翻墙镜像上线，永不被墙！ <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/</a> 其他网址 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年10月27日 12:15)
  ---
