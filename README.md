@@ -70,6 +70,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+北京曾多次反对港英政府引入选举 <a href="http://cn.nytimes.com/china/20141028/c28hongkong/" target="_BLANK">cn.nytimes.com/china/20141028/c28hongkong/</a> (2014年10月29日 11:52)
+ ---
+方舟子Tumblr被连接重置 <a href="https://zh.greatfire.org/fangzhouzi.tumblr.com" target="_BLANK">zh.greatfire.org/fangzhouzi.tumblr.com</a> (2014年10月29日 11:51)
+ ---
 RT @19835735991: 梁书记到旺角就餐，服务员递上菜单：“猪肝爆炒豆腐”，梁书记大怒：“怎么只一个菜”，服务员慌忙递上另一本菜谱，上面赫然“豆腐怒炒猪肝”，梁书记怒发冲冠，重重拍了一下桌子：“其它菜呢？”服务员答：“就两菜”梁书记暴怒：“叫你老板来”，服务员说：“我… (2014年10月29日 11:43)
  ---
 RT @ZealYi: 他妈的奇文啊：“近20年前，有高层…差点封杀互联网，另外一群体制内有远见的人，为了保护互联网产业当时幼小的生命，给出了GFW这个折衷方案”。据我所知，千多年前还有一群体制内有远见的人，为了保护侍候皇帝的男人们，给出了阉割这个折衷方案 #此处应有掌声 @H… (2014年10月29日 11:42)
@@ -79,8 +83,6 @@ RT @ZealYi: 他妈的奇文啊：“近20年前，有高层…差点封杀互联
 RT @paopaonet: #兔泡泡Oo 【安全联盟宣布阻止了一次中国黑客行动】发动攻击的黑客组织被称为公理队（Axiom）。它的一个目标是持不同政见的中国公民。安全研究人员发现一个HiKit样本针对的目标是美国的中文机器，中国和香港的电脑都有被发现感染该程序。http://… (2014年10月29日 05:34)
  ---
 China-Linked Hacking Foiled by Private-Sector Sleuthing <a href="http://www.bloomberg.com/news/2014-10-28/china-linked-hacking-foiled-by-private-sector-sleuthing.html" target="_BLANK">www.bloomberg.com/news/2014-10-28/china-linked-hacking-foiled-by-private-sector-sleuthing.html</a> (2014年10月29日 05:33)
- ---
-RT @IlariaMariaSala: In Hong Kong, Fears of a Police Crackdown Online, via @nytimes <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F10%2F29%2Fworld%2Fasia%2Fin-hong-kong-fears-of-a-police-crackdown-online.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年10月29日 05:10)
  ---
 谷歌在华被封150天纪念，免翻墙访问地址，永不被墙！ <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a> <a href="https://wen.lu" target="_BLANK">wen.lu</a> <a href="https://objects.dreamhost.com/goo/index.html" target="_BLANK">objects.dreamhost.com/goo/index.html</a> (2014年10月29日 03:03)
  ---
@@ -107,6 +109,4 @@ RT @iruitui: RT @DawnChen:应用市场可以先搞准入和监管嘛，还搞不
 博讯新闻免翻墙镜像上线，永不被墙！ <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/</a> 其他网址 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年10月27日 12:15)
  ---
 RT @menghanfei: 2014年10月23日，浙江杭州师范大学附属中学举办运动会，58个班级在开幕式上表演“职业梦想show”，一个班级的学生手捧毛主席语录入场…没有人告诉他们史实，这段恐怖的历史于他们就是个cosplay，他们不是傻逼是无知逗逼。 http://t.… (2014年10月27日 12:13)
- ---
-周小平走红是该警惕的危险信号 <a href="http://www.21ccom.net/articles/culture/pinglun/20141009114356.html" target="_BLANK">www.21ccom.net/articles/culture/pinglun/20141009114356.html</a> (2014年10月27日 07:48)
  ---
