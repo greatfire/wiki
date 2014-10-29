@@ -70,6 +70,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @virushuo: 认识老高这么多年，从来没跟他聊起过这些，没想到一次说了这么多。其实很多年前我就明白了，在任何程度上支持gfw有益论的人，都欠缺起码的思考能力。用通俗点的话说，叫做傻逼 RT @gaochunhui 一些牢骚 <a href="http://www.letscorp.net/archives/79025" target="_BLANK">www.letscorp.net/archives/79025</a> (2014年10月30日 00:02)
+ ---
 RT @paopaonet: 网络监测组织@GreatFireChina 再次呼吁取消CNNIC作为根证书的资格。CNNIC的安全证书被许多开源产品（包括火狐、微软、苹果）默认设置为可信任。据报道CNNIC曾审查网络（并试图隐瞒）、发布恶意软件，安全记录不良。https://t… (2014年10月29日 23:57)
  ---
 RT @FreeWeibo: 博讯新闻网直接访问地址 <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/</a> 无需翻墙。 技术处理，永远无法被封锁。 更多地址 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年10月29日 12:35)
@@ -107,6 +109,4 @@ RT @paopaonet: 【 感受公民抗命，黄雨伞游戏应运而生】新近推�
 RT @fangshimin: 官方网站接连发表文章批我，如果是要来跟我商榷，我当然欢迎，我并不能保证我就是百分百正确。但是在批我之前先把我的嘴堵得严严实实的，再扯上美帝阴谋，这种做法，40年前在国内很流行。《新华网：周小平花千芳传递爱国正能量 方舟子发文批驳是苛求》http:… (2014年10月27日 14:00)
  ---
 RT @iruitui: RT @DawnChen:应用市场可以先搞准入和监管嘛，还搞不死你们？ RT @beidaijin: #标记  冲APP来了：新京报26日讯，今日从全国网信办主任座谈会上获悉，国家网信办将出台APP应用程序发展管理办法。根据国务院授权，国家网信办负责网… (2014年10月27日 13:54)
- ---
-博讯：令计划的小弟令完成被抓 新华社一干人慌了 免翻墙镜像 <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/news/gb/china/2014/10/201410260845.shtml" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/news/gb/china/2014/10/201410260845.shtml</a> (2014年10月27日 12:23)
  ---
