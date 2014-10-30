@@ -70,7 +70,9 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-请不要使用聚合数据的 SDK，通讯录全部上传 <a href="https://v2ex.com/t/142645" target="_BLANK">v2ex.com/t/142645</a> (2014年10月31日 06:03)
+RT @iruitui: RT @redsnow7:RT @Aveline_Swan: 请开发者们不要使用聚合数据的 SDK，它会上传用户的完整通讯录。 <a href="http://www.v2ex.com/t/142645#reply0" target="_BLANK">www.v2ex.com/t/142645</a> (2014年10月31日 06:14)
+ ---
+RT @chenshaoju: #呵呵 <a href="https://twitter.com/chenshaoju/status/527829851227443203/photo/1" target="_BLANK">twitter.com/chenshaoju/status/527829851227443203/photo/1</a> (2014年10月31日 06:10)
  ---
 Wunderlist blocked in China <a href="https://en.greatfire.org/www.wunderlist.com" target="_BLANK">en.greatfire.org/www.wunderlist.com</a> (2014年10月31日 05:54)
  ---
@@ -108,6 +110,4 @@ RT @ZealYi: 他妈的奇文啊：“近20年前，有高层…差点封杀互联
 RT @paopaonet: #兔泡泡Oo 【安全联盟宣布阻止了一次中国黑客行动】发动攻击的黑客组织被称为公理队（Axiom）。它的一个目标是持不同政见的中国公民。安全研究人员发现一个HiKit样本针对的目标是美国的中文机器，中国和香港的电脑都有被发现感染该程序。http://… (2014年10月29日 05:34)
  ---
 China-Linked Hacking Foiled by Private-Sector Sleuthing <a href="http://www.bloomberg.com/news/2014-10-28/china-linked-hacking-foiled-by-private-sector-sleuthing.html" target="_BLANK">www.bloomberg.com/news/2014-10-28/china-linked-hacking-foiled-by-private-sector-sleuthing.html</a> (2014年10月29日 05:33)
- ---
-谷歌在华被封150天纪念，免翻墙访问地址，永不被墙！ <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a> <a href="https://wen.lu/" target="_BLANK">wen.lu/</a> <a href="https://objects.dreamhost.com/goo/index.html" target="_BLANK">objects.dreamhost.com/goo/index.html</a> (2014年10月29日 03:03)
  ---
