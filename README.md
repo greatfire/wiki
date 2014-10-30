@@ -70,6 +70,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @chenshaoju: Akamai的CDN域名也被GFW污染了啊……这下事情大条了…… <a href="https://twitter.com/chenshaoju/status/527303977377861632/photo/1" target="_BLANK">twitter.com/chenshaoju/status/527303977377861632/photo/1</a> (2014年10月30日 10:59)
+ ---
 RT @paopaonet: 【又有中国尖端网络间谍机构受FBI关注】网络专家说黑客组织Axiom为中国的国内外政策服务，用不同方法进行商业往来间谍、反间谍及监视异见分子。该机构的5名成员今年受到美国一个大陪审团的指控。<a href="http://www.bbc.co.uk/zhongwen/simp/china/2014/10/141028_axiom_china_cyberespionage_accusations" target="_BLANK">www.bbc.co.uk/zhongwen/simp/china/2014/10/141028_axiom_china_cyberespionage_accusations</a> http:/… (2014年10月30日 08:44)
  ---
 再次呼吁取消CNNIC作为根证书的资格。CNNIC的安全证书被许多微软、苹果,火狐默认设置为可信任。据报道CNNIC审查网络（并试图隐瞒）、发布恶意软件，安全记录不良。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/242" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月30日 00:41)
@@ -107,6 +109,4 @@ RT @rediantoday: [本來人家要殺你全家，現在只強姦了你老婆，�
 Apple and Microsoft trust Chinese government to protect your communication <a href="https://en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication" target="_BLANK">en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication</a> (2014年10月28日 03:44)
  ---
 Mozilla, Microsoft and Apple continue to trust CNNIC, putting user data at risk everywhere. <a href="https://en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication" target="_BLANK">en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication</a> (2014年10月28日 01:27)
- ---
-RT @paopaonet: 【 感受公民抗命，黄雨伞游戏应运而生】新近推出的一款视频游戏可以让没有亲身体验过香港占中抗议的人感受一下这场公民抗命运动。<a href="http://www.scmp.com/news/hong-kong/article/1622165/yellow-umbrella-video-game-tasks-players-defending-occupy-central" target="_BLANK">www.scmp.com/news/hong-kong/article/1622165/yellow-umbrella-video-game-tasks-players-defending-occupy-central</a> <a href="https://twitter.com/paopaonet/status/526753501754687488/photo/1" target="_BLANK">twitter.com/paopaonet/status/526753501754687488/photo/1</a> (2014年10月28日 00:12)
  ---
