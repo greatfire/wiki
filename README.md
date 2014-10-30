@@ -70,6 +70,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+[Breaking News] Viber blocked in China <a href="https://en.greatfire.org/www.viber.com" target="_BLANK">en.greatfire.org/www.viber.com</a> (2014年10月30日 14:11)
+ ---
 RT @galaxy001: @GreatFireChina 应该把有用的写上：
 点击CNNIC的网站<a href="https://www1.cnnic.cn/gywm/CNNICjs/jj/" target="_BLANK">www1.cnnic.cn/gywm/CNNICjs/jj/</a>  ，如果你的浏览器的地址栏中出现了锁标，或者你没有收到任何安全提示，这表明你的浏览器将CNNIC默认为可信任的证书。你也因此可能… (2014年10月30日 11:00)
  ---
@@ -108,6 +110,4 @@ RT @rediantoday: [本來人家要殺你全家，現在只強姦了你老婆，�
 泡泡 @paopaonet Android应用1.4发布 <a href="https://play.google.com/store/apps/details?id=org.greatfire.paopao" target="_BLANK">play.google.com/store/apps/details</a> 直接下载地址 <a href="https://edgecastcdn.net/00107ED/paopao/index.html" target="_BLANK">edgecastcdn.net/00107ED/paopao/index.html</a> (2014年10月28日 11:20)
  ---
 Apple and Microsoft trust Chinese government to protect your communication <a href="https://en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication" target="_BLANK">en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication</a> (2014年10月28日 03:44)
- ---
-Mozilla, Microsoft and Apple continue to trust CNNIC, putting user data at risk everywhere. <a href="https://en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication" target="_BLANK">en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication</a> (2014年10月28日 01:27)
  ---
