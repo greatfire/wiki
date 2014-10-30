@@ -70,6 +70,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @boxun: 【焦点新闻】 感谢GreatFire的镜像技术，方便国内朋友访问博讯 <a href="http://www.peacehall.com/news/gb/editorial/2014/10/201410301248.shtml" target="_BLANK">www.peacehall.com/news/gb/editorial/2014/10/201410301248.shtml</a> (2014年10月31日 02:48)
+ ---
 @sanverde @InBeijingSe @Wunderlist not enough data for test results. Jojje is this the first time it has not worked? <a href="https://en.greatfire.org/www.wunderlist.com" target="_BLANK">en.greatfire.org/www.wunderlist.com</a> (2014年10月30日 20:52)
  ---
 [快讯]Viber今天被墙 <a href="https://zh.greatfire.org/viber.com" target="_BLANK">zh.greatfire.org/viber.com</a> (2014年10月30日 14:29)
@@ -108,6 +110,4 @@ China-Linked Hacking Foiled by Private-Sector Sleuthing <a href="http://www.bloo
 谷歌在华被封150天纪念，免翻墙访问地址，永不被墙！ <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a> <a href="https://wen.lu/" target="_BLANK">wen.lu/</a> <a href="https://objects.dreamhost.com/goo/index.html" target="_BLANK">objects.dreamhost.com/goo/index.html</a> (2014年10月29日 03:03)
  ---
 RT @paopaonet: #泡泡报道 【中国将继续收紧APP管理办法】APP的管制令很多人担心App Store会被封锁，加上当前的苹果CEO库克被认为比前掌门人乔布斯更注重中国大陆的市场，很可能将严格遵从这种中国式监管。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/239" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月29日 02:58)
- ---
-RT @jschauma: How to disable/distrust CNNIC in OS X keychain, firefox. (Re <a href="https://en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication" target="_BLANK">en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication</a>  @GreatFireChina) <a href="https://twitter.com/jschauma/status/527094003951751168/photo/1" target="_BLANK">twitter.com/jschauma/status/527094003951751168/photo/1</a> (2014年10月29日 02:57)
  ---
