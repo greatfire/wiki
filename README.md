@@ -10,7 +10,6 @@
             <td>博讯新闻</td>
             <td>            
                 <a href="https://gs1.wpc.edgecastcdn.net/80107EF/soft.pingfan.pw/boxun/" target="_BLANK">长期有效 1</a>，            
-                <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/" target="_BLANK">长期有效 2</a>，            
                 <a href="https://boxun1.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
                 <a href="https://d2cymee3oy9kh3.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
