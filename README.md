@@ -70,6 +70,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: 各位小伙伴，泡泡记者明天将有机会对话Tor的发言人Jacob Appelbaum，他也曾是维基解密的参与者。有什么想问的问题吗?<a href="http://en.wikipedia.org/wiki/Jacob_Appelbaum" target="_BLANK">en.wikipedia.org/wiki/Jacob_Appelbaum</a> <a href="https://twitter.com/paopaonet/status/527800945334571008/photo/1" target="_BLANK">twitter.com/paopaonet/status/527800945334571008/photo/1</a> (2014年10月31日 07:54)
+ ---
+RT @paopaonet: （外交政策）中国频繁却又含糊其辞地提及对于国家安全的忧虑，以为其钳制网络言论寻求合法性。伊力哈木的不公命运很大程度上反映了中共对互联网的未来概念。对于伊力哈木的判决“切断了用另一种方式思考现状的途径”。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/243" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月31日 07:54)
+ ---
+RT @paopaonet: #泡泡快讯 今天下午，国信办主任鲁炜回应中国无法登陆facebook：“中国没有关过境外的任何一家网站，你的网站在你家里，我怎么可能跑到你家去关掉呢？中国历来都是好客热情的，但是谁到我家作客，我是有选择的。” 泡泡简评：扎克伯格同学哭着对王岐山说，… (2014年10月31日 07:52)
+ ---
 RT @iruitui: RT @redsnow7:RT @Aveline_Swan: 请开发者们不要使用聚合数据的 SDK，它会上传用户的完整通讯录。 <a href="http://www.v2ex.com/t/142645#reply0" target="_BLANK">www.v2ex.com/t/142645</a> (2014年10月31日 06:14)
  ---
 RT @chenshaoju: #呵呵 <a href="https://twitter.com/chenshaoju/status/527829851227443203/photo/1" target="_BLANK">twitter.com/chenshaoju/status/527829851227443203/photo/1</a> (2014年10月31日 06:10)
@@ -104,10 +110,4 @@ RT @paopaonet: 网络监测组织@GreatFireChina 再次呼吁取消CNNIC作为�
 RT @19835735991: 梁书记到旺角就餐，服务员递上菜单：“猪肝爆炒豆腐”，梁书记大怒：“怎么只一个菜”，服务员慌忙递上另一本菜谱，上面赫然“豆腐怒炒猪肝”，梁书记怒发冲冠，重重拍了一下桌子：“其它菜呢？”服务员答：“就两菜”梁书记暴怒：“叫你老板来”，服务员说：“我… (2014年10月29日 11:43)
  ---
 RT @ZealYi: 他妈的奇文啊：“近20年前，有高层…差点封杀互联网，另外一群体制内有远见的人，为了保护互联网产业当时幼小的生命，给出了GFW这个折衷方案”。据我所知，千多年前还有一群体制内有远见的人，为了保护侍候皇帝的男人们，给出了阉割这个折衷方案 #此处应有掌声 @H… (2014年10月29日 11:42)
- ---
-香港近九成示威者表示要坚持一年以上--路透非正式调查 <a href="http://cn.reuters.com/article/CNAnalysesNews/idCNKBS0IH2I920141028?sp=true" target="_BLANK">cn.reuters.com/article/CNAnalysesNews/idCNKBS0IH2I920141028</a> 颤抖吧，政府 (2014年10月29日 11:40)
- ---
-RT @paopaonet: #兔泡泡Oo 【安全联盟宣布阻止了一次中国黑客行动】发动攻击的黑客组织被称为公理队（Axiom）。它的一个目标是持不同政见的中国公民。安全研究人员发现一个HiKit样本针对的目标是美国的中文机器，中国和香港的电脑都有被发现感染该程序。http://… (2014年10月29日 05:34)
- ---
-China-Linked Hacking Foiled by Private-Sector Sleuthing <a href="http://www.bloomberg.com/news/2014-10-28/china-linked-hacking-foiled-by-private-sector-sleuthing.html" target="_BLANK">www.bloomberg.com/news/2014-10-28/china-linked-hacking-foiled-by-private-sector-sleuthing.html</a> (2014年10月29日 05:33)
  ---
