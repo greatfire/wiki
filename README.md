@@ -70,6 +70,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+请不要使用聚合数据的 SDK，通讯录全部上传 <a href="https://v2ex.com/t/142645" target="_BLANK">v2ex.com/t/142645</a> (2014年10月31日 06:03)
+ ---
 Wunderlist blocked in China <a href="https://en.greatfire.org/www.wunderlist.com" target="_BLANK">en.greatfire.org/www.wunderlist.com</a> (2014年10月31日 05:54)
  ---
 RT @boxun: 【焦点新闻】 感谢GreatFire的镜像技术，方便国内朋友访问博讯 <a href="http://www.peacehall.com/news/gb/editorial/2014/10/201410301248.shtml" target="_BLANK">www.peacehall.com/news/gb/editorial/2014/10/201410301248.shtml</a> (2014年10月31日 02:48)
@@ -108,6 +110,4 @@ RT @paopaonet: #兔泡泡Oo 【安全联盟宣布阻止了一次中国黑客行�
 China-Linked Hacking Foiled by Private-Sector Sleuthing <a href="http://www.bloomberg.com/news/2014-10-28/china-linked-hacking-foiled-by-private-sector-sleuthing.html" target="_BLANK">www.bloomberg.com/news/2014-10-28/china-linked-hacking-foiled-by-private-sector-sleuthing.html</a> (2014年10月29日 05:33)
  ---
 谷歌在华被封150天纪念，免翻墙访问地址，永不被墙！ <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a> <a href="https://wen.lu/" target="_BLANK">wen.lu/</a> <a href="https://objects.dreamhost.com/goo/index.html" target="_BLANK">objects.dreamhost.com/goo/index.html</a> (2014年10月29日 03:03)
- ---
-RT @paopaonet: #泡泡报道 【中国将继续收紧APP管理办法】APP的管制令很多人担心App Store会被封锁，加上当前的苹果CEO库克被认为比前掌门人乔布斯更注重中国大陆的市场，很可能将严格遵从这种中国式监管。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/239" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月29日 02:58)
  ---
