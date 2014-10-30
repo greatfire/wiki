@@ -83,8 +83,6 @@ RT @virushuo: 认识老高这么多年，从来没跟他聊起过这些，没想
  ---
 RT @paopaonet: 网络监测组织@GreatFireChina 再次呼吁取消CNNIC作为根证书的资格。CNNIC的安全证书被许多开源产品（包括火狐、微软、苹果）默认设置为可信任。据报道CNNIC曾审查网络（并试图隐瞒）、发布恶意软件，安全记录不良。https://t… (2014年10月29日 23:57)
  ---
-RT @FreeWeibo: 博讯新闻网直接访问地址 <a href="https://ssl2.cdngc.net/cdn2.cfmc.co/boxun/" target="_BLANK">ssl2.cdngc.net/cdn2.cfmc.co/boxun/</a> 无需翻墙。 技术处理，永远无法被封锁。 更多地址 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年10月29日 12:35)
- ---
 北京曾多次反对港英政府引入选举 <a href="http://cn.nytimes.com/china/20141028/c28hongkong/" target="_BLANK">cn.nytimes.com/china/20141028/c28hongkong/</a> (2014年10月29日 11:52)
  ---
 方舟子Tumblr被连接重置 <a href="https://zh.greatfire.org/fangzhouzi.tumblr.com" target="_BLANK">zh.greatfire.org/fangzhouzi.tumblr.com</a> (2014年10月29日 11:51)
@@ -110,4 +108,6 @@ RT @rediantoday: [本來人家要殺你全家，現在只強姦了你老婆，�
 泡泡 @paopaonet Android应用1.4发布 <a href="https://play.google.com/store/apps/details?id=org.greatfire.paopao" target="_BLANK">play.google.com/store/apps/details</a> 直接下载地址 <a href="https://edgecastcdn.net/00107ED/paopao/index.html" target="_BLANK">edgecastcdn.net/00107ED/paopao/index.html</a> (2014年10月28日 11:20)
  ---
 Apple and Microsoft trust Chinese government to protect your communication <a href="https://en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication" target="_BLANK">en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication</a> (2014年10月28日 03:44)
+ ---
+Mozilla, Microsoft and Apple continue to trust CNNIC, putting user data at risk everywhere. <a href="https://en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication" target="_BLANK">en.greatfire.org/blog/2014/oct/apple-and-microsoft-trust-chinese-government-protect-your-communication</a> (2014年10月28日 01:27)
  ---
