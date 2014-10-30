@@ -70,9 +70,9 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-RT @boxun: 【焦点新闻】 感谢GreatFire的镜像技术，方便国内朋友访问博讯 <a href="http://www.peacehall.com/news/gb/editorial/2014/10/201410301248.shtml" target="_BLANK">www.peacehall.com/news/gb/editorial/2014/10/201410301248.shtml</a> (2014年10月31日 02:48)
+Wunderlist blocked in China <a href="https://en.greatfire.org/www.wunderlist.com" target="_BLANK">en.greatfire.org/www.wunderlist.com</a> (2014年10月31日 05:54)
  ---
-@sanverde @InBeijingSe @Wunderlist not enough data for test results. Jojje is this the first time it has not worked? <a href="https://en.greatfire.org/www.wunderlist.com" target="_BLANK">en.greatfire.org/www.wunderlist.com</a> (2014年10月30日 20:52)
+RT @boxun: 【焦点新闻】 感谢GreatFire的镜像技术，方便国内朋友访问博讯 <a href="http://www.peacehall.com/news/gb/editorial/2014/10/201410301248.shtml" target="_BLANK">www.peacehall.com/news/gb/editorial/2014/10/201410301248.shtml</a> (2014年10月31日 02:48)
  ---
 [快讯]Viber今天被墙 <a href="https://zh.greatfire.org/viber.com" target="_BLANK">zh.greatfire.org/viber.com</a> (2014年10月30日 14:29)
  ---
