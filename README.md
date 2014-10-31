@@ -71,6 +71,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @dtiffroberts: "I've never shut down a website outside of China," says Internet czar <a href="http://www.reuters.com/article/2014/10/30/china-cybersecurity-idUSL4N0SP2QE20141030" target="_BLANK">www.reuters.com/article/2014/10/30/china-cybersecurity-idUSL4N0SP2QE20141030</a> via @ReutersChina ...Thanks,… (2014年10月31日 20:30)
+ ---
 RT @TheEIU_China: Government plaudits &amp; support for blowhards like Zhou Xiaoping say a lot about what's wrong with #China's media. http://t… (2014年10月31日 18:47)
  ---
 【异闻观止】中国网 | 鲁炜：没关过境外任何一家网站 <a href="https://edgecastcdn.net/00107ED/cdt/?u=/chinese/2014/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E7%BD%91-%E9%B2%81%E7%82%9C%EF%BC%9A%E6%B2%A1%E5%85%B3%E8%BF%87%E5%A2%83%E5%A4%96%E4%BB%BB%E4%BD%95%E4%B8%80%E5%AE%B6/" target="_BLANK">edgecastcdn.net/00107ED/cdt/</a> (2014年10月31日 09:16)
@@ -109,6 +111,4 @@ RT @paopaonet: 【又有中国尖端网络间谍机构受FBI关注】网络专�
 RT @virushuo: 认识老高这么多年，从来没跟他聊起过这些，没想到一次说了这么多。其实很多年前我就明白了，在任何程度上支持gfw有益论的人，都欠缺起码的思考能力。用通俗点的话说，叫做傻逼 RT @gaochunhui 一些牢骚 <a href="http://www.letscorp.net/archives/79025" target="_BLANK">www.letscorp.net/archives/79025</a> (2014年10月30日 00:02)
  ---
 RT @paopaonet: 网络监测组织@GreatFireChina 再次呼吁取消CNNIC作为根证书的资格。CNNIC的安全证书被许多开源产品（包括火狐、微软、苹果）默认设置为可信任。据报道CNNIC曾审查网络（并试图隐瞒）、发布恶意软件，安全记录不良。https://t… (2014年10月29日 23:57)
- ---
-北京曾多次反对港英政府引入选举 <a href="http://cn.nytimes.com/china/20141028/c28hongkong/" target="_BLANK">cn.nytimes.com/china/20141028/c28hongkong/</a> (2014年10月29日 11:52)
  ---
