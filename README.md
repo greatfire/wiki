@@ -71,6 +71,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @TheEIU_China: Government plaudits &amp; support for blowhards like Zhou Xiaoping say a lot about what's wrong with #China's media. http://t… (2014年10月31日 18:47)
+ ---
 【异闻观止】中国网 | 鲁炜：没关过境外任何一家网站 <a href="https://edgecastcdn.net/00107ED/cdt/?u=/chinese/2014/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E7%BD%91-%E9%B2%81%E7%82%9C%EF%BC%9A%E6%B2%A1%E5%85%B3%E8%BF%87%E5%A2%83%E5%A4%96%E4%BB%BB%E4%BD%95%E4%B8%80%E5%AE%B6/" target="_BLANK">edgecastcdn.net/00107ED/cdt/</a> (2014年10月31日 09:16)
  ---
 RT @paopaonet: 泡泡 @paopaonet Android应用1.4发布 <a href="https://play.google.com/store/apps/details?id=org.greatfire.paopao" target="_BLANK">play.google.com/store/apps/details</a> … 直接下载地址 <a href="https://edgecastcdn.net/00107ED/paopao/index.html" target="_BLANK">edgecastcdn.net/00107ED/paopao/index.html</a> <a href="https://twitter.com/paopaonet/status/527411579504324609/photo/1" target="_BLANK">twitter.com/paopaonet/status/527411579504324609/photo/1</a> (2014年10月31日 07:55)
@@ -109,6 +111,4 @@ RT @virushuo: 认识老高这么多年，从来没跟他聊起过这些，没想
 RT @paopaonet: 网络监测组织@GreatFireChina 再次呼吁取消CNNIC作为根证书的资格。CNNIC的安全证书被许多开源产品（包括火狐、微软、苹果）默认设置为可信任。据报道CNNIC曾审查网络（并试图隐瞒）、发布恶意软件，安全记录不良。https://t… (2014年10月29日 23:57)
  ---
 北京曾多次反对港英政府引入选举 <a href="http://cn.nytimes.com/china/20141028/c28hongkong/" target="_BLANK">cn.nytimes.com/china/20141028/c28hongkong/</a> (2014年10月29日 11:52)
- ---
-方舟子Tumblr被连接重置 <a href="https://zh.greatfire.org/fangzhouzi.tumblr.com" target="_BLANK">zh.greatfire.org/fangzhouzi.tumblr.com</a> (2014年10月29日 11:51)
  ---
