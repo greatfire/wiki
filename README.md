@@ -70,6 +70,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: 泡泡 @paopaonet Android应用1.4发布 <a href="https://play.google.com/store/apps/details?id=org.greatfire.paopao" target="_BLANK">play.google.com/store/apps/details</a> … 直接下载地址 <a href="https://edgecastcdn.net/00107ED/paopao/index.html" target="_BLANK">edgecastcdn.net/00107ED/paopao/index.html</a> <a href="https://twitter.com/paopaonet/status/527411579504324609/photo/1" target="_BLANK">twitter.com/paopaonet/status/527411579504324609/photo/1</a> (2014年10月31日 07:55)
+ ---
 RT @paopaonet: 各位小伙伴，泡泡记者明天将有机会对话Tor的发言人Jacob Appelbaum，他也曾是维基解密的参与者。有什么想问的问题吗?<a href="http://en.wikipedia.org/wiki/Jacob_Appelbaum" target="_BLANK">en.wikipedia.org/wiki/Jacob_Appelbaum</a> <a href="https://twitter.com/paopaonet/status/527800945334571008/photo/1" target="_BLANK">twitter.com/paopaonet/status/527800945334571008/photo/1</a> (2014年10月31日 07:54)
  ---
 RT @paopaonet: （外交政策）中国频繁却又含糊其辞地提及对于国家安全的忧虑，以为其钳制网络言论寻求合法性。伊力哈木的不公命运很大程度上反映了中共对互联网的未来概念。对于伊力哈木的判决“切断了用另一种方式思考现状的途径”。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/243" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月31日 07:54)
@@ -108,6 +110,4 @@ RT @paopaonet: 网络监测组织@GreatFireChina 再次呼吁取消CNNIC作为�
 方舟子Tumblr被连接重置 <a href="https://zh.greatfire.org/fangzhouzi.tumblr.com" target="_BLANK">zh.greatfire.org/fangzhouzi.tumblr.com</a> (2014年10月29日 11:51)
  ---
 RT @19835735991: 梁书记到旺角就餐，服务员递上菜单：“猪肝爆炒豆腐”，梁书记大怒：“怎么只一个菜”，服务员慌忙递上另一本菜谱，上面赫然“豆腐怒炒猪肝”，梁书记怒发冲冠，重重拍了一下桌子：“其它菜呢？”服务员答：“就两菜”梁书记暴怒：“叫你老板来”，服务员说：“我… (2014年10月29日 11:43)
- ---
-RT @ZealYi: 他妈的奇文啊：“近20年前，有高层…差点封杀互联网，另外一群体制内有远见的人，为了保护互联网产业当时幼小的生命，给出了GFW这个折衷方案”。据我所知，千多年前还有一群体制内有远见的人，为了保护侍候皇帝的男人们，给出了阉割这个折衷方案 #此处应有掌声 @H… (2014年10月29日 11:42)
  ---
