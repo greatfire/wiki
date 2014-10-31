@@ -7,11 +7,21 @@
     </thead>
     <tbody>    
         <tr>
-            <td>博讯新闻</td>
+            <td>泡泡</td>
             <td>            
-                <a href="https://gs1.wpc.edgecastcdn.net/80107EF/soft.pingfan.pw/boxun/" target="_BLANK">长期有效 1</a>，            
-                <a href="https://boxun1.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
-                <a href="https://d2cymee3oy9kh3.cloudfront.net" target="_BLANK">短期有效 2</a>
+                <a href="https://edgecastcdn.net/00107ED/paopao/" target="_BLANK">长期有效 1</a>，            
+                <a href="https://objects.dreamhost.com/paopao/index.html" target="_BLANK">长期有效 2</a>，            
+                <a href="https://paopao2.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
+                <a href="https://d19ysv8o6fv16v.cloudfront.net" target="_BLANK">短期有效 2</a>
+            </td>
+        </tr>    
+        <tr>
+            <td>Google 搜索</td>
+            <td>            
+                <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">长期有效 1</a>，            
+                <a href="https://objects.dreamhost.com/goo/index.html" target="_BLANK">长期有效 2</a>，            
+                <a href="https://865ba.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
+                <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
         </tr>    
         <tr>
@@ -33,15 +43,6 @@
             </td>
         </tr>    
         <tr>
-            <td>Google 搜索</td>
-            <td>            
-                <a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">长期有效 1</a>，            
-                <a href="https://objects.dreamhost.com/goo/index.html" target="_BLANK">长期有效 2</a>，            
-                <a href="https://865ba.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
-                <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="_BLANK">短期有效 2</a>
-            </td>
-        </tr>    
-        <tr>
             <td>蓝灯/Lantern</td>
             <td>            
                 <a href="https://edgecastcdn.net/00107ED/lantern/" target="_BLANK">长期有效 1</a>，            
@@ -51,12 +52,11 @@
             </td>
         </tr>    
         <tr>
-            <td>泡泡</td>
+            <td>博讯新闻</td>
             <td>            
-                <a href="https://edgecastcdn.net/00107ED/paopao/" target="_BLANK">长期有效 1</a>，            
-                <a href="https://objects.dreamhost.com/paopao/index.html" target="_BLANK">长期有效 2</a>，            
-                <a href="https://paopao2.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
-                <a href="https://d19ysv8o6fv16v.cloudfront.net" target="_BLANK">短期有效 2</a>
+                <a href="https://gs1.wpc.edgecastcdn.net/80107EF/soft.pingfan.pw/boxun/" target="_BLANK">长期有效 1</a>，            
+                <a href="https://boxun1.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
+                <a href="https://d2cymee3oy9kh3.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
         </tr>
     </tbody>
