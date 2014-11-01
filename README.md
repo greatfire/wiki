@@ -85,7 +85,7 @@ RT @paopaonet: （外交政策）中国频繁却又含糊其辞地提及对于�
  ---
 RT @paopaonet: #泡泡快讯 今天下午，国信办主任鲁炜回应中国无法登陆facebook：“中国没有关过境外的任何一家网站，你的网站在你家里，我怎么可能跑到你家去关掉呢？中国历来都是好客热情的，但是谁到我家作客，我是有选择的。” 泡泡简评：扎克伯格同学哭着对王岐山说，… (2014年10月31日 07:52)
  ---
-RT @iruitui: RT @redsnow7:RT @Aveline_Swan: 请开发者们不要使用聚合数据的 SDK，它会上传用户的完整通讯录。 <a href="http://t.co/d72hlizOHg" target="_BLANK">t.co/d72hlizOHg</a> (2014年10月31日 06:14)
+RT @iruitui: RT @redsnow7:RT @Aveline_Swan: 请开发者们不要使用聚合数据的 SDK，它会上传用户的完整通讯录。 <a href="http://www.v2ex.com/t/142645#reply0" target="_BLANK">www.v2ex.com/t/142645</a> (2014年10月31日 06:14)
  ---
 RT @chenshaoju: #呵呵 <a href="https://twitter.com/chenshaoju/status/527829851227443203/photo/1" target="_BLANK">twitter.com/chenshaoju/status/527829851227443203/photo/1</a> (2014年10月31日 06:10)
  ---
