@@ -71,6 +71,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+.@phuslu @LibertyCN 使用Google镜像代替吧，虽然不能访问Gmail，但搜索还是可以的 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年11月02日 05:59)
+ ---
+RT @phuslu: 随着 imouto 随着 GGC IP 被封而宣布放弃维护，Hosts 翻墙方式基本退出历史舞台了。原理相同的 GAE 估计离谢幕也不远了。“忍看朋辈成新鬼” 之余，goagent 也打算在未来某个事件放弃 GAE 了。 (2014年11月02日 05:55)
+ ---
 RT @beidaijin: #标记 “搜狐美剧被停播”事件成真，总局将颁限外令]。据公号娱乐 on call爆料，广电即将出台对境外剧管理政策   详见：<a href="http://ww4.sinaimg.cn/bmiddle/c14d47b8gw1elukv73qucj20c818edo0.jpg" target="_BLANK">ww4.sinaimg.cn/bmiddle/c14d47b8gw1elukv73qucj20c818edo0.jpg</a> (2014年11月02日 05:46)
  ---
 RT @phuslu: 之前我对这个国家总是心怀希望，总觉得在自己的有生之年能够见证中国的实质进步。但是最近的种种事件打了我的幻想，我现在渴望移民的心情从未如此强烈。尤其这段时间被公司派到国外出差，这些天的经历让我觉得即使到国外做个二等公民，也抵得上逃离这个国度。 (2014年11月02日 05:45)
@@ -107,8 +111,4 @@ RT @FreeWeibo: 博讯新闻网直接访问地址 <a href="https://gs1.wpc.edgeca
  ---
 RT @galaxy001: @GreatFireChina 应该把有用的写上：
 点击CNNIC的网站<a href="https://www1.cnnic.cn/gywm/CNNICjs/jj/" target="_BLANK">www1.cnnic.cn/gywm/CNNICjs/jj/</a>  ，如果你的浏览器的地址栏中出现了锁标，或者你没有收到任何安全提示，这表明你的浏览器将CNNIC默认为可信任的证书。你也因此可能… (2014年10月30日 11:00)
- ---
-RT @chenshaoju: Akamai的CDN域名也被GFW污染了啊……这下事情大条了…… <a href="https://twitter.com/chenshaoju/status/527303977377861632/photo/1" target="_BLANK">twitter.com/chenshaoju/status/527303977377861632/photo/1</a> (2014年10月30日 10:59)
- ---
-RT @paopaonet: 【又有中国尖端网络间谍机构受FBI关注】网络专家说黑客组织Axiom为中国的国内外政策服务，用不同方法进行商业往来间谍、反间谍及监视异见分子。该机构的5名成员今年受到美国一个大陪审团的指控。<a href="http://www.bbc.co.uk/zhongwen/simp/china/2014/10/141028_axiom_china_cyberespionage_accusations" target="_BLANK">www.bbc.co.uk/zhongwen/simp/china/2014/10/141028_axiom_china_cyberespionage_accusations</a> http:/… (2014年10月30日 08:44)
  ---
