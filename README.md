@@ -71,6 +71,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @tatamama: 我了解一些上了岁数的人爱看新闻联播的感觉，每天吃完饭往沙发一坐，看着熟悉的播音员把一天的大事娓娓道来，看着国家欣欣向荣人民幸福，潜意识里，是一种领导听下属汇报工作的状态，似乎在这个世界自己还受到重视，这些平常和自己子女都难见一面的孤独老人，就这样获得… (2014年11月02日 05:40)
+ ---
 RT @dtiffroberts: "I've never shut down a website outside of China," says Internet czar <a href="http://www.reuters.com/article/2014/10/30/china-cybersecurity-idUSL4N0SP2QE20141030" target="_BLANK">www.reuters.com/article/2014/10/30/china-cybersecurity-idUSL4N0SP2QE20141030</a> via @ReutersChina ...Thanks,… (2014年10月31日 20:30)
  ---
 RT @TheEIU_China: Government plaudits &amp; support for blowhards like Zhou Xiaoping say a lot about what's wrong with #China's media. http://t… (2014年10月31日 18:47)
@@ -109,6 +111,4 @@ RT @paopaonet: 【又有中国尖端网络间谍机构受FBI关注】网络专�
 再次呼吁取消CNNIC作为根证书的资格。CNNIC的安全证书被许多微软、苹果,火狐默认设置为可信任。据报道CNNIC审查网络（并试图隐瞒）、发布恶意软件，安全记录不良。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/242" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月30日 00:41)
  ---
 RT @virushuo: 认识老高这么多年，从来没跟他聊起过这些，没想到一次说了这么多。其实很多年前我就明白了，在任何程度上支持gfw有益论的人，都欠缺起码的思考能力。用通俗点的话说，叫做傻逼 RT @gaochunhui 一些牢骚 <a href="http://www.letscorp.net/archives/79025" target="_BLANK">www.letscorp.net/archives/79025</a> (2014年10月30日 00:02)
- ---
-RT @paopaonet: 网络监测组织@GreatFireChina 再次呼吁取消CNNIC作为根证书的资格。CNNIC的安全证书被许多开源产品（包括火狐、微软、苹果）默认设置为可信任。据报道CNNIC曾审查网络（并试图隐瞒）、发布恶意软件，安全记录不良。https://t… (2014年10月29日 23:57)
  ---
