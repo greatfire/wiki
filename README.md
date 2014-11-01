@@ -71,6 +71,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+香港学生考虑赴北京抗议 <a href="http://cn.wsj.com/gb/20141031/bch110949.asp" target="_BLANK">cn.wsj.com/gb/20141031/bch110949.asp</a> (2014年11月02日 06:10)
+ ---
 .@phuslu @LibertyCN 使用Google镜像代替吧，虽然不能访问Gmail，但搜索还是可以的 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年11月02日 05:59)
  ---
 RT @phuslu: 随着 imouto 随着 GGC IP 被封而宣布放弃维护，Hosts 翻墙方式基本退出历史舞台了。原理相同的 GAE 估计离谢幕也不远了。“忍看朋辈成新鬼” 之余，goagent 也打算在未来某个事件放弃 GAE 了。 (2014年11月02日 05:55)
@@ -108,7 +110,4 @@ RT @boxun: 【焦点新闻】 感谢GreatFire的镜像技术，方便国内朋�
 RT @FreeWeibo: 博讯新闻网直接访问地址 <a href="https://gs1.wpc.edgecastcdn.net/80107EF/soft.pingfan.pw/boxun/" target="_BLANK">gs1.wpc.edgecastcdn.net/80107EF/soft.pingfan.pw/boxun/</a> 无需翻墙。 技术处理，永远无法被封锁。 更多地址 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年10月30日 14:19)
  ---
 [Breaking News] Viber blocked in China <a href="https://en.greatfire.org/www.viber.com" target="_BLANK">en.greatfire.org/www.viber.com</a> (2014年10月30日 14:11)
- ---
-RT @galaxy001: @GreatFireChina 应该把有用的写上：
-点击CNNIC的网站<a href="https://www1.cnnic.cn/gywm/CNNICjs/jj/" target="_BLANK">www1.cnnic.cn/gywm/CNNICjs/jj/</a>  ，如果你的浏览器的地址栏中出现了锁标，或者你没有收到任何安全提示，这表明你的浏览器将CNNIC默认为可信任的证书。你也因此可能… (2014年10月30日 11:00)
  ---
