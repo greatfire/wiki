@@ -71,6 +71,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @remonwangxt: 有網友告訴我他因為在微博上轉發了我諷刺習逼格逼格和周帶魚的漫畫遭到传唤，公安追问他漫畫里的主角是谁。留置數小时后該網友被釋放。習逼格逼格先是召開文藝座談會，最近又模仿毛祖召開新“古田會議”，大陸七十多位網友聲援佔中被拘，現在轉發漫畫也會被傳喚，… (2014年11月02日 15:09)
+ ---
 RT @micahflee: 1EBF 5F15 850C 540B 3142 F158 4BDD 496D 4C6C 5F25 (2014年11月02日 14:43)
  ---
 RT @paopaonet: #泡泡快讯 【Viber信息服务被中国封锁】根据今天@GreatFireChina 的报告，Viber已成为最新一家在中国被封锁的聊天应用服务。<a href="http://techcrunch.cn/2014/10/31/messaging-app-and-voice-calling-provider-viber-is-now-blocked-in-china/" target="_BLANK">techcrunch.cn/2014/10/31/messaging-app-and-voice-calling-provider-viber-is-now-blocked-in-china/</a> <a href="https://twitter.com/paopaonet/status/528119591877083136/photo/1" target="_BLANK">twitter.com/paopaonet/status/528119591877083136/photo/1</a> (2014年11月02日 12:26)
@@ -108,6 +110,4 @@ RT @paopaonet: #泡泡快讯 今天下午，国信办主任鲁炜回应中国无
 RT @iruitui: RT @redsnow7:RT @Aveline_Swan: 请开发者们不要使用聚合数据的 SDK，它会上传用户的完整通讯录。 <a href="http://www.v2ex.com/t/142645#reply0" target="_BLANK">www.v2ex.com/t/142645</a> (2014年10月31日 06:14)
  ---
 RT @chenshaoju: #呵呵 <a href="https://twitter.com/chenshaoju/status/527829851227443203/photo/1" target="_BLANK">twitter.com/chenshaoju/status/527829851227443203/photo/1</a> (2014年10月31日 06:10)
- ---
-Wunderlist blocked in China <a href="https://en.greatfire.org/www.wunderlist.com" target="_BLANK">en.greatfire.org/www.wunderlist.com</a> (2014年10月31日 05:54)
  ---
