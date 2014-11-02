@@ -71,6 +71,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: #泡泡快讯 【Viber信息服务被中国封锁】根据今天@GreatFireChina 的报告，Viber已成为最新一家在中国被封锁的聊天应用服务。<a href="http://techcrunch.cn/2014/10/31/messaging-app-and-voice-calling-provider-viber-is-now-blocked-in-china/" target="_BLANK">techcrunch.cn/2014/10/31/messaging-app-and-voice-calling-provider-viber-is-now-blocked-in-china/</a> <a href="https://twitter.com/paopaonet/status/528119591877083136/photo/1" target="_BLANK">twitter.com/paopaonet/status/528119591877083136/photo/1</a> (2014年11月02日 12:26)
+ ---
 Gists by GitHub is blocked in China <a href="https://en.greatfire.org/https/gist.github.com" target="_BLANK">en.greatfire.org/https/gist.github.com</a> Github itself is currently not blocked. (2014年11月02日 12:17)
  ---
 @laoyang945 @phuslu 中国Skype新版不再有（中国政府的）监控了 <a href="https://zh.greatfire.org/blog/2013/nov/small-step-microsoft-huge-improvement-chinese-users" target="_BLANK">zh.greatfire.org/blog/2013/nov/small-step-microsoft-huge-improvement-chinese-users</a> (2014年11月02日 12:06)
@@ -108,6 +110,4 @@ RT @chenshaoju: #呵呵 <a href="https://twitter.com/chenshaoju/status/527829851
 Wunderlist blocked in China <a href="https://en.greatfire.org/www.wunderlist.com" target="_BLANK">en.greatfire.org/www.wunderlist.com</a> (2014年10月31日 05:54)
  ---
 RT @boxun: 【焦点新闻】 感谢GreatFire的镜像技术，方便国内朋友访问博讯 <a href="http://www.peacehall.com/news/gb/editorial/2014/10/201410301248.shtml" target="_BLANK">www.peacehall.com/news/gb/editorial/2014/10/201410301248.shtml</a> (2014年10月31日 02:48)
- ---
-[快讯]Viber今天被墙 <a href="https://zh.greatfire.org/viber.com" target="_BLANK">zh.greatfire.org/viber.com</a> (2014年10月30日 14:29)
  ---
