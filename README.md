@@ -71,6 +71,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@laoyang945 @phuslu 中国Skype新版不再有（中国政府的）监控了 <a href="https://zh.greatfire.org/blog/2013/nov/small-step-microsoft-huge-improvement-chinese-users" target="_BLANK">zh.greatfire.org/blog/2013/nov/small-step-microsoft-huge-improvement-chinese-users</a> (2014年11月02日 12:06)
+ ---
 香港学生考虑赴北京抗议 <a href="http://cn.wsj.com/gb/20141031/bch110949.asp" target="_BLANK">cn.wsj.com/gb/20141031/bch110949.asp</a> (2014年11月02日 06:10)
  ---
 .@phuslu @LibertyCN 使用Google镜像代替吧，虽然不能访问Gmail，但搜索还是可以的 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年11月02日 05:59)
@@ -108,6 +110,4 @@ RT @boxun: 【焦点新闻】 感谢GreatFire的镜像技术，方便国内朋�
 [快讯]Viber今天被墙 <a href="https://zh.greatfire.org/viber.com" target="_BLANK">zh.greatfire.org/viber.com</a> (2014年10月30日 14:29)
  ---
 RT @FreeWeibo: 博讯新闻网直接访问地址 <a href="https://gs1.wpc.edgecastcdn.net/80107EF/soft.pingfan.pw/boxun/" target="_BLANK">gs1.wpc.edgecastcdn.net/80107EF/soft.pingfan.pw/boxun/</a> 无需翻墙。 技术处理，永远无法被封锁。 更多地址 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年10月30日 14:19)
- ---
-[Breaking News] Viber blocked in China <a href="https://en.greatfire.org/www.viber.com" target="_BLANK">en.greatfire.org/www.viber.com</a> (2014年10月30日 14:11)
  ---
