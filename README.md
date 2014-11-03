@@ -71,6 +71,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @YuanLu1: @chengr28 Google策略有问题，如果不是逐步忍让渐次退缩而是一上来就把高强度加密推到所有服务再官方明目张胆提供GoAgent类方案给本朝所有个人商业用户那GFW倒真要犯难了。说到底还是对天朝当局估计不足，且严重不足。 (2014年11月04日 04:14)
+ ---
+RT @paopaonet: 【GFW封锁只是国民待遇？】泰国前总理游中国，社交媒体频跟新让国内很多无法使用的读者充满疑问。对此中国数字时代解释:外国电话号码到大陆使用国际漫游所有社交平台都可以畅通无阻的使用，封锁的只是中国国内号码。@GreatFireChina http:/… (2014年11月04日 04:12)
+ ---
 捆绑安装浏览器：技术剖析搜狗输入法中的猫腻 <a href="http://www.freebuf.com/tools/49546.html" target="_BLANK">www.freebuf.com/tools/49546.html</a> (2014年11月04日 04:01)
  ---
 微软升级skype 通过加密反审查 <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/247" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年11月04日 03:51)
@@ -106,8 +110,4 @@ RT @dtiffroberts: "I've never shut down a website outside of China," says Intern
 RT @TheEIU_China: Government plaudits &amp; support for blowhards like Zhou Xiaoping say a lot about what's wrong with #China's media. http://t… (2014年10月31日 18:47)
  ---
 【异闻观止】中国网 | 鲁炜：没关过境外任何一家网站 <a href="https://edgecastcdn.net/00107ED/cdt/?u=/chinese/2014/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E7%BD%91-%E9%B2%81%E7%82%9C%EF%BC%9A%E6%B2%A1%E5%85%B3%E8%BF%87%E5%A2%83%E5%A4%96%E4%BB%BB%E4%BD%95%E4%B8%80%E5%AE%B6/" target="_BLANK">edgecastcdn.net/00107ED/cdt/</a> (2014年10月31日 09:16)
- ---
-RT @paopaonet: 泡泡 @paopaonet Android应用1.4发布 <a href="https://play.google.com/store/apps/details?id=org.greatfire.paopao" target="_BLANK">play.google.com/store/apps/details</a> … 直接下载地址 <a href="https://edgecastcdn.net/00107ED/paopao/index.html" target="_BLANK">edgecastcdn.net/00107ED/paopao/index.html</a> <a href="https://twitter.com/paopaonet/status/527411579504324609/photo/1" target="_BLANK">twitter.com/paopaonet/status/527411579504324609/photo/1</a> (2014年10月31日 07:55)
- ---
-RT @paopaonet: 各位小伙伴，泡泡记者明天将有机会对话Tor的发言人Jacob Appelbaum，他也曾是维基解密的参与者。有什么想问的问题吗?<a href="http://en.wikipedia.org/wiki/Jacob_Appelbaum" target="_BLANK">en.wikipedia.org/wiki/Jacob_Appelbaum</a> <a href="https://twitter.com/paopaonet/status/527800945334571008/photo/1" target="_BLANK">twitter.com/paopaonet/status/527800945334571008/photo/1</a> (2014年10月31日 07:54)
  ---
