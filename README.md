@@ -71,6 +71,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @tmagazinecn: 在美国明尼阿波利斯的英华学院，四年级以下所有学科都以中文授课，学生甚至还做广播操。全浸入式汉语教学正在海外兴起，得到美国政府拨款，中国政府也大力推广。<a href="http://cn.tmagazine.com/education/20141103/t03educlede/" target="_BLANK">cn.tmagazine.com/education/20141103/t03educlede/</a> <a href="https://twitter.com/tmagazinecn/status/529101107935858688/photo/1" target="_BLANK">twitter.com/tmagazinecn/status/529101107935858688/photo/1</a> (2014年11月03日 14:29)
+ ---
 RT @remonwangxt: 中宣部副部長，網信辦主任魯煒在新聞發佈會上稱：“誰到我家做客，我是有選擇的。我沒有辦法改變你，但我有權力選擇朋友。”黨再次替人民做主。在中共國，人民既無法改變無恥黨性，也沒有權力選擇朋友，因為中共國的老朋友，都是它們指定的。 http://t.… (2014年11月02日 15:13)
  ---
 RT @remonwangxt: 有網友告訴我他因為在微博上轉發了我諷刺習逼格逼格和周帶魚的漫畫遭到传唤，公安追问他漫畫里的主角是谁。留置數小时后該網友被釋放。習逼格逼格先是召開文藝座談會，最近又模仿毛祖召開新“古田會議”，大陸七十多位網友聲援佔中被拘，現在轉發漫畫也會被傳喚，… (2014年11月02日 15:09)
@@ -108,6 +110,4 @@ RT @paopaonet: 各位小伙伴，泡泡记者明天将有机会对话Tor的发�
 RT @paopaonet: （外交政策）中国频繁却又含糊其辞地提及对于国家安全的忧虑，以为其钳制网络言论寻求合法性。伊力哈木的不公命运很大程度上反映了中共对互联网的未来概念。对于伊力哈木的判决“切断了用另一种方式思考现状的途径”。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/243" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年10月31日 07:54)
  ---
 RT @paopaonet: #泡泡快讯 今天下午，国信办主任鲁炜回应中国无法登陆facebook：“中国没有关过境外的任何一家网站，你的网站在你家里，我怎么可能跑到你家去关掉呢？中国历来都是好客热情的，但是谁到我家作客，我是有选择的。” 泡泡简评：扎克伯格同学哭着对王岐山说，… (2014年10月31日 07:52)
- ---
-RT @iruitui: RT @redsnow7:RT @Aveline_Swan: 请开发者们不要使用聚合数据的 SDK，它会上传用户的完整通讯录。 <a href="http://www.v2ex.com/t/142645#reply0" target="_BLANK">www.v2ex.com/t/142645</a> (2014年10月31日 06:14)
  ---
