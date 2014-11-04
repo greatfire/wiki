@@ -71,6 +71,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: Attention！一不小心你就成间谍了。昨日中央通过的《反间谍法》将言论管制推向顶峰。此法涉及面广，外媒在中国的从业人士、有外资资助的NGO人员以及有意向外媒透露负面新闻的人需更多小心。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/246" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http:/… (2014年11月04日 12:46)
+ ---
 RT @nytchinese: 为成功举办亚太经济合作组织峰会，北京的机关、学校放假，机动车限制出行，污染工厂为会议停工，在会场服务的妈妈提前给孩子断奶——连北京的天空都为APEC而蓝。By @dktatlow <a href="http://cn.nytimes.com/china/20141104/c04apec/" target="_BLANK">cn.nytimes.com/china/20141104/c04apec/</a> (2014年11月04日 12:41)
  ---
 -GreatFire.org 招聘软件工程师－为自由而战  <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=195&p=698#p698" target="_BLANK">lanternforum.greatfire.org/viewtopic.php</a> (2014年11月04日 11:14)
@@ -108,6 +110,4 @@ RT @beidaijin: #标记 “搜狐美剧被停播”事件成真，总局将颁限
 RT @phuslu: 之前我对这个国家总是心怀希望，总觉得在自己的有生之年能够见证中国的实质进步。但是最近的种种事件打了我的幻想，我现在渴望移民的心情从未如此强烈。尤其这段时间被公司派到国外出差，这些天的经历让我觉得即使到国外做个二等公民，也抵得上逃离这个国度。 (2014年11月02日 05:45)
  ---
 RT @tatamama: 我了解一些上了岁数的人爱看新闻联播的感觉，每天吃完饭往沙发一坐，看着熟悉的播音员把一天的大事娓娓道来，看着国家欣欣向荣人民幸福，潜意识里，是一种领导听下属汇报工作的状态，似乎在这个世界自己还受到重视，这些平常和自己子女都难见一面的孤独老人，就这样获得… (2014年11月02日 05:40)
- ---
-RT @dtiffroberts: "I've never shut down a website outside of China," says Internet czar <a href="http://www.reuters.com/article/2014/10/30/china-cybersecurity-idUSL4N0SP2QE20141030" target="_BLANK">www.reuters.com/article/2014/10/30/china-cybersecurity-idUSL4N0SP2QE20141030</a> via @ReutersChina ...Thanks,… (2014年10月31日 20:30)
  ---
