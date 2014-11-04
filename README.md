@@ -71,6 +71,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: #泡泡报道 【台湾零时政府g0v 】让公共资讯更加透明化，解放以往被深埋在官僚系统内的公共资讯，以浅白易懂的方式开放给全民。泡泡为你揭开这个由一群程式高手创立的特殊组织的“神秘面纱”。<a href="https://pao-pao.net/article/209" target="_BLANK">pao-pao.net/article/209</a> http://t… (2014年11月05日 03:33)
+ ---
 RT @phuslu: 由衷希望项目越做越好，正如 <a href="http://www.solidot.org/story?threshold=0&mode=nested&sid=41732" target="_BLANK">www.solidot.org/story</a> 所说，国内参与者需要注意一下匿名。推荐这个文章，建议参考。<a href="http://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html" target="_BLANK">program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html</a> @oiax @suoluo @GreatFireChina @clowwin… (2014年11月05日 03:30)
  ---
 Two hour mobile outage in central Beijing yesterday <a href="https://www.techinasia.com/mobile-usage-grows-chinas-traffic-jams-problem-car-owners-anymore/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PennOlson+%28Tech+in+Asia%29" target="_BLANK">www.techinasia.com/mobile-usage-grows-chinas-traffic-jams-problem-car-owners-anymore/</a> via @ChinaGeeks 北京联通3G信号大范围中断 官方称因上网业务拥塞 <a href="http://www.techweb.com.cn/tele/2014-11-03/2092626.shtml" target="_BLANK">www.techweb.com.cn/tele/2014-11-03/2092626.shtml</a> (2014年11月04日 17:10)
@@ -108,6 +110,4 @@ Gists by GitHub is blocked in China <a href="https://en.greatfire.org/https/gist
 @laoyang945 @phuslu 中国Skype新版不再有（中国政府的）监控了 <a href="https://zh.greatfire.org/blog/2013/nov/small-step-microsoft-huge-improvement-chinese-users" target="_BLANK">zh.greatfire.org/blog/2013/nov/small-step-microsoft-huge-improvement-chinese-users</a> (2014年11月02日 12:06)
  ---
 香港学生考虑赴北京抗议 <a href="http://cn.wsj.com/gb/20141031/bch110949.asp" target="_BLANK">cn.wsj.com/gb/20141031/bch110949.asp</a> (2014年11月02日 06:10)
- ---
-.@phuslu @LibertyCN 使用Google镜像代替吧，虽然不能访问Gmail，但搜索还是可以的 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年11月02日 05:59)
  ---
