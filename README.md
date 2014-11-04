@@ -71,7 +71,7 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-Facebook still blocked in China during APEC <a href="https://t.co/vZAu5C1kOb" target="_BLANK">t.co/vZAu5C1kOb</a> It is accessible in special APEC reporting locations though. (2014年11月05日 05:05)
+Facebook still blocked in China during APEC <a href="https://en.greatfire.org/www.facebook.com" target="_BLANK">en.greatfire.org/www.facebook.com</a> It is accessible in special APEC reporting locations though. (2014年11月05日 05:05)
  ---
 RT @RTKcn: 21+ RT @liuyun1989: 蘋果：學聯五人周末上京
 要求中央回應真普選訴求<a href="http://hk.apple.nextmedia.com/news/art/20141104/18923007" target="_BLANK">hk.apple.nextmedia.com/news/art/20141104/18923007</a> <a href="https://twitter.com/liuyun1989/status/529434811811639296/photo/1" target="_BLANK">twitter.com/liuyun1989/status/529434811811639296/photo/1</a> (2014年11月05日 03:41)
