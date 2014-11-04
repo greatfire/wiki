@@ -71,6 +71,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @nytchinese: 为成功举办亚太经济合作组织峰会，北京的机关、学校放假，机动车限制出行，污染工厂为会议停工，在会场服务的妈妈提前给孩子断奶——连北京的天空都为APEC而蓝。By @dktatlow <a href="http://cn.nytimes.com/china/20141104/c04apec/" target="_BLANK">cn.nytimes.com/china/20141104/c04apec/</a> (2014年11月04日 12:41)
+ ---
 -GreatFire.org 招聘软件工程师－为自由而战  <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=195&p=698#p698" target="_BLANK">lanternforum.greatfire.org/viewtopic.php</a> (2014年11月04日 11:14)
  ---
 RT @YuanLu1: @chengr28 Google策略有问题，如果不是逐步忍让渐次退缩而是一上来就把高强度加密推到所有服务再官方明目张胆提供GoAgent类方案给本朝所有个人商业用户那GFW倒真要犯难了。说到底还是对天朝当局估计不足，且严重不足。 (2014年11月04日 04:14)
@@ -108,6 +110,4 @@ RT @phuslu: 之前我对这个国家总是心怀希望，总觉得在自己的�
 RT @tatamama: 我了解一些上了岁数的人爱看新闻联播的感觉，每天吃完饭往沙发一坐，看着熟悉的播音员把一天的大事娓娓道来，看着国家欣欣向荣人民幸福，潜意识里，是一种领导听下属汇报工作的状态，似乎在这个世界自己还受到重视，这些平常和自己子女都难见一面的孤独老人，就这样获得… (2014年11月02日 05:40)
  ---
 RT @dtiffroberts: "I've never shut down a website outside of China," says Internet czar <a href="http://www.reuters.com/article/2014/10/30/china-cybersecurity-idUSL4N0SP2QE20141030" target="_BLANK">www.reuters.com/article/2014/10/30/china-cybersecurity-idUSL4N0SP2QE20141030</a> via @ReutersChina ...Thanks,… (2014年10月31日 20:30)
- ---
-RT @TheEIU_China: Government plaudits &amp; support for blowhards like Zhou Xiaoping say a lot about what's wrong with #China's media. http://t… (2014年10月31日 18:47)
  ---
