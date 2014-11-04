@@ -71,6 +71,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Two hour mobile outage in central Beijing yesterday <a href="https://www.techinasia.com/mobile-usage-grows-chinas-traffic-jams-problem-car-owners-anymore/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PennOlson+%28Tech+in+Asia%29" target="_BLANK">www.techinasia.com/mobile-usage-grows-chinas-traffic-jams-problem-car-owners-anymore/</a> via @ChinaGeeks 北京联通3G信号大范围中断 官方称因上网业务拥塞 <a href="http://www.techweb.com.cn/tele/2014-11-03/2092626.shtml" target="_BLANK">www.techweb.com.cn/tele/2014-11-03/2092626.shtml</a> (2014年11月04日 17:10)
+ ---
 Apple's China Experience Sours as State Hackers Target iCloud Data <a href="http://globalvoicesonline.org/2014/11/03/apples-china-experience-sours-as-state-hackers-target-icloud-data/" target="_BLANK">globalvoicesonline.org/2014/11/03/apples-china-experience-sours-as-state-hackers-target-icloud-data/</a> via @globalvoices (2014年11月04日 16:47)
  ---
 RT @fzhenghu: 五年前，中国发生一个荒唐的故事，一个震惊世界的事件。中国公民冯正虎被上海当局八次拒绝回国，于2009年11月4日起露宿于日本东京成田国际机场92天。冯正虎的成田机场日记记载了这一段历史，现在连载公开，与读者分享。 (2014年11月04日 15:26)
@@ -108,6 +110,4 @@ Gists by GitHub is blocked in China <a href="https://en.greatfire.org/https/gist
 .@phuslu @LibertyCN 使用Google镜像代替吧，虽然不能访问Gmail，但搜索还是可以的 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> (2014年11月02日 05:59)
  ---
 RT @phuslu: 随着 imouto 随着 GGC IP 被封而宣布放弃维护，Hosts 翻墙方式基本退出历史舞台了。原理相同的 GAE 估计离谢幕也不远了。“忍看朋辈成新鬼” 之余，goagent 也打算在未来某个事件放弃 GAE 了。 (2014年11月02日 05:55)
- ---
-RT @beidaijin: #标记 “搜狐美剧被停播”事件成真，总局将颁限外令]。据公号娱乐 on call爆料，广电即将出台对境外剧管理政策   详见：<a href="http://ww4.sinaimg.cn/bmiddle/c14d47b8gw1elukv73qucj20c818edo0.jpg" target="_BLANK">ww4.sinaimg.cn/bmiddle/c14d47b8gw1elukv73qucj20c818edo0.jpg</a> (2014年11月02日 05:46)
  ---
