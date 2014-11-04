@@ -110,5 +110,5 @@ RT @micahflee: 1EBF 5F15 850C 540B 3142 F158 4BDD 496D 4C6C 5F25 (2014年11月02
  ---
 RT @paopaonet: #泡泡快讯 【Viber信息服务被中国封锁】根据今天@GreatFireChina 的报告，Viber已成为最新一家在中国被封锁的聊天应用服务。<a href="http://techcrunch.cn/2014/10/31/messaging-app-and-voice-calling-provider-viber-is-now-blocked-in-china/" target="_BLANK">techcrunch.cn/2014/10/31/messaging-app-and-voice-calling-provider-viber-is-now-blocked-in-china/</a> <a href="https://twitter.com/paopaonet/status/528119591877083136/photo/1" target="_BLANK">twitter.com/paopaonet/status/528119591877083136/photo/1</a> (2014年11月02日 12:26)
  ---
-Gists by GitHub is blocked in China <a href="https://t.co/kl6sSumj08" target="_BLANK">t.co/kl6sSumj08</a> Github itself is currently not blocked. (2014年11月02日 12:17)
+Gists by GitHub is blocked in China <a href="https://en.greatfire.org/https/gist.github.com" target="_BLANK">en.greatfire.org/https/gist.github.com</a> Github itself is currently not blocked. (2014年11月02日 12:17)
  ---
