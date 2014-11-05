@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @JoFloto: After three weeks of being blocked BBC website available again in mainland China. Nothing from govt to indicate why blocked or… (2014年11月05日 21:10)
+ ---
 RT @JoFloto: @GreatFireChina  @KentCh no meeting. No idea why blocked or unblocked (2014年11月05日 21:01)
  ---
 Sadly, @bbcchinese remains blocked in China: <a href="https://en.greatfire.org/www.bbcchinese.com" target="_BLANK">en.greatfire.org/www.bbcchinese.com</a> - the more things change... right @PeterHorrocks1 ?? (2014年11月05日 21:01)
@@ -105,6 +107,4 @@ RT @nytchinese: 为成功举办亚太经济合作组织峰会，北京的机关�
 RT @YuanLu1: @chengr28 Google策略有问题，如果不是逐步忍让渐次退缩而是一上来就把高强度加密推到所有服务再官方明目张胆提供GoAgent类方案给本朝所有个人商业用户那GFW倒真要犯难了。说到底还是对天朝当局估计不足，且严重不足。 (2014年11月04日 04:14)
  ---
 RT @paopaonet: 【GFW封锁只是国民待遇？】泰国前总理游中国，社交媒体频跟新让国内很多无法使用的读者充满疑问。对此中国数字时代解释:外国电话号码到大陆使用国际漫游所有社交平台都可以畅通无阻的使用，封锁的只是中国国内号码。@GreatFireChina http:/… (2014年11月04日 04:12)
- ---
-捆绑安装浏览器：技术剖析搜狗输入法中的猫腻 <a href="http://www.freebuf.com/tools/49546.html" target="_BLANK">www.freebuf.com/tools/49546.html</a> (2014年11月04日 04:01)
  ---
