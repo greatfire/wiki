@@ -79,7 +79,7 @@ Sadly, @bbcchinese remains blocked in China: <a href="https://en.greatfire.org/w
 Likely unrelated to APEC, the @BBC website is available again inside China <a href="https://en.greatfire.org/www.bbc.com" target="_BLANK">en.greatfire.org/www.bbc.com</a> -&gt; did a meeting happen? h/t @KentCh (2014年11月05日 20:56)
  ---
 RT @EFF: Which messaging technologies are truly safe &amp; secure? See EFF’s
-'Secure Messaging Scorecard' <a href="https://www.eff.org/secure-messaging-scorecard" target="_BLANK">www.eff.org/secure-messaging-scorecard</a> <a href="http://www.ysoheil.com/" target="_BLANK">www.ysoheil.com/</a>… (2014年11月05日 19:25)
+'Secure Messaging Scorecard' <a href="https://www.eff.org/sms" target="_BLANK">www.eff.org/sms</a> <a href="http://www.ysoheil.com/" target="_BLANK">www.ysoheil.com/</a>… (2014年11月05日 19:25)
  ---
 .@appannie launches free mobile VPN service for iOS <a href="http://techcrunch.com/2014/10/31/app-annie-fills-the-void-left-by-facebooks-onavo-acquisition-with-its-new-company-smart-sense/" target="_BLANK">techcrunch.com/2014/10/31/app-annie-fills-the-void-left-by-facebooks-onavo-acquisition-with-its-new-company-smart-sense/</a> app here <a href="http://www.vpndefender.com/" target="_BLANK">www.vpndefender.com/</a> h/t @niubi (2014年11月05日 19:19)
  ---
