@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @PRHacks: Live: We are in Lan Kwai Fong! High fives all around from the crowd!  #MillionMaskMarch #Anonymous #OccupyHK <a href="http://t.co/wYQM8" target="_BLANK">t.co/wYQM8</a>… (2014年11月06日 00:15)
+ ---
 RT @taniabranigan: He's back! h/t @goldkorn RT @rolandsoong: Welcome to ESWN's Occupy Central page @ <a href="http://www.zonaeuropa.com/weblog.htm" target="_BLANK">www.zonaeuropa.com/weblog.htm</a> (2014年11月05日 21:34)
  ---
 RT @JoFloto: After three weeks of being blocked BBC website available again in mainland China. Nothing from govt to indicate why blocked or… (2014年11月05日 21:10)
@@ -105,6 +107,4 @@ RT @paopaonet: Attention！一不小心你就成间谍了。昨日中央通过�
 RT @nytchinese: 为成功举办亚太经济合作组织峰会，北京的机关、学校放假，机动车限制出行，污染工厂为会议停工，在会场服务的妈妈提前给孩子断奶——连北京的天空都为APEC而蓝。By @dktatlow <a href="http://cn.nytimes.com/china/20141104/c04apec/" target="_BLANK">cn.nytimes.com/china/20141104/c04apec/</a> (2014年11月04日 12:41)
  ---
 -GreatFire.org 招聘软件工程师－为自由而战  <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=195&p=698#p698" target="_BLANK">lanternforum.greatfire.org/viewtopic.php</a> (2014年11月04日 11:14)
- ---
-RT @YuanLu1: @chengr28 Google策略有问题，如果不是逐步忍让渐次退缩而是一上来就把高强度加密推到所有服务再官方明目张胆提供GoAgent类方案给本朝所有个人商业用户那GFW倒真要犯难了。说到底还是对天朝当局估计不足，且严重不足。 (2014年11月04日 04:14)
  ---
