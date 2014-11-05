@@ -12,7 +12,7 @@
                 <a href="https://cs23.wpc.edgecastcdn.net/80107EF/soft.pingfan.pw/paopao/" target="_BLANK">长期有效 1</a>，            
                 <a href="https://edgecastcdn.net/00107ED/paopao/" target="_BLANK">长期有效 2</a>，            
                 <a href="https://objects.dreamhost.com/paopao/index.html" target="_BLANK">长期有效 3</a>，            
-                <a href="https://paopao2.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
+                <a href="https://paopao3.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
         </tr>    
