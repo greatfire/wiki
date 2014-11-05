@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Likely unrelated to APEC, the @BBC website is available again inside China <a href="https://en.greatfire.org/www.bbc.com" target="_BLANK">en.greatfire.org/www.bbc.com</a> -&gt; did a meeting happen? h/t @KentCh (2014年11月05日 20:56)
+ ---
 RT @EFF: Which messaging technologies are truly safe &amp; secure? See EFF’s
 'Secure Messaging Scorecard' <a href="https://www.eff.org/secure-messaging-scorecard" target="_BLANK">www.eff.org/secure-messaging-scorecard</a> <a href="http://www.ysoheil.com/" target="_BLANK">www.ysoheil.com/</a>… (2014年11月05日 19:25)
  ---
@@ -105,6 +107,4 @@ RT @paopaonet: 【GFW封锁只是国民待遇？】泰国前总理游中国，�
 微软升级skype 通过加密反审查 <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/247" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> (2014年11月04日 03:51)
  ---
 RT @tmagazinecn: 在美国明尼阿波利斯的英华学院，四年级以下所有学科都以中文授课，学生甚至还做广播操。全浸入式汉语教学正在海外兴起，得到美国政府拨款，中国政府也大力推广。<a href="http://cn.tmagazine.com/education/20141103/t03educlede/" target="_BLANK">cn.tmagazine.com/education/20141103/t03educlede/</a> <a href="https://twitter.com/tmagazinecn/status/529101107935858688/photo/1" target="_BLANK">twitter.com/tmagazinecn/status/529101107935858688/photo/1</a> (2014年11月03日 14:29)
- ---
-RT @remonwangxt: 中宣部副部長，網信辦主任魯煒在新聞發佈會上稱：“誰到我家做客，我是有選擇的。我沒有辦法改變你，但我有權力選擇朋友。”黨再次替人民做主。在中共國，人民既無法改變無恥黨性，也沒有權力選擇朋友，因為中共國的老朋友，都是它們指定的。 http://t.… (2014年11月02日 15:13)
  ---
