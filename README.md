@@ -69,7 +69,7 @@
 Chinese president’s favorite blogger hates America
 And he actually has no idea what’s going on in the United States. <a href="http://www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america" target="_BLANK">www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america</a> (2014年11月06日 06:36)
  ---
-RT @fangshimin: 所有关于周梦游事件的英文报道中，这篇写得最准确和详细，还提到了我在推特的发言。作者懂中文？不管怎样，周梦游已成国际笑柄。 <a href="http://www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america" target="_BLANK">www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america</a> (2014年11月06日 06:33)
+RT @fangshimin: 所有关于周梦游事件的英文报道中，这篇写得最准确和详细，还提到了我在推特的发言。作者懂中文？不管怎样，周梦游已成国际笑柄。 <a href="http://t.co/ASPa9qlWJn" target="_BLANK">t.co/ASPa9qlWJn</a> (2014年11月06日 06:33)
  ---
 RT @fangshimin: APEC期间别吃饭，别喝奶，别生病，也别死人。 <a href="https://twitter.com/fangshimin/status/529900514121498624/photo/1" target="_BLANK">twitter.com/fangshimin/status/529900514121498624/photo/1</a> (2014年11月06日 06:32)
  ---
