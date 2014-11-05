@@ -66,6 +66,9 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Chinese president’s favorite blogger hates America
+And he actually has no idea what’s going on in the United States. <a href="http://www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america" target="_BLANK">www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america</a> (2014年11月06日 06:36)
+ ---
 RT @fangshimin: 所有关于周梦游事件的英文报道中，这篇写得最准确和详细，还提到了我在推特的发言。作者懂中文？不管怎样，周梦游已成国际笑柄。 <a href="http://www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america" target="_BLANK">www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america</a> (2014年11月06日 06:33)
  ---
 RT @fangshimin: APEC期间别吃饭，别喝奶，别生病，也别死人。 <a href="https://twitter.com/fangshimin/status/529900514121498624/photo/1" target="_BLANK">twitter.com/fangshimin/status/529900514121498624/photo/1</a> (2014年11月06日 06:32)
@@ -105,6 +108,4 @@ Two hour mobile outage in central Beijing yesterday <a href="https://www.techina
 Apple's China Experience Sours as State Hackers Target iCloud Data <a href="http://globalvoicesonline.org/2014/11/03/apples-china-experience-sours-as-state-hackers-target-icloud-data/" target="_BLANK">globalvoicesonline.org/2014/11/03/apples-china-experience-sours-as-state-hackers-target-icloud-data/</a> via @globalvoices (2014年11月04日 16:47)
  ---
 RT @fzhenghu: 五年前，中国发生一个荒唐的故事，一个震惊世界的事件。中国公民冯正虎被上海当局八次拒绝回国，于2009年11月4日起露宿于日本东京成田国际机场92天。冯正虎的成田机场日记记载了这一段历史，现在连载公开，与读者分享。 (2014年11月04日 15:26)
- ---
-RT @paopaonet: Attention！一不小心你就成间谍了。昨日中央通过的《反间谍法》将言论管制推向顶峰。此法涉及面广，外媒在中国的从业人士、有外资资助的NGO人员以及有意向外媒透露负面新闻的人需更多小心。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/246" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http:/… (2014年11月04日 12:46)
  ---
