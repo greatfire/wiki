@@ -39,7 +39,7 @@
             <td>            
                 <a href="https://edgecastcdn.net/00107ED/cdt/" target="_BLANK">长期有效 1</a>，            
                 <a href="https://objects.dreamhost.com/cdt/index.html" target="_BLANK">长期有效 2</a>，            
-                <a href="https://770b3.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
+                <a href="https://39bf.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
         </tr>    
