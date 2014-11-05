@@ -66,6 +66,11 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @EFF: Which messaging technologies are truly safe &amp; secure? See EFF’s
+'Secure Messaging Scorecard' <a href="https://www.eff.org/secure-messaging-scorecard" target="_BLANK">www.eff.org/secure-messaging-scorecard</a> <a href="http://www.ysoheil.com/" target="_BLANK">www.ysoheil.com/</a>… (2014年11月05日 19:25)
+ ---
+.@appannie launches free mobile VPN service for iOS <a href="http://techcrunch.com/2014/10/31/app-annie-fills-the-void-left-by-facebooks-onavo-acquisition-with-its-new-company-smart-sense/" target="_BLANK">techcrunch.com/2014/10/31/app-annie-fills-the-void-left-by-facebooks-onavo-acquisition-with-its-new-company-smart-sense/</a> app here <a href="http://www.vpndefender.com/" target="_BLANK">www.vpndefender.com/</a> h/t @niubi (2014年11月05日 19:19)
+ ---
 请问北京用户不翻墙能上Facebook，Twitter么？ 具体在哪里能上，显示的IP是什么？ (2014年11月05日 16:28)
  ---
 RT @ulywang: @GreatFireChina Not just APEC reporting venues but also ordinary office buildings in downtown (2014年11月05日 16:11)
@@ -102,8 +107,4 @@ RT @paopaonet: 【GFW封锁只是国民待遇？】泰国前总理游中国，�
 RT @tmagazinecn: 在美国明尼阿波利斯的英华学院，四年级以下所有学科都以中文授课，学生甚至还做广播操。全浸入式汉语教学正在海外兴起，得到美国政府拨款，中国政府也大力推广。<a href="http://cn.tmagazine.com/education/20141103/t03educlede/" target="_BLANK">cn.tmagazine.com/education/20141103/t03educlede/</a> <a href="https://twitter.com/tmagazinecn/status/529101107935858688/photo/1" target="_BLANK">twitter.com/tmagazinecn/status/529101107935858688/photo/1</a> (2014年11月03日 14:29)
  ---
 RT @remonwangxt: 中宣部副部長，網信辦主任魯煒在新聞發佈會上稱：“誰到我家做客，我是有選擇的。我沒有辦法改變你，但我有權力選擇朋友。”黨再次替人民做主。在中共國，人民既無法改變無恥黨性，也沒有權力選擇朋友，因為中共國的老朋友，都是它們指定的。 http://t.… (2014年11月02日 15:13)
- ---
-RT @remonwangxt: 有網友告訴我他因為在微博上轉發了我諷刺習逼格逼格和周帶魚的漫畫遭到传唤，公安追问他漫畫里的主角是谁。留置數小时后該網友被釋放。習逼格逼格先是召開文藝座談會，最近又模仿毛祖召開新“古田會議”，大陸七十多位網友聲援佔中被拘，現在轉發漫畫也會被傳喚，… (2014年11月02日 15:09)
- ---
-RT @micahflee: 1EBF 5F15 850C 540B 3142 F158 4BDD 496D 4C6C 5F25 (2014年11月02日 14:43)
  ---
