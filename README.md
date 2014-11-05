@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @ulywang: @GreatFireChina Not just APEC reporting venues but also ordinary office buildings in downtown (2014年11月05日 16:11)
+ ---
 Facebook still blocked in China during APEC <a href="https://en.greatfire.org/www.facebook.com" target="_BLANK">en.greatfire.org/www.facebook.com</a> It is accessible in special APEC reporting locations though. (2014年11月05日 05:05)
  ---
 RT @RTKcn: 21+ RT @liuyun1989: 蘋果：學聯五人周末上京
@@ -104,6 +106,4 @@ RT @remonwangxt: 有網友告訴我他因為在微博上轉發了我諷刺習逼
 RT @micahflee: 1EBF 5F15 850C 540B 3142 F158 4BDD 496D 4C6C 5F25 (2014年11月02日 14:43)
  ---
 RT @paopaonet: #泡泡快讯 【Viber信息服务被中国封锁】根据今天@GreatFireChina 的报告，Viber已成为最新一家在中国被封锁的聊天应用服务。<a href="http://techcrunch.cn/2014/10/31/messaging-app-and-voice-calling-provider-viber-is-now-blocked-in-china/" target="_BLANK">techcrunch.cn/2014/10/31/messaging-app-and-voice-calling-provider-viber-is-now-blocked-in-china/</a> <a href="https://twitter.com/paopaonet/status/528119591877083136/photo/1" target="_BLANK">twitter.com/paopaonet/status/528119591877083136/photo/1</a> (2014年11月02日 12:26)
- ---
-Gists by GitHub is blocked in China <a href="https://en.greatfire.org/https/gist.github.com" target="_BLANK">en.greatfire.org/https/gist.github.com</a> Github itself is currently not blocked. (2014年11月02日 12:17)
  ---
