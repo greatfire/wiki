@@ -66,6 +66,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @fangshimin: 所有关于周梦游事件的英文报道中，这篇写得最准确和详细，还提到了我在推特的发言。作者懂中文？不管怎样，周梦游已成国际笑柄。 <a href="http://www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america" target="_BLANK">www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america</a> (2014年11月06日 06:33)
+ ---
+RT @fangshimin: APEC期间别吃饭，别喝奶，别生病，也别死人。 <a href="https://twitter.com/fangshimin/status/529900514121498624/photo/1" target="_BLANK">twitter.com/fangshimin/status/529900514121498624/photo/1</a> (2014年11月06日 06:32)
+ ---
 RT @PRHacks: Live: We are in Lan Kwai Fong! High fives all around from the crowd!  #MillionMaskMarch #Anonymous #OccupyHK <a href="http://t.co/wYQM8" target="_BLANK">t.co/wYQM8</a>… (2014年11月06日 00:15)
  ---
 RT @taniabranigan: He's back! h/t @goldkorn RT @rolandsoong: Welcome to ESWN's Occupy Central page @ <a href="http://www.zonaeuropa.com/weblog.htm" target="_BLANK">www.zonaeuropa.com/weblog.htm</a> (2014年11月05日 21:34)
@@ -103,8 +107,4 @@ Apple's China Experience Sours as State Hackers Target iCloud Data <a href="http
 RT @fzhenghu: 五年前，中国发生一个荒唐的故事，一个震惊世界的事件。中国公民冯正虎被上海当局八次拒绝回国，于2009年11月4日起露宿于日本东京成田国际机场92天。冯正虎的成田机场日记记载了这一段历史，现在连载公开，与读者分享。 (2014年11月04日 15:26)
  ---
 RT @paopaonet: Attention！一不小心你就成间谍了。昨日中央通过的《反间谍法》将言论管制推向顶峰。此法涉及面广，外媒在中国的从业人士、有外资资助的NGO人员以及有意向外媒透露负面新闻的人需更多小心。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/246" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http:/… (2014年11月04日 12:46)
- ---
-RT @nytchinese: 为成功举办亚太经济合作组织峰会，北京的机关、学校放假，机动车限制出行，污染工厂为会议停工，在会场服务的妈妈提前给孩子断奶——连北京的天空都为APEC而蓝。By @dktatlow <a href="http://cn.nytimes.com/china/20141104/c04apec/" target="_BLANK">cn.nytimes.com/china/20141104/c04apec/</a> (2014年11月04日 12:41)
- ---
--GreatFire.org 招聘软件工程师－为自由而战  <a href="https://lanternforum.greatfire.org/viewtopic.php?f=1&t=195&p=698#p698" target="_BLANK">lanternforum.greatfire.org/viewtopic.php</a> (2014年11月04日 11:14)
  ---
