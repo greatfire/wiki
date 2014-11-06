@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: #泡泡多情推荐下篇 【翻墙武器之新多情环：赛风@PsiphonChina 】测试结果显示其翻墙威力十足，翻墙后访问速度很给力，支持 SSH 和VPN两种翻墙机制。泡泡君手把手教你翻墙新技能<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/253" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http:/… (2014年11月07日 03:38)
+ ---
 Interesting notes behind the SCMP corruption crackdown story <a href="http://electricricecooker.tumblr.com/post/101664548154/tigers-and-flies-data-and-stories-from-data" target="_BLANK">electricricecooker.tumblr.com/post/101664548154/tigers-and-flies-data-and-stories-from-data</a> original here: <a href="http://multimedia.scmp.com/china-corruption/" target="_BLANK">multimedia.scmp.com/china-corruption/</a> (2014年11月06日 23:15)
  ---
 RT @cedricsam: @dewolfleloup For it to be useful, you need to fund team to curate! :) Look at Connected China. OTOH, automate, FTW: https:/… (2014年11月06日 20:30)
@@ -106,6 +108,4 @@ RT @RTKcn: 21+ RT @liuyun1989: 蘋果：學聯五人周末上京
 要求中央回應真普選訴求<a href="http://hk.apple.nextmedia.com/news/art/20141104/18923007" target="_BLANK">hk.apple.nextmedia.com/news/art/20141104/18923007</a> <a href="https://twitter.com/liuyun1989/status/529434811811639296/photo/1" target="_BLANK">twitter.com/liuyun1989/status/529434811811639296/photo/1</a> (2014年11月05日 03:41)
  ---
 RT @paopaonet: #泡泡报道 【台湾零时政府g0v 】让公共资讯更加透明化，解放以往被深埋在官僚系统内的公共资讯，以浅白易懂的方式开放给全民。泡泡为你揭开这个由一群程式高手创立的特殊组织的“神秘面纱”。<a href="https://pao-pao.net/article/209" target="_BLANK">pao-pao.net/article/209</a> http://t… (2014年11月05日 03:33)
- ---
-RT @phuslu: 由衷希望项目越做越好，正如 <a href="http://www.solidot.org/story?threshold=0&mode=nested&sid=41732" target="_BLANK">www.solidot.org/story</a> 所说，国内参与者需要注意一下匿名。推荐这个文章，建议参考。<a href="http://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html" target="_BLANK">program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html</a> @oiax @suoluo @GreatFireChina @clowwin… (2014年11月05日 03:30)
  ---
