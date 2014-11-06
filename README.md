@@ -74,7 +74,7 @@ RT @phuslu: BBC 中文网也报道麦芽地植入木马事件了。<a href="http
  ---
 RT @Livid: 麦芽地的天使投资人是奇虎 360 <a href="http://itjuzi.com/company/8290" target="_BLANK">itjuzi.com/company/8290</a> (2014年11月07日 06:19)
  ---
-RT @Livid: 原来说话这种逻辑的人也是可以当 CEO 的 <a href="http://t.co/kwPCuyoNYr" target="_BLANK">t.co/kwPCuyoNYr</a> (2014年11月07日 06:19)
+RT @Livid: 原来说话这种逻辑的人也是可以当 CEO 的 <a href="https://twitter.com/Livid/status/530253286017073152/photo/1" target="_BLANK">twitter.com/Livid/status/530253286017073152/photo/1</a> (2014年11月07日 06:19)
  ---
 Malicious Software Campaign Targets Apple Users in China  <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fbits.blogs.nytimes.com%2F2014%2F11%2F05%2Fmalicious-software-campaign-targets-apple-users-in-china%2F%3Fref%3Dtechnology%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年11月07日 04:38)
  ---
