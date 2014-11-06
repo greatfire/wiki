@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+WireLurker: A New Era in OS X and iOS Malware <a href="http://researchcenter.paloaltonetworks.com/2014/11/wirelurker-new-era-os-x-ios-malware/" target="_BLANK">researchcenter.paloaltonetworks.com/2014/11/wirelurker-new-era-os-x-ios-malware/</a> (2014年11月07日 04:32)
+ ---
 RT @paopaonet: #泡泡专访 如果你给佛祖发封邮件，他会怎么说？ - ‘请别加附件！’” 泡泡这次采访的藏人行政中心总理洛桑森格给我们讲述了佛教徒与网络黑客的”生死较量“。@degewa <a href="https://edgecastcdn.net/00107ED/paopao/" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> <a href="http://t.co/Kxh" target="_BLANK">t.co/Kxh</a>… (2014年11月07日 03:59)
  ---
 RT @williamlong: 一年前在百度百家发的篇《中国互联网2013大事记》文章，仅仅因为提到周小平过往历史几句话，就被挖坟并枪毙，这也太夸张了点吧。 <a href="https://twitter.com/williamlong/status/530289164684492800/photo/1" target="_BLANK">twitter.com/williamlong/status/530289164684492800/photo/1</a> (2014年11月07日 03:55)
@@ -105,6 +107,4 @@ RT @EFF: Which messaging technologies are truly safe &amp; secure? See EFF’s
 请问北京用户不翻墙能上Facebook，Twitter么？ 具体在哪里能上，显示的IP是什么？ (2014年11月05日 16:28)
  ---
 RT @ulywang: @GreatFireChina Not just APEC reporting venues but also ordinary office buildings in downtown (2014年11月05日 16:11)
- ---
-Facebook still blocked in China during APEC <a href="https://en.greatfire.org/www.facebook.com" target="_BLANK">en.greatfire.org/www.facebook.com</a> It is accessible in special APEC reporting locations though. (2014年11月05日 05:05)
  ---
