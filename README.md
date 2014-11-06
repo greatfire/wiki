@@ -66,6 +66,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: #泡泡专访 如果你给佛祖发封邮件，他会怎么说？ - ‘请别加附件！’” 泡泡这次采访的藏人行政中心总理洛桑森格给我们讲述了佛教徒与网络黑客的”生死较量“。@degewa <a href="https://edgecastcdn.net/00107ED/paopao/" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> <a href="http://t.co/Kxh" target="_BLANK">t.co/Kxh</a>… (2014年11月07日 03:59)
+ ---
+RT @williamlong: 一年前在百度百家发的篇《中国互联网2013大事记》文章，仅仅因为提到周小平过往历史几句话，就被挖坟并枪毙，这也太夸张了点吧。 <a href="https://twitter.com/williamlong/status/530289164684492800/photo/1" target="_BLANK">twitter.com/williamlong/status/530289164684492800/photo/1</a> (2014年11月07日 03:55)
+ ---
 RT @paopaonet: #泡泡多情推荐下篇 【翻墙武器之新多情环：赛风@PsiphonChina 】测试结果显示其翻墙威力十足，翻墙后访问速度很给力，支持 SSH 和VPN两种翻墙机制。泡泡君手把手教你翻墙新技能<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/253" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http:/… (2014年11月07日 03:38)
  ---
 Interesting notes behind the SCMP corruption crackdown story <a href="http://electricricecooker.tumblr.com/post/101664548154/tigers-and-flies-data-and-stories-from-data" target="_BLANK">electricricecooker.tumblr.com/post/101664548154/tigers-and-flies-data-and-stories-from-data</a> original here: <a href="http://multimedia.scmp.com/china-corruption/" target="_BLANK">multimedia.scmp.com/china-corruption/</a> (2014年11月06日 23:15)
@@ -103,9 +107,4 @@ RT @EFF: Which messaging technologies are truly safe &amp; secure? See EFF’s
 RT @ulywang: @GreatFireChina Not just APEC reporting venues but also ordinary office buildings in downtown (2014年11月05日 16:11)
  ---
 Facebook still blocked in China during APEC <a href="https://en.greatfire.org/www.facebook.com" target="_BLANK">en.greatfire.org/www.facebook.com</a> It is accessible in special APEC reporting locations though. (2014年11月05日 05:05)
- ---
-RT @RTKcn: 21+ RT @liuyun1989: 蘋果：學聯五人周末上京
-要求中央回應真普選訴求<a href="http://hk.apple.nextmedia.com/news/art/20141104/18923007" target="_BLANK">hk.apple.nextmedia.com/news/art/20141104/18923007</a> <a href="https://twitter.com/liuyun1989/status/529434811811639296/photo/1" target="_BLANK">twitter.com/liuyun1989/status/529434811811639296/photo/1</a> (2014年11月05日 03:41)
- ---
-RT @paopaonet: #泡泡报道 【台湾零时政府g0v 】让公共资讯更加透明化，解放以往被深埋在官僚系统内的公共资讯，以浅白易懂的方式开放给全民。泡泡为你揭开这个由一群程式高手创立的特殊组织的“神秘面纱”。<a href="https://pao-pao.net/article/209" target="_BLANK">pao-pao.net/article/209</a> http://t… (2014年11月05日 03:33)
  ---
