@@ -87,7 +87,7 @@ RT @fangshimin: APEC期间别吃饭，别喝奶，别生病，也别死人。 <a
  ---
 RT @PRHacks: Live: We are in Lan Kwai Fong! High fives all around from the crowd!  #MillionMaskMarch #Anonymous #OccupyHK <a href="http://t.co/wYQM8" target="_BLANK">t.co/wYQM8</a>… (2014年11月06日 00:15)
  ---
-RT @taniabranigan: He's back! h/t @goldkorn RT @rolandsoong: Welcome to ESWN's Occupy Central page @ <a href="http://www.zonaeuropa.com/weblog.htm" target="_BLANK">www.zonaeuropa.com/weblog.htm</a> (2014年11月05日 21:34)
+RT @taniabranigan: He's back! h/t @goldkorn RT @rolandsoong: Welcome to ESWN's Occupy Central page @ <a href="http://t.co/qjnAW1CsJf" target="_BLANK">t.co/qjnAW1CsJf</a> (2014年11月05日 21:34)
  ---
 RT @JoFloto: After three weeks of being blocked BBC website available again in mainland China. Nothing from govt to indicate why blocked or… (2014年11月05日 21:10)
  ---
