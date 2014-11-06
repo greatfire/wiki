@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @ianbremmer: A year of pollution in Beijing. Mostly grey. <a href="https://twitter.com/ianbremmer/status/529632481969180672/photo/1" target="_BLANK">twitter.com/ianbremmer/status/529632481969180672/photo/1</a> (2014年11月07日 07:02)
+ ---
 RT @phuslu: BBC 中文网也报道麦芽地植入木马事件了。<a href="http://www.bbc.co.uk/zhongwen/simp/science/2014/11/141106_apple_malware_china" target="_BLANK">www.bbc.co.uk/zhongwen/simp/science/2014/11/141106_apple_malware_china</a> (2014年11月07日 06:59)
  ---
 [招聘 Android 开发者] 要求有有Android应用的开发经验。 远程工作。 待遇极佳，具体协商。 有意愿者请发送email到 percyalpha[at]gmail[dot]com （PGP key <a href="https://zh.greatfire.org/contact#alt" target="_BLANK">zh.greatfire.org/contact</a>） (2014年11月07日 06:46)
@@ -104,6 +106,4 @@ RT @taniabranigan: He's back! h/t @goldkorn RT @rolandsoong: Welcome to ESWN's O
 RT @JoFloto: After three weeks of being blocked BBC website available again in mainland China. Nothing from govt to indicate why blocked or… (2014年11月05日 21:10)
  ---
 RT @JoFloto: @GreatFireChina  @KentCh no meeting. No idea why blocked or unblocked (2014年11月05日 21:01)
- ---
-Sadly, @bbcchinese remains blocked in China: <a href="https://en.greatfire.org/www.bbcchinese.com" target="_BLANK">en.greatfire.org/www.bbcchinese.com</a> - the more things change... right @PeterHorrocks1 ?? (2014年11月05日 21:01)
  ---
