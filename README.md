@@ -43,7 +43,7 @@
             <td>蓝灯/Lantern</td>
             <td>            
                 <a href="https://edgecastcdn.net/00107ED/lantern/" target="jx14">长期有效 1</a>，            
-                <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
+                <a href="https://c7511.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>
             </td>
         </tr>    
