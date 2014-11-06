@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+[招聘 Android 开发者] 要求有有Android应用的开发经验。 远程工作。 待遇极佳，具体协商。 有意愿者请发送email到 percyalpha[at]gmail[dot]com （PGP key <a href="https://zh.greatfire.org/contact#alt" target="_BLANK">zh.greatfire.org/contact</a>） (2014年11月07日 06:46)
+ ---
 RT @Livid: 麦芽地的天使投资人是奇虎 360 <a href="http://itjuzi.com/company/8290" target="_BLANK">itjuzi.com/company/8290</a> (2014年11月07日 06:19)
  ---
 RT @Livid: 原来说话这种逻辑的人也是可以当 CEO 的 <a href="https://twitter.com/Livid/status/530253286017073152/photo/1" target="_BLANK">twitter.com/Livid/status/530253286017073152/photo/1</a> (2014年11月07日 06:19)
@@ -104,7 +106,4 @@ RT @JoFloto: @GreatFireChina  @KentCh no meeting. No idea why blocked or unblock
 Sadly, @bbcchinese remains blocked in China: <a href="https://en.greatfire.org/www.bbcchinese.com" target="_BLANK">en.greatfire.org/www.bbcchinese.com</a> - the more things change... right @PeterHorrocks1 ?? (2014年11月05日 21:01)
  ---
 Likely unrelated to APEC, the @BBC website is available again inside China <a href="https://en.greatfire.org/www.bbc.com" target="_BLANK">en.greatfire.org/www.bbc.com</a> -&gt; did a meeting happen? h/t @KentCh (2014年11月05日 20:56)
- ---
-RT @EFF: Which messaging technologies are truly safe &amp; secure? See EFF’s
-'Secure Messaging Scorecard' <a href="https://www.eff.org/secure-messaging-scorecard" target="_BLANK">www.eff.org/secure-messaging-scorecard</a> <a href="http://www.ysoheil.com/" target="_BLANK">www.ysoheil.com/</a>… (2014年11月05日 19:25)
  ---
