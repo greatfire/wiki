@@ -66,6 +66,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @cedricsam: @dewolfleloup For it to be useful, you need to fund team to curate! :) Look at Connected China. OTOH, automate, FTW: https:/… (2014年11月06日 20:30)
+ ---
+RT @dewolfleloup: Why did @SCMP_News and @wangxiangweihk kill Who Runs HK power-mapping project? And why has it been taken offline? http://… (2014年11月06日 20:30)
+ ---
 Chinese president’s favorite blogger hates America
 And he actually has no idea what’s going on in the United States. <a href="http://www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america" target="_BLANK">www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america</a> (2014年11月06日 06:36)
  ---
@@ -104,8 +108,4 @@ RT @paopaonet: #泡泡报道 【台湾零时政府g0v 】让公共资讯更加�
 RT @phuslu: 由衷希望项目越做越好，正如 <a href="http://www.solidot.org/story?threshold=0&mode=nested&sid=41732" target="_BLANK">www.solidot.org/story</a> 所说，国内参与者需要注意一下匿名。推荐这个文章，建议参考。<a href="http://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html" target="_BLANK">program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html</a> @oiax @suoluo @GreatFireChina @clowwin… (2014年11月05日 03:30)
  ---
 Two hour mobile outage in central Beijing yesterday <a href="https://www.techinasia.com/mobile-usage-grows-chinas-traffic-jams-problem-car-owners-anymore/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PennOlson+%28Tech+in+Asia%29" target="_BLANK">www.techinasia.com/mobile-usage-grows-chinas-traffic-jams-problem-car-owners-anymore/</a> via @ChinaGeeks 北京联通3G信号大范围中断 官方称因上网业务拥塞 <a href="http://www.techweb.com.cn/tele/2014-11-03/2092626.shtml" target="_BLANK">www.techweb.com.cn/tele/2014-11-03/2092626.shtml</a> (2014年11月04日 17:10)
- ---
-Apple's China Experience Sours as State Hackers Target iCloud Data <a href="http://globalvoicesonline.org/2014/11/03/apples-china-experience-sours-as-state-hackers-target-icloud-data/" target="_BLANK">globalvoicesonline.org/2014/11/03/apples-china-experience-sours-as-state-hackers-target-icloud-data/</a> via @globalvoices (2014年11月04日 16:47)
- ---
-RT @fzhenghu: 五年前，中国发生一个荒唐的故事，一个震惊世界的事件。中国公民冯正虎被上海当局八次拒绝回国，于2009年11月4日起露宿于日本东京成田国际机场92天。冯正虎的成田机场日记记载了这一段历史，现在连载公开，与读者分享。 (2014年11月04日 15:26)
  ---
