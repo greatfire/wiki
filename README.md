@@ -72,7 +72,7 @@ RT @phuslu: BBC 中文网也报道麦芽地植入木马事件了。<a href="http
  ---
 [招聘 Android 开发者] 要求有有Android应用的开发经验。 远程工作。 待遇极佳，具体协商。 有意愿者请发送email到 percyalpha[at]gmail[dot]com （PGP key <a href="https://zh.greatfire.org/contact#alt" target="_BLANK">zh.greatfire.org/contact</a>） (2014年11月07日 06:46)
  ---
-RT @Livid: 麦芽地的天使投资人是奇虎 360 <a href="http://t.co/3XTEql5ey7" target="_BLANK">t.co/3XTEql5ey7</a> (2014年11月07日 06:19)
+RT @Livid: 麦芽地的天使投资人是奇虎 360 <a href="http://itjuzi.com/company/8290" target="_BLANK">itjuzi.com/company/8290</a> (2014年11月07日 06:19)
  ---
 RT @Livid: 原来说话这种逻辑的人也是可以当 CEO 的 <a href="https://twitter.com/Livid/status/530253286017073152/photo/1" target="_BLANK">twitter.com/Livid/status/530253286017073152/photo/1</a> (2014年11月07日 06:19)
  ---
