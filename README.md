@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @klustout: At least 76 people in Mainland China remain in detention for supporting #HongKong's pro-democracy protests: @Amnesty http://t… (2014年11月07日 16:05)
+ ---
 RT @paopaonet: 有一种蓝，它不是普鲁士蓝，也不是蒂凡尼蓝；它不是大海的蔚蓝，也不是蓝莓的深蓝，它叫#APEC Blue#，它属于北京。政府用这一抹沁心的蓝告诉帝都人民：不是我们做不到，是你们不重要。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/251" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http://t.… (2014年11月07日 10:27)
  ---
 RT @paopaonet: 【“带鱼”行动：建设挺政府的大V队伍】周小平将在诸多高校巡演，这不是笑话，而是严肃的政治任务。从净网行动到培养大V，先驱逐公知大V再代之以周带鱼，这套组合拳打出来，感觉中央在下很大的一盘棋<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/252" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http:/… (2014年11月07日 10:27)
@@ -104,6 +106,4 @@ And he actually has no idea what’s going on in the United States. <a href="htt
 RT @fangshimin: 所有关于周梦游事件的英文报道中，这篇写得最准确和详细，还提到了我在推特的发言。作者懂中文？不管怎样，周梦游已成国际笑柄。 <a href="http://www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america" target="_BLANK">www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america</a> (2014年11月06日 06:33)
  ---
 RT @fangshimin: APEC期间别吃饭，别喝奶，别生病，也别死人。 <a href="https://twitter.com/fangshimin/status/529900514121498624/photo/1" target="_BLANK">twitter.com/fangshimin/status/529900514121498624/photo/1</a> (2014年11月06日 06:32)
- ---
-RT @PRHacks: Live: We are in Lan Kwai Fong! High fives all around from the crowd!  #MillionMaskMarch #Anonymous #OccupyHK <a href="http://t.co/wYQM8" target="_BLANK">t.co/wYQM8</a>… (2014年11月06日 00:15)
  ---
