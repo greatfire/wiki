@@ -84,7 +84,7 @@ RT @Livid: 麦芽地的天使投资人是奇虎 360 <a href="http://itjuzi.com/c
  ---
 RT @Livid: 原来说话这种逻辑的人也是可以当 CEO 的 <a href="https://twitter.com/Livid/status/530253286017073152/photo/1" target="_BLANK">twitter.com/Livid/status/530253286017073152/photo/1</a> (2014年11月07日 06:19)
  ---
-Malicious Software Campaign Targets Apple Users in China  <a href="http://bits.blogs.nytimes.com/2014/11/05/malicious-software-campaign-targets-apple-users-in-china/?ref=technology" target="_BLANK">bits.blogs.nytimes.com/2014/11/05/malicious-software-campaign-targets-apple-users-in-china/</a> (2014年11月07日 04:38)
+Malicious Software Campaign Targets Apple Users in China  <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fbits.blogs.nytimes.com%2F2014%2F11%2F05%2Fmalicious-software-campaign-targets-apple-users-in-china%2F%3Fref%3Dtechnology%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年11月07日 04:38)
  ---
 WireLurker: A New Era in OS X and iOS Malware <a href="http://researchcenter.paloaltonetworks.com/2014/11/wirelurker-new-era-os-x-ios-malware/" target="_BLANK">researchcenter.paloaltonetworks.com/2014/11/wirelurker-new-era-os-x-ios-malware/</a> (2014年11月07日 04:32)
  ---
