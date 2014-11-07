@@ -66,6 +66,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: 有一种蓝，它不是普鲁士蓝，也不是蒂凡尼蓝；它不是大海的蔚蓝，也不是蓝莓的深蓝，它叫#APEC Blue#，它属于北京。政府用这一抹沁心的蓝告诉帝都人民：不是我们做不到，是你们不重要。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/251" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http://t.… (2014年11月07日 10:27)
+ ---
+RT @paopaonet: 【“带鱼”行动：建设挺政府的大V队伍】周小平将在诸多高校巡演，这不是笑话，而是严肃的政治任务。从净网行动到培养大V，先驱逐公知大V再代之以周带鱼，这套组合拳打出来，感觉中央在下很大的一盘棋<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/252" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http:/… (2014年11月07日 10:27)
+ ---
 RT @nytchinese: 硅谷一安全公司发现，新型恶意软件正借道第三方应用商店入侵中国苹果设备用户，并通过USB连接传染，或已影响数十万用户。<a href="http://cn.nytimes.com/technology/20141106/c06software/" target="_BLANK">cn.nytimes.com/technology/20141106/c06software/</a> (2014年11月07日 09:35)
  ---
 RT @ianbremmer: A year of pollution in Beijing. Mostly grey. <a href="https://twitter.com/ianbremmer/status/529632481969180672/photo/1" target="_BLANK">twitter.com/ianbremmer/status/529632481969180672/photo/1</a> (2014年11月07日 07:02)
@@ -102,8 +106,4 @@ RT @fangshimin: 所有关于周梦游事件的英文报道中，这篇写得最�
 RT @fangshimin: APEC期间别吃饭，别喝奶，别生病，也别死人。 <a href="https://twitter.com/fangshimin/status/529900514121498624/photo/1" target="_BLANK">twitter.com/fangshimin/status/529900514121498624/photo/1</a> (2014年11月06日 06:32)
  ---
 RT @PRHacks: Live: We are in Lan Kwai Fong! High fives all around from the crowd!  #MillionMaskMarch #Anonymous #OccupyHK <a href="http://t.co/wYQM8" target="_BLANK">t.co/wYQM8</a>… (2014年11月06日 00:15)
- ---
-RT @taniabranigan: He's back! h/t @goldkorn RT @rolandsoong: Welcome to ESWN's Occupy Central page @ <a href="http://www.zonaeuropa.com/weblog.htm" target="_BLANK">www.zonaeuropa.com/weblog.htm</a> (2014年11月05日 21:34)
- ---
-RT @JoFloto: After three weeks of being blocked BBC website available again in mainland China. Nothing from govt to indicate why blocked or… (2014年11月05日 21:10)
  ---
