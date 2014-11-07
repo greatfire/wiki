@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @chengr28: 中国网站将禁止非常用语言留言？ <a href="http://www.solidot.org/story?sid=41790" target="_BLANK">www.solidot.org/story</a> (2014年11月08日 07:18)
+ ---
 Cool story - The Untapped Creativity of the Chinese Internet <a href="http://www.vice.com/read/chinas-first-net-art-exhibition-113" target="_BLANK">www.vice.com/read/chinas-first-net-art-exhibition-113</a> via @vice <a href="https://twitter.com/GreatFireChina/status/530667208331235328/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/530667208331235328/photo/1</a> (2014年11月07日 18:24)
  ---
 RT @klustout: At least 76 people in Mainland China remain in detention for supporting #HongKong's pro-democracy protests: @Amnesty http://t… (2014年11月07日 16:05)
@@ -104,6 +106,4 @@ RT @dewolfleloup: Why did @SCMP_News and @wangxiangweihk kill Who Runs HK power-
  ---
 Chinese president’s favorite blogger hates America
 And he actually has no idea what’s going on in the United States. <a href="http://www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america" target="_BLANK">www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america</a> (2014年11月06日 06:36)
- ---
-RT @fangshimin: 所有关于周梦游事件的英文报道中，这篇写得最准确和详细，还提到了我在推特的发言。作者懂中文？不管怎样，周梦游已成国际笑柄。 <a href="http://www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america" target="_BLANK">www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america</a> (2014年11月06日 06:33)
  ---
