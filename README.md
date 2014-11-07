@@ -66,6 +66,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @FreeWeibo: 网友在这张照片下留言说，APEC blue告诉我们：不是政府做不到，是你们不重要！ <a href="https://freeweibo.com/weibo/3773925249028367" target="_BLANK">freeweibo.com/weibo/3773925249028367</a> <a href="https://twitter.com/FreeWeibo/status/530283380903276544/photo/1" target="_BLANK">twitter.com/FreeWeibo/status/530283380903276544/photo/1</a> (2014年11月08日 07:22)
+ ---
+RT @paopaonet: #泡泡报道 【微博死于什么】 三个月前腾讯宣布放弃微博；本月网易微博忽然谢幕......微博进入了弥留，病因究竟是什么？随着言论管制力度的加大,微博即将死于当局极端彻底的言论管控黑手。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/256" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http://t… (2014年11月08日 07:21)
+ ---
+RT @laoyang945: 据说翻译那个说QQ最不安全文章的网站都接到了腾讯的律师函 (2014年11月08日 07:21)
+ ---
 RT @chengr28: 中国网站将禁止非常用语言留言？ <a href="http://www.solidot.org/story?sid=41790" target="_BLANK">www.solidot.org/story</a> (2014年11月08日 07:18)
  ---
 Cool story - The Untapped Creativity of the Chinese Internet <a href="http://www.vice.com/read/chinas-first-net-art-exhibition-113" target="_BLANK">www.vice.com/read/chinas-first-net-art-exhibition-113</a> via @vice <a href="https://twitter.com/GreatFireChina/status/530667208331235328/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/530667208331235328/photo/1</a> (2014年11月07日 18:24)
@@ -99,11 +105,4 @@ RT @williamlong: 一年前在百度百家发的篇《中国互联网2013大事�
 RT @paopaonet: #泡泡多情推荐下篇 【翻墙武器之新多情环：赛风@PsiphonChina 】测试结果显示其翻墙威力十足，翻墙后访问速度很给力，支持 SSH 和VPN两种翻墙机制。泡泡君手把手教你翻墙新技能<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/253" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http:/… (2014年11月07日 03:38)
  ---
 Interesting notes behind the SCMP corruption crackdown story <a href="http://electricricecooker.tumblr.com/post/101664548154/tigers-and-flies-data-and-stories-from-data" target="_BLANK">electricricecooker.tumblr.com/post/101664548154/tigers-and-flies-data-and-stories-from-data</a> original here: <a href="http://multimedia.scmp.com/china-corruption/" target="_BLANK">multimedia.scmp.com/china-corruption/</a> (2014年11月06日 23:15)
- ---
-RT @cedricsam: @dewolfleloup For it to be useful, you need to fund team to curate! :) Look at Connected China. OTOH, automate, FTW: https:/… (2014年11月06日 20:30)
- ---
-RT @dewolfleloup: Why did @SCMP_News and @wangxiangweihk kill Who Runs HK power-mapping project? And why has it been taken offline? http://… (2014年11月06日 20:30)
- ---
-Chinese president’s favorite blogger hates America
-And he actually has no idea what’s going on in the United States. <a href="http://www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america" target="_BLANK">www.globalpost.com/dispatch/news/regions/asia-pacific/china/141027/chinese-president-favorite-blogger-hates-america</a> (2014年11月06日 06:36)
  ---
