@@ -50,7 +50,7 @@
         <tr>
             <td>博讯新闻</td>
             <td>            
-                <a href="https://wpc.a8b5.edgecastcdn.net/80107EF/soft.pingfan.pw/boxun/" target="jx17">长期有效 1</a>，            
+                <a href="https://gp1.wpc.edgecastcdn.net/80107EF/soft.pingfan.pw/boxun/" target="jx17">长期有效 1</a>，            
                 <a href="https://boxun2.azurewebsites.net" target="jx18">短期有效 1</a>，            
                 <a href="https://d3588w5hqzcepn.cloudfront.net" target="jx19">短期有效 2</a>
             </td>
