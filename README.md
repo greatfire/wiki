@@ -9,7 +9,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="https://cs23.wpc.edgecastcdn.net/80107EF/soft.pingfan.pw/paopao/" target="jx1">长期有效 1</a>，            
+                <a href="https://gp1.wpc.edgecastcdn.net/80107EF/soft.pingfan.pw/paopao/" target="jx1">长期有效 1</a>，            
                 <a href="https://edgecastcdn.net/00107ED/paopao/" target="jx2">长期有效 2</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx3">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx4">短期有效 2</a>
