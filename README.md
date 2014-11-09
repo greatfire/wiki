@@ -66,6 +66,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @irrenhaeusler: <a href="https://twitter.com/Mauerfall89/status/529624250966351873/photo/1" target="_BLANK">twitter.com/Mauerfall89/status/529624250966351873/photo/1</a>
+德國人民：「五十萬人上街，然後柏林圍牆就倒了。」
+天朝領導：「還是國貨好。Made in Germany 的品質根本沒有傳說中那麼牢靠...」 (2014年11月09日 13:54)
+ ---
+RT @williamlong: Google首页纪念柏林墙倒塌25周年，1989年11月9日晚上，伫立了28年的柏林墙正式被推倒，所有的检查站防线全被解除。肯尼迪曾评价柏林墙是“世界上第一堵不是用于抵御外敌，而是用来对付自己的百姓的墙”。 (2014年11月09日 13:51)
+ ---
 RT @RTKcn: 18+ RT @szeyan1220: 非常欣賞這張圖片，太有創意了！ <a href="https://twitter.com/szeyan1220/status/531069137288572929/photo/1" target="_BLANK">twitter.com/szeyan1220/status/531069137288572929/photo/1</a> (2014年11月09日 13:49)
  ---
 RT @remonwangxt: 本篇漫畫是歌頌Deng Shopping開創的一國兩制偉大構想的，請讀者老爺們批判性地閱讀。 <a href="https://twitter.com/remonwangxt/status/516280906261082113/photo/1" target="_BLANK">twitter.com/remonwangxt/status/516280906261082113/photo/1</a> (2014年11月08日 07:25)
@@ -101,8 +107,4 @@ RT @Livid: 原来说话这种逻辑的人也是可以当 CEO 的 <a href="https:
 Malicious Software Campaign Targets Apple Users in China  <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fbits.blogs.nytimes.com%2F2014%2F11%2F05%2Fmalicious-software-campaign-targets-apple-users-in-china%2F%3Fref%3Dtechnology%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年11月07日 04:38)
  ---
 WireLurker: A New Era in OS X and iOS Malware <a href="http://researchcenter.paloaltonetworks.com/2014/11/wirelurker-new-era-os-x-ios-malware/" target="_BLANK">researchcenter.paloaltonetworks.com/2014/11/wirelurker-new-era-os-x-ios-malware/</a> (2014年11月07日 04:32)
- ---
-RT @paopaonet: #泡泡专访 如果你给佛祖发封邮件，他会怎么说？ - ‘请别加附件！’” 泡泡这次采访的藏人行政中心总理洛桑森格给我们讲述了佛教徒与网络黑客的”生死较量“。@degewa <a href="https://edgecastcdn.net/00107ED/paopao/" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> <a href="http://t.co/Kxh" target="_BLANK">t.co/Kxh</a>… (2014年11月07日 03:59)
- ---
-RT @williamlong: 一年前在百度百家发的篇《中国互联网2013大事记》文章，仅仅因为提到周小平过往历史几句话，就被挖坟并枪毙，这也太夸张了点吧。 <a href="https://twitter.com/williamlong/status/530289164684492800/photo/1" target="_BLANK">twitter.com/williamlong/status/530289164684492800/photo/1</a> (2014年11月07日 03:55)
  ---
