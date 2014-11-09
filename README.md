@@ -74,7 +74,7 @@ RT @williamlong: Google首页纪念柏林墙倒塌25周年，1989年11月9日晚
  ---
 RT @RTKcn: 18+ RT @szeyan1220: 非常欣賞這張圖片，太有創意了！ <a href="https://twitter.com/szeyan1220/status/531069137288572929/photo/1" target="_BLANK">twitter.com/szeyan1220/status/531069137288572929/photo/1</a> (2014年11月09日 13:49)
  ---
-RT @remonwangxt: 本篇漫畫是歌頌Deng Shopping開創的一國兩制偉大構想的，請讀者老爺們批判性地閱讀。 <a href="https://twitter.com/remonwangxt/status/516280906261082113/photo/1" target="_BLANK">twitter.com/remonwangxt/status/516280906261082113/photo/1</a> (2014年11月08日 07:25)
+RT @remonwangxt: 本篇漫畫是歌頌Deng Shopping開創的一國兩制偉大構想的，請讀者老爺們批判性地閱讀。 <a href="http://twitter.com/remonwangxt/status/516280906261082113/photo/1" target="_BLANK">twitter.com/remonwangxt/status/516280906261082113/photo/1</a> (2014年11月08日 07:25)
  ---
 RT @FreeWeibo: 网友在这张照片下留言说，APEC blue告诉我们：不是政府做不到，是你们不重要！ <a href="https://freeweibo.com/weibo/3773925249028367" target="_BLANK">freeweibo.com/weibo/3773925249028367</a> <a href="https://twitter.com/FreeWeibo/status/530283380903276544/photo/1" target="_BLANK">twitter.com/FreeWeibo/status/530283380903276544/photo/1</a> (2014年11月08日 07:22)
  ---
