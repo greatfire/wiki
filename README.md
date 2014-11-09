@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @RTKcn: 18+ RT @szeyan1220: 非常欣賞這張圖片，太有創意了！ <a href="https://twitter.com/szeyan1220/status/531069137288572929/photo/1" target="_BLANK">twitter.com/szeyan1220/status/531069137288572929/photo/1</a> (2014年11月09日 13:49)
+ ---
 RT @remonwangxt: 本篇漫畫是歌頌Deng Shopping開創的一國兩制偉大構想的，請讀者老爺們批判性地閱讀。 <a href="https://twitter.com/remonwangxt/status/516280906261082113/photo/1" target="_BLANK">twitter.com/remonwangxt/status/516280906261082113/photo/1</a> (2014年11月08日 07:25)
  ---
 RT @FreeWeibo: 网友在这张照片下留言说，APEC blue告诉我们：不是政府做不到，是你们不重要！ <a href="https://freeweibo.com/weibo/3773925249028367" target="_BLANK">freeweibo.com/weibo/3773925249028367</a> <a href="https://twitter.com/FreeWeibo/status/530283380903276544/photo/1" target="_BLANK">twitter.com/FreeWeibo/status/530283380903276544/photo/1</a> (2014年11月08日 07:22)
@@ -103,6 +105,4 @@ WireLurker: A New Era in OS X and iOS Malware <a href="http://researchcenter.pal
 RT @paopaonet: #泡泡专访 如果你给佛祖发封邮件，他会怎么说？ - ‘请别加附件！’” 泡泡这次采访的藏人行政中心总理洛桑森格给我们讲述了佛教徒与网络黑客的”生死较量“。@degewa <a href="https://edgecastcdn.net/00107ED/paopao/" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> <a href="http://t.co/Kxh" target="_BLANK">t.co/Kxh</a>… (2014年11月07日 03:59)
  ---
 RT @williamlong: 一年前在百度百家发的篇《中国互联网2013大事记》文章，仅仅因为提到周小平过往历史几句话，就被挖坟并枪毙，这也太夸张了点吧。 <a href="https://twitter.com/williamlong/status/530289164684492800/photo/1" target="_BLANK">twitter.com/williamlong/status/530289164684492800/photo/1</a> (2014年11月07日 03:55)
- ---
-RT @paopaonet: #泡泡多情推荐下篇 【翻墙武器之新多情环：赛风@PsiphonChina 】测试结果显示其翻墙威力十足，翻墙后访问速度很给力，支持 SSH 和VPN两种翻墙机制。泡泡君手把手教你翻墙新技能<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/253" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http:/… (2014年11月07日 03:38)
  ---
