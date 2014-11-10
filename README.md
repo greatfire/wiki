@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Deleted China Daily Report Says Facebook, YouTube Refuse to Delete Terror Material. Here’s How Baidu Handles It <a href="http://blog.feichangdao.com/2014/11/deleted-china-daily-report-says.html" target="_BLANK">blog.feichangdao.com/2014/11/deleted-china-daily-report-says.html</a> (2014年11月10日 18:36)
+ ---
 RT @irrenhaeusler: <a href="https://twitter.com/Mauerfall89/status/529624250966351873/photo/1" target="_BLANK">twitter.com/Mauerfall89/status/529624250966351873/photo/1</a>
 德國人民：「五十萬人上街，然後柏林圍牆就倒了。」
 天朝領導：「還是國貨好。Made in Germany 的品質根本沒有傳說中那麼牢靠...」 (2014年11月09日 13:54)
@@ -105,6 +107,4 @@ RT @Livid: 麦芽地的天使投资人是奇虎 360 <a href="http://itjuzi.com/c
 RT @Livid: 原来说话这种逻辑的人也是可以当 CEO 的 <a href="https://twitter.com/Livid/status/530253286017073152/photo/1" target="_BLANK">twitter.com/Livid/status/530253286017073152/photo/1</a> (2014年11月07日 06:19)
  ---
 Malicious Software Campaign Targets Apple Users in China  <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fbits.blogs.nytimes.com%2F2014%2F11%2F05%2Fmalicious-software-campaign-targets-apple-users-in-china%2F%3Fref%3Dtechnology%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年11月07日 04:38)
- ---
-WireLurker: A New Era in OS X and iOS Malware <a href="http://researchcenter.paloaltonetworks.com/2014/11/wirelurker-new-era-os-x-ios-malware/" target="_BLANK">researchcenter.paloaltonetworks.com/2014/11/wirelurker-new-era-os-x-ios-malware/</a> (2014年11月07日 04:32)
  ---
