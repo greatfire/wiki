@@ -66,6 +66,9 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @nytchinese: 【中国污染监测App停用美使馆数据】维基解密获取的一份美国国务院电报显示，2009年，一名中国官员要求美国外交官停止通过Twitter发布PM2.5相关信息，称这么做可能会造成不良“社会影响”。
+<a href="http://cn.nytimes.com/china/20141111/c11aqapp/" target="_BLANK">cn.nytimes.com/china/20141111/c11aqapp/</a> (2014年11月12日 04:23)
+ ---
 RT @RTKcn: 17+ RT @letscorp: 空气质量指数APP不给国家添堵了！ <a href="https://twitter.com/letscorp/status/531727024944349185/photo/1" target="_BLANK">twitter.com/letscorp/status/531727024944349185/photo/1</a> (2014年11月11日 10:50)
  ---
 RT @fangshimin: “党外人士要敢于讲真话”，讲了真话就把你封杀让你讲不了话，这招叫引蛇出洞、阳谋，上世纪五十年代就用过了。 <a href="https://twitter.com/fangshimin/status/531671682671325184/photo/1" target="_BLANK">twitter.com/fangshimin/status/531671682671325184/photo/1</a> (2014年11月11日 10:47)
@@ -105,6 +108,4 @@ RT @paopaonet: 【“带鱼”行动：建设挺政府的大V队伍】周小平�
 RT @nytchinese: 硅谷一安全公司发现，新型恶意软件正借道第三方应用商店入侵中国苹果设备用户，并通过USB连接传染，或已影响数十万用户。<a href="http://cn.nytimes.com/technology/20141106/c06software/" target="_BLANK">cn.nytimes.com/technology/20141106/c06software/</a> (2014年11月07日 09:35)
  ---
 RT @ianbremmer: A year of pollution in Beijing. Mostly grey. <a href="https://twitter.com/ianbremmer/status/529632481969180672/photo/1" target="_BLANK">twitter.com/ianbremmer/status/529632481969180672/photo/1</a> (2014年11月07日 07:02)
- ---
-RT @phuslu: BBC 中文网也报道麦芽地植入木马事件了。<a href="http://www.bbc.co.uk/zhongwen/simp/science/2014/11/141106_apple_malware_china" target="_BLANK">www.bbc.co.uk/zhongwen/simp/science/2014/11/141106_apple_malware_china</a> (2014年11月07日 06:59)
  ---
