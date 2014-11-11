@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @fangshimin: “党外人士要敢于讲真话”，讲了真话就把你封杀让你讲不了话，这招叫引蛇出洞、阳谋，上世纪五十年代就用过了。 <a href="https://twitter.com/fangshimin/status/531671682671325184/photo/1" target="_BLANK">twitter.com/fangshimin/status/531671682671325184/photo/1</a> (2014年11月11日 10:47)
+ ---
 普京起身为身旁的彭丽媛披上外套  <a href="https://freeweibo.com/weibo/%E6%99%AE%E4%BA%AC+%E5%BD%AD%E4%B8%BD%E5%AA%9B" target="_BLANK">freeweibo.com/weibo/普京 彭丽媛</a> 微博删除了 (2014年11月11日 10:35)
  ---
 Putin Hits on China's First Lady, Censors Go Wild <a href="http://www.foreignpolicy.com/articles/2014/11/10/putin_hits_on_china__first_lady_apec_censors_go_wild" target="_BLANK">www.foreignpolicy.com/articles/2014/11/10/putin_hits_on_china__first_lady_apec_censors_go_wild</a> (2014年11月11日 10:29)
@@ -105,6 +107,4 @@ RT @ianbremmer: A year of pollution in Beijing. Mostly grey. <a href="https://tw
 RT @phuslu: BBC 中文网也报道麦芽地植入木马事件了。<a href="http://www.bbc.co.uk/zhongwen/simp/science/2014/11/141106_apple_malware_china" target="_BLANK">www.bbc.co.uk/zhongwen/simp/science/2014/11/141106_apple_malware_china</a> (2014年11月07日 06:59)
  ---
 [招聘 Android 开发者] 要求有有Android应用的开发经验。 远程工作。 待遇极佳，具体协商。 有意愿者请发送email到 percyalpha[at]gmail[dot]com （PGP key <a href="https://zh.greatfire.org/contact#alt" target="_BLANK">zh.greatfire.org/contact</a>） (2014年11月07日 06:46)
- ---
-RT @Livid: 麦芽地的天使投资人是奇虎 360 <a href="http://itjuzi.com/company/8290" target="_BLANK">itjuzi.com/company/8290</a> (2014年11月07日 06:19)
  ---
