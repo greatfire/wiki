@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Putin Hits on China's First Lady, Censors Go Wild <a href="http://www.foreignpolicy.com/articles/2014/11/10/putin_hits_on_china__first_lady_apec_censors_go_wild" target="_BLANK">www.foreignpolicy.com/articles/2014/11/10/putin_hits_on_china__first_lady_apec_censors_go_wild</a> (2014年11月11日 10:29)
+ ---
 Deleted China Daily Report Says Facebook, YouTube Refuse to Delete Terror Material. Here’s How Baidu Handles It <a href="http://blog.feichangdao.com/2014/11/deleted-china-daily-report-says.html" target="_BLANK">blog.feichangdao.com/2014/11/deleted-china-daily-report-says.html</a> (2014年11月10日 18:36)
  ---
 RT @irrenhaeusler: <a href="https://twitter.com/Mauerfall89/status/529624250966351873/photo/1" target="_BLANK">twitter.com/Mauerfall89/status/529624250966351873/photo/1</a>
@@ -105,6 +107,4 @@ RT @phuslu: BBC 中文网也报道麦芽地植入木马事件了。<a href="http
 RT @Livid: 麦芽地的天使投资人是奇虎 360 <a href="http://itjuzi.com/company/8290" target="_BLANK">itjuzi.com/company/8290</a> (2014年11月07日 06:19)
  ---
 RT @Livid: 原来说话这种逻辑的人也是可以当 CEO 的 <a href="https://twitter.com/Livid/status/530253286017073152/photo/1" target="_BLANK">twitter.com/Livid/status/530253286017073152/photo/1</a> (2014年11月07日 06:19)
- ---
-Malicious Software Campaign Targets Apple Users in China  <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fbits.blogs.nytimes.com%2F2014%2F11%2F05%2Fmalicious-software-campaign-targets-apple-users-in-china%2F%3Fref%3Dtechnology%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年11月07日 04:38)
  ---
