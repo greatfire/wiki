@@ -101,7 +101,7 @@ RT @laoyang945: 据说翻译那个说QQ最不安全文章的网站都接到了�
  ---
 RT @chengr28: 中国网站将禁止非常用语言留言？ <a href="http://www.solidot.org/story?sid=41790" target="_BLANK">www.solidot.org/story</a> (2014年11月08日 07:18)
  ---
-Cool story - The Untapped Creativity of the Chinese Internet <a href="http://www.vice.com/read/chinas-first-net-art-exhibition-113" target="_BLANK">www.vice.com/read/chinas-first-net-art-exhibition-113</a> via @vice <a href="http://t.co/XQSnpY1THz" target="_BLANK">t.co/XQSnpY1THz</a> (2014年11月07日 18:24)
+Cool story - The Untapped Creativity of the Chinese Internet <a href="http://www.vice.com/read/chinas-first-net-art-exhibition-113" target="_BLANK">www.vice.com/read/chinas-first-net-art-exhibition-113</a> via @vice <a href="https://twitter.com/GreatFireChina/status/530667208331235328/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/530667208331235328/photo/1</a> (2014年11月07日 18:24)
  ---
 RT @klustout: At least 76 people in Mainland China remain in detention for supporting #HongKong's pro-democracy protests: @Amnesty http://t… (2014年11月07日 16:05)
  ---
