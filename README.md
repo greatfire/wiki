@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+普京起身为身旁的彭丽媛披上外套  <a href="https://freeweibo.com/weibo/%E6%99%AE%E4%BA%AC+%E5%BD%AD%E4%B8%BD%E5%AA%9B" target="_BLANK">freeweibo.com/weibo/普京 彭丽媛</a> 微博删除了 (2014年11月11日 10:35)
+ ---
 Putin Hits on China's First Lady, Censors Go Wild <a href="http://www.foreignpolicy.com/articles/2014/11/10/putin_hits_on_china__first_lady_apec_censors_go_wild" target="_BLANK">www.foreignpolicy.com/articles/2014/11/10/putin_hits_on_china__first_lady_apec_censors_go_wild</a> (2014年11月11日 10:29)
  ---
 Deleted China Daily Report Says Facebook, YouTube Refuse to Delete Terror Material. Here’s How Baidu Handles It <a href="http://blog.feichangdao.com/2014/11/deleted-china-daily-report-says.html" target="_BLANK">blog.feichangdao.com/2014/11/deleted-china-daily-report-says.html</a> (2014年11月10日 18:36)
@@ -105,6 +107,4 @@ RT @phuslu: BBC 中文网也报道麦芽地植入木马事件了。<a href="http
 [招聘 Android 开发者] 要求有有Android应用的开发经验。 远程工作。 待遇极佳，具体协商。 有意愿者请发送email到 percyalpha[at]gmail[dot]com （PGP key <a href="https://zh.greatfire.org/contact#alt" target="_BLANK">zh.greatfire.org/contact</a>） (2014年11月07日 06:46)
  ---
 RT @Livid: 麦芽地的天使投资人是奇虎 360 <a href="http://itjuzi.com/company/8290" target="_BLANK">itjuzi.com/company/8290</a> (2014年11月07日 06:19)
- ---
-RT @Livid: 原来说话这种逻辑的人也是可以当 CEO 的 <a href="https://twitter.com/Livid/status/530253286017073152/photo/1" target="_BLANK">twitter.com/Livid/status/530253286017073152/photo/1</a> (2014年11月07日 06:19)
  ---
