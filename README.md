@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Cut the shawl talk: Chinese censors wipe Putin's move on China's first lady <a href="http://www.cnn.com/2014/11/11/world/asia/putin-liyuan-shawl-apec/index.html" target="_BLANK">www.cnn.com/2014/11/11/world/asia/putin-liyuan-shawl-apec/index.html</a> (2014年11月12日 04:45)
+ ---
 RT @nytchinese: 【中国污染监测App停用美使馆数据】维基解密获取的一份美国国务院电报显示，2009年，一名中国官员要求美国外交官停止通过Twitter发布PM2.5相关信息，称这么做可能会造成不良“社会影响”。
 <a href="http://cn.nytimes.com/china/20141111/c11aqapp/" target="_BLANK">cn.nytimes.com/china/20141111/c11aqapp/</a> (2014年11月12日 04:23)
  ---
@@ -106,6 +108,4 @@ RT @paopaonet: 有一种蓝，它不是普鲁士蓝，也不是蒂凡尼蓝；�
 RT @paopaonet: 【“带鱼”行动：建设挺政府的大V队伍】周小平将在诸多高校巡演，这不是笑话，而是严肃的政治任务。从净网行动到培养大V，先驱逐公知大V再代之以周带鱼，这套组合拳打出来，感觉中央在下很大的一盘棋<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/252" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http:/… (2014年11月07日 10:27)
  ---
 RT @nytchinese: 硅谷一安全公司发现，新型恶意软件正借道第三方应用商店入侵中国苹果设备用户，并通过USB连接传染，或已影响数十万用户。<a href="http://cn.nytimes.com/technology/20141106/c06software/" target="_BLANK">cn.nytimes.com/technology/20141106/c06software/</a> (2014年11月07日 09:35)
- ---
-RT @ianbremmer: A year of pollution in Beijing. Mostly grey. <a href="https://twitter.com/ianbremmer/status/529632481969180672/photo/1" target="_BLANK">twitter.com/ianbremmer/status/529632481969180672/photo/1</a> (2014年11月07日 07:02)
  ---
