@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @niubi: Censorship message in updated china air quality index app. <a href="https://twitter.com/niubi/status/532368605350866944/photo/1" target="_BLANK">twitter.com/niubi/status/532368605350866944/photo/1</a> (2014年11月12日 17:42)
+ ---
 RT @paopaonet: #泡泡报道 “持证上网”时代即将来临？：经过五年技术攻关，中国已建立起‘公安部公民网络身份识别系统’··· <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/259" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> <a href="https://twitter.com/paopaonet/status/531784647467081728/photo/1" target="_BLANK">twitter.com/paopaonet/status/531784647467081728/photo/1</a> (2014年11月12日 06:02)
  ---
 Cut the shawl talk: Chinese censors wipe Putin's move on China's first lady <a href="http://www.cnn.com/2014/11/11/world/asia/putin-liyuan-shawl-apec/index.html" target="_BLANK">www.cnn.com/2014/11/11/world/asia/putin-liyuan-shawl-apec/index.html</a> (2014年11月12日 04:45)
@@ -106,6 +108,4 @@ Cool story - The Untapped Creativity of the Chinese Internet <a href="http://www
 RT @klustout: At least 76 people in Mainland China remain in detention for supporting #HongKong's pro-democracy protests: @Amnesty http://t… (2014年11月07日 16:05)
  ---
 RT @paopaonet: 有一种蓝，它不是普鲁士蓝，也不是蒂凡尼蓝；它不是大海的蔚蓝，也不是蓝莓的深蓝，它叫#APEC Blue#，它属于北京。政府用这一抹沁心的蓝告诉帝都人民：不是我们做不到，是你们不重要。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/251" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http://t.… (2014年11月07日 10:27)
- ---
-RT @paopaonet: 【“带鱼”行动：建设挺政府的大V队伍】周小平将在诸多高校巡演，这不是笑话，而是严肃的政治任务。从净网行动到培养大V，先驱逐公知大V再代之以周带鱼，这套组合拳打出来，感觉中央在下很大的一盘棋<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/252" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http:/… (2014年11月07日 10:27)
  ---
