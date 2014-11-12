@@ -85,7 +85,7 @@ RT @nytchinese: 【中国污染监测App停用美使馆数据】维基解密获�
  ---
 RT @RTKcn: 17+ RT @letscorp: 空气质量指数APP不给国家添堵了！ <a href="https://twitter.com/letscorp/status/531727024944349185/photo/1" target="_BLANK">twitter.com/letscorp/status/531727024944349185/photo/1</a> (2014年11月11日 10:50)
  ---
-RT @fangshimin: “党外人士要敢于讲真话”，讲了真话就把你封杀让你讲不了话，这招叫引蛇出洞、阳谋，上世纪五十年代就用过了。 <a href="http://t.co/SoJN4cBYtN" target="_BLANK">t.co/SoJN4cBYtN</a> (2014年11月11日 10:47)
+RT @fangshimin: “党外人士要敢于讲真话”，讲了真话就把你封杀让你讲不了话，这招叫引蛇出洞、阳谋，上世纪五十年代就用过了。 <a href="https://twitter.com/fangshimin/status/531671682671325184/photo/1" target="_BLANK">twitter.com/fangshimin/status/531671682671325184/photo/1</a> (2014年11月11日 10:47)
  ---
 普京起身为身旁的彭丽媛披上外套  <a href="https://freeweibo.com/weibo/%E6%99%AE%E4%BA%AC+%E5%BD%AD%E4%B8%BD%E5%AA%9B" target="_BLANK">freeweibo.com/weibo/普京 彭丽媛</a> 微博删除了 (2014年11月11日 10:35)
  ---
