@@ -66,6 +66,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @tufuwugan: 1:把@onionhacker 许东被抓消息告诉我的许东朋友下午被警察找，四个警察到她公司，故意制造恐惧，当着她公司同事架起摄像机，做笔录做了几个小时，还好之前我有告诉她警察会用什么流氓手法。警察问她怎么认识我，怎么联系我的，并“善意”告知屠夫是个… (2014年11月12日 22:34)
+ ---
+RT @phuslu: 之所以发这条声明，是因为看到 @onionhacker 貌似被抓。 <a href="https://twitter.com/search?src=typd&q=onionhacker" target="_BLANK">twitter.com/search</a> 虽然我觉他的确不厚道，但是罪不至此，所以以防万一，我先发一个声明表白一下自己。 @phuslu (2014年11月12日 22:33)
+ ---
 Apple strikes again, removes HK newspaper app from the China app store - no recourse, no transparency <a href="https://www.techinasia.com/anticommunist-news-site-passion-times-banned-chinas-apple-app-store/?utm_source=The+Sinocism+China+Newsletter&utm_campaign=fb937bcb6c-Sinocism11_11_1411_11_2014&utm_medium=email&utm_term=0_171f237867-fb937bcb6c-29605065&mc_cid=fb937bcb6c&mc_eid=2fb72b1f35" target="_BLANK">www.techinasia.com/anticommunist-news-site-passion-times-banned-chinas-apple-app-store/</a> (2014年11月12日 20:54)
  ---
 RT @niubi: Censorship message in updated china air quality index app. <a href="https://twitter.com/niubi/status/532368605350866944/photo/1" target="_BLANK">twitter.com/niubi/status/532368605350866944/photo/1</a> (2014年11月12日 17:42)
@@ -104,8 +108,4 @@ RT @paopaonet: #泡泡报道 【微博死于什么】 三个月前腾讯宣布�
 RT @laoyang945: 据说翻译那个说QQ最不安全文章的网站都接到了腾讯的律师函 (2014年11月08日 07:21)
  ---
 RT @chengr28: 中国网站将禁止非常用语言留言？ <a href="http://www.solidot.org/story?sid=41790" target="_BLANK">www.solidot.org/story</a> (2014年11月08日 07:18)
- ---
-Cool story - The Untapped Creativity of the Chinese Internet <a href="http://www.vice.com/read/chinas-first-net-art-exhibition-113" target="_BLANK">www.vice.com/read/chinas-first-net-art-exhibition-113</a> via @vice <a href="https://twitter.com/GreatFireChina/status/530667208331235328/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/530667208331235328/photo/1</a> (2014年11月07日 18:24)
- ---
-RT @klustout: At least 76 people in Mainland China remain in detention for supporting #HongKong's pro-democracy protests: @Amnesty http://t… (2014年11月07日 16:05)
  ---
