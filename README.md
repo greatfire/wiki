@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Apple strikes again, removes HK newspaper app from the China app store - no recourse, no transparency <a href="https://www.techinasia.com/anticommunist-news-site-passion-times-banned-chinas-apple-app-store/?utm_source=The+Sinocism+China+Newsletter&utm_campaign=fb937bcb6c-Sinocism11_11_1411_11_2014&utm_medium=email&utm_term=0_171f237867-fb937bcb6c-29605065&mc_cid=fb937bcb6c&mc_eid=2fb72b1f35" target="_BLANK">www.techinasia.com/anticommunist-news-site-passion-times-banned-chinas-apple-app-store/</a> (2014年11月12日 20:54)
+ ---
 RT @niubi: Censorship message in updated china air quality index app. <a href="https://twitter.com/niubi/status/532368605350866944/photo/1" target="_BLANK">twitter.com/niubi/status/532368605350866944/photo/1</a> (2014年11月12日 17:42)
  ---
 RT @paopaonet: #泡泡报道 “持证上网”时代即将来临？：经过五年技术攻关，中国已建立起‘公安部公民网络身份识别系统’··· <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/259" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> <a href="https://twitter.com/paopaonet/status/531784647467081728/photo/1" target="_BLANK">twitter.com/paopaonet/status/531784647467081728/photo/1</a> (2014年11月12日 06:02)
@@ -106,6 +108,4 @@ RT @chengr28: 中国网站将禁止非常用语言留言？ <a href="http://www.
 Cool story - The Untapped Creativity of the Chinese Internet <a href="http://www.vice.com/read/chinas-first-net-art-exhibition-113" target="_BLANK">www.vice.com/read/chinas-first-net-art-exhibition-113</a> via @vice <a href="https://twitter.com/GreatFireChina/status/530667208331235328/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/530667208331235328/photo/1</a> (2014年11月07日 18:24)
  ---
 RT @klustout: At least 76 people in Mainland China remain in detention for supporting #HongKong's pro-democracy protests: @Amnesty http://t… (2014年11月07日 16:05)
- ---
-RT @paopaonet: 有一种蓝，它不是普鲁士蓝，也不是蒂凡尼蓝；它不是大海的蔚蓝，也不是蓝莓的深蓝，它叫#APEC Blue#，它属于北京。政府用这一抹沁心的蓝告诉帝都人民：不是我们做不到，是你们不重要。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/251" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http://t.… (2014年11月07日 10:27)
  ---
