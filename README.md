@@ -69,7 +69,7 @@ RT @haasbenjamin: Burn Bloomberg "NYT has no intention of altering its coverage 
  ---
 RT @paopaonet: #兔泡泡 【朝鲜青年结婚流行新大件——手机】《每日朝鲜》报道，朝鲜中小城市最流行的结婚礼物是手机，第二流行的才是戒指。朝鲜大约有250万手机用户，占总人口的10%。对于普通的朝鲜青年来说，手机、电脑、互联网究竟意味着什么呢？https://t.co… (2014年11月13日 10:29)
  ---
-RT @fangshimin: 25年前的今天，柏林墙倒下。再大再密的墙，总有一天也会倒的。<a href="https://www.youtube.com/watch?v=mhfrAd_Pa8M" target="_BLANK">www.youtube.com/watch</a> (2014年11月12日 22:53)
+RT @fangshimin: 25年前的今天，柏林墙倒下。再大再密的墙，总有一天也会倒的。<a href="https://t.co/tYjsaxEn9z" target="_BLANK">t.co/tYjsaxEn9z</a> (2014年11月12日 22:53)
  ---
 RT @tufuwugan: 1:把@onionhacker 许东被抓消息告诉我的许东朋友下午被警察找，四个警察到她公司，故意制造恐惧，当着她公司同事架起摄像机，做笔录做了几个小时，还好之前我有告诉她警察会用什么流氓手法。警察问她怎么认识我，怎么联系我的，并“善意”告知屠夫是个… (2014年11月12日 22:34)
  ---
