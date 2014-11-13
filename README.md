@@ -63,7 +63,7 @@ RT @chenshaoju: 我说XDA的头像和CSS什么的怎么都显示不出来了，�
  ---
 @niubi never blocked but maybe that's because it is such an important news source for Xinhua and others <a href="https://en.greatfire.org/www.theonion.com" target="_BLANK">en.greatfire.org/www.theonion.com</a> (2014年11月13日 22:29)
  ---
-Fascinating in-depth @citizenlab research: Chinese state attacks on Tibetan and Chinese human rights orgs <a href="https://t.co/NqKdaRFvMp" target="_BLANK">t.co/NqKdaRFvMp</a> (2014年11月13日 16:24)
+Fascinating in-depth @citizenlab research: Chinese state attacks on Tibetan and Chinese human rights orgs <a href="https://targetedthreats.net/" target="_BLANK">targetedthreats.net/</a> (2014年11月13日 16:24)
  ---
 RT @haasbenjamin: Burn Bloomberg "NYT has no intention of altering its coverage to meet the demands of any gov. Nor would any credible news… (2014年11月13日 15:21)
  ---
