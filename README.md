@@ -66,7 +66,7 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-RT @fangshimin: 25年前的今天，柏林墙倒下。再大再密的墙，总有一天也会倒的。<a href="https://t.co/tYjsaxEn9z" target="_BLANK">t.co/tYjsaxEn9z</a> (2014年11月12日 22:53)
+RT @fangshimin: 25年前的今天，柏林墙倒下。再大再密的墙，总有一天也会倒的。<a href="https://www.youtube.com/watch?v=mhfrAd_Pa8M" target="_BLANK">www.youtube.com/watch</a> (2014年11月12日 22:53)
  ---
 RT @tufuwugan: 1:把@onionhacker 许东被抓消息告诉我的许东朋友下午被警察找，四个警察到她公司，故意制造恐惧，当着她公司同事架起摄像机，做笔录做了几个小时，还好之前我有告诉她警察会用什么流氓手法。警察问她怎么认识我，怎么联系我的，并“善意”告知屠夫是个… (2014年11月12日 22:34)
  ---
