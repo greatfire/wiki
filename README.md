@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: #兔泡泡 【朝鲜青年结婚流行新大件——手机】《每日朝鲜》报道，朝鲜中小城市最流行的结婚礼物是手机，第二流行的才是戒指。朝鲜大约有250万手机用户，占总人口的10%。对于普通的朝鲜青年来说，手机、电脑、互联网究竟意味着什么呢？https://t.co… (2014年11月13日 10:29)
+ ---
 RT @fangshimin: 25年前的今天，柏林墙倒下。再大再密的墙，总有一天也会倒的。<a href="https://www.youtube.com/watch?v=mhfrAd_Pa8M" target="_BLANK">www.youtube.com/watch</a> (2014年11月12日 22:53)
  ---
 RT @tufuwugan: 1:把@onionhacker 许东被抓消息告诉我的许东朋友下午被警察找，四个警察到她公司，故意制造恐惧，当着她公司同事架起摄像机，做笔录做了几个小时，还好之前我有告诉她警察会用什么流氓手法。警察问她怎么认识我，怎么联系我的，并“善意”告知屠夫是个… (2014年11月12日 22:34)
@@ -106,6 +108,4 @@ RT @remonwangxt: 本篇漫畫是歌頌Deng Shopping開創的一國兩制偉大�
 RT @FreeWeibo: 网友在这张照片下留言说，APEC blue告诉我们：不是政府做不到，是你们不重要！ <a href="https://freeweibo.com/weibo/3773925249028367" target="_BLANK">freeweibo.com/weibo/3773925249028367</a> <a href="https://twitter.com/FreeWeibo/status/530283380903276544/photo/1" target="_BLANK">twitter.com/FreeWeibo/status/530283380903276544/photo/1</a> (2014年11月08日 07:22)
  ---
 RT @paopaonet: #泡泡报道 【微博死于什么】 三个月前腾讯宣布放弃微博；本月网易微博忽然谢幕......微博进入了弥留，病因究竟是什么？随着言论管制力度的加大,微博即将死于当局极端彻底的言论管控黑手。<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/256" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> http://t… (2014年11月08日 07:21)
- ---
-RT @laoyang945: 据说翻译那个说QQ最不安全文章的网站都接到了腾讯的律师函 (2014年11月08日 07:21)
  ---
