@@ -66,6 +66,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@niubi never blocked but maybe that's because it is such an important news source for Xinhua and others <a href="https://en.greatfire.org/www.theonion.com" target="_BLANK">en.greatfire.org/www.theonion.com</a> (2014年11月13日 22:29)
+ ---
 Fascinating in-depth @citizenlab research: Chinese state attacks on Tibetan and Chinese human rights orgs <a href="https://targetedthreats.net/" target="_BLANK">targetedthreats.net/</a> (2014年11月13日 16:24)
  ---
 RT @haasbenjamin: Burn Bloomberg "NYT has no intention of altering its coverage to meet the demands of any gov. Nor would any credible news… (2014年11月13日 15:21)
@@ -106,6 +108,4 @@ RT @irrenhaeusler: <a href="https://twitter.com/Mauerfall89/status/5296242509663
 RT @williamlong: Google首页纪念柏林墙倒塌25周年，1989年11月9日晚上，伫立了28年的柏林墙正式被推倒，所有的检查站防线全被解除。肯尼迪曾评价柏林墙是“世界上第一堵不是用于抵御外敌，而是用来对付自己的百姓的墙”。 (2014年11月09日 13:51)
  ---
 RT @RTKcn: 18+ RT @szeyan1220: 非常欣賞這張圖片，太有創意了！ <a href="https://twitter.com/szeyan1220/status/531069137288572929/photo/1" target="_BLANK">twitter.com/szeyan1220/status/531069137288572929/photo/1</a> (2014年11月09日 13:49)
- ---
-RT @remonwangxt: 本篇漫畫是歌頌Deng Shopping開創的一國兩制偉大構想的，請讀者老爺們批判性地閱讀。 <a href="https://twitter.com/remonwangxt/status/516280906261082113/photo/1" target="_BLANK">twitter.com/remonwangxt/status/516280906261082113/photo/1</a> (2014年11月08日 07:25)
  ---
