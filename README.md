@@ -59,6 +59,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @chenshaoju: 我说XDA的头像和CSS什么的怎么都显示不出来了，原来XDA用了EdgeCast的CDN，而EdgeCast被墙了…… <a href="https://twitter.com/chenshaoju/status/532908376896708608/photo/1" target="_BLANK">twitter.com/chenshaoju/status/532908376896708608/photo/1</a> (2014年11月13日 23:46)
+ ---
 @niubi never blocked but maybe that's because it is such an important news source for Xinhua and others <a href="https://en.greatfire.org/www.theonion.com" target="_BLANK">en.greatfire.org/www.theonion.com</a> (2014年11月13日 22:29)
  ---
 Fascinating in-depth @citizenlab research: Chinese state attacks on Tibetan and Chinese human rights orgs <a href="https://targetedthreats.net/" target="_BLANK">targetedthreats.net/</a> (2014年11月13日 16:24)
@@ -99,6 +101,4 @@ RT @irrenhaeusler: <a href="https://twitter.com/Mauerfall89/status/5296242509663
 天朝領導：「還是國貨好。Made in Germany 的品質根本沒有傳說中那麼牢靠...」 (2014年11月09日 13:54)
  ---
 RT @williamlong: Google首页纪念柏林墙倒塌25周年，1989年11月9日晚上，伫立了28年的柏林墙正式被推倒，所有的检查站防线全被解除。肯尼迪曾评价柏林墙是“世界上第一堵不是用于抵御外敌，而是用来对付自己的百姓的墙”。 (2014年11月09日 13:51)
- ---
-RT @RTKcn: 18+ RT @szeyan1220: 非常欣賞這張圖片，太有創意了！ <a href="https://twitter.com/szeyan1220/status/531069137288572929/photo/1" target="_BLANK">twitter.com/szeyan1220/status/531069137288572929/photo/1</a> (2014年11月09日 13:49)
  ---
