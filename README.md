@@ -10,44 +10,48 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
-                <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
+                <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
         </tr>    
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="https://865ba.azurewebsites.net" target="jx3">短期有效 1</a>，            
-                <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx4">短期有效 2</a>
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
+                <a href="https://865ba.azurewebsites.net" target="jx5">短期有效 1</a>，            
+                <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx6">短期有效 2</a>
             </td>
         </tr>    
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx5">长期有效 1</a>，            
-                <a href="https://fw6.azurewebsites.net" target="jx6">短期有效 1</a>，            
-                <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx7">短期有效 2</a>
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
+                <a href="https://fw6.azurewebsites.net" target="jx8">短期有效 1</a>，            
+                <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx9">短期有效 2</a>
             </td>
         </tr>    
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="https://39bf.azurewebsites.net" target="jx8">短期有效 1</a>，            
-                <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx9">短期有效 2</a>
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
+                <a href="https://39bf.azurewebsites.net" target="jx11">短期有效 1</a>，            
+                <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx12">短期有效 2</a>
             </td>
         </tr>    
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="https://c7511.azurewebsites.net" target="jx10">短期有效 1</a>，            
-                <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx11">短期有效 2</a>
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
+                <a href="https://c7511.azurewebsites.net" target="jx14">短期有效 1</a>，            
+                <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx15">短期有效 2</a>
             </td>
         </tr>    
         <tr>
             <td>博讯新闻</td>
             <td>            
-                <a href="https://boxun2.azurewebsites.net" target="jx12">短期有效 1</a>，            
-                <a href="https://d3588w5hqzcepn.cloudfront.net" target="jx13">短期有效 2</a>
+                <a href="https://boxun2.azurewebsites.net" target="jx16">短期有效 1</a>，            
+                <a href="https://d3588w5hqzcepn.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
         </tr>
     </tbody>
