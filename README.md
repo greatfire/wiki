@@ -59,6 +59,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @RTKcn: 21+ RT @hnjhj: 发现一款内涵宝贝，价廉物美，欲购从速 <a href="http://item.taobao.com/item.htm?id=15313110296" target="_BLANK">item.taobao.com/item.htm</a> (2014年11月14日 09:26)
+ ---
+”XXX机智打动了在场的所有人，掌声经久不息“这些段子大家看过么？ 都弱爆了。习近平直接假装没听到纽约时报记者的提问。 <a href="http://cn.nytimes.com/opinion/20141113/c13editorial/" target="_BLANK">cn.nytimes.com/opinion/20141113/c13editorial/</a> (2014年11月14日 09:25)
+ ---
 纽约时报公开回应习近平 <a href="http://cn.nytimes.com/opinion/20141113/c13editorial/" target="_BLANK">cn.nytimes.com/opinion/20141113/c13editorial/</a> (2014年11月14日 09:09)
  ---
 A Response to President Xi Jinping from NYTimes <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F11%2F13%2Fopinion%2Fa-response-to-president-xi-jinping.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年11月14日 09:07)
@@ -95,8 +99,4 @@ RT @RTKcn: 17+ RT @letscorp: 空气质量指数APP不给国家添堵了！ <a hr
 RT @fangshimin: “党外人士要敢于讲真话”，讲了真话就把你封杀让你讲不了话，这招叫引蛇出洞、阳谋，上世纪五十年代就用过了。 <a href="https://twitter.com/fangshimin/status/531671682671325184/photo/1" target="_BLANK">twitter.com/fangshimin/status/531671682671325184/photo/1</a> (2014年11月11日 10:47)
  ---
 普京起身为身旁的彭丽媛披上外套  <a href="https://freeweibo.com/weibo/%E6%99%AE%E4%BA%AC+%E5%BD%AD%E4%B8%BD%E5%AA%9B" target="_BLANK">freeweibo.com/weibo/普京 彭丽媛</a> 微博删除了 (2014年11月11日 10:35)
- ---
-Putin Hits on China's First Lady, Censors Go Wild <a href="http://www.foreignpolicy.com/articles/2014/11/10/putin_hits_on_china__first_lady_apec_censors_go_wild" target="_BLANK">www.foreignpolicy.com/articles/2014/11/10/putin_hits_on_china__first_lady_apec_censors_go_wild</a> (2014年11月11日 10:29)
- ---
-Deleted China Daily Report Says Facebook, YouTube Refuse to Delete Terror Material. Here’s How Baidu Handles It <a href="http://blog.feichangdao.com/2014/11/deleted-china-daily-report-says.html" target="_BLANK">blog.feichangdao.com/2014/11/deleted-china-daily-report-says.html</a> (2014年11月10日 18:36)
  ---
