@@ -59,6 +59,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @nytchinese: 给猫系铃铛在西方比喻近乎不可能的壮举。在中国，给老虎脖上系铃铛绝非成就。习言下之意是：外媒自食其果，要解铃必须迎合北京。<a href="http://cn.nytimes.com/china/20141113/c13tiger/" target="_BLANK">cn.nytimes.com/china/20141113/c13tiger/</a> (2014年11月14日 10:54)
+ ---
+RT @sw407: 纽约时报回应习近平<a href="http://cn.nytimes.com/opinion/20141113/c13editorial/" target="_BLANK">cn.nytimes.com/opinion/20141113/c13editorial/</a>  时报从不打算为了迎合任何政府的要求而变更自己的报道——不论是中国、美国还是其他任何国家。 (2014年11月14日 10:52)
+ ---
 国际暖男 <a href="https://twitter.com/GreatFireChina/status/533083260579246080/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/533083260579246080/photo/1</a> (2014年11月14日 10:25)
  ---
 RT @RTKcn: 21+ RT @hnjhj: 发现一款内涵宝贝，价廉物美，欲购从速 <a href="http://item.taobao.com/item.htm?id=15313110296" target="_BLANK">item.taobao.com/item.htm</a> (2014年11月14日 09:26)
@@ -95,8 +99,4 @@ Cut the shawl talk: Chinese censors wipe Putin's move on China's first lady <a h
  ---
 RT @nytchinese: 【中国污染监测App停用美使馆数据】维基解密获取的一份美国国务院电报显示，2009年，一名中国官员要求美国外交官停止通过Twitter发布PM2.5相关信息，称这么做可能会造成不良“社会影响”。
 <a href="http://cn.nytimes.com/china/20141111/c11aqapp/" target="_BLANK">cn.nytimes.com/china/20141111/c11aqapp/</a> (2014年11月12日 04:23)
- ---
-RT @RTKcn: 17+ RT @letscorp: 空气质量指数APP不给国家添堵了！ <a href="https://twitter.com/letscorp/status/531727024944349185/photo/1" target="_BLANK">twitter.com/letscorp/status/531727024944349185/photo/1</a> (2014年11月11日 10:50)
- ---
-RT @fangshimin: “党外人士要敢于讲真话”，讲了真话就把你封杀让你讲不了话，这招叫引蛇出洞、阳谋，上世纪五十年代就用过了。 <a href="https://twitter.com/fangshimin/status/531671682671325184/photo/1" target="_BLANK">twitter.com/fangshimin/status/531671682671325184/photo/1</a> (2014年11月11日 10:47)
  ---
