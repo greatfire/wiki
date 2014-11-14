@@ -59,6 +59,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @FreeWeibo: 在“后APEC”阳光下读这个。纽约时报“从不打算为了迎合任何政府的要求而变更自己的报道”。读完这@环球时报 的社论，硬是没看懂纽约时报的系铃人是谁。是影帝吗？ <a href="https://freeweibo.com/weibo/3776732144736031" target="_BLANK">freeweibo.com/weibo/3776732144736031</a> <a href="https://twitter.com/FreeWeibo/status/533091188027695104/photo/1" target="_BLANK">twitter.com/FreeWeibo/status/533091188027695104/photo/1</a> (2014年11月15日 01:05)
+ ---
 RT @comradewong: Here is the NYT response to Xi Jinping's message telling foreign news agencies to self-censor. <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F11%2F13%2Fopinion%2Fa-response-to-president-xi-jinping.html%3Fsmid%3Dtw-share%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年11月14日 12:29)
  ---
 RT @chinhon: Ah, Putin; international man of chivalry RT @GreatFireChina: 国际暖男 <a href="https://twitter.com/GreatFireChina/status/533083260579246080/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/533083260579246080/photo/1</a> (2014年11月14日 12:18)
@@ -96,6 +98,4 @@ RT @phuslu: 之所以发这条声明，是因为看到 @onionhacker 貌似被抓
 Apple strikes again, removes HK newspaper app from the China app store - no recourse, no transparency <a href="https://www.techinasia.com/anticommunist-news-site-passion-times-banned-chinas-apple-app-store/?utm_source=The+Sinocism+China+Newsletter&utm_campaign=fb937bcb6c-Sinocism11_11_1411_11_2014&utm_medium=email&utm_term=0_171f237867-fb937bcb6c-29605065&mc_cid=fb937bcb6c&mc_eid=2fb72b1f35" target="_BLANK">www.techinasia.com/anticommunist-news-site-passion-times-banned-chinas-apple-app-store/</a> (2014年11月12日 20:54)
  ---
 RT @niubi: Censorship message in updated china air quality index app. <a href="https://twitter.com/niubi/status/532368605350866944/photo/1" target="_BLANK">twitter.com/niubi/status/532368605350866944/photo/1</a> (2014年11月12日 17:42)
- ---
-RT @paopaonet: #泡泡报道 “持证上网”时代即将来临？：经过五年技术攻关，中国已建立起‘公安部公民网络身份识别系统’··· <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/259" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> <a href="https://twitter.com/paopaonet/status/531784647467081728/photo/1" target="_BLANK">twitter.com/paopaonet/status/531784647467081728/photo/1</a> (2014年11月12日 06:02)
  ---
