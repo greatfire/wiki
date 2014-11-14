@@ -59,6 +59,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @comradewong: Here is the NYT response to Xi Jinping's message telling foreign news agencies to self-censor. <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F11%2F13%2Fopinion%2Fa-response-to-president-xi-jinping.html%3Fsmid%3Dtw-share%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年11月14日 12:29)
+ ---
 RT @chinhon: Ah, Putin; international man of chivalry RT @GreatFireChina: 国际暖男 <a href="https://twitter.com/GreatFireChina/status/533083260579246080/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/533083260579246080/photo/1</a> (2014年11月14日 12:18)
  ---
 RT @nytchinese: 给猫系铃铛在西方比喻近乎不可能的壮举。在中国，给老虎脖上系铃铛绝非成就。习言下之意是：外媒自食其果，要解铃必须迎合北京。<a href="http://cn.nytimes.com/china/20141113/c13tiger/" target="_BLANK">cn.nytimes.com/china/20141113/c13tiger/</a> (2014年11月14日 10:54)
@@ -96,6 +98,4 @@ Apple strikes again, removes HK newspaper app from the China app store - no reco
 RT @niubi: Censorship message in updated china air quality index app. <a href="https://twitter.com/niubi/status/532368605350866944/photo/1" target="_BLANK">twitter.com/niubi/status/532368605350866944/photo/1</a> (2014年11月12日 17:42)
  ---
 RT @paopaonet: #泡泡报道 “持证上网”时代即将来临？：经过五年技术攻关，中国已建立起‘公安部公民网络身份识别系统’··· <a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/259" target="_BLANK">edgecastcdn.net/00107ED/paopao/</a> <a href="https://twitter.com/paopaonet/status/531784647467081728/photo/1" target="_BLANK">twitter.com/paopaonet/status/531784647467081728/photo/1</a> (2014年11月12日 06:02)
- ---
-Cut the shawl talk: Chinese censors wipe Putin's move on China's first lady <a href="http://www.cnn.com/2014/11/11/world/asia/putin-liyuan-shawl-apec/index.html" target="_BLANK">www.cnn.com/2014/11/11/world/asia/putin-liyuan-shawl-apec/index.html</a> (2014年11月12日 04:45)
  ---
