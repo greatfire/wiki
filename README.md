@@ -65,6 +65,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Drupal被屏蔽了，程序员过来看看 <a href="https://zh.greatfire.org/https/www.drupal.org" target="_BLANK">zh.greatfire.org/https/www.drupal.org</a> (2014年11月15日 02:53)
+ ---
+RT @Emiweg: 推特幫刪推是這樣的。兩次被刪都是因為分享音樂而產生版權問題(貌似只有分享大牌樂隊的音樂才會收到被刪郵件，分享過一些小眾的沒事(*_*)。所以推特即使收到舉報幫你刪推了也會在郵件和你原推位置都做說明。 <a href="https://twitter.com/Emiweg/status/532808459775770624/photo/1" target="_BLANK">twitter.com/Emiweg/status/532808459775770624/photo/1</a> (2014年11月15日 02:50)
+ ---
 EdgeCast blocked in China. <a href="https://en.greatfire.org/edgecastcdn.net" target="_BLANK">en.greatfire.org/edgecastcdn.net</a> Consequently, Drupal(Open source project), firefox add-on, -speedtest.net all blocked. (2014年11月15日 01:58)
  ---
 。@OuternetForAll 推出卫星翻墙计划，已经收到5万美元捐款，大家看看 <a href="https://www.indiegogo.com/projects/lantern-one-device-free-data-from-space-forever" target="_BLANK">www.indiegogo.com/projects/lantern-one-device-free-data-from-space-forever</a> (2014年11月15日 01:26)
@@ -100,8 +104,4 @@ Fascinating in-depth @citizenlab research: Chinese state attacks on Tibetan and 
 RT @haasbenjamin: Burn Bloomberg "NYT has no intention of altering its coverage to meet the demands of any gov. Nor would any credible news… (2014年11月13日 15:21)
  ---
 RT @paopaonet: #兔泡泡 【朝鲜青年结婚流行新大件——手机】《每日朝鲜》报道，朝鲜中小城市最流行的结婚礼物是手机，第二流行的才是戒指。朝鲜大约有250万手机用户，占总人口的10%。对于普通的朝鲜青年来说，手机、电脑、互联网究竟意味着什么呢？https://t.co… (2014年11月13日 10:29)
- ---
-RT @fangshimin: 25年前的今天，柏林墙倒下。再大再密的墙，总有一天也会倒的。<a href="https://www.youtube.com/watch?v=mhfrAd_Pa8M" target="_BLANK">www.youtube.com/watch</a> (2014年11月12日 22:53)
- ---
-RT @tufuwugan: 1:把@onionhacker 许东被抓消息告诉我的许东朋友下午被警察找，四个警察到她公司，故意制造恐惧，当着她公司同事架起摄像机，做笔录做了几个小时，还好之前我有告诉她警察会用什么流氓手法。警察问她怎么认识我，怎么联系我的，并“善意”告知屠夫是个… (2014年11月12日 22:34)
  ---
