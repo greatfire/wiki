@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+EdgeCast blocked in China. <a href="https://en.greatfire.org/edgecastcdn.net" target="_BLANK">en.greatfire.org/edgecastcdn.net</a> Consequently, Drupal(Open source project), firefox add-on, -speedtest.net all blocked. (2014年11月15日 01:58)
+ ---
 。@OuternetForAll 推出卫星翻墙计划，已经收到5万美元捐款，大家看看 <a href="https://www.indiegogo.com/projects/lantern-one-device-free-data-from-space-forever" target="_BLANK">www.indiegogo.com/projects/lantern-one-device-free-data-from-space-forever</a> (2014年11月15日 01:26)
  ---
 Support @OuternetForAll Lantern: 1 device=free data forever. What will humanity create w/ a library in every pocket? <a href="https://www.indiegogo.com/projects/lantern-one-device-free-data-from-space-forever" target="_BLANK">www.indiegogo.com/projects/lantern-one-device-free-data-from-space-forever</a> (2014年11月15日 01:25)
@@ -102,6 +104,4 @@ RT @paopaonet: #兔泡泡 【朝鲜青年结婚流行新大件——手机】《
 RT @fangshimin: 25年前的今天，柏林墙倒下。再大再密的墙，总有一天也会倒的。<a href="https://www.youtube.com/watch?v=mhfrAd_Pa8M" target="_BLANK">www.youtube.com/watch</a> (2014年11月12日 22:53)
  ---
 RT @tufuwugan: 1:把@onionhacker 许东被抓消息告诉我的许东朋友下午被警察找，四个警察到她公司，故意制造恐惧，当着她公司同事架起摄像机，做笔录做了几个小时，还好之前我有告诉她警察会用什么流氓手法。警察问她怎么认识我，怎么联系我的，并“善意”告知屠夫是个… (2014年11月12日 22:34)
- ---
-RT @phuslu: 之所以发这条声明，是因为看到 @onionhacker 貌似被抓。 <a href="https://twitter.com/search?src=typd&q=onionhacker" target="_BLANK">twitter.com/search</a> 虽然我觉他的确不厚道，但是罪不至此，所以以防万一，我先发一个声明表白一下自己。 @phuslu (2014年11月12日 22:33)
  ---
