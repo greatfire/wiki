@@ -59,6 +59,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+纽约时报公开回应习近平 <a href="http://cn.nytimes.com/opinion/20141113/c13editorial/" target="_BLANK">cn.nytimes.com/opinion/20141113/c13editorial/</a> (2014年11月14日 09:09)
+ ---
+A Response to President Xi Jinping from NYTimes <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F11%2F13%2Fopinion%2Fa-response-to-president-xi-jinping.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年11月14日 09:07)
+ ---
 RT @chenshaoju: 我说XDA的头像和CSS什么的怎么都显示不出来了，原来XDA用了EdgeCast的CDN，而EdgeCast被墙了…… <a href="https://twitter.com/chenshaoju/status/532908376896708608/photo/1" target="_BLANK">twitter.com/chenshaoju/status/532908376896708608/photo/1</a> (2014年11月13日 23:46)
  ---
 @niubi never blocked but maybe that's because it is such an important news source for Xinhua and others <a href="https://en.greatfire.org/www.theonion.com" target="_BLANK">en.greatfire.org/www.theonion.com</a> (2014年11月13日 22:29)
@@ -95,10 +99,4 @@ RT @fangshimin: “党外人士要敢于讲真话”，讲了真话就把你封�
 Putin Hits on China's First Lady, Censors Go Wild <a href="http://www.foreignpolicy.com/articles/2014/11/10/putin_hits_on_china__first_lady_apec_censors_go_wild" target="_BLANK">www.foreignpolicy.com/articles/2014/11/10/putin_hits_on_china__first_lady_apec_censors_go_wild</a> (2014年11月11日 10:29)
  ---
 Deleted China Daily Report Says Facebook, YouTube Refuse to Delete Terror Material. Here’s How Baidu Handles It <a href="http://blog.feichangdao.com/2014/11/deleted-china-daily-report-says.html" target="_BLANK">blog.feichangdao.com/2014/11/deleted-china-daily-report-says.html</a> (2014年11月10日 18:36)
- ---
-RT @irrenhaeusler: <a href="https://twitter.com/Mauerfall89/status/529624250966351873/photo/1" target="_BLANK">twitter.com/Mauerfall89/status/529624250966351873/photo/1</a>
-德國人民：「五十萬人上街，然後柏林圍牆就倒了。」
-天朝領導：「還是國貨好。Made in Germany 的品質根本沒有傳說中那麼牢靠...」 (2014年11月09日 13:54)
- ---
-RT @williamlong: Google首页纪念柏林墙倒塌25周年，1989年11月9日晚上，伫立了28年的柏林墙正式被推倒，所有的检查站防线全被解除。肯尼迪曾评价柏林墙是“世界上第一堵不是用于抵御外敌，而是用来对付自己的百姓的墙”。 (2014年11月09日 13:51)
  ---
