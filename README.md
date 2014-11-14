@@ -1,3 +1,4 @@
+<p>原网页被屏蔽，您已被自动跳转到镜像网址列表。</p>
 <table>
     <thead>
         <tr>
@@ -23,29 +24,30 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="https://fw6.azurewebsites.net" target="jx5">短期有效 1</a>，            
-                <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx6">短期有效 2</a>
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx5">长期有效 1</a>，            
+                <a href="https://fw6.azurewebsites.net" target="jx6">短期有效 1</a>，            
+                <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx7">短期有效 2</a>
             </td>
         </tr>    
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="https://39bf.azurewebsites.net" target="jx7">短期有效 1</a>，            
-                <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx8">短期有效 2</a>
+                <a href="https://39bf.azurewebsites.net" target="jx8">短期有效 1</a>，            
+                <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx9">短期有效 2</a>
             </td>
         </tr>    
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="https://c7511.azurewebsites.net" target="jx9">短期有效 1</a>，            
-                <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx10">短期有效 2</a>
+                <a href="https://c7511.azurewebsites.net" target="jx10">短期有效 1</a>，            
+                <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
         </tr>    
         <tr>
             <td>博讯新闻</td>
             <td>            
-                <a href="https://boxun2.azurewebsites.net" target="jx11">短期有效 1</a>，            
-                <a href="https://d3588w5hqzcepn.cloudfront.net" target="jx12">短期有效 2</a>
+                <a href="https://boxun2.azurewebsites.net" target="jx12">短期有效 1</a>，            
+                <a href="https://d3588w5hqzcepn.cloudfront.net" target="jx13">短期有效 2</a>
             </td>
         </tr>
     </tbody>
