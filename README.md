@@ -18,7 +18,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx5">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx6">短期有效 2</a>
             </td>
@@ -26,7 +26,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx8">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx9">短期有效 2</a>
             </td>
@@ -34,7 +34,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx11">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx12">短期有效 2</a>
             </td>
@@ -42,7 +42,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
                 <a href="https://c7511.azurewebsites.net" target="jx14">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx15">短期有效 2</a>
             </td>
@@ -75,7 +75,7 @@ EdgeCast blocked in China. <a href="https://en.greatfire.org/edgecastcdn.net" ta
  ---
 。@OuternetForAll 推出卫星翻墙计划，已经收到5万美元捐款，大家看看 <a href="https://www.indiegogo.com/projects/lantern-one-device-free-data-from-space-forever" target="_BLANK">www.indiegogo.com/projects/lantern-one-device-free-data-from-space-forever</a> (2014年11月15日 01:26)
  ---
-Support @OuternetForAll Lantern: 1 device=free data forever. What will humanity create w/ a library in every pocket? <a href="https://www.indiegogo.com/projects/lantern-one-device-free-data-from-space-forever" target="_BLANK">www.indiegogo.com/projects/lantern-one-device-free-data-from-space-forever</a> (2014年11月15日 01:25)
+Support @OuternetForAll Lantern: 1 device=free data forever. What will humanity create w/ a library in every pocket? <a href="https://www.indiegogo.com/at/outernet" target="_BLANK">www.indiegogo.com/at/outernet</a> (2014年11月15日 01:25)
  ---
 RT @FreeWeibo: 在“后APEC”阳光下读这个。纽约时报“从不打算为了迎合任何政府的要求而变更自己的报道”。读完这@环球时报 的社论，硬是没看懂纽约时报的系铃人是谁。是影帝吗？ <a href="https://freeweibo.com/weibo/3776732144736031" target="_BLANK">freeweibo.com/weibo/3776732144736031</a> <a href="https://twitter.com/FreeWeibo/status/533091188027695104/photo/1" target="_BLANK">twitter.com/FreeWeibo/status/533091188027695104/photo/1</a> (2014年11月15日 01:05)
  ---
