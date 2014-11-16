@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -18,7 +18,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx5">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx6">短期有效 2</a>
             </td>
@@ -34,7 +34,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx11">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx12">短期有效 2</a>
             </td>
@@ -42,7 +42,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
                 <a href="https://c7511.azurewebsites.net" target="jx14">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx15">短期有效 2</a>
             </td>
@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @CoChinaOnline: 【学联三子回乡证被注销　未能登机】学联3名成员周永康、钟耀华和罗冠聪，原订乘坐下午5时的航班启程到北京。不过，当他们抵达航空公司柜位前，被航空公司职员告知，收到内地通知，3人的回乡证已被注销，因此拒绝让3人登机。 <a href="https://twitter.com/iok" target="_BLANK">twitter.com/iok</a>… (2014年11月16日 11:55)
+ ---
 RT @elkmovie: @GreatFireChina @niubi Crap, our website uses like half a dozen JavaScript libraries hosted by them. (2014年11月16日 01:42)
  ---
 中国政府封锁CDN服务商EdgeCast，误伤4万多个网站，包括Drupal，火狐插件，speedtest等等 <a href="https://zh.greatfire.org/edgecastcdn.net" target="_BLANK">zh.greatfire.org/edgecastcdn.net</a> (2014年11月15日 10:34)
@@ -102,6 +104,4 @@ A Response to President Xi Jinping from NYTimes <a href="https://myaccount.nytim
 RT @chenshaoju: 我说XDA的头像和CSS什么的怎么都显示不出来了，原来XDA用了EdgeCast的CDN，而EdgeCast被墙了…… <a href="https://twitter.com/chenshaoju/status/532908376896708608/photo/1" target="_BLANK">twitter.com/chenshaoju/status/532908376896708608/photo/1</a> (2014年11月13日 23:46)
  ---
 @niubi never blocked but maybe that's because it is such an important news source for Xinhua and others <a href="https://en.greatfire.org/www.theonion.com" target="_BLANK">en.greatfire.org/www.theonion.com</a> (2014年11月13日 22:29)
- ---
-Fascinating in-depth @citizenlab research: Chinese state attacks on Tibetan and Chinese human rights orgs <a href="https://targetedthreats.net/" target="_BLANK">targetedthreats.net/</a> (2014年11月13日 16:24)
  ---
