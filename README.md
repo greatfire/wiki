@@ -18,7 +18,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx5">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx6">短期有效 2</a>
             </td>
@@ -42,7 +42,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx14">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx15">短期有效 2</a>
             </td>
@@ -65,6 +65,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @fangshimin: 总算见识了传说中的杀毒软件公司放病毒。 <a href="https://twitter.com/fangshimin/status/533838392178388992/photo/1" target="_BLANK">twitter.com/fangshimin/status/533838392178388992/photo/1</a> (2014年11月18日 01:16)
+ ---
+RT @fangshimin: 《光明日报》发文力挺自干五，自干五以后是不是该改叫官干五了？ <a href="https://twitter.com/fangshimin/status/534194989501546496/photo/1" target="_BLANK">twitter.com/fangshimin/status/534194989501546496/photo/1</a> (2014年11月18日 01:15)
+ ---
 China just blocked thousands of websites, including Sony Mobile and @TheAtlantic <a href="https://en.greatfire.org/blog/2014/nov/china-just-blocked-thousands-websites" target="_BLANK">en.greatfire.org/blog/2014/nov/china-just-blocked-thousands-websites</a> (2014年11月18日 00:17)
  ---
 RT @SgtHentai: @GreatFireChina <a href="https://twitter.com/SgtHentai/status/534356908149575680/photo/1" target="_BLANK">twitter.com/SgtHentai/status/534356908149575680/photo/1</a> (2014年11月17日 23:31)
@@ -101,8 +105,4 @@ RT @nytchinese: 给猫系铃铛在西方比喻近乎不可能的壮举。在中�
 RT @sw407: 纽约时报回应习近平<a href="http://cn.nytimes.com/opinion/20141113/c13editorial/" target="_BLANK">cn.nytimes.com/opinion/20141113/c13editorial/</a>  时报从不打算为了迎合任何政府的要求而变更自己的报道——不论是中国、美国还是其他任何国家。 (2014年11月14日 10:52)
  ---
 国际暖男 <a href="https://twitter.com/GreatFireChina/status/533083260579246080/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/533083260579246080/photo/1</a> (2014年11月14日 10:25)
- ---
-RT @RTKcn: 21+ RT @hnjhj: 发现一款内涵宝贝，价廉物美，欲购从速 <a href="http://item.taobao.com/auction/noitem.htm?itemid=15313110296&catid=50021933" target="_BLANK">item.taobao.com/auction/noitem.htm</a> (2014年11月14日 09:26)
- ---
-”XXX机智打动了在场的所有人，掌声经久不息“这些段子大家看过么？ 都弱爆了。习近平直接假装没听到纽约时报记者的提问。 <a href="http://cn.nytimes.com/opinion/20141113/c13editorial/" target="_BLANK">cn.nytimes.com/opinion/20141113/c13editorial/</a> (2014年11月14日 09:25)
  ---
