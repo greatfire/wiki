@@ -18,7 +18,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx5">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx6">短期有效 2</a>
             </td>
@@ -34,7 +34,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx11">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx12">短期有效 2</a>
             </td>
@@ -42,7 +42,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx14">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx15">短期有效 2</a>
             </td>
