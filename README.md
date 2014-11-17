@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -18,7 +18,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx5">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx6">短期有效 2</a>
             </td>
@@ -26,7 +26,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx8">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx9">短期有效 2</a>
             </td>
@@ -42,7 +42,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx14">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx15">短期有效 2</a>
             </td>
@@ -80,7 +80,7 @@ RT @paulmozur: My NYTimes app to the World Internet Conference rejected. “An I
 RT @paopaonet: #泡泡报道 【淘宝的兴隆带来了什么】关闭政治敏感商户的店铺，无底线维护极权的马云的确得到了当局的强力支持。貌似如火如荼的大陆电商真的能促进经济吗？马云和他的淘宝又为市场和国人带来了什么？
 <a href="https://paopao3.azurewebsites.net/article/264" target="_BLANK">paopao3.azurewebsites.net/article/264</a> http:/… (2014年11月17日 03:18)
  ---
-RT @CoChinaOnline: 【学联三子回乡证被注销　未能登机】学联3名成员周永康、钟耀华和罗冠聪，原订乘坐下午5时的航班启程到北京。不过，当他们抵达航空公司柜位前，被航空公司职员告知，收到内地通知，3人的回乡证已被注销，因此拒绝让3人登机。 <a href="https://twitter.com/iok" target="_BLANK">twitter.com/iok</a>… (2014年11月16日 11:55)
+RT @CoChinaOnline: 【学联三子回乡证被注销　未能登机】学联3名成员周永康、钟耀华和罗冠聪，原订乘坐下午5时的航班启程到北京。不过，当他们抵达航空公司柜位前，被航空公司职员告知，收到内地通知，3人的回乡证已被注销，因此拒绝让3人登机。 <a href="http://t.co/5" target="_BLANK">t.co/5</a>… (2014年11月16日 11:55)
  ---
 RT @elkmovie: @GreatFireChina @niubi Crap, our website uses like half a dozen JavaScript libraries hosted by them. (2014年11月16日 01:42)
  ---
