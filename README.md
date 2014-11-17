@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -18,7 +18,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx5">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx6">短期有效 2</a>
             </td>
@@ -26,7 +26,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx8">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx9">短期有效 2</a>
             </td>
@@ -34,7 +34,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx11">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx12">短期有效 2</a>
             </td>
@@ -42,7 +42,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx14">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx15">短期有效 2</a>
             </td>
@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @niubi: China just blocked 1000s of websites <a href="https://en.greatfire.org/blog/2014/nov/china-just-blocked-thousands-websites?utm_source=FreeWeibo+and+GreatFire.org+Updates&utm_campaign=8fce1a35fb-10_21_2013&utm_medium=email&utm_term=0_4d5603f87f-8fce1a35fb-64208765#.VGqB0-_CsjE.twitter" target="_BLANK">en.greatfire.org/blog/2014/nov/china-just-blocked-thousands-websites</a> from @GreatFireChina right b4 world internet conference. 1 word, 2 … (2014年11月18日 07:23)
+ ---
 RT @jenlampton: Doh, China blocked the EdgeCast CDN and now <a href="https://www.drupal.org/" target="_BLANK">www.drupal.org/</a> is unaccessable to drupalistas over there :( https://t.c… (2014年11月18日 07:15)
  ---
 Thousands of websites and Apps blocked overnight in China <a href="https://en.greatfire.org/blog/2014/nov/china-just-blocked-thousands-websites" target="_BLANK">en.greatfire.org/blog/2014/nov/china-just-blocked-thousands-websites</a> <a href="https://twitter.com/GreatFireChina/status/534427093530972161/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/534427093530972161/photo/1</a> (2014年11月18日 03:25)
@@ -103,6 +105,4 @@ RT @FreeWeibo: 在“后APEC”阳光下读这个。纽约时报“从不打算�
 RT @comradewong: Here is the NYT response to Xi Jinping's message telling foreign news agencies to self-censor. <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F11%2F13%2Fopinion%2Fa-response-to-president-xi-jinping.html%3Fsmid%3Dtw-share%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年11月14日 12:29)
  ---
 RT @chinhon: Ah, Putin; international man of chivalry RT @GreatFireChina: 国际暖男 <a href="https://twitter.com/GreatFireChina/status/533083260579246080/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/533083260579246080/photo/1</a> (2014年11月14日 12:18)
- ---
-RT @nytchinese: 给猫系铃铛在西方比喻近乎不可能的壮举。在中国，给老虎脖上系铃铛绝非成就。习言下之意是：外媒自食其果，要解铃必须迎合北京。<a href="http://cn.nytimes.com/china/20141113/c13tiger/" target="_BLANK">cn.nytimes.com/china/20141113/c13tiger/</a> (2014年11月14日 10:54)
  ---
