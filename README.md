@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -26,7 +26,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx8">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx9">短期有效 2</a>
             </td>
@@ -34,7 +34,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx11">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx12">短期有效 2</a>
             </td>
@@ -42,7 +42,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
                 <a href="https://c7511.azurewebsites.net" target="jx14">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx15">短期有效 2</a>
             </td>
@@ -65,7 +65,7 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-The Great Firewall of China <a href="http://blog.edgecast.com/post/102918735991/the-great-firewall-of-china#_=_" target="_BLANK">blog.edgecast.com/post/102918735991/the-great-firewall-of-china</a> via @EdgeCast (2014年11月18日 22:59)
+The Great Firewall of China <a href="http://www.tumblr.com/post/102918735991/the-great-firewall-of-china" target="_BLANK">www.tumblr.com/post/102918735991/the-great-firewall-of-china</a> via @EdgeCast (2014年11月18日 22:59)
  ---
 China Steps Up Internet Censorship as EdgeCast Blocked <a href="http://www.bloomberg.com/news/2014-11-18/china-steps-up-internet-censorship-as-edgecast-blocked.html" target="_BLANK">www.bloomberg.com/news/2014-11-18/china-steps-up-internet-censorship-as-edgecast-blocked.html</a> (2014年11月18日 22:57)
  ---
@@ -85,7 +85,7 @@ China Steps Up Internet Censorship as EdgeCast Blocked <a href="http://www.busin
  ---
 China blocks thousands more websites as ‘Great Firewall’ targets cloud services  <a href="http://www.scmp.com/news/china/article/1642977/china-blocks-thousands-more-websites-great-firewall-targets-cloud" target="_BLANK">www.scmp.com/news/china/article/1642977/china-blocks-thousands-more-websites-great-firewall-targets-cloud</a> via @SCMP_News (2014年11月18日 17:04)
  ---
-EdgeCast statement on the blocking of their services in China - they are saying the right things. <a href="http://blog.edgecast.com/post/102918735991/the-great-firewall-of-china#_=_" target="_BLANK">blog.edgecast.com/post/102918735991/the-great-firewall-of-china</a> (2014年11月18日 16:27)
+EdgeCast statement on the blocking of their services in China - they are saying the right things. <a href="http://www.tumblr.com/post/102918735991/the-great-firewall-of-china" target="_BLANK">www.tumblr.com/post/102918735991/the-great-firewall-of-china</a> (2014年11月18日 16:27)
  ---
 据说，这让台下的美国记者产生了一阵骚动，福克斯新闻的白宫记者Ed Henry当场发推：“习是个懦夫！居然不回答美国记者的问题。你在害怕什么呢，先生？” <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/?u=/article/266" target="_BLANK">a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> (2014年11月18日 12:27)
  ---
