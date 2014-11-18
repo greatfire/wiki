@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -26,7 +26,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx8">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx9">短期有效 2</a>
             </td>
@@ -34,7 +34,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx11">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx12">短期有效 2</a>
             </td>
@@ -42,7 +42,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
                 <a href="https://c7511.azurewebsites.net" target="jx14">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx15">短期有效 2</a>
             </td>
@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+What if China held a world internet conference and the world didn’t show up? <a href="http://qz.com/298240/chinas-global-internet-conference-excludes-many-of-the-industrys-biggest-players/" target="_BLANK">qz.com/298240/chinas-global-internet-conference-excludes-many-of-the-industrys-biggest-players/</a> via @heathat (2014年11月18日 17:54)
+ ---
 China Steps Up Internet Censorship as EdgeCast Blocked <a href="http://www.businessweek.com/news/2014-11-18/china-steps-up-internet-censorship-as-edgecast-blocked" target="_BLANK">www.businessweek.com/news/2014-11-18/china-steps-up-internet-censorship-as-edgecast-blocked</a> via @BW (2014年11月18日 17:06)
  ---
 China blocks thousands more websites as ‘Great Firewall’ targets cloud services  <a href="http://www.scmp.com/news/china/article/1642977/china-blocks-thousands-more-websites-great-firewall-targets-cloud" target="_BLANK">www.scmp.com/news/china/article/1642977/china-blocks-thousands-more-websites-great-firewall-targets-cloud</a> via @SCMP_News (2014年11月18日 17:04)
@@ -103,6 +105,4 @@ RT @CoChinaOnline: 【学联三子回乡证被注销　未能登机】学联3名
 RT @elkmovie: @GreatFireChina @niubi Crap, our website uses like half a dozen JavaScript libraries hosted by them. (2014年11月16日 01:42)
  ---
 中国政府封锁CDN服务商EdgeCast，误伤4万多个网站，包括Drupal，火狐插件，speedtest等等 <a href="https://zh.greatfire.org/edgecastcdn.net" target="_BLANK">zh.greatfire.org/edgecastcdn.net</a> (2014年11月15日 10:34)
- ---
-Drupal被屏蔽了，程序员过来看看 <a href="https://zh.greatfire.org/https/www.drupal.org" target="_BLANK">zh.greatfire.org/https/www.drupal.org</a> (2014年11月15日 02:53)
  ---
