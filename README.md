@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -18,7 +18,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx5">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx6">短期有效 2</a>
             </td>
@@ -26,7 +26,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx8">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx9">短期有效 2</a>
             </td>
@@ -34,7 +34,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx11">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx12">短期有效 2</a>
             </td>
@@ -42,7 +42,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
                 <a href="https://c7511.azurewebsites.net" target="jx14">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx15">短期有效 2</a>
             </td>
@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: #泡泡报道 【数千个网站在中国遭“一锅端”】全球最大的内容分发网络CDN在中国遭到攻击，导致其下的所有子域名在中国被封。原因是中国防火墙试图封锁@GreatFireChina 所提供的所有“依附的自由镜像网站”（泡泡网也深受其害）。https://… (2014年11月18日 22:47)
+ ---
 RT @larrysalibra: HSBC's corporate portal HSBCnet apparently blocked in China cc @GreatFireChina  <a href="http://www.hsbcnet.com/gbm/global-utilities/customers-logging-in-from-china.html" target="_BLANK">www.hsbcnet.com/gbm/global-utilities/customers-logging-in-from-china.html</a> <a href="http://t.co/uEnTBw" target="_BLANK">t.co/uEnTBw</a>… (2014年11月18日 21:57)
  ---
 The Great Firewall’s latest victims demonstrate its stubborn flaw <a href="http://qz.com/297956/the-great-firewalls-latest-victims-demonstrate-its-stubborn-flaw/" target="_BLANK">qz.com/297956/the-great-firewalls-latest-victims-demonstrate-its-stubborn-flaw/</a> via @sinoceros (2014年11月18日 21:44)
@@ -102,7 +104,4 @@ China just blocked thousands of websites, including Sony Mobile and @TheAtlantic
 RT @SgtHentai: @GreatFireChina <a href="https://twitter.com/SgtHentai/status/534356908149575680/photo/1" target="_BLANK">twitter.com/SgtHentai/status/534356908149575680/photo/1</a> (2014年11月17日 23:31)
  ---
 RT @paulmozur: My NYTimes app to the World Internet Conference rejected. “An Interconnected World Shared and Governed by All” Indeed http:/… (2014年11月17日 22:46)
- ---
-RT @paopaonet: #泡泡报道 【淘宝的兴隆带来了什么】关闭政治敏感商户的店铺，无底线维护极权的马云的确得到了当局的强力支持。貌似如火如荼的大陆电商真的能促进经济吗？马云和他的淘宝又为市场和国人带来了什么？
-<a href="https://paopao3.azurewebsites.net/article/264" target="_BLANK">paopao3.azurewebsites.net/article/264</a> http:/… (2014年11月17日 03:18)
  ---
