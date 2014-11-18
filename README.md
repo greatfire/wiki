@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -26,7 +26,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx8">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx9">短期有效 2</a>
             </td>
@@ -34,7 +34,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx11">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx12">短期有效 2</a>
             </td>
@@ -42,7 +42,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
                 <a href="https://c7511.azurewebsites.net" target="jx14">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx15">短期有效 2</a>
             </td>
@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @moxie: At @whispersystems, we've partnered with @WhatsApp to provide end to end encryption for WhatsApp users by default: https://t.co/… (2014年11月19日 00:00)
+ ---
 Open Whisper Systems partners with WhatsApp to provide end-to-end encryption <a href="https://whispersystems.org/blog/whatsapp/" target="_BLANK">whispersystems.org/blog/whatsapp/</a> via @whispersystems (2014年11月18日 23:57)
  ---
 RT @gigaom: HSBC bank portal reportedly caught up in China’s Great Firewall <a href="https://gigaom.com/2014/11/18/hsbc-bank-portal-reportedly-caught-up-in-chinas-great-firewall/?utm_source=dlvr.it&utm_medium=twitter" target="_BLANK">gigaom.com/2014/11/18/hsbc-bank-portal-reportedly-caught-up-in-chinas-great-firewall/</a> (2014年11月18日 23:51)
@@ -102,6 +104,4 @@ RT @ChinaFile: From the archive—Fighting censorship inside the firewall; @jsla
 RT @niubi: China just blocked 1000s of websites <a href="https://en.greatfire.org/blog/2014/nov/china-just-blocked-thousands-websites?utm_source=FreeWeibo+and+GreatFire.org+Updates&utm_campaign=8fce1a35fb-10_21_2013&utm_medium=email&utm_term=0_4d5603f87f-8fce1a35fb-64208765#.VGqB0-_CsjE.twitter" target="_BLANK">en.greatfire.org/blog/2014/nov/china-just-blocked-thousands-websites</a> from @GreatFireChina right b4 world internet conference. 1 word, 2 … (2014年11月18日 07:23)
  ---
 RT @jenlampton: Doh, China blocked the EdgeCast CDN and now <a href="https://www.drupal.org/" target="_BLANK">www.drupal.org/</a> is unaccessable to drupalistas over there :( https://t.c… (2014年11月18日 07:15)
- ---
-Thousands of websites and Apps blocked overnight in China <a href="https://en.greatfire.org/blog/2014/nov/china-just-blocked-thousands-websites" target="_BLANK">en.greatfire.org/blog/2014/nov/china-just-blocked-thousands-websites</a> <a href="https://twitter.com/GreatFireChina/status/534427093530972161/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/534427093530972161/photo/1</a> (2014年11月18日 03:25)
  ---
