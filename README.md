@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -18,7 +18,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx5">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx6">短期有效 2</a>
             </td>
@@ -34,7 +34,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx11">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx12">短期有效 2</a>
             </td>
@@ -42,7 +42,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
                 <a href="https://c7511.azurewebsites.net" target="jx14">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx15">短期有效 2</a>
             </td>
@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Open Whisper Systems partners with WhatsApp to provide end-to-end encryption <a href="https://whispersystems.org/blog/whatsapp/" target="_BLANK">whispersystems.org/blog/whatsapp/</a> via @whispersystems (2014年11月18日 23:57)
+ ---
 RT @gigaom: HSBC bank portal reportedly caught up in China’s Great Firewall <a href="https://gigaom.com/2014/11/18/hsbc-bank-portal-reportedly-caught-up-in-chinas-great-firewall/?utm_source=dlvr.it&utm_medium=twitter" target="_BLANK">gigaom.com/2014/11/18/hsbc-bank-portal-reportedly-caught-up-in-chinas-great-firewall/</a> (2014年11月18日 23:51)
  ---
 The Great Firewall of China <a href="http://blog.edgecast.com/post/102918735991/the-great-firewall-of-china#_=_" target="_BLANK">blog.edgecast.com/post/102918735991/the-great-firewall-of-china</a> via @EdgeCast (2014年11月18日 22:59)
@@ -102,6 +104,4 @@ RT @niubi: China just blocked 1000s of websites <a href="https://en.greatfire.or
 RT @jenlampton: Doh, China blocked the EdgeCast CDN and now <a href="https://www.drupal.org/" target="_BLANK">www.drupal.org/</a> is unaccessable to drupalistas over there :( https://t.c… (2014年11月18日 07:15)
  ---
 Thousands of websites and Apps blocked overnight in China <a href="https://en.greatfire.org/blog/2014/nov/china-just-blocked-thousands-websites" target="_BLANK">en.greatfire.org/blog/2014/nov/china-just-blocked-thousands-websites</a> <a href="https://twitter.com/GreatFireChina/status/534427093530972161/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/534427093530972161/photo/1</a> (2014年11月18日 03:25)
- ---
-RT @fangshimin: 总算见识了传说中的杀毒软件公司放病毒。 <a href="https://twitter.com/fangshimin/status/533838392178388992/photo/1" target="_BLANK">twitter.com/fangshimin/status/533838392178388992/photo/1</a> (2014年11月18日 01:16)
  ---
