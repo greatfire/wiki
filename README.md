@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -18,7 +18,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx5">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx6">短期有效 2</a>
             </td>
@@ -42,7 +42,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
                 <a href="https://c7511.azurewebsites.net" target="jx14">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx15">短期有效 2</a>
             </td>
@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+HTTPS by default, now one step closer: In 2015: A Certificate Authority to Encrypt the Entire Web <a href="https://www.eff.org/deeplinks/2014/11/certificate-authority-encrypt-entire-web" target="_BLANK">www.eff.org/deeplinks/2014/11/certificate-authority-encrypt-entire-web</a> via @EFF (2014年11月19日 00:06)
+ ---
 RT @moxie: At @whispersystems, we've partnered with @WhatsApp to provide end to end encryption for WhatsApp users by default: https://t.co/… (2014年11月19日 00:00)
  ---
 Open Whisper Systems partners with WhatsApp to provide end-to-end encryption <a href="https://whispersystems.org/blog/whatsapp/" target="_BLANK">whispersystems.org/blog/whatsapp/</a> via @whispersystems (2014年11月18日 23:57)
@@ -102,6 +104,4 @@ RT @Thats_Beijing: 'Hunger Games’ China release date canceled, likely due to '
 RT @ChinaFile: From the archive—Fighting censorship inside the firewall; @jslandreth Q&amp;A with @GreatFireChina—<a href="http://www.chinafile.com/we-know-it-when-we-there" target="_BLANK">www.chinafile.com/we-know-it-when-we-there</a> http:/… (2014年11月18日 09:27)
  ---
 RT @niubi: China just blocked 1000s of websites <a href="https://en.greatfire.org/blog/2014/nov/china-just-blocked-thousands-websites?utm_source=FreeWeibo+and+GreatFire.org+Updates&utm_campaign=8fce1a35fb-10_21_2013&utm_medium=email&utm_term=0_4d5603f87f-8fce1a35fb-64208765#.VGqB0-_CsjE.twitter" target="_BLANK">en.greatfire.org/blog/2014/nov/china-just-blocked-thousands-websites</a> from @GreatFireChina right b4 world internet conference. 1 word, 2 … (2014年11月18日 07:23)
- ---
-RT @jenlampton: Doh, China blocked the EdgeCast CDN and now <a href="https://www.drupal.org/" target="_BLANK">www.drupal.org/</a> is unaccessable to drupalistas over there :( https://t.c… (2014年11月18日 07:15)
  ---
