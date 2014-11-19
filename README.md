@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -18,7 +18,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx5">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx6">短期有效 2</a>
             </td>
@@ -26,7 +26,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx8">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx9">短期有效 2</a>
             </td>
@@ -34,7 +34,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx11">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx12">短期有效 2</a>
             </td>
@@ -42,7 +42,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
                 <a href="https://c7511.azurewebsites.net" target="jx14">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx15">短期有效 2</a>
             </td>
@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China blocks thousands more websites as ‘Great Firewall’ targets cloud services <a href="http://www.scmp.com/news/china/article/1642977/china-blocks-thousands-more-websites-great-firewall-targets-cloud" target="_BLANK">www.scmp.com/news/china/article/1642977/china-blocks-thousands-more-websites-great-firewall-targets-cloud</a> (2014年11月19日 12:38)
+ ---
 RT @williamlong: 11月19日，第一届“世界互联网大会”将在中国著名水乡—乌镇揭开帷幕。主办方是中国官方部门国信办和浙江省政府。此次大会主题为“互联互通 共享共治”。出席会议的嘉宾共有一千多名，来自全球近一百多个国家和地区。一起见证一个没有谷歌、脸书、推特、Yo… (2014年11月19日 12:23)
  ---
 RT @williamlong: 一个技术宅onionhacker（许东）开发了个翻墙软件，在Twitter上发布了个QQ群做技术支持，结果QQ上遇到一个企业订单，约出去之后就被关起来了。现在这世道，翻墙都不安全啊。 (2014年11月19日 12:22)
@@ -102,6 +104,4 @@ China Steps Up Internet Censorship as EdgeCast Blocked <a href="http://www.bloom
 RT @phuslu: Solidot | 中国屏蔽CDN附带屏蔽数千家网站 <a href="http://www.solidot.org/story?threshold=0&mode=nested&sid=41926" target="_BLANK">www.solidot.org/story</a> (2014年11月18日 22:53)
  ---
 RT @paopaonet: #泡泡报道 【数千个网站在中国遭“一锅端”】全球最大的内容分发网络CDN在中国遭到攻击，导致其下的所有子域名在中国被封。原因是中国防火墙试图封锁@GreatFireChina 所提供的所有“依附的自由镜像网站”（泡泡网也深受其害）。https://… (2014年11月18日 22:47)
- ---
-RT @larrysalibra: HSBC's corporate portal HSBCnet apparently blocked in China cc @GreatFireChina  <a href="http://www.hsbcnet.com/gbm/global-utilities/customers-logging-in-from-china.html" target="_BLANK">www.hsbcnet.com/gbm/global-utilities/customers-logging-in-from-china.html</a> <a href="http://t.co/uEnTBw" target="_BLANK">t.co/uEnTBw</a>… (2014年11月18日 21:57)
  ---
