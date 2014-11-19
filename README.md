@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+中国乌镇互联网大会全面解禁境外网站 <a href="https://d1zf37pb2kxnxf.cloudfront.net/zhongwen/simp/china/2014/11/141119_2014_world_internet_conference" target="_BLANK">d1zf37pb2kxnxf.cloudfront.net/zhongwen/simp/china/2014/11/141119_2014_world_internet_conference</a> (2014年11月19日 23:45)
+ ---
 China with Compromise 妥协进入中国
 Consumer with Control 用户被监管
 Consensus with Censorship 审查是共识
@@ -114,6 +116,4 @@ China Stops Censoring the Web—for Three Days, in One City <a href="http://www.
 RT @paopaonet: #泡泡君Oo求安慰 当局封锁CDN, 泡泡也深受其害。纯良的小编在Solidot某篇文章的评论下偶然发现一条攻击泡泡的言论，顿时心拔凉拔凉的，求推友们安慰和鼓励。不过泡泡向来越挫越勇！<a href="http://www.solidot.org/story?threshold=0&mode=nested&sid=41926" target="_BLANK">www.solidot.org/story</a> http://t.… (2014年11月19日 12:44)
  ---
 RT @paopaonet: #泡泡开通微信公共账号啦 ~\(≧▽≦)/~ 拿出手机扫扫图片中的二维码，将泡泡装进你的口袋。 <a href="https://twitter.com/paopaonet/status/534755185131008000/photo/1" target="_BLANK">twitter.com/paopaonet/status/534755185131008000/photo/1</a> (2014年11月19日 12:43)
- ---
-China blocks thousands more websites as ‘Great Firewall’ targets cloud services <a href="http://www.scmp.com/news/china/article/1642977/china-blocks-thousands-more-websites-great-firewall-targets-cloud" target="_BLANK">www.scmp.com/news/china/article/1642977/china-blocks-thousands-more-websites-great-firewall-targets-cloud</a> (2014年11月19日 12:38)
  ---
