@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @EdmondLococo: LinkedIn's @reidhoffman said finding the right "cultural fit" is co's key challenge in #China $LNKD <a href="https://twitter.com/EdmondLococo/status/534982119312089088/photo/1" target="_BLANK">twitter.com/EdmondLococo/status/534982119312089088/photo/1</a> (2014年11月19日 21:21)
+ ---
+RT @amnestychina: .@reidhoffman 全球政府 -- 包括中国政府在内 --- 都支持#联合国的《工商业与人权框架》，公司必须尊重所有的人权，特别是在它们的范围内有可能会被侵犯的人权。所以，跟网络相关的公司应该尊重网上#言论自由。#netfreedom… (2014年11月19日 21:20)
+ ---
+RT @amnestychina: .@reidhoffman Companies must respect #humanrights in their global operations. Human rights know no borders. #WuzhenSummit… (2014年11月19日 21:20)
+ ---
 RT @josswright: Some thoughts on, and experimental confirmation of, @GreatFireChina's recent story on China blocking EdgeCast's CDN: http:/… (2014年11月19日 21:13)
  ---
 RT @ZhouFengSuo: 杨秀琼、杨冬英、顾国平、肖建芳、危文元、王晶、张继新 arrested today for protesting at World Internet Conference in WuZhen.
@@ -107,10 +113,4 @@ RT @williamlong: 11月19日，第一届“世界互联网大会”将在中国�
 RT @williamlong: 一个技术宅onionhacker（许东）开发了个翻墙软件，在Twitter上发布了个QQ群做技术支持，结果QQ上遇到一个企业订单，约出去之后就被关起来了。现在这世道，翻墙都不安全啊。 (2014年11月19日 12:22)
  ---
 RT @superafei: @YouChu @mranti 我们公司从上周就发现这个问题了，不用VPN现在财务连账都做不了了。而且这次是连DNS一起污染，光通VPN不设置国外的DNS还是无法访问，真是完全疯了。 (2014年11月19日 12:12)
- ---
-RT @yuanzi_hnfjp: @paopaonet @lihlii @GreatFireChina 乌镇国际互联网大会是研讨封网经验吧？ (2014年11月19日 10:42)
- ---
-China steps up web censorship <a href="http://www.theguardian.com/world/2014/nov/18/china-blocks-hsbc-web-crackdown-censorship?CMP=twt_gu" target="_BLANK">www.theguardian.com/world/2014/nov/18/china-blocks-hsbc-web-crackdown-censorship</a> // We never concede the gamble lost; we continue to offer uncensored access (2014年11月19日 10:42)
- ---
-RT @YouChu: HSBCnet，汇丰银行提供给大型企业客户的网银服务，竟然也被墙了。GFW对经济的偶然性影响和持续性影响会越来越明显。 (2014年11月19日 10:38)
  ---
