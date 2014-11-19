@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Rules and regs you must follow if you operate a website in China including making sure users don't 草泥马 <a href="http://blog.feichangdao.com/2014/11/translation-self-discipline-commitment.html?m=1" target="_BLANK">blog.feichangdao.com/2014/11/translation-self-discipline-commitment.html</a> (2014年11月20日 04:41)
+ ---
 RT @williamlong: 【乌镇互联网大会全面解禁境外网站】据BBC中文网报道，从19日凌晨起，到访世界互联网大会主办地乌镇的嘉宾、记者，甚至普通游客们都发现，他们可以使用面簿、推特、YouTube等原来在中国无法访问的国际社交网站了。据了解，只有登记成为乌镇专用的无线… (2014年11月20日 03:17)
  ---
 What ‘Democracy’ Means in China Is Not What Australia’s Abbott Thinks <a href="http://cn.nytimes.com/china/20141119/c19abbott/en-us/" target="_BLANK">cn.nytimes.com/china/20141119/c19abbott/en-us/</a> (2014年11月20日 01:34)
@@ -114,6 +116,4 @@ The obligatory sleepy head at World Internet Conference - except this time it's 
 RT @FreeWeibo: 方滨兴先生露脸了。新华网负责人提问说移动时代媒体融合问题，方校长回答说，自媒体出现后确实媒体界限模糊了。他说他去俄罗斯交流，俄罗斯的经验是，超过3000粉丝的大V就要作为媒体来管理登记。我怎么直觉得有点扯，这是不是在误导政府啊？哪个… http:/… (2014年11月19日 17:29)
  ---
 RT @byrnechina: A message to the Chinese government via @mrbaopanrui <a href="https://twitter.com/byrnechina/status/534938960624357376/photo/1" target="_BLANK">twitter.com/byrnechina/status/534938960624357376/photo/1</a> (2014年11月19日 17:21)
- ---
-RT @PaulCarsten: China's internet conference does indeed block Twitter, Google, etc inside the conference venue. Not even bothering to feig… (2014年11月19日 17:11)
  ---
