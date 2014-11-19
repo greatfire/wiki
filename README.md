@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+What ‘Democracy’ Means in China Is Not What Australia’s Abbott Thinks <a href="http://cn.nytimes.com/china/20141119/c19abbott/en-us/" target="_BLANK">cn.nytimes.com/china/20141119/c19abbott/en-us/</a> (2014年11月20日 01:34)
+ ---
+RT @PaulCarsten: @adrianwan like, state media asking questions to nobody so they can film it as if it’s a dialogue fake. (2014年11月20日 01:27)
+ ---
 RT @nytchinese: 25年前，捷克斯洛伐克通过天鹅绒革命摆脱共产党统治。今天，捷克人继续态度鲜明地反抗他们的总统，因为他称赞中国和俄罗斯的领导人，并表达对共产主义的怀念。<a href="http://cn.nytimes.com/europe/20141119/c19velvet/" target="_BLANK">cn.nytimes.com/europe/20141119/c19velvet/</a> (2014年11月20日 01:24)
  ---
 RT @phuslu: <a href="https://zh.greatfire.org/" target="_BLANK">zh.greatfire.org/</a> 声明 <a href="http://www.v2ex.com/signin?next=/t/147717" target="_BLANK">www.v2ex.com/signin</a> #qna (2014年11月20日 01:17)
@@ -112,8 +116,4 @@ RT @byrnechina: A message to the Chinese government via @mrbaopanrui <a href="ht
 RT @PaulCarsten: China's internet conference does indeed block Twitter, Google, etc inside the conference venue. Not even bothering to feig… (2014年11月19日 17:11)
  ---
 China is hosting the World Internet Conference. Yes, WTF. <a href="https://www.techinasia.com/china-is-hosting-world-internet-conference-wtf/" target="_BLANK">www.techinasia.com/china-is-hosting-world-internet-conference-wtf/</a> -&gt; funny post (2014年11月19日 17:08)
- ---
-China’s internet tsar calls for consensus on governing transparent web <a href="http://www.scmp.com/news/china/article/1643728/chinas-internet-tsar-calls-consensus-governing-transparent-web" target="_BLANK">www.scmp.com/news/china/article/1643728/chinas-internet-tsar-calls-consensus-governing-transparent-web</a> -&gt; protestors outside calling for net freedom (2014年11月19日 17:00)
- ---
-China Stops Censoring the Web—for Three Days, in One City <a href="http://www.bloomberg.com/news/2014-11-18/china-lifts-web-censorship-at-the-world-internet-conference.html" target="_BLANK">www.bloomberg.com/news/2014-11-18/china-lifts-web-censorship-at-the-world-internet-conference.html</a> via @EdmondLococo (2014年11月19日 16:27)
  ---
