@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @austinramzy: @PaulCarsten so there was nobody answering questions, just reporters asking questions for the cameras? (2014年11月19日 21:56)
+ ---
+RT @PaulCarsten: Oh my god. They are recording a fake press conference at the China World Internet Conference! <a href="https://twitter.com/PaulCarsten/status/535041547788492800/photo/1" target="_BLANK">twitter.com/PaulCarsten/status/535041547788492800/photo/1</a> (2014年11月19日 21:55)
+ ---
 RT @EdmondLococo: LinkedIn's @reidhoffman said finding the right "cultural fit" is co's key challenge in #China $LNKD <a href="https://twitter.com/EdmondLococo/status/534982119312089088/photo/1" target="_BLANK">twitter.com/EdmondLococo/status/534982119312089088/photo/1</a> (2014年11月19日 21:21)
  ---
 RT @amnestychina: .@reidhoffman 全球政府 -- 包括中国政府在内 --- 都支持#联合国的《工商业与人权框架》，公司必须尊重所有的人权，特别是在它们的范围内有可能会被侵犯的人权。所以，跟网络相关的公司应该尊重网上#言论自由。#netfreedom… (2014年11月19日 21:20)
@@ -109,8 +113,4 @@ RT @paopaonet: #泡泡开通微信公共账号啦 ~\(≧▽≦)/~ 拿出手机�
 China blocks thousands more websites as ‘Great Firewall’ targets cloud services <a href="http://www.scmp.com/news/china/article/1642977/china-blocks-thousands-more-websites-great-firewall-targets-cloud" target="_BLANK">www.scmp.com/news/china/article/1642977/china-blocks-thousands-more-websites-great-firewall-targets-cloud</a> (2014年11月19日 12:38)
  ---
 RT @williamlong: 11月19日，第一届“世界互联网大会”将在中国著名水乡—乌镇揭开帷幕。主办方是中国官方部门国信办和浙江省政府。此次大会主题为“互联互通 共享共治”。出席会议的嘉宾共有一千多名，来自全球近一百多个国家和地区。一起见证一个没有谷歌、脸书、推特、Yo… (2014年11月19日 12:23)
- ---
-RT @williamlong: 一个技术宅onionhacker（许东）开发了个翻墙软件，在Twitter上发布了个QQ群做技术支持，结果QQ上遇到一个企业订单，约出去之后就被关起来了。现在这世道，翻墙都不安全啊。 (2014年11月19日 12:22)
- ---
-RT @superafei: @YouChu @mranti 我们公司从上周就发现这个问题了，不用VPN现在财务连账都做不了了。而且这次是连DNS一起污染，光通VPN不设置国外的DNS还是无法访问，真是完全疯了。 (2014年11月19日 12:12)
  ---
