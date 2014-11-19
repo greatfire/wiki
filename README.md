@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -18,7 +18,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx5">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx6">短期有效 2</a>
             </td>
@@ -26,7 +26,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx8">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx9">短期有效 2</a>
             </td>
@@ -34,7 +34,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx11">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx12">短期有效 2</a>
             </td>
@@ -42,7 +42,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx13">长期有效 1</a>，            
                 <a href="https://c7511.azurewebsites.net" target="jx14">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx15">短期有效 2</a>
             </td>
@@ -65,6 +65,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @superafei: @YouChu @mranti 我们公司从上周就发现这个问题了，不用VPN现在财务连账都做不了了。而且这次是连DNS一起污染，光通VPN不设置国外的DNS还是无法访问，真是完全疯了。 (2014年11月19日 12:12)
+ ---
 RT @yuanzi_hnfjp: @paopaonet @lihlii @GreatFireChina 乌镇国际互联网大会是研讨封网经验吧？ (2014年11月19日 10:42)
  ---
 China steps up web censorship <a href="http://www.theguardian.com/world/2014/nov/18/china-blocks-hsbc-web-crackdown-censorship?CMP=twt_gu" target="_BLANK">www.theguardian.com/world/2014/nov/18/china-blocks-hsbc-web-crackdown-censorship</a> // We never concede the gamble lost; we continue to offer uncensored access (2014年11月19日 10:42)
@@ -102,6 +104,4 @@ RT @larrysalibra: HSBC's corporate portal HSBCnet apparently blocked in China cc
 The Great Firewall’s latest victims demonstrate its stubborn flaw <a href="http://qz.com/297956/the-great-firewalls-latest-victims-demonstrate-its-stubborn-flaw/" target="_BLANK">qz.com/297956/the-great-firewalls-latest-victims-demonstrate-its-stubborn-flaw/</a> via @sinoceros (2014年11月18日 21:44)
  ---
 HSBC corporate banking blocked in China; in and outbound finance impacted, foreign and domestic biz suffering <a href="https://en.greatfire.org/blog/2014/nov/hsbc-corporate-banking-blocked-china-and-outbound-finance-impacted" target="_BLANK">en.greatfire.org/blog/2014/nov/hsbc-corporate-banking-blocked-china-and-outbound-finance-impacted</a> (2014年11月18日 20:52)
- ---
-What if China held a world internet conference and the world didn’t show up? <a href="http://qz.com/298240/chinas-global-internet-conference-excludes-many-of-the-industrys-biggest-players/" target="_BLANK">qz.com/298240/chinas-global-internet-conference-excludes-many-of-the-industrys-biggest-players/</a> via @heathat (2014年11月18日 17:54)
  ---
