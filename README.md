@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @josswright: Some thoughts on, and experimental confirmation of, @GreatFireChina's recent story on China blocking EdgeCast's CDN: http:/… (2014年11月19日 21:13)
+ ---
 RT @ZhouFengSuo: 杨秀琼、杨冬英、顾国平、肖建芳、危文元、王晶、张继新 arrested today for protesting at World Internet Conference in WuZhen.
 #censorship 
  http://t.co… (2014年11月19日 17:53)
@@ -111,6 +113,4 @@ RT @yuanzi_hnfjp: @paopaonet @lihlii @GreatFireChina 乌镇国际互联网大会
 China steps up web censorship <a href="http://www.theguardian.com/world/2014/nov/18/china-blocks-hsbc-web-crackdown-censorship?CMP=twt_gu" target="_BLANK">www.theguardian.com/world/2014/nov/18/china-blocks-hsbc-web-crackdown-censorship</a> // We never concede the gamble lost; we continue to offer uncensored access (2014年11月19日 10:42)
  ---
 RT @YouChu: HSBCnet，汇丰银行提供给大型企业客户的网银服务，竟然也被墙了。GFW对经济的偶然性影响和持续性影响会越来越明显。 (2014年11月19日 10:38)
- ---
-Why You Can't Read The Atlantic in China <a href="http://www.theatlantic.com/international/archive/2014/11/why-you-cant-read-the-atlantic-in-china/382883/" target="_BLANK">www.theatlantic.com/international/archive/2014/11/why-you-cant-read-the-atlantic-in-china/382883/</a> (2014年11月19日 04:52)
  ---
