@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://c7511.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China’s internet tsar calls for consensus on governing transparent web <a href="http://www.scmp.com/news/china/article/1643728/chinas-internet-tsar-calls-consensus-governing-transparent-web" target="_BLANK">www.scmp.com/news/china/article/1643728/chinas-internet-tsar-calls-consensus-governing-transparent-web</a> -&gt; protestors outside calling for net freedom (2014年11月19日 17:00)
+ ---
 China Stops Censoring the Web—for Three Days, in One City <a href="http://www.bloomberg.com/news/2014-11-18/china-lifts-web-censorship-at-the-world-internet-conference.html" target="_BLANK">www.bloomberg.com/news/2014-11-18/china-lifts-web-censorship-at-the-world-internet-conference.html</a> via @EdmondLococo (2014年11月19日 16:27)
  ---
 香港部分示威者闯入立法会大楼 占中情势再度升温 <a href="http://cn.reuters.com/article/wtNews/idCNKCS0J22OJ20141118" target="_BLANK">cn.reuters.com/article/wtNews/idCNKCS0J22OJ20141118</a> (2014年11月19日 12:46)
@@ -109,6 +111,4 @@ HTTPS by default, now one step closer: In 2015: A Certificate Authority to Encry
 RT @moxie: At @whispersystems, we've partnered with @WhatsApp to provide end to end encryption for WhatsApp users by default: https://t.co/… (2014年11月19日 00:00)
  ---
 Open Whisper Systems partners with WhatsApp to provide end-to-end encryption <a href="https://whispersystems.org/blog/whatsapp/" target="_BLANK">whispersystems.org/blog/whatsapp/</a> via @whispersystems (2014年11月18日 23:57)
- ---
-RT @gigaom: HSBC bank portal reportedly caught up in China’s Great Firewall <a href="https://gigaom.com/2014/11/18/hsbc-bank-portal-reportedly-caught-up-in-chinas-great-firewall/?utm_source=dlvr.it&utm_medium=twitter" target="_BLANK">gigaom.com/2014/11/18/hsbc-bank-portal-reportedly-caught-up-in-chinas-great-firewall/</a> (2014年11月18日 23:51)
  ---
