@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -18,7 +18,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx5">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx6">短期有效 2</a>
             </td>
@@ -93,7 +93,7 @@ RT @TechCrunch: China Blocks Content Delivery Network Edgecast, Cutting Access T
  ---
 The Great Firewall’s latest victims demonstrate its stubborn flaw <a href="http://qz.com/297956/the-great-firewalls-latest-victims-demonstrate-its-stubborn-flaw/" target="_BLANK">qz.com/297956/the-great-firewalls-latest-victims-demonstrate-its-stubborn-flaw/</a> (2014年11月19日 03:07)
  ---
-RT @williamlong: CDN服务商EdgeCast的域名被中国屏蔽，导致数千家使用该CDN的网站被连带屏蔽了，其中包括了drupal，索尼移动，大西洋月刊，火狐插件，Gravatar等等。<a href="http://t.cn/Rzz2LAl" target="_BLANK">t.cn/Rzz2LAl</a> (2014年11月19日 00:22)
+RT @williamlong: CDN服务商EdgeCast的域名被中国屏蔽，导致数千家使用该CDN的网站被连带屏蔽了，其中包括了drupal，索尼移动，大西洋月刊，火狐插件，Gravatar等等。<a href="http://www.solidot.org/story?threshold=0&mode=nested&sid=41926" target="_BLANK">www.solidot.org/story</a> (2014年11月19日 00:22)
  ---
 HTTPS by default, now one step closer: In 2015: A Certificate Authority to Encrypt the Entire Web <a href="https://www.eff.org/deeplinks/2014/11/certificate-authority-encrypt-entire-web" target="_BLANK">www.eff.org/deeplinks/2014/11/certificate-authority-encrypt-entire-web</a> via @EFF (2014年11月19日 00:06)
  ---
