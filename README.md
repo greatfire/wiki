@@ -18,7 +18,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx5">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx6">短期有效 2</a>
             </td>
@@ -26,7 +26,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx8">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx9">短期有效 2</a>
             </td>
@@ -34,7 +34,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx11">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx12">短期有效 2</a>
             </td>
@@ -65,6 +65,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: #泡泡君Oo求安慰 当局封锁CDN, 泡泡也深受其害。纯良的小编在Solidot某篇文章的评论下偶然发现一条攻击泡泡的言论，顿时心拔凉拔凉的，求推友们安慰和鼓励。不过泡泡向来越挫越勇！<a href="http://www.solidot.org/story?threshold=0&mode=nested&sid=41926" target="_BLANK">www.solidot.org/story</a> http://t.… (2014年11月19日 12:44)
+ ---
+RT @paopaonet: #泡泡开通微信公共账号啦 ~\(≧▽≦)/~ 拿出手机扫扫图片中的二维码，将泡泡装进你的口袋。 <a href="https://twitter.com/paopaonet/status/534755185131008000/photo/1" target="_BLANK">twitter.com/paopaonet/status/534755185131008000/photo/1</a> (2014年11月19日 12:43)
+ ---
 China blocks thousands more websites as ‘Great Firewall’ targets cloud services <a href="http://www.scmp.com/news/china/article/1642977/china-blocks-thousands-more-websites-great-firewall-targets-cloud" target="_BLANK">www.scmp.com/news/china/article/1642977/china-blocks-thousands-more-websites-great-firewall-targets-cloud</a> (2014年11月19日 12:38)
  ---
 RT @williamlong: 11月19日，第一届“世界互联网大会”将在中国著名水乡—乌镇揭开帷幕。主办方是中国官方部门国信办和浙江省政府。此次大会主题为“互联互通 共享共治”。出席会议的嘉宾共有一千多名，来自全球近一百多个国家和地区。一起见证一个没有谷歌、脸书、推特、Yo… (2014年11月19日 12:23)
@@ -100,8 +104,4 @@ RT @gigaom: HSBC bank portal reportedly caught up in China’s Great Firewall <a
 The Great Firewall of China <a href="http://blog.edgecast.com/post/102918735991/the-great-firewall-of-china#_=_" target="_BLANK">blog.edgecast.com/post/102918735991/the-great-firewall-of-china</a> via @EdgeCast (2014年11月18日 22:59)
  ---
 China Steps Up Internet Censorship as EdgeCast Blocked <a href="http://www.bloomberg.com/news/2014-11-18/china-steps-up-internet-censorship-as-edgecast-blocked.html" target="_BLANK">www.bloomberg.com/news/2014-11-18/china-steps-up-internet-censorship-as-edgecast-blocked.html</a> (2014年11月18日 22:57)
- ---
-RT @phuslu: Solidot | 中国屏蔽CDN附带屏蔽数千家网站 <a href="http://www.solidot.org/story?threshold=0&mode=nested&sid=41926" target="_BLANK">www.solidot.org/story</a> (2014年11月18日 22:53)
- ---
-RT @paopaonet: #泡泡报道 【数千个网站在中国遭“一锅端”】全球最大的内容分发网络CDN在中国遭到攻击，导致其下的所有子域名在中国被封。原因是中国防火墙试图封锁@GreatFireChina 所提供的所有“依附的自由镜像网站”（泡泡网也深受其害）。https://… (2014年11月18日 22:47)
  ---
