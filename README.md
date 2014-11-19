@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
