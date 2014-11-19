@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -18,7 +18,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx4">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx5">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx6">短期有效 2</a>
             </td>
@@ -26,7 +26,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx7">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx8">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx9">短期有效 2</a>
             </td>
@@ -34,7 +34,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx10">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx11">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx12">短期有效 2</a>
             </td>
@@ -65,6 +65,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @yuanzi_hnfjp: @paopaonet @lihlii @GreatFireChina 乌镇国际互联网大会是研讨封网经验吧？ (2014年11月19日 10:42)
+ ---
+China steps up web censorship <a href="http://www.theguardian.com/world/2014/nov/18/china-blocks-hsbc-web-crackdown-censorship?CMP=twt_gu" target="_BLANK">www.theguardian.com/world/2014/nov/18/china-blocks-hsbc-web-crackdown-censorship</a> // We never concede the gamble lost; we continue to offer uncensored access (2014年11月19日 10:42)
+ ---
 RT @YouChu: HSBCnet，汇丰银行提供给大型企业客户的网银服务，竟然也被墙了。GFW对经济的偶然性影响和持续性影响会越来越明显。 (2014年11月19日 10:38)
  ---
 Why You Can't Read The Atlantic in China <a href="http://www.theatlantic.com/international/archive/2014/11/why-you-cant-read-the-atlantic-in-china/382883/" target="_BLANK">www.theatlantic.com/international/archive/2014/11/why-you-cant-read-the-atlantic-in-china/382883/</a> (2014年11月19日 04:52)
@@ -100,8 +104,4 @@ The Great Firewall’s latest victims demonstrate its stubborn flaw <a href="htt
 HSBC corporate banking blocked in China; in and outbound finance impacted, foreign and domestic biz suffering <a href="https://en.greatfire.org/blog/2014/nov/hsbc-corporate-banking-blocked-china-and-outbound-finance-impacted" target="_BLANK">en.greatfire.org/blog/2014/nov/hsbc-corporate-banking-blocked-china-and-outbound-finance-impacted</a> (2014年11月18日 20:52)
  ---
 What if China held a world internet conference and the world didn’t show up? <a href="http://qz.com/298240/chinas-global-internet-conference-excludes-many-of-the-industrys-biggest-players/" target="_BLANK">qz.com/298240/chinas-global-internet-conference-excludes-many-of-the-industrys-biggest-players/</a> via @heathat (2014年11月18日 17:54)
- ---
-China Steps Up Internet Censorship as EdgeCast Blocked <a href="http://www.businessweek.com/news/2014-11-18/china-steps-up-internet-censorship-as-edgecast-blocked" target="_BLANK">www.businessweek.com/news/2014-11-18/china-steps-up-internet-censorship-as-edgecast-blocked</a> via @BW (2014年11月18日 17:06)
- ---
-China blocks thousands more websites as ‘Great Firewall’ targets cloud services  <a href="http://www.scmp.com/news/china/article/1642977/china-blocks-thousands-more-websites-great-firewall-targets-cloud" target="_BLANK">www.scmp.com/news/china/article/1642977/china-blocks-thousands-more-websites-great-firewall-targets-cloud</a> via @SCMP_News (2014年11月18日 17:04)
  ---
