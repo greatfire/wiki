@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -80,7 +80,7 @@ RT @PaulCarsten: @adrianwan like, state media asking questions to nobody so they
  ---
 RT @nytchinese: 25年前，捷克斯洛伐克通过天鹅绒革命摆脱共产党统治。今天，捷克人继续态度鲜明地反抗他们的总统，因为他称赞中国和俄罗斯的领导人，并表达对共产主义的怀念。<a href="http://cn.nytimes.com/europe/20141119/c19velvet/" target="_BLANK">cn.nytimes.com/europe/20141119/c19velvet/</a> (2014年11月20日 01:24)
  ---
-RT @phuslu: <a href="https://zh.greatfire.org/" target="_BLANK">zh.greatfire.org/</a> 声明 <a href="http://www.v2ex.com/t/147717?r=phuslu" target="_BLANK">www.v2ex.com/t/147717</a> #qna (2014年11月20日 01:17)
+RT @phuslu: <a href="https://zh.greatfire.org/" target="_BLANK">zh.greatfire.org/</a> 声明 <a href="http://www.v2ex.com/signin?next=/t/147717" target="_BLANK">www.v2ex.com/signin</a> #qna (2014年11月20日 01:17)
  ---
 RT @badiucao: 活死人方宾兴的出场 将国际互联网大会这部史诗科幻片 推向高潮 <a href="https://twitter.com/badiucao/status/535043891792068608/photo/1" target="_BLANK">twitter.com/badiucao/status/535043891792068608/photo/1</a> (2014年11月19日 23:56)
  ---
