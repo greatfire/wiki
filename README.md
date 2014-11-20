@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: #兔泡泡Oo 网络监管拖了科学后腿：上月底，电子科技大学的一位研究人员在其博客上抱怨工信部关闭了他们没有备案的纯英文科学数据库网站。此事引发了广泛的讨论：在目前网络监管日益严厉的形势下，部分科学家希望网监对他们网开一面。<a href="http://t.co/m3" target="_BLANK">t.co/m3</a>… (2014年11月20日 12:18)
+ ---
+RT @paopaonet: #泡泡报道 “有关百度启用加密搜索，重要的是百度是否值得信任。”网络自由权益机构Access Now的工作人员告诉泡泡：“如果百度将证书分享于第三方，这就给了用户虚假的安全感，在一些情况下，这比不加密更糟糕。”<a href="https://t.co/VoyXwj" target="_BLANK">t.co/VoyXwj</a>… (2014年11月20日 12:17)
+ ---
 学生毕业礼撑黄伞，校长拒颁证书 视频 <a href="https://www.youtube.com/watch?v=Umr8VY8LMoI&feature=youtu.be" target="_BLANK">www.youtube.com/watch</a> (2014年11月20日 11:44)
  ---
 RT @BBCTimFranks: If u in China, u prob can't see this. But this man says he can help <a href="https://soundcloud.com/bbc-world-service/how-to-evade-the-great-firewall-of-china" target="_BLANK">soundcloud.com/bbc-world-service/how-to-evade-the-great-firewall-of-china</a> @BBCNewshour
@@ -113,8 +117,4 @@ RT @josswright: Some thoughts on, and experimental confirmation of, @GreatFireCh
 RT @ZhouFengSuo: 杨秀琼、杨冬英、顾国平、肖建芳、危文元、王晶、张继新 arrested today for protesting at World Internet Conference in WuZhen.
 #censorship 
  http://t.co… (2014年11月19日 17:53)
- ---
-@PaulCarsten @mydot odd that they single Google out for getting unblocked (2014年11月19日 17:49)
- ---
-The obligatory sleepy head at World Internet Conference - except this time it's Sohu's Charles Zhang <a href="https://twitter.com/GreatFireChina/status/535003096028823552/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/535003096028823552/photo/1</a> (2014年11月19日 17:34)
  ---
