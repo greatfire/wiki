@@ -1,42 +1,4 @@
 
 
-
-#[下载免翻墙安卓浏览器](https://raw.githubusercontent.com/greatfire/z/master/FreeBrowser.apk)
-进行阅读。
-如果您使用我们的自由浏览器和其他APP时发生问题请按如下格式反馈到support@greatfire.org，谢谢
-1.机型、Android系统版本号、是否第三方ROM、使用何种网络
-2.在什么情况下发生了什么问题，详细描述
-如果你会抓取log，也可以把发生问题时的log发送给我
-
-#
-
-<a href="https://github.com/greatfire/wiki/wiki/nyt" title="纽约时报中文网 国际纵览">![x](https://raw.githubusercontent.com/greatfire/images/master/nyt.png) **纽约时报**</a> | <a href="https://github.com/greatfire/wiki/wiki/dw" title="">![x](https://raw.githubusercontent.com/greatfire/images/master/dw.png) **德国之声**</a>
-------------- | -------------
-<a href="https://github.com/paopaonetizen/website" title="泡泡 - 未经审查的互联网信息">![x](https://raw.githubusercontent.com/greatfire/images/master/paopao.png) **泡泡**</a> | <a href="https://github.com/greatfire/wiki/wiki/bbc" title="">![x](https://raw.githubusercontent.com/greatfire/images/master/bbc.png) **BBC**</a>
-<a href="https://github.com/greatfire/wiki/wiki/google" title="">![x](https://raw.githubusercontent.com/greatfire/images/master/google.png) **Google**</a> | <a href="https://github.com/getlantern/mirror" title="以及自由微博和GreatFire.org官方中文论坛">![x](https://raw.githubusercontent.com/greatfire/images/master/lantern.png) **蓝灯 - Lantern**</a>
-<a href="https://github.com/cdtmirrors/m/" title="">![x](https://raw.githubusercontent.com/greatfire/images/master/cdt.png) **中国数字时代**</a> | <a href="https://github.com/program-think/blog" title="编程随想的博客">![x](https://raw.githubusercontent.com/greatfire/images/master/programthink.png) **编程随想**</a>
-<a href="https://github.com/bxnews/boxun" title="">![x](https://raw.githubusercontent.com/greatfire/images/master/boxun.png) **博讯新闻**</a> | <a href="https://github.com/greatfire/wiki/wiki/renminjianduwang" title="">![x](https://raw.githubusercontent.com/greatfire/images/master/renminjianduwang.png) **人民监督网**</a>
-<a href="https://github.com/freeweibo/s" title="自由微博 - 匿名和不受屏蔽的新浪微博搜索">![x](https://raw.githubusercontent.com/greatfire/images/master/freeweibo.png) **自由微博**</a> | <a href="https://github.com/greatfire/wiki/wiki/open-source" title="欢迎访问GreatFire.org开发者项目网站">![x](https://raw.githubusercontent.com/greatfire/images/master/open-source.png) **开源项目**</a>
-
-
-**纽约时报 - 免翻墙安卓应用**
-
-[![x](https://raw.githubusercontent.com/greatfire/images/master/nyt.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/NYTimes.apk)
-
-**自由浏览安卓应用 - 免翻墙安卓应用**
-
-[![x](https://raw.githubusercontent.com/greatfire/images/master/fb.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/FreeBrowser.apk)
-
-**泡泡 - 免翻墙安卓应用**
-
-[![x](https://raw.githubusercontent.com/greatfire/images/master/paopao.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/PaoPaoAndroid.apk)
-
-**中国数字时代 - 免翻墙安卓应用**
-
-[![x](https://raw.githubusercontent.com/greatfire/images/master/cdt.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/ChinaDigitalTimesAndroid.apk)
-
-**自由微博 - 免翻墙安卓应用**
-
-[![x](https://raw.githubusercontent.com/greatfire/images/master/freeweibo.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/FreeWeibo.apk)
-
-
+<a href="https://github.com/greatfire/z/raw/master/FreeBrowser.apk"><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/header.png" /></a><table><tr><td width="262" align="center" valign="center"><a href="https://github.com/greatfire/wiki/wiki/nyt" title="纽约时报中文网 国际纵览"><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/nyt_flag.png" width="215"/></a></td><td width="262" align="center" valign="center"><a href="https://github.com/greatfire/wiki/wiki/dw" title=""><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/dw_flag.png" width="215"/></a></td><td width="262" align="center" valign="center"><a href="https://github.com/paopaonetizen/website" title="泡泡 - 未经审查的互联网信息"><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/pp_flag.png" width="215"/></a></td></tr><tr><td width="262" align="center" valign="center"><a href="https://github.com/getlantern/mirror" title="以及自由微博和GreatFire.org官方中文论坛"><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/lantern_flag.png" width="215"/></a></td><td width="262" align="center" valign="center"><a href="https://github.com/cdtmirrors/m/" title=""><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/cdt_flag.png" width="215"/></a></td><td width="262" align="center" valign="center"><a href="https://github.com/program-think/blog" title="编程随想的博客"><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/pt_flag.png" width="215"/></a></td></tr><tr><td width="262" align="center" valign="center"><a href="https://github.com/greatfire/wiki/wiki/bbc" title=""><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/bbc_flag.png" width="215"/></a></td><td width="262" align="center" valign="center"><a href="https://github.com/freeweibo/s" title="自由微博 - 匿名和不受屏蔽的新浪微博搜索"><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/fw_flag.png" width="215"/></a></td><td width="262" align="center" valign="center"><a href="https://github.com/greatfire/wiki/wiki/google" title=""><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/google_flag.png" width="215"/></a></td></tr><tr><td width="262" align="center" valign="center"><a href="https://github.com/bxnews/boxun" title=""><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/bx_flag.png" width="215"/></a></td><td width="262" align="center" valign="center"><a href="https://github.com/greatfire/wiki/wiki/open-source" title="欢迎访问GreatFire.org开发者项目网站"><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/open-source_flag.png" width="215"/></a></td></table><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/newsfeed text.png" /><table cols="4"><tr><td colspan="2" width="380"><a href="https://freeweibo.com/weibo/3864868560052323"><img src="http://ww3.sinaimg.cn/large/5db2d058jw1eu3et3akhwj20c80lqtam.jpg" width="330" height="156"/></a></br><a href="https://freeweibo.com/weibo/3864868560052323">回复@释不归:[思考] //@释不归:她<br/>的马甲@驴看夕阳 居…</a></br><kbd> by <a href="https://freeweibo.com/">自由微博</a> 3小时前 </kbd></br><pre>回复@释不归:[思考] //@释不归:她的马<br/>甲@驴看夕阳 居然还能在新浪生存下去，实在是<br/>令人费解！//@余英: 此</pre></td><td colspan="2" width="380"><a href="http://feedproxy.google.com/~r/chinadigitaltimes/IyPt/~3/AcgdpA-zLSM/"><img src="http://chinadigitaltimes.net/chinese/files/2015/07/%E4%B8%AD%E5%85%B1.jpg" width="330" height="156"/></a></br><a href="http://feedproxy.google.com/~r/chinadigitaltimes/IyPt/~3/AcgdpA-zLSM/">【异闻观止】中央严令：今后不许反党反毛言<br/>论公然在媒体出现</a></br><kbd> by <a href="http://chinadigitaltimes.net/chinese/">中国数字时代</a> 4小时前 </kbd></br><pre>最近，各个省市区中共党的宣传部长都在传达中央<br/>宣传工作会议精神，据参加某省传达会议的人士披<br/>露，今后中央宣传基调已经明朗。
+一、必须坚持<br/>媒体的”喉舌论”，即在中国的...</pre></td></tr><tr><td><img src="http://static01.nyt.com/images/2015/07/10/us/00Droughtweb2/00Droughtweb2-articleLarge.jpg" width="50" height="50"/></td><td width="280"><a href="http://d2qpqq35l60wq5.cloudfront.net/world/20150715/cc15puertorico/">厄尔尼诺发威，波多黎各大旱（<br/>英文）</a></br><kbd> by <a href="http://m.cn.nytimes.com/">纽约时报</a> 4小时前 </kbd></td><td><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/bx_logo.png" width="50" height="50"/></td><td width="280"><a href="http://www.boxun.com/news/gb/intl/2015/07/201507150248.shtml">在泰全体中国难民紧急求救</a></br><kbd> by <a href="http://www.boxun.com">博讯新闻</a> 9小时前 </kbd></td></tr><tr><td><img src="http://pao-pao.net/sites/pao-pao.net/files/styles/base_adaptive/public/6523513689_baeec3c53c_z_0.jpg?itok=NM8cQ_d1" width="50" height="50"/></td><td width="280"><a href="https://pao-pao.net/article/593">网络维稳立法强制</a></br><kbd> by <a href="https://pao-pao.net">泡泡</a> 2天前 </kbd></td><td><img src="http://lh3.googleusercontent.com/xmlGsu_rJGM9g-urNBa_pdOJFQQCns0hhRmPBkR1LbfWEcW1oBurA2nI1FmJYJWjGlEGh7iW1n5gk8hhHWIoHsg-Hg7SkW9La6udOrl3MJY9xCtNFZuONpdVcZkPE8N5oGtehiccXw" width="50" height="50"/></td><td width="280"><a href="http://feedproxy.google.com/~r/programthink/~3/K7zWvVt9bH0/weekly-share-89.html">每周转载：关于天朝近期的股灾<br/>（外媒报道及大量网友评论）</a></br><kbd> by <a href="http://program-think.blogspot.com">编程随想</a> 2天前 </kbd></td></tr><tr><td><img src="http://www.dw.de/image/0,,17612231_302,00.jpg" width="50" height="50"/></td><td width="280"><a href="http://dw.de/p/1Fjnc?maca=chi-GK-text-greatfire-all-chinese-15625-xml-mrss">日本旅游热 欣喜之余不无烦恼</a></br><kbd> by <a href="http://dw.de">德国之声</a> 24天前 </kbd></td><td><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/bbc_logo.png" width="50" height="50"/></td><td width="280"><a href="http://www.bbc.co.uk/zhongwen/simp/china/2015/06/150609_china_hebei_shooting">河北肃宁枪击案致五死五伤嫌疑<br/>人被击毙</a></br><kbd> by <a href="http://www.bbc.co.uk/zhongwen/simp">BBC</a> 36天前 </kbd></td></tr></table></br><a href="https://github.com/greatfire/z/raw/master/FreeBrowser.apk"><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/download app.png" /></a>
