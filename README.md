@@ -1,3 +1,57 @@
+![CC-logo](https://github.com/greatfire/x/raw/master/cc-logo.png)
+# 欢迎使用GreatFire翻墙中心WIKI
 
+##什么是翻墙中心？
 
-<a href="https://github.com/greatfire/z/raw/master/FreeBrowser.apk"><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/header.png" /></a><table><tr><td width="262" align="center" valign="center"><a href="https://github.com/greatfire/wiki/wiki/nyt" title="纽约时报中文网 国际纵览"><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/nyt_flag.png" width="215"/></a></td><td width="262" align="center" valign="center"><a href="https://github.com/greatfire/wiki/wiki/dw" title=""><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/dw_flag.png" width="215"/></a></td><td width="262" align="center" valign="center"><a href="https://github.com/greatfire/wiki/wiki/rmjd" title=""><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/rmjd_flag.png" width="215"/></a></td></tr><tr><td width="262" align="center" valign="center"><a href="https://github.com/paopaonetizen/website" title="泡泡 - 未经审查的互联网信息"><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/pp_flag.png" width="215"/></a></td><td width="262" align="center" valign="center"><a href="https://github.com/getlantern/mirror" title="以及自由微博和GreatFire.org官方中文论坛"><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/lantern_flag.png" width="215"/></a></td><td width="262" align="center" valign="center"><a href="https://github.com/cdtmirrors/m/" title=""><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/cdt_flag.png" width="215"/></a></td></tr><tr><td width="262" align="center" valign="center"><a href="https://github.com/program-think/blog" title="编程随想的博客"><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/pt_flag.png" width="215"/></a></td><td width="262" align="center" valign="center"><a href="https://github.com/greatfire/wiki/wiki/bbc" title=""><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/bbc_flag.png" width="215"/></a></td><td width="262" align="center" valign="center"><a href="https://github.com/freeweibo/s" title="自由微博 - 匿名和不受屏蔽的新浪微博搜索"><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/fw_flag.png" width="215"/></a></td></tr><tr><td width="262" align="center" valign="center"><a href="https://github.com/greatfire/wiki/wiki/google" title=""><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/google_flag.png" width="215"/></a></td><td width="262" align="center" valign="center"><a href="https://github.com/bxnews/boxun" title=""><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/bx_flag.png" width="215"/></a></td><td width="262" align="center" valign="center"><a href="https://github.com/greatfire/wiki/wiki/open-source" title="欢迎访问GreatFire.org开发者项目网站"><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/open-source_flag.png" width="215"/></a></td></tr></table><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/newsfeed text.png" /><table cols="4"><tr><td colspan="2" width="380"><a href="https://d7odklm2qes9e.cloudfront.net/international/20160725/fort-myers-club-blu-shooting/"><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/nyt_logo_b.png" width="330" height="156"/></a></br><a href="https://d7odklm2qes9e.cloudfront.net/international/20160725/fort-myers-club-blu-shooting/">简讯：佛罗里达夜总会枪击案死者都是青少年</a></br><kbd> by <a href="http://m.cn.nytimes.com/">纽约时报</a> 12分钟前 </kbd></br><pre>佛罗里达州迈尔斯堡市夜总会周一凌晨发生枪击事<br/>件，两名死者一为14岁，一为18岁。这起事件<br/>距离奥兰多同性恋夜总会枪击</pre></td><td colspan="2" width="380"><a href="http://feedproxy.google.com/~r/chinadigitaltimes/IyPt/~3/JnuWRGUIQwU/"><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/cdt_logo_b.png" width="330" height="156"/></a></br><a href="http://feedproxy.google.com/~r/chinadigitaltimes/IyPt/~3/JnuWRGUIQwU/">新浪微博｜王尚一：经济视角的反美义和团</a></br><kbd> by <a href="http://chinadigitaltimes.net/chinese/">中国数字时代</a> 2小时前 </kbd></br><pre>从经济视角观察，当前中国的爱国反美风潮与当年<br/>的义和团实质一样，这意味着中国进入社会崩溃期<br/>。而且由于产业经济发生关键改变，整个进程体制<br/>已失控，不像当年满清杀义和团...</pre></td></tr><tr><td><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/fw_logo.png" width="50" height="50"/></td><td width="280"><a href="https://freeweibo.com/weibo/4001410259436556">【台湾太抠门虐待蔡英文，专职<br/>厨师都不给配！让蔡总统...</a></br><kbd> by <a href="https://freeweibo.com/">自由微博</a> 4小时前 </kbd></td><td><img src="http://www.dw.com/image/0,,19424768_302,00.jpg" width="50" height="50"/></td><td width="280"><a href="http://dw.com/p/1JVkf?maca=chi-GK-text-greatfire-all-chinese-15625-xml-mrss">暴力事件频发 默克尔难民政策<br/>又引争议</a></br><kbd> by <a href="http://dw.de">德国之声</a> 9小时前 </kbd></td></tr><tr><td><img src="https://pao-pao.net/sites/pao-pao.net/files/styles/large/public/tu_1_44.jpg?itok=KR8drvXW" width="50" height="50"/></td><td width="280"><a href="https://pao-pao.net/article/724">警惕微妙的劝导术：“宣传即侵<br/>略”——埋下诱饵 乖乖上钩</a></br><kbd> by <a href="https://pao-pao.net">泡泡</a> 1天前 </kbd></td><td><img src="http://www.boxun.com/news/images/2016/07/201607251902china1.jpg" width="50" height="50"/></td><td width="280"><a href="http://www.boxun.com/news/gb/china/2016/07/201607251902.shtml">郭伯雄一审被判处无期徒刑没收<br/>全部个人财产请看博讯热...</a></br><kbd> by <a href="http://www.boxun.com">博讯新闻</a> 1天前 </kbd></td></tr><tr><td><img src="https://lh6.googleusercontent.com/ioMh-AY9SbuhP9uZbL3W6ze4l3ZszvNEGGbhCrNrfsJXt02Y0iRtj112-__lMvco5NAeAvk1iOhyBVemEvzppN62HdL5_WaZopukfhYPVMGreov_Z-PT9AhwvC31yO7vTCTcQirP3W0" width="50" height="50"/></td><td width="280"><a href="http://feedproxy.google.com/~r/programthink/~3/OLue0DzvyNo/UNCLOS.html">扫盲《联合国海洋法公约》——<br/>帮你更好地解读“中菲南...</a></br><kbd> by <a href="http://program-think.blogspot.com">编程随想</a> 14天前 </kbd></td><td><img src="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/19/160519172724_egypt_air_plane_144x81__nocredit.jpg" width="50" height="50"/></td><td width="280"><a href="http://www.bbc.com/zhongwen/simp/world/2016/06/160608_egypt_china_flight_uzbekistan">埃及飞北京一架客机“因炸弹威<br/>胁迫降”</a></br><kbd> by <a href="http://www.bbc.co.uk/zhongwen/simp">BBC</a> 48天前 </kbd></td></tr><tr><td><img src="http://www.rmjdw.com/uploads/160510/3-1605102102421C.jpg" width="50" height="50"/></td><td width="280"><a href="http://www.rmjdw.com//tebiebaodao/20160510/15526.html">“莆田系”北京德胜门中医院年<br/>赚3亿诀窍 </a></br><kbd> by <a href="http://www.rmjdw.com/">人民监督网</a> 76天前 </kbd></td></table></br><a href="https://github.com/greatfire/z/raw/master/FreeBrowser.apk"><img src="https://raw.githubusercontent.com/greatfire/wiki/master/x/download app.png" /></a><h1>自由浏览x86版本下载<h1><a href="https://github.com/greatfire/z/raw/master/FreeBrowser-x86.apk"><img src="https://raw.githubusercontent.com/greatfire/images/master/fb86.qr.png" /></a>
+GreatFire翻墙中心是GreatFire出品的**VPN销售**和**翻墙工具速度测试**的网站，我们在墙内销售和测试，目的是为了提供最更优质的翻墙体验。您将在此获得访问翻墙中心的方法。
+
+由于GreatFire翻墙中心在中国已被屏蔽，为了前往翻墙中心，您必须先使用**自由浏览**。
+*如果您已具有翻墙条件，也可直接前往以下网址访问：[GreatFire翻墙中心](https://cc.greatfire.org/)*
+## 什么是自由浏览？
+
+自由浏览是安卓平台的翻墙浏览器，自由浏览采用一系列代理手段让您可以访问被GFW屏蔽的网站，您无需任何配置，即装即用，打开输入任意网址即可访问，非常便捷和高效，而且**完全免费**！
+
+### 如何获取自由浏览？
+
+您可以直接点击链接或者扫描下面的二维码下载最新版自由浏览：
+
+| [自由浏览](https://github.com/greatfire/x/raw/master/freebrowser.apk) | [自由浏览x86版](https://github.com/greatfire/x/raw/master/freebrowser-x86.apk) * |
+| --- | --- |
+| [![自由浏览](https://github.com/greatfire/x/raw/master/freebrowser.apk.qr.png)](https://github.com/greatfire/x/raw/master/freebrowser.apk) | [![自由浏览x86版](https://github.com/greatfire/x/raw/master/freebrowser-x86.apk.qr.png)](https://github.com/greatfire/x/raw/master/freebrowser-x86.apk) |
+
+\* 自由浏览 x86 版主要用于一些使用 Intel 处理器的平板电脑，一般用户请使用非 x86 版。
+
+### 使用自由浏览访问GreatFire翻墙中心
+
+在您的设备下载安装自由浏览后，您即可在自由浏览的首页进入翻墙中心，或者直接在地址栏输入 https://cc.greatfire.org/ 访问。
+
+在翻墙中心，您可以对比各个工具的速度和稳定性等数据、购买VPN、查看VPN的使用教程，下载VPN和其他工具的客户端、或是测试你自己的速度。
+
+## 更多的自由-自由有声
+
+GreatFire最新出品**自由有声**安卓版，您可以用它方便的下载**数百本PDF**和**有声书**，随时随地阅读和分享中国的禁书。
+
+您可以直接点击链接或者扫描下面的二维码下载最新版自由有声：
+
+| [自由有声](https://github.com/greatfire/x/raw/master/freebooks.apk) |
+| --- |
+| [![自由有声](https://github.com/greatfire/x/raw/master/freebooks.apk.qr.png)](https://github.com/greatfire/x/raw/master/freebooks.apk) |
+
+###使用自由浏览或其他应用时遇到了问题？
+
+如果您在使用我们的产品时遇到了问题，您可以按照下面的格式发送邮件到<support@greatfire.org>
+
+1. 安卓系统版本，或第三方ROM名称/版本（如Android 5.1 MIUI 6.7.14）
+2. 使用何种网络 如（中国联通、中国移动4G）
+3. 详细描述发生问题时的情况
+
+##GreatFire运营的项目
+* [GreatFire翻墙中心](https://cc.greatfire.org/) - 测试和销售墙内可用的高级VPN服务。
+* [自由浏览](https://freebrowser.org/) - 自由浏览是一个免费的安卓应用，可以提供不经审查的互联网接入。
+* [自由有声](https://play.google.com/store/apps/details?id=org.greatfire.freebook) - 阅读中国的禁书。
+* [自由微博](https://freeweibo.com/) - 自由微博提供匿名和不受屏蔽的新浪微博搜索。
+* [GreatFire Analyzer](https://zh.greatfire.org/analyzer) - 一直关注中国的网络审查，带给您中国防火长城的最新资讯。
+* [GreatFire 博客](https://zh.greatfire.org/news/blog) - 关于国内审查情况的新闻。
+* [泡泡](https://pao-pao.net/) - 未经审查的互联网信息。
+
+![greatfire-logo](https://github.com/greatfire/x/raw/master/greatfire-logo.png)
