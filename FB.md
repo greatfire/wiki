@@ -18,13 +18,7 @@
 2. 使用何种网络 如（中国联通、中国移动4G）
 3. 详细描述发生问题时的情况
 
-##GreatFire运营的项目
-* [GreatFire翻墙中心](https://cc.greatfire.org/) - 测试和销售墙内可用的高级VPN服务。
-* [自由浏览](https://freebrowser.org/) - 自由浏览是一个免费的安卓应用，可以提供不经审查的互联网接入。
-* [自由有声](https://play.google.com/store/apps/details?id=org.greatfire.freebook) - 阅读中国的禁书。
-* [自由微博](https://freeweibo.com/) - 自由微博提供匿名和不受屏蔽的新浪微博搜索。
-* [GreatFire Analyzer](https://zh.greatfire.org/analyzer) - 一直关注中国的网络审查，带给您中国防火长城的最新资讯。
-* [GreatFire 博客](https://zh.greatfire.org/news/blog) - 关于国内审查情况的新闻。
-* [泡泡](https://pao-pao.net/) - 未经审查的互联网信息。
-
-![greatfire-logo](https://github.com/greatfire/x/raw/master/greatfire-logo.png)
+###GreatFire的其他应用
+* [自由浏览](https://github.com/greatfire/wiki/FB.md) - 自由浏览是一个免费的安卓应用，可以提供不经审查的互联网接入。
+* [自由有声](https://github.com/greatfire/wiki/FBS.md) - 阅读中国的禁书。
+* [纽约时报](https://github.com/greatfire/wiki/NYT.md) - 免翻墙畅读纽约时报。
