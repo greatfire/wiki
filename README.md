@@ -1,7 +1,7 @@
 ![CC-logo](https://github.com/greatfire/x/raw/master/cc-logo.png)
 # 欢迎使用GreatFire翻墙中心WIKI
 
-##什么是翻墙中心？
+## 什么是翻墙中心？
 
 GreatFire翻墙中心是GreatFire出品的**VPN销售**和**翻墙工具速度测试**的网站，我们在墙内销售和测试，目的是为了提供最更优质的翻墙体验。您将在此获得访问翻墙中心的方法。
 
@@ -37,7 +37,7 @@ GreatFire最新出品**自由有声**安卓版，您可以用它方便的下载*
 | --- |
 | [![自由有声](https://github.com/greatfire/x/raw/master/freebooks.apk.qr.png)](https://github.com/greatfire/x/raw/master/freebooks.apk) |
 
-###使用自由浏览或其他应用时遇到了问题？
+### 使用自由浏览或其他应用时遇到了问题？
 
 如果您在使用我们的产品时遇到了问题，您可以按照下面的格式发送邮件到<support@greatfire.org>
 
@@ -45,7 +45,7 @@ GreatFire最新出品**自由有声**安卓版，您可以用它方便的下载*
 2. 使用何种网络 如（中国联通、中国移动4G）
 3. 详细描述发生问题时的情况
 
-##GreatFire运营的项目
+## GreatFire运营的项目
 * [GreatFire翻墙中心](https://cc.greatfire.org/) - 测试和销售墙内可用的高级VPN服务。
 * [自由浏览](https://freebrowser.org/) - 自由浏览是一个免费的安卓应用，可以提供不经审查的互联网接入。
 * [自由有声](https://play.google.com/store/apps/details?id=org.greatfire.freebook) - 阅读中国的禁书。
