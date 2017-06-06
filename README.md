@@ -1,7 +1,7 @@
 ![CC-logo](https://github.com/greatfire/x/raw/master/cc-logo.png)
 # 欢迎使用GreatFire翻墙中心WIKI
 
-##什么是翻墙中心？
+## 什么是翻墙中心？
 
 GreatFire翻墙中心是GreatFire出品的**VPN销售**和**翻墙工具速度测试**的网站，我们在墙内销售和测试，目的是为了提供最更优质的翻墙体验。您将在此获得访问翻墙中心的方法。
 
