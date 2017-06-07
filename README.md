@@ -1,15 +1,12 @@
-![CC-logo](https://github.com/greatfire/x/raw/master/cc-logo.png)
-# 欢迎使用GreatFire翻墙中心WIKI
+# 欢迎使用GreatFire WIKI
 
-## 什么是翻墙中心？
-
-GreatFire翻墙中心是GreatFire出品的**VPN销售**和**翻墙工具速度测试**的网站，我们在墙内销售和测试，目的是为了提供最更优质的翻墙体验。您将在此获得访问翻墙中心的方法。
-
-由于GreatFire翻墙中心在中国已被屏蔽，为了前往翻墙中心，您必须先使用**自由浏览**。
-*如果您已具有翻墙条件，也可直接前往以下网址访问：[GreatFire翻墙中心](https://cc.greatfire.org/)*
 ## 什么是自由浏览？
-
 ![自由浏览](https://github.com/gfsupport/wiki/raw/master/t.png)
+
+自由浏览是一个非常便捷的免翻墙浏览器，通过它您可以方便的访问任何在中国被屏蔽的网站，它最大的特点是无需任何配置，即开即用，并且完全免费！
+
+一些应用截图：
+
 ### 如何获取自由浏览？
 
 您可以直接点击链接或者扫描下面的二维码下载最新版自由浏览：
@@ -44,7 +41,13 @@ GreatFire翻墙中心是GreatFire出品的**VPN销售**和**翻墙工具速度�
 2. 使用何种网络 如（中国联通、中国移动4G）
 3. 详细描述发生问题时的情况
 
-##GreatFire运营的项目
+## 什么是GreatFire？
+
+GreatFire翻墙中心是GreatFire出品的**VPN销售**和**翻墙工具速度测试**的网站，我们在墙内销售和测试，目的是为了提供最更优质的翻墙体验。您将在此获得访问翻墙中心的方法。
+
+由于GreatFire翻墙中心在中国已被屏蔽，为了前往翻墙中心，您必须先使用**自由浏览**。
+*如果您已具有翻墙条件，也可直接前往以下网址访问：[GreatFire翻墙中心](https://cc.greatfire.org/)*
+## GreatFire运营的项目
 * [GreatFire翻墙中心](https://cc.greatfire.org/) - 测试和销售墙内可用的高级VPN服务。
 * [自由浏览](https://freebrowser.org/) - 自由浏览是一个免费的安卓应用，可以提供不经审查的互联网接入。
 * [自由有声](https://play.google.com/store/apps/details?id=org.greatfire.freebook) - 阅读中国的禁书。
