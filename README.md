@@ -5,11 +5,12 @@
 
 自由浏览是一个非常便捷的安卓端免翻墙浏览器，通过它您可以方便的访问任何在中国被屏蔽的网站，它最大的特点是无需任何配置，即开即用，并且完全免费！
 
-![主页](https://github.com/gfsupport/wiki/raw/master/%E4%B8%BB%E9%A1%B5.png)
-![标签](https://github.com/gfsupport/wiki/raw/master/%E6%A0%87%E7%AD%BE.png)
-![设置](https://github.com/gfsupport/wiki/raw/master/%E8%AE%BE%E7%BD%AE.png)
-![隐身](https://github.com/gfsupport/wiki/blob/master/%E9%9A%90%E8%BA%AB.png)
-![菜单](https://github.com/gfsupport/wiki/raw/master/%E8%8F%9C%E5%8D%95.png)
+|![主页](https://github.com/gfsupport/wiki/raw/master/%E4%B8%BB%E9%A1%B5.png)|![标签](https://github.com/gfsupport/wiki/raw/master/%E6%A0%87%E7%AD%BE.png)|
+![设置](https://github.com/gfsupport/wiki/raw/master/%E8%AE%BE%E7%BD%AE.png)|![隐身](https://github.com/gfsupport/wiki/blob/master/%E9%9A%90%E8%BA%AB.png)|![菜单](https://github.com/gfsupport/wiki/raw/master/%E8%8F%9C%E5%8D%95.png)|
+| --- | --- | --- | --- | --- |
+
+
+
 
 ### 如何获取自由浏览？
 
