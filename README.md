@@ -1,6 +1,3 @@
-# 欢迎使用GreatFire WIKI
-
-## 什么是自由浏览？
 ![自由浏览](https://github.com/gfsupport/wiki/raw/master/fb2.png)
 
 * 自由浏览是一个非常便捷的安卓端免翻墙浏览器
