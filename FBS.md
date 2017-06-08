@@ -1,7 +1,8 @@
 ## 欢迎下载自由有声2.0
 
-![自由有声](https://github.com/greatfire/xx/raw/master/fbs2.png)
+[![自由有声](https://github.com/greatfire/xx/raw/master/fbs2.png)](https://github.com/greatfire/x/raw/master/freebooks.apk)
 
+* [立即下载自由有声](https://github.com/greatfire/x/raw/master/freebooks.apk) 
 * 自由有声是一个便捷的安卓端禁书阅读器
 * 拥有书籍封面、轻量化预览、整合有声书与文字书三大特点
 * 内置书库有*数百本*PDF和有声书
