@@ -1,6 +1,15 @@
-## 欢迎下载自由有声
+## 欢迎下载自由有声2.0
 
-GreatFire最新出品**自由有声**安卓版，您可以用它方便的下载**数百本PDF**和**有声书**，随时随地阅读和分享中国的禁书。
+![自由有声](https://github.com/gfsupport/wiki/raw/master/fbs2.png)
+
+* 自由有声是一个便捷的安卓端禁书阅读器
+* 拥有书籍封面、轻量化预览、整合有声书与文字书三大特点
+* 内置书库有*数百本*PDF和有声书
+* 您可以使用它随时随地阅读和分享中国的禁书。
+
+|![1](https://github.com/gfsupport/wiki/raw/master/11.png)|![2](https://github.com/gfsupport/wiki/raw/master/22.png)|
+| --- | --- |
+|![封面](https://github.com/gfsupport/wiki/raw/master/%E5%B0%81%E9%9D%A2.png)|![阅读](https://github.com/gfsupport/wiki/raw/master/%E9%98%85%E8%AF%BB.png)|
 
 您可以直接点击下方链接下载最新版自由有声：
 
