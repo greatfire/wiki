@@ -1,8 +1,12 @@
 [![自由浏览](https://github.com/greatfire/xx/raw/master/fb2.png)](https://github.com/greatfire/x/raw/master/freebrowser.apk)
 
+* [立即下载自由浏览](https://github.com/greatfire/x/raw/master/freebrowser.apk) 
+
 * 自由浏览是一个非常便捷的安卓端免翻墙浏览器
 * 通过它您可以方便的访问任何在中国被屏蔽的网站
 * 它最大的特点是无需任何配置，即开即用，并且完全免费！
+
+
 
 |![主页](https://github.com/greatfire/xx/raw/master/%E4%B8%BB%E9%A1%B5.png)|![标签](https://github.com/greatfire/xx/raw/master/%E6%A0%87%E7%AD%BE.png)|
 | --- | --- |
@@ -22,8 +26,9 @@
 
 ## 更多的自由-自由有声
 
-![自由有声](https://github.com/greatfire/xx/raw/master/fbs2.png)
+[![自由有声](https://github.com/greatfire/xx/raw/master/fbs2.png)](https://github.com/greatfire/x/raw/master/freebooks.apk)
 
+* [立即下载自由有声](https://github.com/greatfire/x/raw/master/freebooks.apk) 
 * 自由有声是一个便捷的安卓端禁书阅读器
 * 拥有书籍封面、轻量化预览、整合有声书与文字书三大特点
 * 内置书库有*数百本*PDF和有声书
