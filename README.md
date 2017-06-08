@@ -1,12 +1,12 @@
-![自由浏览](https://github.com/gfsupport/wiki/raw/master/fb2.png)
+![自由浏览](https://github.com/greatfire/xx/raw/master/fb2.png)
 
 * 自由浏览是一个非常便捷的安卓端免翻墙浏览器
 * 通过它您可以方便的访问任何在中国被屏蔽的网站
 * 它最大的特点是无需任何配置，即开即用，并且完全免费！
 
-|![主页](https://github.com/gfsupport/wiki/raw/master/%E4%B8%BB%E9%A1%B5.png)|![标签](https://github.com/gfsupport/wiki/raw/master/%E6%A0%87%E7%AD%BE.png)|
+|![主页](https://github.com/greatfire/xx/raw/master/%E4%B8%BB%E9%A1%B5.png)|![标签](https://github.com/greatfire/xx/raw/master/%E6%A0%87%E7%AD%BE.png)|
 | --- | --- |
-|![设置](https://github.com/gfsupport/wiki/raw/master/%E8%AE%BE%E7%BD%AE.png)|![菜单](https://github.com/gfsupport/wiki/raw/master/%E8%8F%9C%E5%8D%95.png)|
+|![设置](https://github.com/greatfire/xx/raw/master/%E8%AE%BE%E7%BD%AE.png)|![菜单](https://github.com/greatfire/xx/raw/master/%E8%8F%9C%E5%8D%95.png)|
 
 
 
@@ -22,16 +22,16 @@
 
 ## 更多的自由-自由有声
 
-![自由有声](https://github.com/gfsupport/wiki/raw/master/fbs2.png)
+![自由有声](https://github.com/greatfire/xx/raw/master/fbs2.png)
 
 * 自由有声是一个便捷的安卓端禁书阅读器
 * 拥有书籍封面、轻量化预览、整合有声书与文字书三大特点
 * 内置书库有*数百本*PDF和有声书
 * 您可以使用它随时随地阅读和分享中国的禁书。
 
-|![1](https://github.com/gfsupport/wiki/raw/master/11.png)|![2](https://github.com/gfsupport/wiki/raw/master/22.png)|
+|![1](https://github.com/greatfire/xx/raw/master/11.png)|![2](https://github.com/greatfire/xx/raw/master/22.png)|
 | --- | --- |
-|![封面](https://github.com/gfsupport/wiki/raw/master/%E5%B0%81%E9%9D%A2.png)|![阅读](https://github.com/gfsupport/wiki/raw/master/%E9%98%85%E8%AF%BB.png)|
+|![封面](https://github.com/greatfire/xx/raw/master/%E5%B0%81%E9%9D%A2.png)|![阅读](https://github.com/greatfire/xx/raw/master/%E9%98%85%E8%AF%BB.png)|
 
 您可以直接点击链接或者扫描下面的二维码下载最新版自由有声：
 
