@@ -62,3 +62,5 @@
 * [泡泡](https://pao-pao.net/) - 未经审查的互联网信息。
 
 ![greatfire-logo](https://github.com/greatfire/x/raw/master/greatfire-logo.png)
+
+[![Analytics](https://ga-beacon.appspot.com/UA-26222920-39/wiki)](https://github.com/igrigorik/ga-beacon)
