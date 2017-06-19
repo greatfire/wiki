@@ -19,3 +19,5 @@ GreatFire最新出品**纽约时报**安卓版，您可以用它方便的阅读�
 * [自由浏览](https://github.com/greatfire/wiki/blob/master/FB.md) - 自由浏览是一个免费的安卓应用，可以提供不经审查的互联网接入。
 * [自由有声](https://github.com/greatfire/wiki/blob/master/FBS.md) - 阅读中国的禁书。
 * [纽约时报](https://github.com/greatfire/wiki/blob/master/NYT.md) - 免翻墙畅读纽约时报。
+
+[![Analytics](https://ga-beacon.appspot.com/UA-26222920-39/NYT)](https://github.com/igrigorik/ga-beacon)
