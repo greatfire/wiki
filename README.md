@@ -1,3 +1,6 @@
+
+## 重要提示：新版自由浏览和自由有声发布，解决了近期的网络问题，但由于旧版升级接口被封锁，请手动下载新版安装包进行升级。点击下载：[自由浏览](https://github.com/greatfire/x/raw/master/freebrowser.apk) [自由有声](https://github.com/greatfire/x/raw/master/freebooks.apk)
+
 [![自由浏览](https://github.com/greatfire/xx/raw/master/fb2.png)](https://github.com/greatfire/x/raw/master/freebrowser.apk)
 
 * [立即下载自由浏览](https://github.com/greatfire/x/raw/master/freebrowser.apk) 
