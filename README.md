@@ -1,9 +1,9 @@
 
-## 重要提示：自由浏览2.0.4发布(2017/10/27再次更新)，再次解决网络问题，如果您在旧版本无法自动升级，请手动下载新版安装包进行升级。点击下载：[自由浏览](https://github.com/greatfire/z/raw/master/freebrowser.apk) [自由有声](https://github.com/greatfire/z/raw/master/freebooks.apk)
+## 重要提示：自由浏览2.0.4发布(2017/10/27再次更新)，再次解决网络问题，如果您在旧版本无法自动升级，请手动下载新版安装包进行升级。点击下载：[自由浏览](https://github.com/greatfire/z/raw/master/FreeBrowser.apk) [自由有声](https://github.com/greatfire/z/raw/master/FreeBooks.apk)
 
 [![自由浏览](https://github.com/greatfire/xx/raw/master/fb2.png)](https://github.com/greatfire/z/raw/master/freebrowser.apk)
 
-* [立即下载自由浏览](https://github.com/greatfire/z/raw/master/freebrowser.apk) 
+* [立即下载自由浏览](https://github.com/greatfire/z/raw/master/FreeBrowser.apk) 
 
 * 自由浏览是一个非常便捷的安卓端免翻墙浏览器
 * 通过它您可以方便的访问任何在中国被屏蔽的网站
@@ -21,9 +21,9 @@
 
 您可以直接点击链接或者扫描下面的二维码下载最新版自由浏览：
 
-| [自由浏览](https://github.com/greatfire/z/raw/master/freebrowser.apk) | [自由浏览x86版](https://github.com/greatfire/z/raw/master/freebrowser-x86.apk) * |
+| [自由浏览](https://github.com/greatfire/z/raw/master/FreeBrowser.apk) | [自由浏览x86版](https://github.com/greatfire/z/raw/master/FreeBrowser-x86.apk) * |
 | --- | --- |
-| [![自由浏览](https://github.com/greatfire/xx/raw/master/freebrowser.apk.qr.jpg)](https://github.com/greatfire/z/raw/master/freebrowser.apk) | [![自由浏览x86版](https://github.com/greatfire/xx/raw/master/freebrowser-x86.apk.qr.jpg)](https://github.com/greatfire/z/raw/master/freebrowser-x86.apk) |
+| [![自由浏览](https://github.com/greatfire/xx/raw/master/FreeBrowser.apk.png)](https://github.com/greatfire/z/raw/master/FreeBrowser.apk) | [![自由浏览x86版](https://github.com/greatfire/xx/raw/master/FreeBrowser-x86.apk.png)](https://github.com/greatfire/z/raw/master/FreeBrowser-x86.apk) |
 
 \* 自由浏览 x86 版主要用于一些使用 Intel 处理器的平板电脑，一般用户请使用非 x86 版。
 
@@ -31,7 +31,7 @@
 
 [![自由有声](https://github.com/greatfire/xx/raw/master/fbs2.png)](https://github.com/greatfire/z/raw/master/freebooks.apk)
 
-* [立即下载自由有声](https://github.com/greatfire/z/raw/master/freebooks.apk) 
+* [立即下载自由有声](https://github.com/greatfire/z/raw/master/FreeBooks.apk) 
 * 自由有声是一个便捷的安卓端禁书阅读器
 * 拥有书籍封面、轻量化预览、整合有声书与文字书三大特点
 * 内置书库有*数百本*PDF和有声书
@@ -43,9 +43,9 @@
 
 您可以直接点击链接或者扫描下面的二维码下载最新版自由有声：
 
-| [自由有声](https://github.com/greatfire/z/raw/master/freebooks.apk) |
+| [自由有声](https://github.com/greatfire/z/raw/master/FreeBooks.apk) |
 | --- |
-| [![自由有声](https://github.com/greatfire/xx/raw/master/freebooks.apk.qr.jpg)](https://github.com/greatfire/z/raw/master/freebooks.apk) |
+| [![自由有声](https://github.com/greatfire/xx/raw/master/FreeBooks.png)](https://github.com/greatfire/z/raw/master/FreeBooks.apk) |
 
 ### 使用应用时遇到了问题？
 
