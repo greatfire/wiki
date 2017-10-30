@@ -45,7 +45,7 @@
 
 | [自由有声](https://github.com/greatfire/z/raw/master/FreeBooks.apk) |
 | --- |
-| [![自由有声](https://github.com/greatfire/xx/raw/master/FreeBooks.png)](https://github.com/greatfire/z/raw/master/FreeBooks.apk) |
+| [![自由有声](https://github.com/greatfire/xx/raw/master/FreeBooks.apk.png)](https://github.com/greatfire/z/raw/master/FreeBooks.apk) |
 
 ### 使用应用时遇到了问题？
 
