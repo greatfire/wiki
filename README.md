@@ -1,6 +1,6 @@
 
-## 重要提示：自由浏览2.0.4发布(2017/10/27再次更新)，再次解决网络问题，如果您在旧版本无法自动升级，请手动下载新版安装包进行升级。点击下载：[自由浏览](https://github.com/greatfire/z/raw/master/FreeBrowser.apk) [自由有声](https://github.com/greatfire/z/raw/master/FreeBooks.apk)
-
+## 重要提示：自由浏览2.0.4发布(2017/10/27更新)，再次解决网络问题，如果您在旧版本无法自动升级，请手动下载新版安装包进行升级。点击下载：[自由浏览](https://github.com/greatfire/z/raw/master/FreeBrowser.apk) [自由有声](https://github.com/greatfire/z/raw/master/FreeBooks.apk)
+### 小米MIUI系统用户请注意：自由浏览会在部分MIUI机型上闪退，请小米用户暂时不要下载使用
 [![自由浏览](https://github.com/greatfire/xx/raw/master/fb2.png)](https://github.com/greatfire/z/raw/master/freebrowser.apk)
 
 * [立即下载自由浏览](https://github.com/greatfire/z/raw/master/FreeBrowser.apk) 
