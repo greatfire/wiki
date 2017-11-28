@@ -2,12 +2,7 @@
 
 [![自由浏览](https://github.com/greatfire/xx/raw/master/fb2.png)](https://github.com/greatfire/x/raw/master/freebrowser.apk)
 
-* [立即下载自由浏览](https://github.com/greatfire/z/raw/master/FreeBrowser.apk) 
-
-* 自由浏览是一个非常便捷的安卓端免翻墙浏览器
-* 通过它您可以方便的访问任何在中国被屏蔽的网站
-* 它最大的特点是无需任何配置，即开即用，并且完全免费！
-
+[立即下载体验自由浏览！](https://github.com/greatfire/z/raw/master/FreeBrowser.apk) 即刻开始，抛弃陈旧的系统浏览器和繁琐的翻墙工具，直接点击就能畅快浏览谷歌、推特、脸书。 
 
 |![主页](https://github.com/greatfire/xx/raw/master/%E4%B8%BB%E9%A1%B5.png)|![标签](https://github.com/greatfire/xx/raw/master/%E6%A0%87%E7%AD%BE.png)|
 | --- | --- |
