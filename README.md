@@ -1,9 +1,14 @@
+<a name="a" href="https://github.com/greatfire/x/raw/master/freebrowser.apk"><img src="https://github.com/greatfire/gifs/blob/master/1511861659.gif?raw=true"></a>
+
+* [立即下载自由浏览](https://github.com/greatfire/z/raw/master/FreeBrowser.apk) 
+
+* 自由浏览是一个非常便捷的安卓端免翻墙浏览器
+* 通过它您可以方便的访问任何在中国被屏蔽的网站
+* 它最大的特点是无需任何配置，即开即用，并且完全免费！
 
 ## 重要提示：自由浏览2.0.4发布(2017/10/27更新)，再次解决网络问题，如果您在旧版本无法自动升级，请手动下载新版安装包进行升级。点击下载：[自由浏览](https://github.com/greatfire/z/raw/master/FreeBrowser.apk) [自由有声](https://github.com/greatfire/z/raw/master/FreeBooks.apk)
 ### 小米MIUI系统用户请注意：自由浏览会在部分MIUI机型上闪退，请小米用户暂时不要下载使用
-[![自由浏览](https://github.com/greatfire/xx/raw/master/fb2.png)](https://github.com/greatfire/z/raw/master/freebrowser.apk)
 
- [立即下载自由浏览](https://github.com/greatfire/z/raw/master/FreeBrowser.apk) 即刻开始，抛弃陈旧的系统浏览器和繁琐的翻墙工具，直接点击就能畅快浏览谷歌、推特、脸书。
 
 |![主页](https://github.com/greatfire/xx/raw/master/%E4%B8%BB%E9%A1%B5.png)|![标签](https://github.com/greatfire/xx/raw/master/%E6%A0%87%E7%AD%BE.png)|
 | --- | --- |
