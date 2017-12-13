@@ -1,9 +1,9 @@
-<a name="a" href="https://github.com/greatfire/x/raw/master/freebrowser.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebrowser-1513124244.gif?raw=true"></a>
+<a name="a" href="https://github.com/greatfire/x/raw/master/FreeBrowser.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebrowser-1513124244.gif?raw=true"></a>
 
-[立即下载自由浏览](https://github.com/greatfire/x/raw/master/freebrowser.apk) 无需翻墙，畅快浏览谷歌、推特、脸书。
-[立即下载自由有声](https://github.com/greatfire/x/raw/master/freebooks.apk) 随时随地阅读中国的禁书，尽在自由有声。
+[立即下载自由浏览](https://github.com/greatfire/x/raw/master/FreeBrowser.apk) 无需翻墙，畅快浏览谷歌、推特、脸书。
+[立即下载自由有声](https://github.com/greatfire/x/raw/master/FreeBooks.apk) 随时随地阅读中国的禁书，尽在自由有声。
 
-<a href="https://github.com/greatfire/x/raw/master/freebooks.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebooks-1513124244.gif?raw=true"></a>
+<a href="https://github.com/greatfire/x/raw/master/FreeBooks.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebooks-1513124244.gif?raw=true"></a>
 
 ### 重要提示：自由浏览2.0.4发布(2017/10/27更新)，如果您在旧版本无法自动升级，请手动下载新版安装包进行升级。
 #### 小米手机用户由于系统bug请暂时不要下载使用。
@@ -19,17 +19,15 @@
 
 您可以直接点击链接或者扫描下面的二维码下载最新版自由浏览：
 
-| [自由浏览](https://github.com/greatfire/z/raw/master/FreeBrowser.apk) | [自由浏览x86版](https://github.com/greatfire/z/raw/master/FreeBrowser-x86.apk) * |
-| --- | --- |
-| [![自由浏览](https://github.com/greatfire/xx/raw/master/FreeBrowser.apk.png)](https://github.com/greatfire/z/raw/master/FreeBrowser.apk) | [![自由浏览x86版](https://github.com/greatfire/xx/raw/master/FreeBrowser-x86.apk.png)](https://github.com/greatfire/z/raw/master/FreeBrowser-x86.apk) |
-
-\* 自由浏览 x86 版主要用于一些使用 Intel 处理器的平板电脑，一般用户请使用非 x86 版。
+| [自由浏览](https://github.com/greatfire/x/raw/master/FreeBrowser.apk) | 
+| --- |
+| [![自由浏览](https://github.com/greatfire/xx/raw/master/FreeBrowser.apk.png)](https://github.com/greatfire/x/raw/master/FreeBrowser.apk)  |
 
 ## 更多的自由-自由有声
 
-[![自由有声](https://github.com/greatfire/xx/raw/master/fbs2.png)](https://github.com/greatfire/z/raw/master/freebooks.apk)
+[![自由有声](https://github.com/greatfire/xx/raw/master/fbs2.png)](https://github.com/greatfire/x/raw/master/FreeBooks.apk)
 
-* [立即下载自由有声](https://github.com/greatfire/z/raw/master/FreeBooks.apk) 
+* [立即下载自由有声](https://github.com/greatfire/x/raw/master/FreeBooks.apk) 
 * 自由有声是一个便捷的安卓端禁书阅读器
 * 拥有书籍封面、轻量化预览、整合有声书与文字书三大特点
 * 内置书库有*数百本*PDF和有声书
@@ -41,9 +39,9 @@
 
 您可以直接点击链接或者扫描下面的二维码下载最新版自由有声：
 
-| [自由有声](https://github.com/greatfire/z/raw/master/FreeBooks.apk) |
+| [自由有声](https://github.com/greatfire/x/raw/master/FreeBooks.apk) |
 | --- |
-| [![自由有声](https://github.com/greatfire/xx/raw/master/FreeBooks.apk.png)](https://github.com/greatfire/z/raw/master/FreeBooks.apk) |
+| [![自由有声](https://github.com/greatfire/xx/raw/master/FreeBooks.apk.png)](https://github.com/greatfire/x/raw/master/FreeBooks.apk) |
 
 ### 使用应用时遇到了问题？
 
