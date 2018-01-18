@@ -1,9 +1,9 @@
-<a name="a" href="https://github.com/greatfire/x/raw/master/FreeBrowser.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebrowser-1516148201.gif?raw=true"></a>
+<a name="a" href="https://github.com/greatfire/x/raw/master/FreeBrowser.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebrowser-1516234588.gif?raw=true"></a>
 
 [立即下载自由浏览](https://github.com/greatfire/x/raw/master/FreeBrowser.apk) 无需翻墙，畅快浏览谷歌、推特、脸书。
 [立即下载自由有声](https://github.com/greatfire/x/raw/master/FreeBooks.apk) 随时随地阅读中国的禁书，尽在自由有声。
 
-<a href="https://github.com/greatfire/x/raw/master/FreeBooks.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebooks-1516148198.gif?raw=true"></a>
+<a href="https://github.com/greatfire/x/raw/master/FreeBooks.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebooks-1516234585.gif?raw=true"></a>
 
 ### 重要提示：自由浏览2.0.5发布(2017/12/12更新)，解决部分小米系统闪退问题，请小米用户及时更新。
 
