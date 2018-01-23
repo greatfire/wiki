@@ -5,7 +5,7 @@
 
 <a href="https://github.com/greatfire/x/raw/master/FreeBooks.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebooks-1516666630.gif?raw=true"></a>
 
-### 重要提示：自由浏览2.0.5发布(2017/12/12更新)，解决部分小米系统闪退问题，请小米用户及时更新。
+### 重要提示：自由浏览2.0.6发布(2018/1/21更新)，新增startpage离线备份。
 
 |![主页](https://github.com/greatfire/xx/raw/master/%E4%B8%BB%E9%A1%B5.png)|![标签](https://github.com/greatfire/xx/raw/master/%E6%A0%87%E7%AD%BE.png)|
 | --- | --- |
