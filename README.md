@@ -1,9 +1,9 @@
-<a name="a" href="https://github.com/greatfire/x/raw/master/FreeBrowser.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebrowser-1517962437.gif?raw=true"></a>
+<a name="a" href="https://github.com/greatfire/x/raw/master/FreeBrowser.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebrowser-1518048944.gif?raw=true"></a>
 
 [立即下载自由浏览](https://github.com/greatfire/x/raw/master/FreeBrowser.apk) 无需翻墙，畅快浏览谷歌、推特、脸书。
 [立即下载自由有声](https://github.com/greatfire/x/raw/master/FreeBooks.apk) 随时随地阅读中国的禁书，尽在自由有声。
 
-<a href="https://github.com/greatfire/x/raw/master/FreeBooks.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebooks-1517962434.gif?raw=true"></a>
+<a href="https://github.com/greatfire/x/raw/master/FreeBooks.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebooks-1518048941.gif?raw=true"></a>
 
 ### 重要提示：自由浏览2.0.6发布(2018/1/21更新)，新增startpage离线备份。
 
