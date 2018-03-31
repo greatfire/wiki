@@ -1,9 +1,9 @@
-<a name="a" href="https://github.com/greatfire/x/raw/master/FreeBrowser.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebrowser-1522369131.gif?raw=true"></a>
+<a name="a" href="https://github.com/greatfire/x/raw/master/FreeBrowser.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebrowser-1522455362.gif?raw=true"></a>
 
 [立即下载自由浏览](https://github.com/greatfire/x/raw/master/FreeBrowser.apk) 无需翻墙，畅快浏览谷歌、推特、脸书。
 [立即下载自由有声](https://github.com/greatfire/x/raw/master/FreeBooks.apk) 随时随地阅读中国的禁书，尽在自由有声。
 
-<a href="https://github.com/greatfire/x/raw/master/FreeBooks.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebooks-1522369129.gif?raw=true"></a>
+<a href="https://github.com/greatfire/x/raw/master/FreeBooks.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebooks-1522455359.gif?raw=true"></a>
 
 ### 重要提示：自由浏览3.0发布(2018/3/15更新)，修复无法连接节点，部分Android 8.0设备闪退问题。
 
