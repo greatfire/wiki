@@ -5,7 +5,7 @@
 
 <a href="https://github.com/greatfire/x/raw/master/FreeBooks.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebooks-1524274197.gif?raw=true"></a>
 
-### 重要提示：自由浏览3.0发布(2018/3/15更新)，修复无法连接节点，部分Android 8.0设备闪退问题。
+### 重要提示：自由浏览3.0.2发布(2018/4/21更新)，增加更多备份连接方式。
 
 |![主页](https://github.com/greatfire/xx/raw/master/%E4%B8%BB%E9%A1%B5.png)|![标签](https://github.com/greatfire/xx/raw/master/%E6%A0%87%E7%AD%BE.png)|
 | --- | --- |
