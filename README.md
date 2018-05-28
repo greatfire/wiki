@@ -5,7 +5,7 @@
 
 <a href="https://github.com/greatfire/x/raw/master/FreeBooks.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebooks-1524616152.gif?raw=true"></a>
 
-### 重要提示：自由浏览3.0.2发布(2018/4/21更新)，增加更多备份连接方式。
+### 重要提示：自由浏览3.0.3发布(2018/5/24更新)，修复Google图片搜索，视频播放。
 
 |![主页](https://github.com/greatfire/xx/raw/master/%E4%B8%BB%E9%A1%B5.png)|![标签](https://github.com/greatfire/xx/raw/master/%E6%A0%87%E7%AD%BE.png)|
 | --- | --- |
