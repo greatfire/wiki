@@ -1,4 +1,4 @@
-<a name="a" href="https://github.com/greatfire/x/raw/master/FreeBrowser.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebrowser-1564358975.gif?raw=true"></a>
+<a name="a" href="https://github.com/greatfire/x/raw/master/FreeBrowser.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebrowser-1566279302.gif?raw=true"></a>
 
 [立即下载自由浏览](https://github.com/greatfire/x/raw/master/FreeBrowser.apk) 无需翻墙，畅快浏览谷歌、推特、脸书。
 
