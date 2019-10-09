@@ -1,6 +1,7 @@
 <a name="a" href="https://github.com/greatfire/x/raw/master/FreeBrowser.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebrowser-1570579418.gif?raw=true"></a>
 
-[立即下载自由浏览](https://github.com/greatfire/x/raw/master/FreeBrowser.apk) 无需翻墙，畅快浏览谷歌、推特、脸书。
+![主页](https://github.com/greatfire/xx/raw/master/logo.png) 
+[立即下载自由浏览](https://github.com/greatfire/x/raw/master/FreeBrowser.apk) 即刻开始，抛弃陈旧的系统浏览器和繁琐的翻墙工具，直接点击就能畅快浏览谷歌、推特、脸书。 立即下载体验基于Google Chrome开发的自由浏览！
 
 ### 重要提示：自由浏览3.2.4发布(2019/9/23更新)，改善启动速度，无法自动升级的用户请手动下载安装包。
 
