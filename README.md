@@ -4,9 +4,9 @@
 
 ### 重要提示：自由浏览3.2.4发布(2019/9/23更新)，改善启动速度，无法自动升级的用户请手动下载安装包。
 
-|![主页](https://github.com/greatfire/xx/raw/master/%E4%B8%BB%E9%A1%B5.png)|![标签](https://github.com/greatfire/xx/raw/master/%E6%A0%87%E7%AD%BE.png)|
+|![主页](https://github.com/greatfire/xx/raw/master/home.jpg)|![标签](https://github.com/greatfire/xx/raw/master/loading.jpg)|
 | --- | --- |
-|![设置](https://github.com/greatfire/xx/raw/master/%E8%AE%BE%E7%BD%AE.png)|![菜单](https://github.com/greatfire/xx/raw/master/%E8%8F%9C%E5%8D%95.png)|
+|![设置](https://github.com/greatfire/xx/raw/master/google.jpg)|![菜单](https://github.com/greatfire/xx/raw/master/youtube.jpg)|
 
 
 
