@@ -1,4 +1,4 @@
-<a name="a" href="https://github.com/greatfire/x/raw/master/FreeBrowser.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebrowser-1574122018.gif?raw=true"></a>
+<a name="a" href="https://github.com/greatfire/x/raw/master/FreeBrowser.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebrowser-1574208352.gif?raw=true"></a>
 
 ![主页](https://github.com/greatfire/xx/raw/master/logo.png) 
 
