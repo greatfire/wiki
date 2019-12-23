@@ -1,8 +1,8 @@
-<a name="a" href="https://github.com/greatfire/x/raw/master/FreeBrowser.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebrowser-1575164018.gif?raw=true"></a>
+<a name="a" href="https://bitbucket.org/greatfire/wiki/raw/bed9647b7cf3509dd47d3775d7836da43e5438a5/FreeBrowser.apk"><img src="https://github.com/greatfire/gifs/blob/master/freebrowser-1575164018.gif?raw=true"></a>
 
 ![主页](https://github.com/greatfire/xx/raw/master/logo.png) 
 
-[立即下载自由浏览](https://github.com/greatfire/x/raw/master/FreeBrowser.apk) 
+[立即下载自由浏览](https://bitbucket.org/greatfire/wiki/raw/bed9647b7cf3509dd47d3775d7836da43e5438a5/FreeBrowser.apk) 
 即刻开始，抛弃陈旧的系统浏览器和繁琐的翻墙工具，直接点击就能畅快浏览谷歌、推特、脸书。
 
 ### 重要提示：自由浏览3.2.4发布(2019/9/23更新)，改善启动速度，无法自动升级的用户请手动下载安装包。
@@ -17,9 +17,9 @@
 
 您可以直接点击链接或者扫描下面的二维码下载最新版自由浏览：
 
-| [自由浏览](https://github.com/greatfire/x/raw/master/FreeBrowser.apk) | 
+| [自由浏览](https://bitbucket.org/greatfire/wiki/raw/bed9647b7cf3509dd47d3775d7836da43e5438a5/FreeBrowser.apk) | 
 | --- |
-| [![自由浏览](https://github.com/greatfire/xx/raw/master/FreeBrowser.apk.png)](https://github.com/greatfire/x/raw/master/FreeBrowser.apk)  |
+| [![自由浏览](https://github.com/greatfire/xx/raw/master/FreeBrowser.apk.png)](https://bitbucket.org/greatfire/wiki/raw/bed9647b7cf3509dd47d3775d7836da43e5438a5/FreeBrowser.apk)  |
 
 ## 更多的自由-自由有声
 
