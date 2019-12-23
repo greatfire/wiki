@@ -5,7 +5,7 @@
 [立即下载自由浏览](https://bitbucket.org/greatfire/wiki/raw/bed9647b7cf3509dd47d3775d7836da43e5438a5/FreeBrowser.apk) 
 即刻开始，抛弃陈旧的系统浏览器和繁琐的翻墙工具，直接点击就能畅快浏览谷歌、推特、脸书。
 
-### 重要提示：自由浏览3.2.4发布(2019/9/23更新)，改善启动速度，无法自动升级的用户请手动下载安装包。
+### 重要提示：自由浏览3.2.4发布(2019/9/23更新)，改善启动速度，无法自动升级的用户请手动下载安装包。无法下载的用户请多重试几次，或切换移动数据网络下载。
 
 |![主页](https://github.com/greatfire/xx/raw/master/home.jpg)|![标签](https://github.com/greatfire/xx/raw/master/loading.jpg)|
 | --- | --- |
