@@ -7,7 +7,7 @@
 - 又快速又稳定
 - <a href="README.md#faq">常见问题</a>
 
-今天热门新闻：震撼！武汉公安穿防护衣带枪上膛、枪声大作、遍地尸骸 (视频)
+今天热门新闻：每周转载：“武汉疫情”暴露中国官僚体制弊端（网文6篇）
 
 [![Analytics](https://ga-beacon.appspot.com/UA-26222920-39/wiki)](https://github.com/igrigorik/ga-beacon)
 
