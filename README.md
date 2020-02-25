@@ -1,4 +1,4 @@
-<a href="https://bitbucket.org/greatfire/wiki/raw/master/FreeBrowser.apk" name="a"><img align="left" src="https://bitbucket.org/greatfire/test/raw/861296f1a313e654e12b1a47ea7be9954397883a/qr.png"></a>
+<a href="https://bitbucket.org/greatfire/wiki/raw/master/FreeBrowser.apk" name="a"><img align="left" src="https://bitbucket.org/greatfire/test/raw/master/qr2.png"></a>
 
 <strong>自由浏览</strong>是一个便捷的免翻墙安卓浏览器。即刻开始，抛弃陈旧的系统浏览器和繁琐的翻墙工具，直接点击就能畅快浏览谷歌、推特、脸书。<a href="https://bitbucket.org/greatfire/wiki/raw/master/FreeBrowser.apk">立即下载</a>。
 
