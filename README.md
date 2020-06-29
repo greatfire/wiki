@@ -1,10 +1,14 @@
-<a href="https://bitbucket.org/greatfire/wiki/raw/master/FreeBrowser.apk" name="a"><img src="https://bitbucket.org/greatfire/wiki/raw/master/wiki.png"></a>
+![top](./top.png)
+[![download1](./left.png)](https://github.com/greatfire/x/raw/master/FreeBrowser.apk)
+[![download2](./right.png)](https://bitbucket.org/greatfire/wiki/raw/master/FreeBrowser.apk)
+![bottom](./bottom.png)
+
 
 [![Analytics](https://ga-beacon.appspot.com/UA-26222920-39/wiki)](https://github.com/igrigorik/ga-beacon)
 
 <a href="https://bitbucket.org/greatfire/wiki/raw/master/FreeBrowser.apk"><img src="https://bitbucket.org/greatfire/test/raw/master/qr2.png" align="left"></a>
 
-<strong>自由浏览</strong>是一个便捷的免翻墙安卓浏览器。即刻开始，抛弃陈旧的系统浏览器和繁琐的翻墙工具，直接点击就能畅快浏览谷歌、推特、脸书。<a href="https://bitbucket.org/greatfire/wiki/raw/master/FreeBrowser.apk">立即下载</a>。
+<strong>自由浏览</strong>是一个便捷的免翻墙安卓浏览器。即刻开始，抛弃陈旧的系统浏览器和繁琐的翻墙工具，直接点击就能畅快浏览谷歌、推特、脸书。<a href="https://bitbucket.org/greatfire/wiki/raw/master/FreeBrowser.apk">立即下载</a> <a href="https://github.com/greatfire/x/raw/master/FreeBrowser.apk">备用下载</a>。
 
 - 完全免费
 - 即开即用
